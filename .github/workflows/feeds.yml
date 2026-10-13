@@ -2,7 +2,7 @@ name: Build RSS feeds
 
 on:
   schedule:
-    - cron: "3-59/10 * * * *"   # every 10 minutes (:03, :13, :23...), off the busy top of the hour
+    - cron: "3,13,23,33,43,53 * * * *"   # every 10 minutes, off the busy top of the hour
   workflow_dispatch:             # adds a "Run workflow" button
   push:
     paths: ["sites.yaml", "scrape.py"]
