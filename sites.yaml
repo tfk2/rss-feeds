@@ -25,6 +25,8 @@ sites:
     title: Wareable
     urls:
       - https://www.wareable.com/tag/news          # the main news stream
+      - https://www.wareable.com/tag/reviews       # live reviews (category/reviews is stale)
+      - https://www.wareable.com/tag/features      # interviews, guides and analysis
       - https://www.wareable.com/category/news
       - https://www.wareable.com/category/reviews
       - https://www.wareable.com/category/smartwatches
