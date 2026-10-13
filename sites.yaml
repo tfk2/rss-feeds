@@ -1,0 +1,42 @@
+# One entry per feed. Each becomes docs/<slug>.xml on your GitHub Pages site,
+# e.g. https://YOURNAME.github.io/rss-feeds/wareable.xml
+#
+# Simple mode (works for most news listing pages):
+#   headline:     CSS selector for each story's headline. It must contain the link.
+#   date_format:  how the page writes dates, in Python strptime codes. Optional.
+#
+# Precise mode (use if simple mode picks up the wrong text):
+#   item:         CSS selector for each story block
+#   title:        selector inside the block for the headline link
+#   excerpt:      selector inside the block for the summary
+#   date:         selector inside the block for the date (optional)
+#
+# Optional extras for any site:
+#   fetch_articles: false   don't open articles (no featured image or first paragraph)
+#   article_body:   CSS selector for the article text, if the first paragraph comes out wrong
+#   max_items:      stories kept in the feed (default 50)
+
+# One page per feed: use   url: https://...
+# Several pages merged into one feed: use   urls:   with a list (see wareable below).
+# Duplicates are removed and stories are sorted newest first.
+
+sites:
+  - slug: wareable
+    title: Wareable
+    urls:
+      - https://www.wareable.com/category/news
+      - https://www.wareable.com/category/reviews
+      - https://www.wareable.com/category/smartwatches
+      - https://www.wareable.com/category/garmin
+      - https://www.wareable.com/category/wearable-tech
+      - https://www.wareable.com/category/ar
+      - https://www.wareable.com/tag/research
+    headline: h3
+    date_format: "%B %d, %Y"      # October 12, 2026
+
+  # Example of a second site. Remove the # marks and edit to switch it on.
+  # - slug: another-site
+  #   title: Another Site - News
+  #   url: https://www.example.com/news
+  #   headline: h2
+  #   date_format: "%d %B %Y"     # 12 October 2026

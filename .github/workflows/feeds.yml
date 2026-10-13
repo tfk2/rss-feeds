@@ -1,0 +1,57 @@
+name: Build RSS feeds
+
+on:
+  schedule:
+    - cron: "3-59/10 * * * *"   # every 10 minutes (:03, :13, :23...), off the busy top of the hour
+  workflow_dispatch:             # adds a "Run workflow" button
+  push:
+    paths: ["sites.yaml", "scrape.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feeds          # never run two builds at once
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/workflows/feeds.yml
+      - run: pip install requests beautifulsoup4 pyyaml
+      - run: python scrape.py
+      - name: Save changed feeds
+        id: save
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs cache
+          if git diff --cached --quiet; then
+            echo "changed=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Update feeds"
+          git push
+          echo "changed=$(git diff --name-only HEAD~1 HEAD -- 'docs/*.xml' | xargs)" >> "$GITHUB_OUTPUT"
+      - name: Tell Inoreader there are new stories
+        if: steps.save.outputs.changed != ''
+        run: |
+          sleep 75   # give GitHub Pages time to publish the new version first
+          owner="${GITHUB_REPOSITORY%%/*}"; repo="${GITHUB_REPOSITORY#*/}"
+          base="https://${owner,,}.github.io/${repo}/"
+          [ "${repo,,}" = "${owner,,}.github.io" ] && base="https://${owner,,}.github.io/"
+          for f in ${{ steps.save.outputs.changed }}; do
+            url="${base}$(basename "$f")"
+            curl -s -o /dev/null -w "ping $url -> %{http_code}\n" \
+              -d hub.mode=publish --data-urlencode "hub.url=$url" \
+              https://pubsubhubbub.appspot.com/ || true
+          done
