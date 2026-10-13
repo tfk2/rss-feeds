@@ -69,7 +69,8 @@ def simple_mode(soup, site):
     heads = soup.select(sel)
     head_ids = {id(h) for h in heads}
     for head in heads:
-        a = head if head.name == "a" else head.find("a", href=True)
+        # The link can sit inside the headline (<h3><a>) or wrap it (<a><h3>).
+        a = head if head.name == "a" else (head.find("a", href=True) or head.find_parent("a", href=True))
         if not a or not a.get("href"):
             continue
         title = clean(a.get_text())
@@ -93,9 +94,9 @@ def simple_mode(soup, site):
 def precise_mode(soup, site):
     items = []
     for block in soup.select(site["item"]):
-        a = block.select_one(site["title"])
+        a = block.select_one(site["item_title"])
         if a and a.name != "a":
-            a = a.find("a", href=True) or a
+            a = a.find("a", href=True) or a.find_parent("a", href=True) or a
         if not a or not a.get("href"):
             continue
         ex = block.select_one(site["excerpt"]) if site.get("excerpt") else None
