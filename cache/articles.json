@@ -127,10 +127,6 @@
   "image": "https://media.wareable.com/images/750w/2026/08/smartwatch-analysis.jpg",
   "para": "We analyzed 6,372 used smartwatch sales on eBay US and found that—depending on the brand and model—devices lose 24% to 60% of their original value after just six months."
  },
- "https://www.wareable.com/running/peloton-tread-flex-vision-plus-treadmills-announcement-launch-availability-details-price": {
-  "image": "https://media.wareable.com/images/featured-big/2026/09/peloton-treadmills-fall-2026-launch.jpg",
-  "para": "Peloton has announced a sweeping overhaul of its treadmill portfolio, introducing three new hardware models alongside an expanded suite of AI-driven coaching features powered by Peloton IQ."
- },
  "https://www.wareable.com/smartwatches/energy-crashed-as-days-got-shorter-these-5-fitness-tracker-metrics-explained-why": {
   "image": "https://media.wareable.com/images/featured-big/2026/09/Fitbit-Charge-6-on-wrist.jpg",
   "para": "By the third dark Monday of autumn, I had started blaming the season for everything. I was slower in the morning, less interested in evening exercise, and ready for bed before I had finished dinner. Convinced that something was wrong, I turned to my fitness tracker for answers."
@@ -198,5 +194,9 @@
  "https://www.wareable.com/wearable-tech/ultrahuman-ring-pro-review": {
   "image": "https://media.wareable.com/images/featured-big/2026/09/ultrahuman-ring-pro-hero.jpg",
   "para": "Oura may be the name most synonymous with smart rings, but its mandatory subscription has left a clear opening for no-fee competitors riding the same tidal wave of interest. At the front of the chasing pack is Ultrahuman."
+ },
+ "https://www.wareable.com/wearable-tech/whoop-patent-fit-monitoring-haptic-vibration-explained": {
+  "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
+  "para": "In a patent filing in the United States, Whoop explains a system that would measure the tightness of the device when worn on multiple areas of the body, and report back with findings on necessary adjustments."
  }
 }
