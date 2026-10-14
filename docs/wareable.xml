@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/wareable.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Samsung update brings faster Sleep Coaching and Strava integration to Galaxy Watch</title>
+<link>https://www.wareable.com/samsung/samsung-health-update-strava-routes-expanded-running-coach-sleep-coaching</link>
+<guid isPermaLink="true">https://www.wareable.com/samsung/samsung-health-update-strava-routes-expanded-running-coach-sleep-coaching</guid>
+<description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2026/10/samsung-health-update-october-2026.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung has announced a major update to its Health app, lowering the barrier to entry for its Sleep Coaching program while adding deeper Strava routing and expanded training tiers for runners.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Previously requiring seven days of tracked sleep logged within a month to get started, Samsung Health v.6.24 lets users start Sleep Coaching with just three days of data collected over a two-week window.&lt;/p&gt;</description>
+<media:content url="https://media.wareable.com/images/featured-big/2026/10/samsung-health-update-october-2026.jpg" medium="image"/>
+<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Whoop’s plans for fit monitoring could solve wearable tech’s biggest problem</title>
 <link>https://www.wareable.com/wearable-tech/whoop-patent-fit-monitoring-haptic-vibration-explained</link>
 <guid isPermaLink="true">https://www.wareable.com/wearable-tech/whoop-patent-fit-monitoring-haptic-vibration-explained</guid>
@@ -270,14 +278,6 @@
 <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The Beats 360 headphones arrive with interchangeable cushions for workouts</title>
-<link>https://www.wareable.com/wearable-tech/beats-360-over-ear-headphones-ip-rating-interchangeable-workout-cushions-price</link>
-<guid isPermaLink="true">https://www.wareable.com/wearable-tech/beats-360-over-ear-headphones-ip-rating-interchangeable-workout-cushions-price</guid>
-<description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2026/09/beats-360-gym.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Beats has officially unveiled the Beats 360, a new flagship pair of over-ear headphones that introduces modular physical customization to the brand's audio lineup.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Retailing at $349.99 / £299.95 and available now, the Beats 360 features interchangeable magnetic ear and headband cushions, allowing wearers to swap cushion materials and colors to suit different workouts, travel, or style preferences.&lt;/p&gt;</description>
-<media:content url="https://media.wareable.com/images/featured-big/2026/09/beats-360-gym.jpg" medium="image"/>
-<pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Hume Health wants its new smart scale to tell you more about your body</title>
 <link>https://www.wareable.com/health-tech/hume-health-body-pod-2-0-review</link>
 <guid isPermaLink="true">https://www.wareable.com/health-tech/hume-health-body-pod-2-0-review</guid>
@@ -299,6 +299,14 @@
 <guid isPermaLink="true">https://www.wareable.com/garmin/garmin-venu-4-fall-detection-ok-voice-controls-these-watches-september-update</guid>
 <description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2026/09/garmin-september-feature-update-2026.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Garmin has announced a major wave of free software and feature updates across its smartwatch and cycling computer lineups, introducing new safety tools, voice interaction options, and adaptive training features.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The update brings fall detection to the Garmin Venu 4 smartwatch for the first time. Some premium devices from the brand already offer fall detection during workouts; however, the Venu 4 now lets users enable fall detection for all-day monitoring, too.&lt;/p&gt;</description>
 <media:content url="https://media.wareable.com/images/featured-big/2026/09/garmin-september-feature-update-2026.jpg" medium="image"/>
+<pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Beats 360 headphones arrive with interchangeable cushions for workouts</title>
+<link>https://www.wareable.com/wearable-tech/beats-360-over-ear-headphones-ip-rating-interchangeable-workout-cushions-price</link>
+<guid isPermaLink="true">https://www.wareable.com/wearable-tech/beats-360-over-ear-headphones-ip-rating-interchangeable-workout-cushions-price</guid>
+<description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2026/09/beats-360-gym.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Beats has officially unveiled the Beats 360, a new flagship pair of over-ear headphones that introduces modular physical customization to the brand's audio lineup.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Retailing at $349.99 / £299.95 and available now, the Beats 360 features interchangeable magnetic ear and headband cushions, allowing wearers to swap cushion materials and colors to suit different workouts, travel, or style preferences.&lt;/p&gt;</description>
+<media:content url="https://media.wareable.com/images/featured-big/2026/09/beats-360-gym.jpg" medium="image"/>
 <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -396,13 +404,5 @@
 <description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2025/05/ultrahuman-ring-air-coffee-cup.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Patent filing tips AI-driven update to assess fall risk before it happens&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultrahuman may bring fall detection—and, more significantly, fall risk assessment—to current or future smart ring models, as detailed in a recently uncovered patent.&lt;/p&gt;</description>
 <media:content url="https://media.wareable.com/images/featured-big/2025/05/ultrahuman-ring-air-coffee-cup.jpg" medium="image"/>
 <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Apple watchOS 27 is available now: Full device compatibility and the 10 biggest upgrades</title>
-<link>https://www.wareable.com/apple/apple-watchos-27-announcement-new-features-wwdc-siri-intelligence</link>
-<guid isPermaLink="true">https://www.wareable.com/apple/apple-watchos-27-announcement-new-features-wwdc-siri-intelligence</guid>
-<description>&lt;p&gt;&lt;img src="https://media.wareable.com/images/featured-big/2026/06/apple-watchos-27-composite.jpg" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Siri AI, Readiness insights, and Audio Intelligence headline watchOS 27—discover what else is new&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Apple's watchOS 27 is now officially available to download for Apple Watch users worldwide.&lt;/p&gt;</description>
-<media:content url="https://media.wareable.com/images/featured-big/2026/06/apple-watchos-27-composite.jpg" medium="image"/>
-<pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>

@@ -3,10 +3,6 @@
   "image": "https://media.wareable.com/images/750w/2026/10/Apple-fall-detection.jpg",
   "para": "A recent patent filing suggests Apple is refining Fall Detection by analyzing how a user moves before and after a suspected fall"
  },
- "https://www.wareable.com/apple/apple-watchos-27-announcement-new-features-wwdc-siri-intelligence": {
-  "image": "https://media.wareable.com/images/featured-big/2026/06/apple-watchos-27-composite.jpg",
-  "para": "Apple's watchOS 27 is now officially available to download for Apple Watch users worldwide."
- },
  "https://www.wareable.com/fashion/best-smart-rings-1340": {
   "image": "https://media.wareable.com/images/featured-big/2025/01/best-smart-rings.jpg",
   "para": "Smart rings represent the most exciting and fastest-moving area of wearables, with the top options offering accurate health tracking, sleep monitoring, and stress insights."
@@ -130,6 +126,10 @@
  "https://www.wareable.com/news/report-smartwatches-lose-up-to-60-of-value-in-6-months": {
   "image": "https://media.wareable.com/images/750w/2026/08/smartwatch-analysis.jpg",
   "para": "We analyzed 6,372 used smartwatch sales on eBay US and found that—depending on the brand and model—devices lose 24% to 60% of their original value after just six months."
+ },
+ "https://www.wareable.com/samsung/samsung-health-update-strava-routes-expanded-running-coach-sleep-coaching": {
+  "image": "https://media.wareable.com/images/featured-big/2026/10/samsung-health-update-october-2026.jpg",
+  "para": "Previously requiring seven days of tracked sleep logged within a month to get started, Samsung Health v.6.24 lets users start Sleep Coaching with just three days of data collected over a two-week window."
  },
  "https://www.wareable.com/smartwatches/energy-crashed-as-days-got-shorter-these-5-fitness-tracker-metrics-explained-why": {
   "image": "https://media.wareable.com/images/featured-big/2026/09/Fitbit-Charge-6-on-wrist.jpg",
