@@ -1,0 +1,71 @@
+{
+ "Wareable": {
+  "ok": true,
+  "items": 50,
+  "kept": 10
+ },
+ "DC Rainmaker": {
+  "ok": true,
+  "items": 8,
+  "kept": 2
+ },
+ "Garmin Rumors": {
+  "ok": true,
+  "items": 12,
+  "kept": 11
+ },
+ "Gadgets & Wearables": {
+  "ok": true,
+  "items": 10,
+  "kept": 10
+ },
+ "Zwift Insider": {
+  "ok": true,
+  "items": 10,
+  "kept": 5
+ },
+ "Bikerumor": {
+  "ok": true,
+  "items": 10,
+  "kept": 0
+ },
+ "road.cc": {
+  "ok": true,
+  "items": 25,
+  "kept": 1
+ },
+ "Cycling Weekly": {
+  "ok": true,
+  "items": 50,
+  "kept": 2
+ },
+ "Android Central": {
+  "ok": true,
+  "items": 50,
+  "kept": 3
+ },
+ "Notebookcheck": {
+  "ok": false,
+  "error": "404 Client Error: Not Found for url: https://www.notebookcheck.net/RSS-Feed-Notebook-Reviews.8157.0.html"
+ },
+ "Pocket-lint": {
+  "ok": true,
+  "items": 10,
+  "kept": 1
+ },
+ "TechRadar": {
+  "ok": true,
+  "items": 50,
+  "kept": 1
+ },
+ "Tom's Guide": {
+  "ok": true,
+  "items": 50,
+  "kept": 0
+ },
+ "The Verge": {
+  "ok": true,
+  "items": 10,
+  "kept": 0
+ }
+}
