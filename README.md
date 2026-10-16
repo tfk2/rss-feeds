@@ -49,3 +49,14 @@ GitHub switches off scheduled workflows in a public repository after 60 days wit
 ## When something breaks
 
 Sites redesign. If a feed stops updating, open **Actions** and look at the latest run. A line starting `FAIL` names the site and the reason. Usually the fix is a new `headline` selector. Some sites block GitHub's servers outright, and those can't be fetched this way.
+
+## Competitor watch list
+
+`watch.py` runs after `scrape.py`. It reads every source in `watch.yaml` (the feeds built here plus competitors' own RSS feeds or WordPress REST APIs), keeps only stories on watches, bike computers, sports earphones, other wearables and sports software, and drops reviews, buyer's guides and deals. The result is published as:
+
+- `docs/watch.json`, read by the5krunner's hourly "Just the Facts" task
+- `docs/watch.xml`, the same list as one RSS feed for Inoreader
+
+Each story records `first_seen`, the time this repo first saw it, so a site that prints only the date still gets a usable time. Stories stay in the list for `keep_days` (7 by default), even after they roll off a busy site's own feed.
+
+To add a competitor, add one line under `sources:` in `watch.yaml`. To widen or narrow what counts as on-topic, edit the `topics` and `exclude` patterns. A source that fails shows as `FAIL` in the Actions log and the rest carry on.

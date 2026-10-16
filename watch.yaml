@@ -1,0 +1,68 @@
+# Competitor watch list for the5krunner's "Just the Facts" briefs.
+# watch.py reads every source below, keeps only stories on the topics further down,
+# and writes one merged list to docs/watch.json (for Claude) and docs/watch.xml (for Inoreader).
+#
+# Each source:
+#   name:  shown in the list
+#   home:  the site's homepage (used for the nofollow credit line)
+#   type:  rss    an existing RSS or Atom feed at url
+#          wp     a WordPress REST API, url is the site root (e.g. https://example.com)
+#          local  a feed this repo builds itself from sites.yaml, url is docs/<slug>.xml
+#   filter: false  keep every story (only for sites that cover nothing but our topics)
+#
+# A source that fails is logged as FAIL in the Actions run and the others carry on.
+
+keep_days: 7          # stories older than this drop out of watch.json
+
+sources:
+  # Specialist sites
+  - {name: Wareable, home: https://www.wareable.com/, type: local, url: docs/wareable.xml}
+  - {name: DC Rainmaker, home: https://www.dcrainmaker.com/, type: rss, url: https://www.dcrainmaker.com/feed/}
+  - {name: Garmin Rumors, home: https://garminrumors.com/, type: rss, url: https://garminrumors.com/feed/}
+  - {name: Gadgets & Wearables, home: https://gadgetsandwearables.com/, type: rss, url: https://gadgetsandwearables.com/feed/}
+  - {name: Zwift Insider, home: https://zwiftinsider.com/, type: rss, url: https://zwiftinsider.com/feed/}
+
+  # Cycling
+  - {name: Bikerumor, home: https://bikerumor.com/, type: rss, url: https://bikerumor.com/feed/}
+  - {name: road.cc, home: https://road.cc/, type: rss, url: https://road.cc/rss}
+  - {name: Cycling Weekly, home: https://www.cyclingweekly.com/, type: rss, url: https://www.cyclingweekly.com/feeds.xml}
+
+  # Generalist tech sites (heavily filtered)
+  - {name: Android Central, home: https://www.androidcentral.com/, type: rss, url: https://www.androidcentral.com/feeds/all}
+  - {name: Notebookcheck, home: https://www.notebookcheck.net/, type: rss, url: https://www.notebookcheck.net/RSS-Feed-Notebook-News.8157.0.html}
+  - {name: Pocket-lint, home: https://www.pocket-lint.com/, type: rss, url: https://www.pocket-lint.com/feed/}
+  - {name: TechRadar, home: https://www.techradar.com/, type: rss, url: https://www.techradar.com/feeds.xml}
+  - {name: Tom's Guide, home: https://www.tomsguide.com/, type: rss, url: https://www.tomsguide.com/feeds.xml}
+  - {name: The Verge, home: https://www.theverge.com/, type: rss, url: https://www.theverge.com/rss/index.xml}
+
+# A story is kept when its title or excerpt matches any topic pattern (case-insensitive
+# regular expressions, whole words) and matches none of the exclude patterns.
+topics:
+  watches: >-
+    garmin|fenix|forerunner|epix|enduro|instinct|venu|vivoactive|marq|coros|suunto|polar|
+    apple watch|watchos|wear ?os|galaxy watch|pixel watch|fitbit|amazfit|zepp|huawei watch|
+    xiaomi (?:watch|band)|smart ?watch(?:es)?|running watch(?:es)?|gps watch(?:es)?|
+    sports? watch(?:es)?|multisport watch(?:es)?|triathlon watch(?:es)?
+  cycling_computers: >-
+    wahoo|elemnt|kickr|hammerhead|karoo|bryton|igpsport|edge \d{3,4}|bike computers?|
+    cycling computers?|power ?meters?|favero|assioma|4iiii|stages cycling|sram axs|
+    smart trainers?|tacx|tickr
+  sports_earphones: >-
+    shokz|openrun|openswim|openfit|powerbeats|beats fit|airpods|jabra elite|bone[- ]conduction|
+    open[- ]ear|(?:running|sports?|workout|gym) (?:earbuds|headphones)
+  other_wearables: >-
+    whoop|oura|ultrahuman|ringconn|smart ?rings?|fitness trackers?|heart rate monitors?|
+    chest straps?|\bhrm\b|stryd|muscle oxygen|cgm|glucose monitor|recovery tracker|
+    blood pressure watch|wearables?
+  sports_software: >-
+    strava|trainingpeaks|training ?peaks|zwift|runna|komoot|intervals\.icu|rouvy|mywhoosh|
+    trainerroad|final surge|connect iq|garmin connect|apple fitness|apple health|health ?kit|
+    samsung health|polar flow|suunto app|coros app|nike run club|ladder app|peloton
+
+# Exclude is checked against the title of every story, even from unfiltered sources.
+# Reviews, buyer's guides and comparisons are not news, so they are left out too.
+exclude: >-
+    ^best\b|\breview\b|hands-on|tested and compared|\bvs\.?\b|\bversus\b|
+    \bdeals?\b|% off|\bsave (?:\$|£|up to)|price cut|price drop|lowest price|cheapest|
+    black friday|cyber monday|prime day|coupon|promo code|\bsale\b|giveaway|\bquiz\b|wordle|
+    connections hint|horoscope
