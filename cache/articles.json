@@ -3,6 +3,10 @@
   "image": "https://media.wareable.com/images/750w/2026/10/Apple-fall-detection.jpg",
   "para": "A recent patent filing suggests Apple is refining Fall Detection by analyzing how a user moves before and after a suspected fall"
  },
+ "https://www.wareable.com/apple/apple-patent-details-multi-wearable-sensor-fusion-for-improved-health-tracking": {
+  "image": "https://media.wareable.com/images/featured-big/2026/10/apple-watch-and-airpods-health-tracking.jpg",
+  "para": "Apple may be working to make wearable health tracking more accurate by having several devices check the same signal at the same time."
+ },
  "https://www.wareable.com/ar/future-apple-smart-glasses-may-auto-detect-your-prescription-lenses": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/smart-glasses.jpg",
   "para": "Apple is exploring a smart glasses feature that uses reflected light patterns to identify attached prescription lenses and automatically adjust visual displays to match."
@@ -63,17 +67,9 @@
   "image": "https://media.wareable.com/images/featured-big/2026/09/garmin-september-feature-update-2026.jpg",
   "para": "The update brings fall detection to the Garmin Venu 4 smartwatch for the first time. Some premium devices from the brand already offer fall detection during workouts; however, the Venu 4 now lets users enable fall detection for all-day monitoring, too."
  },
- "https://www.wareable.com/health-and-wellbeing/ultrahuman-healthex-powerplug-medical-records-syncing-available-announcement": {
-  "image": "https://media.wareable.com/images/featured-big/2026/09/healthex-ultrahuman.jpg",
-  "para": "Smart ring challenger Ultrahuman has launched the HealthEx PowerPlug, a new update within its companion app that integrates a user's full electronic medical records directly alongside continuous biometric tracking from devices like the Ultrahuman Ring Pro."
- },
  "https://www.wareable.com/health-tech/best-noise-cancelling-earbuds-for-sleeping": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/Best-noise-canceling-earbuds-for-sleeping.png",
   "para": "If you have ever fallen asleep with your AirPods, you know how painful it can be when they press against your ears overnight. Regular earbuds aren't designed for sleeping, but luckily, you don’t have to rely on them: there are products specifically made for all-night wear."
- },
- "https://www.wareable.com/health-tech/best-noise-machines-for-sleep": {
-  "image": "https://media.wareable.com/images/750w/2026/09/Best-noise-machines-for-sleep.jpg",
-  "para": "Traffic outside, noisy neighbors, a partner’s snoring, or everyday sounds from inside the home—all that can interrupt a good night’s sleep, especially when they are sudden or unpredictable. The best noise machines for sleep solve this by adding a steady layer of background audio, helping to soften distracting changes in your sound environment."
  },
  "https://www.wareable.com/health-tech/best-pemf-mats": {
   "image": "https://media.wareable.com/images/750w/2026/07/best-pemf-mat.jpg",
@@ -178,6 +174,10 @@
  "https://www.wareable.com/wearable-tech/oura-blood-pressure-glp-1-tracking-uk-europe-canada": {
   "image": "https://media.wareable.com/images/featured-big/2026/07/oura-ring-5-dumbbell-close-up.jpg",
   "para": "Smart ring leader Oura is rolling out its suite of proactive features—including Health Radar and GLP-1 Insights—to more than 30 new international markets, extending the tools to members across the UK, European Union, Canada, Australia, New Zealand, Mexico, and Saudi Arabia."
+ },
+ "https://www.wareable.com/wearable-tech/oura-may-soon-use-a-wearable-patch-to-screen-for-positional-sleep-apnea": {
+  "image": "https://media.wareable.com/images/750w/2026/10/Oura-wearable-patch2.jpg",
+  "para": "A newly granted Oura patent details how a wearable patch could combine blood oxygen tracking with body position sensing to screen for positional sleep apnea."
  },
  "https://www.wareable.com/wearable-tech/oura-postpones-nasdaq-ipo-amid-market-uncertainty": {
   "image": "https://media.wareable.com/images/featured-big/2026/08/oura-ring-5-vs-4-off-finger.jpg",
