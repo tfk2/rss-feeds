@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Apple Watch pairing on Android is real but far from ready",
+   "link": "https://gadgetsandwearables.com/2026/10/16/apple-watch-android-pairing-without-iphone/",
+   "published": "2026-10-16T18:34:51Z",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-16T18:40:40Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Someone has finally managed to get an Apple Watch properly paired and activated from an Android phone, with no iPhone The post Apple Watch pairing on Android is real but far from ready appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Oura may soon use a wearable patch to screen for positional sleep apnea",
