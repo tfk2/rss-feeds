@@ -22,6 +22,7 @@ import yaml
 ROOT = Path(__file__).parent
 OUT_JSON = ROOT / "docs" / "watch.json"
 OUT_XML = ROOT / "docs" / "watch.xml"
+OUT_STATUS = ROOT / "docs" / "watch-status.json"  # per-source result of the last run
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/128.0 Safari/537.36",
@@ -109,7 +110,7 @@ def main():
     except (OSError, ValueError, KeyError):
         previous = {}
 
-    stories, failures = {}, 0
+    stories, failures, status = {}, 0, {}
     for src in cfg["sources"]:
         try:
             reader = read_wp if src["type"] == "wp" else read_rss
@@ -143,9 +144,11 @@ def main():
                 }
                 kept += 1
             print(f"OK   {src['name']}: kept {kept} of {total}")
+            status[src["name"]] = {"ok": True, "items": total, "kept": kept}
         except Exception as e:  # one broken source shouldn't stop the rest
             failures += 1
             print(f"FAIL {src['name']}: {e}", file=sys.stderr)
+            status[src["name"]] = {"ok": False, "error": str(e)[:200]}
 
     # Keep stories that have rolled off a busy feed (or whose source failed this run)
     # until they age out, so the hourly task never misses one between runs.
@@ -178,6 +181,7 @@ def main():
                 "</item>"]
     out.append("</channel></rss>")
     OUT_XML.write_text("\n".join(out), encoding="utf-8")
+    OUT_STATUS.write_text(json.dumps(status, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"     watch list: {len(ordered)} stories from the last {cfg.get('keep_days', 7)} days")
     sys.exit(1 if failures == len(cfg["sources"]) else 0)
 
