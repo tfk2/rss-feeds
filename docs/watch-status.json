@@ -50,8 +50,9 @@
   "kept": 1
  },
  "road.cc": {
-  "ok": false,
-  "error": "500 Server Error: Internal Server Error for url: https://road.cc/feed"
+  "ok": true,
+  "items": 25,
+  "kept": 0
  },
  "Cycling Weekly": {
   "ok": true,
