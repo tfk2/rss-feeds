@@ -29,7 +29,7 @@ sources:
 
   # Generalist tech sites (heavily filtered)
   - {name: Android Central, home: https://www.androidcentral.com/, type: rss, url: https://www.androidcentral.com/feeds/all}
-  - {name: Notebookcheck, home: https://www.notebookcheck.net/, type: rss, url: https://www.notebookcheck.net/RSS-Feed-Notebook-News.8157.0.html}
+  - {name: Notebookcheck, home: https://www.notebookcheck.net/, type: rss, url: https://www.notebookcheck.net/News.152.100.html}
   - {name: Pocket-lint, home: https://www.pocket-lint.com/, type: rss, url: https://www.pocket-lint.com/feed/}
   - {name: TechRadar, home: https://www.techradar.com/, type: rss, url: https://www.techradar.com/feeds.xml}
   - {name: Tom's Guide, home: https://www.tomsguide.com/, type: rss, url: https://www.tomsguide.com/feeds.xml}
