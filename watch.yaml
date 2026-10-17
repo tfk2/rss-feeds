@@ -25,10 +25,10 @@ sources:
 
   - {name: Garmin News, home: https://www.garminnews.com/, type: rss, url: https://www.garminnews.com/feed/}
   - {name: Wearable Fans, home: https://www.wearablefans.com/, type: rss, url: https://www.wearablefans.com/feed/}
-  - {name: Huawei Central, home: https://www.huaweicentral.com/, type: rss, url: https://www.huaweicentral.com/feed/, topics: [watches]}
+  - {name: Huawei Central, home: https://www.huaweicentral.com/, type: wp, url: https://www.huaweicentral.com, topics: [watches]}
   - {name: SammyGuru, home: https://sammyguru.com/, type: rss, url: https://sammyguru.com/feed/, topics: [watches]}
   - {name: Athletech News, home: https://athletechnews.com/, type: rss, url: https://athletechnews.com/feed/}
-  - {name: Endurance.biz, home: https://endurance.biz/, type: rss, url: https://endurance.biz/feed/}   # often a few days behind
+  - {name: Endurance.biz, home: https://endurance.biz/, type: wp, url: https://endurance.biz}   # often a few days behind
 
   # Cycling
   - {name: Bikerumor, home: https://bikerumor.com/, type: rss, url: https://bikerumor.com/feed/}
