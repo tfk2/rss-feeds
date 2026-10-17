@@ -36,7 +36,7 @@
  },
  "Huawei Central": {
   "ok": false,
-  "error": "403 Client Error: Forbidden for url: https://www.huaweicentral.com/feed/"
+  "error": "403 Client Error: Forbidden for url: https://www.huaweicentral.com/wp-json/wp/v2/posts?per_page=30&_fields=date_gmt%2Clink%2Ctitle%2Cexcerpt"
  },
  "SammyGuru": {
   "ok": true,
@@ -50,7 +50,7 @@
  },
  "Endurance.biz": {
   "ok": false,
-  "error": "403 Client Error: Forbidden for url: https://endurance.biz/feed/"
+  "error": "403 Client Error: Forbidden for url: https://endurance.biz/wp-json/wp/v2/posts?per_page=30&_fields=date_gmt%2Clink%2Ctitle%2Cexcerpt"
  },
  "Bikerumor": {
   "ok": true,
