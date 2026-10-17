@@ -9,6 +9,7 @@
 #          wp     a WordPress REST API, url is the site root (e.g. https://example.com)
 #          local  a feed this repo builds itself from sites.yaml, url is docs/<slug>.xml
 #   filter: false  keep every story (only for sites that cover nothing but our topics)
+#   topics: [watches]  only keep stories on the listed topics (names from the topics section)
 #
 # A source that fails is logged as FAIL in the Actions run and the others carry on.
 
@@ -22,6 +23,13 @@ sources:
   - {name: Gadgets & Wearables, home: https://gadgetsandwearables.com/, type: rss, url: https://gadgetsandwearables.com/feed/}
   - {name: Zwift Insider, home: https://zwiftinsider.com/, type: rss, url: https://zwiftinsider.com/feed/}
 
+  - {name: Garmin News, home: https://www.garminnews.com/, type: rss, url: https://www.garminnews.com/feed/}
+  - {name: Wearable Fans, home: https://www.wearablefans.com/, type: rss, url: https://www.wearablefans.com/feed/}
+  - {name: Huawei Central, home: https://www.huaweicentral.com/, type: rss, url: https://www.huaweicentral.com/feed/, topics: [watches]}
+  - {name: SammyGuru, home: https://sammyguru.com/, type: rss, url: https://sammyguru.com/feed/, topics: [watches]}
+  - {name: Athletech News, home: https://athletechnews.com/, type: rss, url: https://athletechnews.com/feed/}
+  - {name: Endurance.biz, home: https://endurance.biz/, type: rss, url: https://endurance.biz/feed/}   # often a few days behind
+
   # Cycling
   - {name: Bikerumor, home: https://bikerumor.com/, type: rss, url: https://bikerumor.com/feed/}
   - {name: road.cc, home: https://road.cc/, type: rss, url: https://road.cc/rss}
@@ -33,6 +41,8 @@ sources:
   - {name: Pocket-lint, home: https://www.pocket-lint.com/, type: rss, url: https://www.pocket-lint.com/feed/}
   - {name: TechRadar, home: https://www.techradar.com/, type: rss, url: https://www.techradar.com/feeds.xml}
   - {name: Tom's Guide, home: https://www.tomsguide.com/, type: rss, url: https://www.tomsguide.com/feeds.xml}
+  - {name: 9to5Google, home: https://9to5google.com/, type: rss, url: https://9to5google.com/feed/}
+  - {name: WinFuture, home: https://winfuture.de/, type: rss, url: https://static.winfuture.de/feeds/WinFuture-News-rss2.0.xml}   # German
   - {name: The Verge, home: https://www.theverge.com/, type: rss, url: https://www.theverge.com/rss/index.xml}
 
 # A story is kept when its title or excerpt matches any topic pattern (case-insensitive

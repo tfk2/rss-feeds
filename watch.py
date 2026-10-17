@@ -120,7 +120,8 @@ def main():
                 if not it["link"] or not it["title"]:
                     continue
                 text = f"{it['title']} {it['excerpt']}"
-                matched = [k for k, rx in topics.items() if rx.search(text)]
+                allowed = src.get("topics") or list(topics)  # a source can be limited to some topics
+                matched = [k for k in allowed if topics[k].search(text)]
                 if exclude.search(it["title"]):
                     continue
                 if src.get("filter", True) and not matched:
