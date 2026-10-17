@@ -44,8 +44,9 @@
   "kept": 3
  },
  "Notebookcheck": {
-  "ok": false,
-  "error": "404 Client Error: Not Found for url: https://www.notebookcheck.net/RSS-Feed-Notebook-Reviews.8157.0.html"
+  "ok": true,
+  "items": 500,
+  "kept": 19
  },
  "Pocket-lint": {
   "ok": true,
