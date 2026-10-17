@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I ran a half marathon with the Apple Watch Ultra 4 and Samsung Galaxy Watch Ultra 2 — here's the one that came out on top",
+   "link": "https://www.tomsguide.com/wellness/smartwatches/i-ran-a-half-marathon-with-the-apple-watch-ultra-4-and-samsung-galaxy-watch-ultra-2-heres-the-one-that-came-out-on-top",
+   "published": "2026-10-17T05:30:00Z",
+   "date": "2026-10-17",
+   "first_seen": "2026-10-17T05:40:37Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "We wore both smartwatches for a half marathon race to see which came out on top"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin’s new voice feature is taking a serious toll on battery life",
