@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "Why I’m sticking with the Fitbit Air sleep tracker instead of upgrading to the Edge",
+   "link": "https://www.tomsguide.com/wellness/sleep-tech/fitbit-edge-vs-fitbit-air-sleep-tracking",
+   "published": "2026-10-18T13:00:00Z",
+   "date": "2026-10-18",
+   "first_seen": "2026-10-18T13:10:38Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The new Fitbit Edge pairs powerful sensors with a sleek design and small screen — but when it comes to sleep tracking, the Air has it beat in one key area."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "New Garmin Connect IQ app offers detailed information for training and competition",

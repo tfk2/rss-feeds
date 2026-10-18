@@ -10,8 +10,9 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
+  "ok": true,
+  "items": 12,
+  "kept": 10
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -81,7 +82,7 @@
  "Tom's Guide": {
   "ok": true,
   "items": 50,
-  "kept": 2
+  "kept": 3
  },
  "9to5Google": {
   "ok": true,
@@ -96,6 +97,6 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 0
+  "kept": 1
  }
 }
