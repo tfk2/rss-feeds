@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Tag Heuer looks set to quit smartwatches after ten years",
+   "link": "https://www.wareable.com/smartwatches/tag-heuer-exits-connected-smartwatch-production-report",
+   "published": null,
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T13:20:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Tag Heuer has reportedly ended its decade-long smartwatch experiment, quietly ending production of its Connected smartwatch lineup over the summer. New rumors follow an August report from the French publication La Lettre suggesting the remaining device inventory—like last year's Tag Heuer Connected Caliber E5—will be sold off through 2027. No future generations are being planned, it's said, with l"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin smartwatches: New feature reportedly slashes battery life in half",
