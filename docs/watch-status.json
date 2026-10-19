@@ -10,8 +10,9 @@
   "kept": 0
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
+  "ok": true,
+  "items": 12,
+  "kept": 11
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -66,7 +67,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 19
+  "kept": 21
  },
  "Pocket-lint": {
   "ok": true,
