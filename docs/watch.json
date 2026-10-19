@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "This Garmin feature is killing users’ battery life — here’s how to disable it",
+   "link": "https://www.techradar.com/health-fitness/smartwatches/this-garmin-feature-is-killing-users-battery-life-heres-how-to-disable-it-and-get-more-juice-from-your-smartwatch",
+   "published": "2026-10-19T11:32:11Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T11:40:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s new voice activation feature seems to be killing users’ battery life."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Amsterdam Marathon winner wore a four-year-old Garmin watch",
