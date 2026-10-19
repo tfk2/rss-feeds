@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin smartwatches: New feature reportedly slashes battery life in half",
+   "link": "https://www.notebookcheck.net/Garmin-smartwatches-New-feature-reportedly-slashes-battery-life-in-half.1427922.0.html",
+   "published": "2026-10-19T12:50:00Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T13:01:14Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "An otherwise practical feature on Garmin smartwatches comes with a noticeable drawback. Keeping the wearables constantly listening for a wake word to activate voice controls significantly impacts battery endurance across multiple models."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "This Garmin feature is killing users’ battery life — here’s how to disable it",
@@ -1251,32 +1265,6 @@
     "other_wearables"
    ],
    "excerpt": "With Fitbit Edge, Google reveals an alternative to Fitbit Air that offers not only an AMOLED touchscreen but also a GPS module. Despite the screen, the battery is said to last a full week before the wearable needs to be charged again."
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Google announces $179 Fitbit Edge tracker with display, GPS",
-   "link": "https://9to5google.com/2026/10/12/google-fitbit-edge-announcement/",
-   "published": "2026-10-12T13:00:00Z",
-   "date": "2026-10-12",
-   "first_seen": "2026-10-17T10:12:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Google is following the Fitbit Air launched in May with a second tracker that features a screen called the Fitbit Edge. more…"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin MARQ Gen 3 Leaked on Official Support Pages",
-   "link": "https://www.garminnews.com/garmin-marq-gen-3-leaked-on-official-support-pages/",
-   "published": "2026-10-12T12:57:24Z",
-   "date": "2026-10-12",
-   "first_seen": "2026-10-17T10:12:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Updated 13/10/2026: Garmin Marq Gen 3 Is Here: Bigger AMOLED Displays, Built-in LTE, and a New Commander Edition Garmin fans might not have to wait much longer for the next luxury smartwatch lineup. Thanks to a recent discovery by Garmin Rumors, early mentions of the unannounced MARQ (Gen 3) have been spotted directly on Garmin’s […] The post Garmin MARQ Gen 3 Leaked on Official Support Pages appe"
   }
  ]
 }
