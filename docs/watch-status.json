@@ -25,8 +25,9 @@
   "kept": 5
  },
  "Garmin News": {
-  "ok": false,
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "ok": true,
+  "items": 12,
+  "kept": 10
  },
  "Wearable Fans": {
   "ok": true,
@@ -34,12 +35,14 @@
   "kept": 4
  },
  "SammyGuru": {
-  "ok": false,
-  "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "ok": true,
+  "items": 10,
+  "kept": 0
  },
  "Athletech News": {
-  "ok": false,
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "ok": true,
+  "items": 20,
+  "kept": 0
  },
  "Bikerumor": {
   "ok": true,
