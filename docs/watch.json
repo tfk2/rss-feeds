@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin Connect IQ: Flood of AI apps causes delays, Garmin promises improvements",
+   "link": "https://www.notebookcheck.net/Garmin-Connect-IQ-Flood-of-AI-apps-causes-delays-Garmin-promises-improvements.1428354.0.html",
+   "published": "2026-10-19T20:47:00Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T21:01:06Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is making life even harder for app developers. After the smartwatch manufacturer restricted access to APIs, and with basic features not working properly, the release of apps, watch faces, and updates in the Connect IQ Store is now also being delayed."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 7 and 7 Pro Series Beta Version 28.02",
+   "link": "https://garminrumors.com/garmin-releases-fenix-7-and-7-pro-series-beta-version-28-02/",
+   "published": "2026-10-19T20:46:05Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T21:01:06Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 28.02 for the Fenix 7 and 7 Pro Series. See the full changelog and how to install it. The post Garmin Releases Fenix 7 and 7 Pro Series Beta Version 28.02 appeared first on Garmin Rumors ."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Top 5 Zwift Videos: Racing Tips, Zwift RIDE, and Zwift Challenges",
@@ -1188,19 +1214,6 @@
     "watches"
    ],
    "excerpt": "If you are anything like me, you probably spend way too much time tracking tech leaks, regulatory documents, and update papers just to catch a glimpse of Garmin’s next big release. Well, the rumor mill is spinning hard right now, and a couple of fresh certifications have caught my eye. Recently, two unreleased outdoor Garmin […] The post Garmin’s Next Outdoor Flagship Is Near: Models A05196 and A0"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Forerunner 170 & 70 Update 18.32 Arrives to Fix Mid-Workout Crashes and Alarms",
-   "link": "https://www.garminnews.com/garmin-forerunner-170-70-update-18-32-arrives-to-fix-mid-workout-crashes-and-alarms/",
-   "published": "2026-10-12T20:51:25Z",
-   "date": "2026-10-12",
-   "first_seen": "2026-10-17T10:12:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released a new official software update for the Forerunner 170 and Forerunner 70. The new version, numbered 18.32, focuses on fixing several annoying glitches to make daily use and tracking workouts much smoother for users. What is Changing in Version 18.32 The most important fix addresses a sudden crashing issue. Previously, some watches […] The post Garmin Forerunner 170 & 70 Update 1"
   }
  ]
 }
