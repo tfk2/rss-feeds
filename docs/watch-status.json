@@ -75,9 +75,8 @@
   "kept": 0
  },
  "TechRadar": {
-  "ok": true,
-  "items": 50,
-  "kept": 2
+  "ok": false,
+  "error": "no items (bozo: none)"
  },
  "Tom's Guide": {
   "ok": true,
