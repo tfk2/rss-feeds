@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 11
+  "kept": 10
  },
  "DC Rainmaker": {
   "ok": true,
@@ -72,7 +72,7 @@
  "Pocket-lint": {
   "ok": true,
   "items": 10,
-  "kept": 1
+  "kept": 0
  },
  "TechRadar": {
   "ok": true,
