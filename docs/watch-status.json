@@ -10,8 +10,9 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
+  "ok": true,
+  "items": 12,
+  "kept": 10
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -69,8 +70,9 @@
   "kept": 23
  },
  "Pocket-lint": {
-  "ok": false,
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "ok": true,
+  "items": 10,
+  "kept": 1
  },
  "TechRadar": {
   "ok": true,
