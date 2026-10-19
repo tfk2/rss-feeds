@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases Software Update 4.20 for CIRQA Smart Band: What’s New?",
+   "link": "https://www.garminnews.com/garmin-releases-software-update-4-20-for-cirqa-smart-band-whats-new/",
+   "published": "2026-10-19T14:28:20Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T14:40:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started rolling out a new stable software update for its CIRQA Smart Band. The new software, labeled version 4.20, introduces several useful feature upgrades along with key bug fixes to enhance everyday performance. Smarter Workout Tracking Fitness enthusiasts get a few handy upgrades with this release. The CIRQA Smart Band now supports automatic […] The post Garmin Releases Software Up"
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "The COROS Pace 4 is a smartwatch for running and clear reasons to buy over Wear OS",
