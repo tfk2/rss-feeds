@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Top 5 Zwift Videos: Racing Tips, Zwift RIDE, and Zwift Challenges",
+   "link": "https://zwiftinsider.com/top-videos-302/",
+   "published": "2026-10-19T18:00:00Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T18:20:44Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "See our favorite Zwifty vids for the week!"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Amazfit smartwatch users get new navigation feature in update",
