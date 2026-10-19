@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "The COROS Pace 4 is a smartwatch for running and clear reasons to buy over Wear OS",
+   "link": "https://9to5google.com/2026/10/19/coros-pace-4-suguru-osako-edition/",
+   "published": "2026-10-19T13:57:27Z",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-19T14:01:19Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Acclaimed Japanese marathon champion Suguru Osako’s special edition COROS Pace 4 lasts a whopping 19 days on a single charge, including over 41 hours of real-time GPS tracking. more…"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Tag Heuer looks set to quit smartwatches after ten years",
@@ -1238,19 +1251,6 @@
     "watches"
    ],
    "excerpt": "It has been quite a while since Garmin gave us a proper update to its popular fitness band lineup. The Vivosmart 5 has been holding down the fort for quite some time, but if you have been following the tech scene closely, you already know that the next generation is coming. For months, I have […] The post Garmin Vívosmart 6 is Coming: EveryThing We Know So Far appeared first on Garmin News ."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Google Fitbit Air now recognizes 10x more workouts, gets metal band",
-   "link": "https://www.notebookcheck.net/Google-Fitbit-Air-now-recognizes-10x-more-workouts-gets-metal-band.1422258.0.html",
-   "published": "2026-10-12T13:55:00Z",
-   "date": "2026-10-12",
-   "first_seen": "2026-10-17T10:07:41Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Fitbit Air is getting better, as the fitness tracker without a display is receiving not only a new metal band, but also more reliable workout detection that can automatically recognize 100 different workouts, rather than just ten activities as before."
   }
  ]
 }
