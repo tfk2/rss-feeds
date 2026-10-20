@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Bikerumor",
+   "source_home": "https://bikerumor.com/",
+   "title": "Garmin Edge 1060 Adds Voice Control, Smarter Routing, and Reverse Charging",
+   "link": "https://bikerumor.com/garmin-edge-1060-voice-control/",
+   "published": "2026-10-20T16:19:01Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T16:20:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s new Edge 1060 adds voice control, smarter routing, reverse charging, updated training tools, and a $799.99 price tag."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "TypAir wearable keyboard turns finger gestures into text",
@@ -12,6 +25,19 @@
     "other_wearables"
    ],
    "excerpt": "MindRove's TypAir takes an unusual approach to typing, replacing physical keys with finger movements on a device attached to your clothing. The Bluetooth accessory is designed for compatible smart glasses, phones, and other devices, allowing users to write without speaking aloud. It's currently a functional prototype, with preorder prices starting at $99."
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Update Version 1.124 (167630) Released",
+   "link": "https://zwiftinsider.com/update-1-124-167630/",
+   "published": "2026-10-20T15:30:00Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T16:20:43Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Read all about Zwift's latest game update..."
   },
   {
    "source": "Garmin News",
