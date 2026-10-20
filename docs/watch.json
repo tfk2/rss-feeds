@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Amazon's Bee AI wants to listen to your life, and then sell you things based on what you say",
+   "link": "https://www.techradar.com/ai-platforms-assistants/amazons-new-bee-ai-device-can-turn-every-conversation-into-a-shopping-opportunity-and-thats-deeply-unsettling",
+   "published": "2026-10-20T13:15:00Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T13:21:09Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Amazon's new Bee AI wearables and their shopping integrations may be more alienating than appealing"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Antigravity A1: The 360° drone gets a controller, smartwatch control and LTE",
