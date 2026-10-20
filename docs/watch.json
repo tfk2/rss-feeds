@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+   "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+   "published": "2026-10-20T20:26:04Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T20:30:53Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are […]"
+  },
+  {
    "source": "Pocket-lint",
    "source_home": "https://www.pocket-lint.com/",
    "title": "Is the Oura Ring losing its aura? Recent setbacks raise questions",

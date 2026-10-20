@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Verge: Oura adds two new cardiovascular health tracking features to its smart rings</title>
+<link>https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular</guid>
+<description>Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are […]</description>
+<category>other_wearables</category>
+<pubDate>Tue, 20 Oct 2026 20:26:04 +0000</pubDate>
+</item>
+<item>
 <title>Pocket-lint: Is the Oura Ring losing its aura? Recent setbacks raise questions</title>
 <link>https://www.pocket-lint.com/oura-ring-losing-its-aura/</link>
 <guid isPermaLink="true">https://www.pocket-lint.com/oura-ring-losing-its-aura/</guid>
@@ -795,13 +803,5 @@
 <description>How Wayne Francis built Together We Ride—and why Zwift is becoming part of its future.</description>
 <category>sports_software</category>
 <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Garmin cuts data access: Developers begin shutting down smartwatch apps</title>
-<link>https://www.notebookcheck.net/Garmin-cuts-data-access-Developers-begin-shutting-down-smartwatch-apps.1424010.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-cuts-data-access-Developers-begin-shutting-down-smartwatch-apps.1424010.0.html</guid>
-<description>Garmin smartwatches are losing integration with a popular third-party service. While this currently appears to be an isolated incident, the platform policy update has already claimed its first casualty—and could have far-reaching consequences for the broader ecosystem.</description>
-<category>watches</category>
-<pubDate>Wed, 14 Oct 2026 14:37:00 +0000</pubDate>
 </item>
 </channel></rss>
