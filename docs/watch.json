@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "Garmin launches new Tacx Nēra smart trainer with built-in motion pods and WiFi connectivity",
+   "link": "https://road.cc/tech-news/garmin-launches-new-tacx-nera-smart-trainer-with-built-in-motion-pods-and-wifi-connectivity",
+   "published": "2026-10-20T12:48:16Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T12:50:39Z",
+   "topics": [
+    "watches",
+    "cycling_computers"
+   ],
+   "excerpt": "Priced at £859.99, the Nēra removes the need for an expensive extra adapter to connect over WiFi - but the additional movement while you pedal is now not optional as it was on the Tacx Neo 3M"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "New high-end Garmin cycling computer launches globally with GPS and voice controls",
