@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Pocket-lint: Is the Oura Ring losing its aura? Recent setbacks raise questions</title>
+<link>https://www.pocket-lint.com/oura-ring-losing-its-aura/</link>
+<guid isPermaLink="true">https://www.pocket-lint.com/oura-ring-losing-its-aura/</guid>
+<description>Oura Health is currently facing a class-action lawsuit that may be related to its delayed IPO following the success of the Oura Ring.</description>
+<category>other_wearables</category>
+<pubDate>Tue, 20 Oct 2026 19:55:56 +0000</pubDate>
+</item>
+<item>
 <title>Athletech News: Wearables Once Again Claim Top Spot in ACSM’s Top Fitness Trends</title>
 <link>https://athletechnews.com/wearables-once-again-claim-top-spot-in-acsm-top-fitness-trends-2027/</link>
 <guid isPermaLink="true">https://athletechnews.com/wearables-once-again-claim-top-spot-in-acsm-top-fitness-trends-2027/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin smartwatches are losing integration with a popular third-party service. While this currently appears to be an isolated incident, the platform policy update has already claimed its first casualty—and could have far-reaching consequences for the broader ecosystem.</description>
 <category>watches</category>
 <pubDate>Wed, 14 Oct 2026 14:37:00 +0000</pubDate>
-</item>
-<item>
-<title>Zwift Insider: Zwift Racing League Week 5 Guide: Green to Screen (Scratch Race)</title>
-<link>https://zwiftinsider.com/zrl-r20-w5/</link>
-<guid isPermaLink="true">https://zwiftinsider.com/zrl-r20-w5/</guid>
-<description>The flattest race of round 1!</description>
-<category>sports_software</category>
-<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
