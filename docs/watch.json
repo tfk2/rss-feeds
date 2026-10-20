@@ -1,6 +1,73 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Garmin's Connect IQ store gets an 'enormous influx' of submissions, and it's likely down to AI slop",
+   "link": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
+   "published": "2026-10-20T11:48:27Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T11:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has a Connect IQ problem as an 'enormous influx' of apps and watch faces hit the store."
+  },
+  {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "Garmin launches Edge 1060 GPS bike computer with voice control, alongside new Edge Explore 3",
+   "link": "https://road.cc/tech-news/garmin-launches-edge-1060-gps-bike-computer-with-voice-control-alongside-new-edge-explore-3",
+   "published": "2026-10-20T11:43:22Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T11:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The new flagship Edge 1060 adds hands-free voice commands, smarter navigation and a larger touchscreen, while the Edge Explore 3 and Explore 3 Plus offer more accessible options, priced from £349.99"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Launches the Tacx Nēra Smart Trainer With Built-In Movement",
+   "link": "https://garminrumors.com/garmin-launches-the-tacx-nera/",
+   "published": "2026-10-20T11:43:10Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T11:50:44Z",
+   "topics": [
+    "watches",
+    "cycling_computers",
+    "sports_software"
+   ],
+   "excerpt": "Garmin launched the Tacx Nēra, a $999.99 direct-drive smart trainer with built-in movement, sold with a cassette or with Zwift Cog and Click. Orders open October 23. The post Garmin Launches the Tacx Nēra Smart Trainer With Built-In Movement appeared first on Garmin Rumors ."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Launches the Edge 1060 With Voice Control",
+   "link": "https://garminrumors.com/garmin-launches-the-edge-1060/",
+   "published": "2026-10-20T11:42:29Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T11:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin launched the Edge 1060, a $799.99 cycling computer with a microphone for voice commands and voice messages, plus new route options. Orders open October 23. The post Garmin Launches the Edge 1060 With Voice Control appeared first on Garmin Rumors ."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Launches the Edge Explore 3 and Edge Explore 3 Plus",
+   "link": "https://garminrumors.com/garmin-launches-the-edge-explore-3/",
+   "published": "2026-10-20T11:41:13Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T11:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin launched the Edge Explore 3 at $399.99 and the Edge Explore 3 Plus, with a speaker and microphone, at $499.99. Orders open October 23. The post Garmin Launches the Edge Explore 3 and Edge Explore 3 Plus appeared first on Garmin Rumors ."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new budget GPS cycling computers with voice controls and up to 48 hours battery life",
