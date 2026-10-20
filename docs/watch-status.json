@@ -10,8 +10,9 @@
   "kept": 0
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "HTTPSConnectionPool(host='garminrumors.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='garminrumors.com', port=443) at 0x7f2df4218cb0>, 'Co"
+  "ok": true,
+  "items": 12,
+  "kept": 10
  },
  "Gadgets & Wearables": {
   "ok": true,
