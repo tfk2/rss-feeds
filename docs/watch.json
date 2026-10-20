@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Wearables Once Again Claim Top Spot in ACSM’s Top Fitness Trends",
+   "link": "https://athletechnews.com/wearables-once-again-claim-top-spot-in-acsm-top-fitness-trends-2027/",
+   "published": "2026-10-20T17:34:26Z",
+   "date": "2026-10-20",
+   "first_seen": "2026-10-20T17:40:46Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Mobile fitness apps, Pilates and group exercise are gaining ground as technology, strength training and healthy aging continue to shape the fitness industry"
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "Garmin quietly drops the most expensive bike computer on the market – the Edge 1060 features a new built-in microphone and speaker for voice control",
