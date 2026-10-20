@@ -10,9 +10,8 @@
   "kept": 0
  },
  "Garmin Rumors": {
-  "ok": true,
-  "items": 12,
-  "kept": 11
+  "ok": false,
+  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -67,7 +66,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 21
+  "kept": 22
  },
  "Pocket-lint": {
   "ok": true,
@@ -75,9 +74,8 @@
   "kept": 0
  },
  "TechRadar": {
-  "ok": true,
-  "items": 50,
-  "kept": 2
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='www.techradar.com', port=443): Read timed out. (read timeout=30)"
  },
  "Tom's Guide": {
   "ok": true,
