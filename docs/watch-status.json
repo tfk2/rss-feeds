@@ -55,9 +55,8 @@
   "kept": 2
  },
  "Cycling Weekly": {
-  "ok": true,
-  "items": 50,
-  "kept": 1
+  "ok": false,
+  "error": "no items (bozo: none)"
  },
  "Android Central": {
   "ok": true,
