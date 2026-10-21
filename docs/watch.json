@@ -3,6 +3,19 @@
   {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin delivers two dozen improvements to popular smartwatch with major update release",
+   "link": "https://www.notebookcheck.net/Garmin-delivers-two-dozen-improvements-to-popular-smartwatch-with-major-update-release.1430493.0.html",
+   "published": "2026-10-21T19:44:00Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T20:01:09Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has brought two dozen changes to one of its popular smartwatches. Available globally as a free update on the company's Beta Program, Public Beta Version 19.15 promises to resolve numerous bugs that were spotted in recent stable firmware releases."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new beta update fixing smartwatch battery drain issue",
    "link": "https://www.notebookcheck.net/Garmin-releases-new-beta-update-fixing-smartwatch-battery-drain-issue.1430476.0.html",
    "published": "2026-10-21T19:09:00Z",
@@ -1555,19 +1568,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started rolling out a new beta software update, version 31.65, for several of its cycling computers. The patch is available for cyclists using the Edge 1040, Edge 840, and Edge 540 series devices. This release acts as a maintenance patch aimed at keeping devices running smoothly. System Enhancements and Bug Fixes Improved device […] The post Garmin Drops Fresh Beta Software Update 31.65"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Releases New Beta Update 33.12 for Edge 1050, 850, 550, and MTB",
-   "link": "https://www.garminnews.com/garmin-releases-new-beta-update-33-12-for-edge-1050-850-550-and-mtb/",
-   "published": "2026-10-14T19:57:18Z",
-   "date": "2026-10-14",
-   "first_seen": "2026-10-17T10:12:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has started sending out a new beta software update, version 33.12, for several of its popular bike computers. The update is available for riders using the Edge 1050, Edge 850, Edge 550, and MTB series devices. This latest release focuses on fixing annoying glitches and making sure your GPS device runs reliably during long […] The post Garmin Releases New Beta Update 33.12 for Edge 1050, 850"
   }
  ]
 }
