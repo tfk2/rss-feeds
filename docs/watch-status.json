@@ -59,8 +59,9 @@
   "error": "no items (bozo: none)"
  },
  "Android Central": {
-  "ok": false,
-  "error": "no items (bozo: none)"
+  "ok": true,
+  "items": 50,
+  "kept": 1
  },
  "Notebookcheck": {
   "ok": true,
@@ -73,12 +74,14 @@
   "kept": 1
  },
  "TechRadar": {
-  "ok": false,
-  "error": "no items (bozo: none)"
+  "ok": true,
+  "items": 50,
+  "kept": 0
  },
  "Tom's Guide": {
-  "ok": false,
-  "error": "no items (bozo: none)"
+  "ok": true,
+  "items": 50,
+  "kept": 0
  },
  "9to5Google": {
   "ok": true,
