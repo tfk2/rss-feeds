@@ -10,9 +10,8 @@
   "kept": 0
  },
  "Garmin Rumors": {
-  "ok": true,
-  "items": 12,
-  "kept": 11
+  "ok": false,
+  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -22,7 +21,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 5
+  "kept": 6
  },
  "Garmin News": {
   "ok": true,
@@ -55,8 +54,9 @@
   "kept": 2
  },
  "Cycling Weekly": {
-  "ok": false,
-  "error": "no items (bozo: none)"
+  "ok": true,
+  "items": 50,
+  "kept": 1
  },
  "Android Central": {
   "ok": true,

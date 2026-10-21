@@ -131,6 +131,10 @@
   "image": "https://media.wareable.com/images/featured-big/2026/10/samsung-health-update-october-2026.jpg",
   "para": "Previously requiring seven days of tracked sleep logged within a month to get started, Samsung Health v.6.24 lets users start Sleep Coaching with just three days of data collected over a two-week window."
  },
+ "https://www.wareable.com/samsung/samsung-may-use-an-optical-trick-to-combat-blurry-smart-glasses-displays": {
+  "image": "https://media.wareable.com/images/750w/2026/10/Samsung-optical-trick-to-fix-blurry-smart-glasses-displays.jpg",
+  "para": "A new patent filing—“Method and electronic device for blur reduction of an occlusion mask”—reveals how Samsung plans to sharpen digital overlays on future AR glasses, solving an optical issue where bright sunlight or dark backgrounds make graphics look blurry."
+ },
  "https://www.wareable.com/smartwatches/google-patent-reveals-how-pixel-watch-could-score-your-guided-breathing-sessions": {
   "image": "https://media.wareable.com/images/750w/2026/10/Pixel-watch-breathing-sessions.jpg",
   "para": "Google appears to be exploring a new way to make breathing more measurable, after being awarded a patent that describes users being scored on their mindfulness sessions."
@@ -186,10 +190,6 @@
  "https://www.wareable.com/wearable-tech/ouras-patent-reveals-how-future-smart-rings-could-track-blood-pressure": {
   "image": "https://media.wareable.com/images/750w/2026/10/Oura.jpg",
   "para": "Oura may soon estimate blood pressure metrics by analyzing the subtle wave shapes of multi-wavelength optical sensors."
- },
- "https://www.wareable.com/wearable-tech/qualcomm-snapdragon-sound-elite-gen-2-platform-announcement-summit": {
-  "image": "https://media.wareable.com/images/featured-big/2026/09/snapdragon-sound-gen-2.jpg",
-  "para": "Qualcomm has officially unveiled the Snapdragon Sound Elite Gen 2 Platform, a new audio architecture designed to support AI experiences and multimodal wearable hardware."
  },
  "https://www.wareable.com/wearable-tech/ultrahuman-ring-pro-air-free-afib-check-fibricheck": {
   "image": "https://media.wareable.com/images/featured-big/2026/09/ultrahuman-ring-pro-logo-stamp-close-up.jpg",
