@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Google reiterates missing Fibit Air sleep breathing quality feature coming ‘soon’",
+   "link": "https://9to5google.com/2026/10/21/fitbit-air-delayed-sleep-breathing-feature-coming-soon/",
+   "published": "2026-10-21T15:18:29Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T15:20:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google is holding off on a sleep breathing quality feature it promised for the Fitbit Air. It launched for the Pixel Watch last month. more…"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases update to Forerunner 170 smartwatch with new battery drain fix",
