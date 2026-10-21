@@ -1,6 +1,21 @@
 {
  "stories": [
   {
+   "source": "Cycling Weekly",
+   "source_home": "https://www.cyclingweekly.com/",
+   "title": "Garmin quietly drops the most expensive bike computer on the market – The Edge 1060 features a new built-in microphone and speaker for voice control",
+   "link": "https://www.cyclingweekly.com/news/garmin-quietly-drops-the-most-expensive-bike-computer-on-the-market-the-edge-1060-features-a-new-built-in-microphone-and-speaker-for-voice-control",
+   "published": "2026-10-21T08:34:32Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-20T17:20:44Z",
+   "topics": [
+    "watches",
+    "cycling_computers",
+    "sports_software"
+   ],
+   "excerpt": "Garmin also adds two new Edge Explore computers and a Tacx Nēra smart trainer with Zwift Cog and Click compatibility"
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Tacx Nēra: The $1,000 Smart Trainer That Finally Moves With You",
@@ -104,21 +119,6 @@
     "other_wearables"
    ],
    "excerpt": "Mobile fitness apps, Pilates and group exercise are gaining ground as technology, strength training and healthy aging continue to shape the fitness industry"
-  },
-  {
-   "source": "Cycling Weekly",
-   "source_home": "https://www.cyclingweekly.com/",
-   "title": "Garmin quietly drops the most expensive bike computer on the market – the Edge 1060 features a new built-in microphone and speaker for voice control",
-   "link": "https://www.cyclingweekly.com/news/garmin-quietly-drops-the-most-expensive-bike-computer-on-the-market-the-edge-1060-features-a-new-built-in-microphone-and-speaker-for-voice-control",
-   "published": "2026-10-20T17:13:09Z",
-   "date": "2026-10-20",
-   "first_seen": "2026-10-20T17:20:44Z",
-   "topics": [
-    "watches",
-    "cycling_computers",
-    "sports_software"
-   ],
-   "excerpt": "Garmin also adds two new Edge Explore computers and a Tacx Nēra smart trainer with Zwift Cog and Click compatibility"
   },
   {
    "source": "Garmin Rumors",
