@@ -50,8 +50,9 @@
   "kept": 1
  },
  "road.cc": {
-  "ok": false,
-  "error": "404 Client Error: Not Found for url: https://road.cc/feed"
+  "ok": true,
+  "items": 25,
+  "kept": 2
  },
  "Cycling Weekly": {
   "ok": true,
@@ -59,9 +60,8 @@
   "kept": 1
  },
  "Android Central": {
-  "ok": true,
-  "items": 50,
-  "kept": 1
+  "ok": false,
+  "error": "no items (bozo: none)"
  },
  "Notebookcheck": {
   "ok": true,
