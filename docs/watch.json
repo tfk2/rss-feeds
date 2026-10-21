@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "New update brings dozens of changes and new features to popular Garmin smartwatch",
+   "link": "https://www.notebookcheck.net/New-update-brings-dozens-of-changes-and-new-features-to-popular-Garmin-smartwatch.1430488.0.html",
+   "published": "2026-10-21T17:51:00Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T18:01:12Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is now offering a new update to one of its popular Forerunner smartwatches. Available globally, the update introduces dozens of improvements, including eighteen bug fixes and multiple new features."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Instinct 3 Series Beta Version 16.07",
@@ -1488,19 +1501,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started rolling out a new stable update to several of its flagship smartwatches. Arriving in the wake of numerous complaints about ongoing software issues, the new update promises to resolve a recent heart rate sensor issue while making other notable improvements, too."
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Finding Community on Two Wheels: Wayne Francis and Together We Ride",
-   "link": "https://zwiftinsider.com/wayne-francis/",
-   "published": "2026-10-14T18:00:00Z",
-   "date": "2026-10-14",
-   "first_seen": "2026-10-16T16:43:20Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "How Wayne Francis built Together We Ride—and why Zwift is becoming part of its future."
   }
  ]
 }
