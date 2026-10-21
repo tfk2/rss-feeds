@@ -7,11 +7,12 @@
  "DC Rainmaker": {
   "ok": true,
   "items": 8,
-  "kept": 0
+  "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
+  "ok": true,
+  "items": 12,
+  "kept": 11
  },
  "Gadgets & Wearables": {
   "ok": true,

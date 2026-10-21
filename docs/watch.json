@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "DC Rainmaker",
+   "source_home": "https://www.dcrainmaker.com/",
+   "title": "Garmin Revamps and Opens Up Connect Developer API Program: All the Details",
+   "link": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+   "published": "2026-10-21T15:41:36Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T15:50:49Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "After some 7 months of being ‘closed’ to new entrants, Garmin has re-opened and revamped the Garmin Connect API developer program, focused specifically on 3rd-party platforms that want to receive data files from Garmin devices via Garmin Connect, or send … Read More Here →"
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Google reiterates missing Fibit Air sleep breathing quality feature coming ‘soon’",
