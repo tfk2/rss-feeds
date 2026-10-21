@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 8
+  "kept": 7
  },
  "DC Rainmaker": {
   "ok": true,
@@ -22,7 +22,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 6
+  "kept": 5
  },
  "Garmin News": {
   "ok": true,
@@ -97,6 +97,6 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 0
+  "kept": 1
  }
 }
