@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new beta update fixing smartwatch battery drain issue",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-beta-update-fixing-smartwatch-battery-drain-issue.1430476.0.html",
+   "published": "2026-10-21T19:09:00Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T19:20:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is rolling out a new beta update to one of its smartwatches. This first release in the 19.xx testing cycle brings several changes to users of the vivoactive 6, as well as fixing a battery drain related problem."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin Fenix 9 owners finally get YouTube Music after nearly two months",
