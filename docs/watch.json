@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "New Garmin smartwatch beta update brings dozens of changes",
+   "link": "https://www.notebookcheck.net/New-Garmin-smartwatch-beta-update-brings-dozens-of-changes.1430504.0.html",
+   "published": "2026-10-22T02:44:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T03:01:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Garmin beta version 19.15 has arrived for one of the brand’s square smartwatches. This testing update brings a wide range of changes to users, including improvements to features and bug fixes."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Revamps Its Connect Developer API With Personal, Starter, and Enterprise Access",
