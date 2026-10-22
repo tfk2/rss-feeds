@@ -10,9 +10,8 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": true,
-  "items": 12,
-  "kept": 11
+  "ok": false,
+  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -47,12 +46,12 @@
  "Bikerumor": {
   "ok": true,
   "items": 10,
-  "kept": 2
+  "kept": 3
  },
  "road.cc": {
   "ok": true,
   "items": 25,
-  "kept": 2
+  "kept": 3
  },
  "Cycling Weekly": {
   "ok": true,
