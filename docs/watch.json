@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Fitbit Edge: Google explains decision to omit NFC",
+   "link": "https://www.notebookcheck.net/Fitbit-Edge-Google-explains-decision-to-omit-NFC.1431362.0.html",
+   "published": "2026-10-22T15:23:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T15:30:59Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Fitbit Edge offers a GPS module and even an ECG, but lacks an NFC chip, meaning it cannot be used for contactless payments. Google now explains why the company opted to leave NFC out of its latest wearable."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Fenix 9 Owners Finally Get YouTube Music After a Long Wait",
