@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Bikerumor: Castelli’s Maillot Jaune Collection Celebrates Official Partnership with the TdF and Tdf Femmes avec Zwift</title>
+<link>https://bikerumor.com/castellis-maillot-jaune-collection-celebrates-official-partnership-with-the-tdf-and-tdf-femmes-avec-zwift/</link>
+<guid isPermaLink="true">https://bikerumor.com/castellis-maillot-jaune-collection-celebrates-official-partnership-with-the-tdf-and-tdf-femmes-avec-zwift/</guid>
+<description>Castelli was recently named the official partner of the TdF and TdF Femmes, and that inspired its new Maillot Jaune Collection</description>
+<category>sports_software</category>
+<pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Notebookcheck: New Garmin smartwatch beta update brings dozens of changes</title>
 <link>https://www.notebookcheck.net/New-Garmin-smartwatch-beta-update-brings-dozens-of-changes.1430504.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/New-Garmin-smartwatch-beta-update-brings-dozens-of-changes.1430504.0.html</guid>
@@ -793,14 +801,6 @@
 <link>https://www.wareable.com/apple/apple-patent-details-multi-wearable-sensor-fusion-for-improved-health-tracking</link>
 <guid isPermaLink="true">https://www.wareable.com/apple/apple-patent-details-multi-wearable-sensor-fusion-for-improved-health-tracking</guid>
 <description>A new Apple patent describes a system that could combine health data from multiple wearables to produce a single, more accurate reading. Apple may be working to make wearable health tracking more accurate by having several devices check the same signal at the same time.</description>
-<category>other_wearables</category>
-<pubDate>Fri, 16 Oct 2026 16:42:34 +0000</pubDate>
-</item>
-<item>
-<title>Wareable: Oura's patent reveals how future smart rings could track blood pressure</title>
-<link>https://www.wareable.com/wearable-tech/ouras-patent-reveals-how-future-smart-rings-could-track-blood-pressure</link>
-<guid isPermaLink="true">https://www.wareable.com/wearable-tech/ouras-patent-reveals-how-future-smart-rings-could-track-blood-pressure</guid>
-<description>The company is still pushing toward one of wearables’ toughest goals: meaningful blood pressure tracking without a cuff. Oura may soon estimate blood pressure metrics by analyzing the subtle wave shapes of multi-wavelength optical sensors.</description>
 <category>other_wearables</category>
 <pubDate>Fri, 16 Oct 2026 16:42:34 +0000</pubDate>
 </item>
