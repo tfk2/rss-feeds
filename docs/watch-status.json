@@ -50,9 +50,8 @@
   "kept": 1
  },
  "road.cc": {
-  "ok": true,
-  "items": 25,
-  "kept": 2
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='road.cc', port=443): Read timed out. (read timeout=30)"
  },
  "Cycling Weekly": {
   "ok": true,

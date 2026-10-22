@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Connect IQ SDK 9.3 Opens the Microphone, Speaker, and LTE to Garmin Apps",
+   "link": "https://garminrumors.com/connect-iq-sdk-9-3-microphone-speaker-lte/",
+   "published": "2026-10-22T00:56:32Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T01:01:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s Connect IQ SDK 9.3 lets apps record from the microphone, play audio, and turn on LTE on the Fenix 8 Pro, Fenix 9, and MARQ Gen 3. Here is what the docs say. The post Connect IQ SDK 9.3 Opens the Microphone, Speaker, and LTE to Garmin Apps appeared first on Garmin Rumors ."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update for multiple mid-range smartwatches with changelog clarification",
@@ -1555,19 +1568,6 @@
     "watches"
    ],
    "excerpt": "Our Garmin watch comparison has been rebuilt from the ground up. It loads fast, works properly on phones, and filtering, sorting and comparing are now instant. The post Our Garmin Watch Comparison Has Been Rebuilt: Faster, Clearer and Made for Phones appeared first on Garmin Rumors ."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Marathon Series Heads to Ventura, California in 2027",
-   "link": "https://garminrumors.com/garmin-marathon-series-heads-to-ventura-california-in-2027/",
-   "published": "2026-10-15T00:56:29Z",
-   "date": "2026-10-15",
-   "first_seen": "2026-10-16T16:43:20Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has announced that the Garmin Marathon Series will expand to Ventura, California, on Sunday, August 22, 2027, marking the fourth location in the series. The event will include a Boston Marathon-qualifying marathon, a USATF-certified half marathon, and 10K and 5K races. All four courses start and finish in downtown Ventura, passing historic buildings and […] The post Garmin Marathon Series H"
   }
  ]
 }
