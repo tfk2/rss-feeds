@@ -62,12 +62,12 @@
  "Android Central": {
   "ok": true,
   "items": 50,
-  "kept": 1
+  "kept": 0
  },
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 29
+  "kept": 30
  },
  "Pocket-lint": {
   "ok": true,
