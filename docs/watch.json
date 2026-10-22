@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Fitbit Edge doesn’t have Google Wallet because ‘less than 1%’ of Charge owners used it",
+   "link": "https://9to5google.com/2026/10/22/fitbit-edge-google-wallet-nfc-explanation/",
+   "published": "2026-10-22T13:55:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T14:10:49Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Chicken, meet egg. Google has clarified why it didn’t include NFC and, in turn, Google Wallet support on the Fitbit Edge, and it just boils down to the fact that hardly anyone was using the feature. more…"
+  },
+  {
    "source": "road.cc",
    "source_home": "https://road.cc/",
    "title": "Coros Dura 2 Solar GPS computer gets larger touchscreen, voice control and off-line rerouting",
