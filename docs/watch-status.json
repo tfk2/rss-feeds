@@ -32,7 +32,7 @@
  "Wearable Fans": {
   "ok": true,
   "items": 10,
-  "kept": 2
+  "kept": 1
  },
  "SammyGuru": {
   "ok": true,
@@ -67,7 +67,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 28
+  "kept": 29
  },
  "Pocket-lint": {
   "ok": true,

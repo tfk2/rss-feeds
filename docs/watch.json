@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Vueroid launches always-on QHD dash cam with smartwatch-like screen, voice control, GPS, and license plate enhancement",
+   "link": "https://www.notebookcheck.net/Vueroid-launches-always-on-QHD-dash-cam-with-smartwatch-like-screen-voice-control-GPS-and-license-plate-enhancement.1431433.0.html",
+   "published": "2026-10-22T19:15:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T19:20:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Vueroid has launched the new H1 QHD Infinite dash cam with always-on incident recording. The dash cam features 2,560 x 1,440-pixel recording, voice control, night vision, and AI Infinite Plate Capture for clearer license plate capture."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Stonegrinder Series Launched: Who’s fastest when the road pushes?",
@@ -1646,19 +1659,6 @@
     "other_wearables"
    ],
    "excerpt": "Amazon launched two new Bee products: the Bee Frontier and Bee Eclipse. Each wearable AI device listens in on your conversations to remember and save info for you."
-  },
-  {
-   "source": "Wearable Fans",
-   "source_home": "https://www.wearablefans.com/",
-   "title": "Polar H12 Spotted in Global Regulatory Databases Ahead of Launch",
-   "link": "https://www.wearablefans.com/2026/10/15/polar-h12-spotted-in-global-regulatory-databases-ahead-of-launch/",
-   "published": "2026-10-15T19:17:14Z",
-   "date": "2026-10-15",
-   "first_seen": "2026-10-17T10:12:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "I have some really big news for everyone following sports tech and heart rate sensors. Today, while I was digging deep into international regulatory databases, I stumbled upon official documents for a brand-new, unreleased chest strap heart rate monitor from Polar. For years, the Polar H10 has been known as the gold standard for chest […] The post Polar H12 Spotted in Global Regulatory Databases A"
   }
  ]
 }
