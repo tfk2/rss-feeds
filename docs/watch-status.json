@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 7
+  "kept": 6
  },
  "DC Rainmaker": {
   "ok": true,
@@ -10,19 +10,18 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": true,
-  "items": 12,
-  "kept": 11
+  "ok": false,
+  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
  },
  "Gadgets & Wearables": {
   "ok": true,
   "items": 10,
-  "kept": 7
+  "kept": 8
  },
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 5
+  "kept": 4
  },
  "Garmin News": {
   "ok": true,
