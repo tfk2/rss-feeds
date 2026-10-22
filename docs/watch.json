@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Fenix E40R: High-power 5,000-lumens flashlight with USB-C",
+   "link": "https://www.notebookcheck.net/Fenix-E40R-High-power-5-000-lumens-flashlight-with-USB-C.1431455.0.html",
+   "published": "2026-10-22T21:05:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T21:10:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Fenix has announced a new flashlight with a high-lumen output. According to the manufacturer, the flashlight temporarily produces 5,000 lumens to illuminate a broad area with a range of 242 meters."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Zwift Teases “Wild Isles” Watopia Expansion Routes",
