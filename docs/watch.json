@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Stonegrinder Series Launched: Who’s fastest when the road pushes?",
+   "link": "https://zwiftinsider.com/stonegrinder-series/",
+   "published": "2026-10-22T18:00:00Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T18:01:11Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Who doesn't enjoy a little extra rolling resistance in Zwift?"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Strava updates maps and route discovery to make finding your next trail easier",

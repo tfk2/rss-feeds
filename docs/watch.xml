@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Zwift Insider: Stonegrinder Series Launched: Who’s fastest when the road pushes?</title>
+<link>https://zwiftinsider.com/stonegrinder-series/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/stonegrinder-series/</guid>
+<description>Who doesn't enjoy a little extra rolling resistance in Zwift?</description>
+<category>sports_software</category>
+<pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Wareable: Strava updates maps and route discovery to make finding your next trail easier</title>
 <link>https://www.wareable.com/sport/strava-update-route-discovery-mapping-tools-offline-route-navigation-subscribers</link>
 <guid isPermaLink="true">https://www.wareable.com/sport/strava-update-route-discovery-mapping-tools-offline-route-navigation-subscribers</guid>
@@ -795,13 +803,5 @@
 <description>Your AirPods will run into trouble sooner or later - that is, unless you take mitigating measures.</description>
 <category>sports_earphones</category>
 <pubDate>Sat, 17 Oct 2026 23:00:18 +0000</pubDate>
-</item>
-<item>
-<title>The Verge: Websites are closing their doors to AI agents</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]</description>
-<category>watches</category>
-<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 </channel></rss>
