@@ -10,8 +10,9 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "no items (bozo: <unknown>:2:119: not well-formed (invalid token))"
+  "ok": true,
+  "items": 12,
+  "kept": 11
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -49,9 +50,8 @@
   "kept": 1
  },
  "road.cc": {
-  "ok": true,
-  "items": 25,
-  "kept": 2
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='road.cc', port=443): Read timed out. (read timeout=30)"
  },
  "Cycling Weekly": {
   "ok": true,
