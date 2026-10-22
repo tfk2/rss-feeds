@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Revamps Its Connect Developer API With Personal, Starter, and Enterprise Access</title>
+<link>https://garminrumors.com/garmin-connect-developer-program-personal-starter-enterprise/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-connect-developer-program-personal-starter-enterprise/</guid>
+<description>Garmin split its Connect Developer Program into Personal access for your own data and Business access with Starter and Enterprise tiers. Here is what each includes. The post Garmin Revamps Its Connect Developer API With Personal, Starter, and Enterprise Access appeared first on Garmin Rumors .</description>
+<category>watches</category>
+<pubDate>Thu, 22 Oct 2026 01:43:59 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Connect IQ SDK 9.3 Opens the Microphone, Speaker, and LTE to Garmin Apps</title>
 <link>https://garminrumors.com/connect-iq-sdk-9-3-microphone-speaker-lte/</link>
 <guid isPermaLink="true">https://garminrumors.com/connect-iq-sdk-9-3-microphone-speaker-lte/</guid>
@@ -795,13 +803,5 @@
 <description>Samsung has announced a major update to its Health app, lowering the barrier to entry for its Sleep Coaching program while adding deeper Strava routing and expanded training tiers for runners. Previously requiring seven days of tracked sleep logged within a month to get started, Samsung Health v.6.24 lets users start Sleep Coaching with just three days of data collected over a two-week window.</description>
 <category>sports_software</category>
 <pubDate>Fri, 16 Oct 2026 16:42:34 +0000</pubDate>
-</item>
-<item>
-<title>TechRadar: Suunto may be working on a screenless heart rate monitor to take on Garmin</title>
-<link>https://www.techradar.com/health-fitness/fitness-trackers/suunto-leak-reveals-screenless-whoop-rival-that-could-soon-challenge-garmin-and-fitbit-all-without-a-pricey-subscription</link>
-<guid isPermaLink="true">https://www.techradar.com/health-fitness/fitness-trackers/suunto-leak-reveals-screenless-whoop-rival-that-could-soon-challenge-garmin-and-fitbit-all-without-a-pricey-subscription</guid>
-<description>New leak suggests Suunto will launch a screenless heart rate monitor to take on Garmin and Fitbit.</description>
-<category>watches</category>
-<pubDate>Fri, 16 Oct 2026 13:22:24 +0000</pubDate>
 </item>
 </channel></rss>
