@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Fenix 9 Owners Finally Get YouTube Music After a Long Wait",
+   "link": "https://www.garminnews.com/garmin-fenix-9-owners-finally-get-youtube-music-after-a-long-wait/",
+   "published": "2026-10-22T14:41:45Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T14:50:45Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "If you buy a brand-new flagship watch, you naturally expect it to work with all the major apps right out of the box. Unfortunately, that is rarely how things go in the wearable world. When Garmin launched the Fenix 9 and Fenix 9 Pro, buyers quickly noticed a frustrating omission: Google’s YouTube Music app was […] The post Garmin Fenix 9 Owners Finally Get YouTube Music After a Long Wait appeared "
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Samsung’s new Fitbit competitor just leaked [Video]",
@@ -12,6 +26,19 @@
     "watches"
    ],
    "excerpt": "Samsung has a new Galaxy Fit 4 fitness tracker in the works, and it looks just a bit more like an Apple Watch this time around. more…"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Rolls Out New Beta Software Update 16.07 for Instinct 3 Smartwatches",
+   "link": "https://www.garminnews.com/garmin-rolls-out-new-beta-software-update-16-07-for-instinct-3-smartwatches/",
+   "published": "2026-10-22T14:01:06Z",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-22T14:50:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is pushing out a new beta update, version 16.07, for several smartwatches in the Instinct lineup. The update targets the Instinct 3 AMOLED, Instinct 3 Solar, Instinct E, and Crossover AMOLED models. The change log for version 16.07 is identical to the previous beta release, version 16.06, but it brings a few notable fixes […] The post Garmin Rolls Out New Beta Software Update 16.07 for Inst"
   },
   {
    "source": "9to5Google",
@@ -1605,20 +1632,6 @@
     "watches"
    ],
    "excerpt": "The Fitbit Air disappeared beautifully into my routine."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Polar Loop gets biceps band, new wristbands and firmware upgrades",
-   "link": "https://www.notebookcheck.net/Polar-Loop-gets-biceps-band-new-wristbands-and-firmware-upgrades.1425282.0.html",
-   "published": "2026-10-15T14:45:00Z",
-   "date": "2026-10-15",
-   "first_seen": "2026-10-17T10:07:41Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Polar Loop can now officially be worn on the biceps, while several new bands for the wearable are now available. This makes Polar Loop a more attractive alternative to Garmin CIRQA and Fitbit Air."
   }
  ]
 }
