@@ -1659,58 +1659,6 @@
     "other_wearables"
    ],
    "excerpt": "Garmin has delivered a new update to one of its wearables. Available globally, the new update promises to improve the Descent G2 user experience in several areas."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Oura may soon use a wearable patch to screen for positional sleep apnea",
-   "link": "https://www.wareable.com/wearable-tech/oura-may-soon-use-a-wearable-patch-to-screen-for-positional-sleep-apnea",
-   "published": null,
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16T16:42:34Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Oura’s patented concept now looks more focused on distinguishing obstructive sleep apnea from central sleep apnea. A newly granted Oura patent details how a wearable patch could combine blood oxygen tracking with body position sensing to screen for positional sleep apnea."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Apple patent details multi-wearable sensor fusion for improved health tracking",
-   "link": "https://www.wareable.com/apple/apple-patent-details-multi-wearable-sensor-fusion-for-improved-health-tracking",
-   "published": null,
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16T16:42:34Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "A new Apple patent describes a system that could combine health data from multiple wearables to produce a single, more accurate reading. Apple may be working to make wearable health tracking more accurate by having several devices check the same signal at the same time."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Oura's patent reveals how future smart rings could track blood pressure",
-   "link": "https://www.wareable.com/wearable-tech/ouras-patent-reveals-how-future-smart-rings-could-track-blood-pressure",
-   "published": null,
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16T16:42:34Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "The company is still pushing toward one of wearables’ toughest goals: meaningful blood pressure tracking without a cuff. Oura may soon estimate blood pressure metrics by analyzing the subtle wave shapes of multi-wavelength optical sensors."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Samsung update brings faster Sleep Coaching and Strava integration to Galaxy Watch",
-   "link": "https://www.wareable.com/samsung/samsung-health-update-strava-routes-expanded-running-coach-sleep-coaching",
-   "published": null,
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16T16:42:34Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Samsung has announced a major update to its Health app, lowering the barrier to entry for its Sleep Coaching program while adding deeper Strava routing and expanded training tiers for runners. Previously requiring seven days of tracked sleep logged within a month to get started, Samsung Health v.6.24 lets users start Sleep Coaching with just three days of data collected over a two-week window."
   }
  ]
 }
