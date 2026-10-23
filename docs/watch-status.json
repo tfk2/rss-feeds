@@ -10,8 +10,9 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "ok": true,
+  "items": 30,
+  "kept": 19
  },
  "Gadgets & Wearables": {
   "ok": true,
