@@ -10,9 +10,8 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": true,
-  "items": 30,
-  "kept": 19
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='garminrumors.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=30&_fields=date_gmt%2Clink%2Ctitle%2Cexcerpt (Caused by ConnectTimeoutError(<HTTPSC"
  },
  "Gadgets & Wearables": {
   "ok": true,
