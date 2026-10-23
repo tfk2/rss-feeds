@@ -37,9 +37,8 @@
  },
  "Wearable Fans": {
   "ok": true,
-  "items": 10,
-  "kept": 1,
-  "last_ok": "2026-10-23T15:00Z"
+  "last_ok": "2026-10-23T15:00Z",
+  "error": "HTTPSConnectionPool(host='www.wearablefans.com', port=443): Read timed out. (read timeout=20)"
  },
  "SammyGuru": {
   "ok": true,
