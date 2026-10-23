@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Athletech News: Wearable Maker Coros Aims to Conquer the Climbing Market</title>
+<link>https://athletechnews.com/coros-sender-one-climbing-wearables-partnership/</link>
+<guid isPermaLink="true">https://athletechnews.com/coros-sender-one-climbing-wearables-partnership/</guid>
+<description>The smartwatch maker will use Sender One Climbing's coaching expertise to inform how it tracks climbers as wearables push beyond heart rate into sport-specific data</description>
+<category>watches, other_wearables</category>
+<pubDate>Fri, 23 Oct 2026 14:52:26 +0000</pubDate>
+</item>
+<item>
 <title>Wareable: Oura files fresh lawsuit against Ultrahuman to block US sales of Ring Pro</title>
 <link>https://www.wareable.com/wearable-tech/oura-ultrahuman-smart-ring-pro-lawsuit-alleged-patent-infringement</link>
 <guid isPermaLink="true">https://www.wareable.com/wearable-tech/oura-ultrahuman-smart-ring-pro-lawsuit-alleged-patent-infringement</guid>
@@ -795,13 +803,5 @@
 <description>An otherwise practical feature on Garmin smartwatches comes with a noticeable drawback. Keeping the wearables constantly listening for a wake word to activate voice controls significantly impacts battery endurance across multiple models.</description>
 <category>watches, other_wearables</category>
 <pubDate>Mon, 19 Oct 2026 12:50:00 +0000</pubDate>
-</item>
-<item>
-<title>TechRadar: This Garmin feature is killing users’ battery life — here’s how to disable it</title>
-<link>https://www.techradar.com/health-fitness/smartwatches/this-garmin-feature-is-killing-users-battery-life-heres-how-to-disable-it-and-get-more-juice-from-your-smartwatch</link>
-<guid isPermaLink="true">https://www.techradar.com/health-fitness/smartwatches/this-garmin-feature-is-killing-users-battery-life-heres-how-to-disable-it-and-get-more-juice-from-your-smartwatch</guid>
-<description>Garmin’s new voice activation feature seems to be killing users’ battery life.</description>
-<category>watches</category>
-<pubDate>Mon, 19 Oct 2026 11:32:11 +0000</pubDate>
 </item>
 </channel></rss>
