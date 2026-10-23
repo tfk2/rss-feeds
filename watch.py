@@ -9,6 +9,7 @@ date (Wareable) still get a usable "how new is this" time.
 import json
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from html import unescape
@@ -44,15 +45,54 @@ def entry_time(e):
     return datetime(*t[:6], tzinfo=timezone.utc) if t else None
 
 
-def read_rss(src):
+def fetch(url, params=None, tries=2):
+    """GET with one retry, for sites whose server times out or errors now and then."""
+    for attempt in range(tries):
+        try:
+            r = requests.get(url, headers=HEADERS, params=params, timeout=20)
+            r.raise_for_status()
+            return r.content
+        except requests.RequestException:
+            if attempt == tries - 1:
+                raise
+            time.sleep(5)
+
+
+def snippet(body):
+    return re.sub(r"\s+", " ", body[:120].decode("utf-8", "replace"))
+
+
+def parse_feed(body):
+    """Parse RSS/Atom, dropping any junk (PHP notices, blank lines) printed before the XML."""
+    start = re.search(rb"<\?xml|<rss|<feed", body)
+    parsed = feedparser.parse(body[start.start():] if start else body)
+    if not parsed.entries:
+        raise ValueError(f"no items (bozo: {parsed.get('bozo_exception', 'none')}; "
+                         f"starts: {snippet(body)!r})")
+    return parsed
+
+
+def parse_json_list(body):
+    """Parse a JSON list, dropping any junk printed before it."""
+    start = body.find(b"[")
+    if start < 0:
+        raise ValueError(f"not JSON (starts: {snippet(body)!r})")
+    try:
+        data = json.loads(body[start:])
+    except ValueError as e:
+        raise ValueError(f"{e} (starts: {snippet(body)!r})") from None
+    if not isinstance(data, list) or not data:
+        raise ValueError(f"no posts (starts: {snippet(body)!r})")
+    return data
+
+
+def read_rss(src, url=None):
     if src["type"] == "local":
         parsed = feedparser.parse((ROOT / src["url"]).read_bytes())
+        if not parsed.entries:
+            raise ValueError(f"no items (bozo: {parsed.get('bozo_exception', 'none')})")
     else:
-        r = requests.get(src["url"], headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        parsed = feedparser.parse(r.content)
-    if not parsed.entries:
-        raise ValueError(f"no items (bozo: {parsed.get('bozo_exception', 'none')})")
+        parsed = parse_feed(fetch(url or src["url"]))
     for e in parsed.entries:
         published = entry_time(e)
         # The local Wareable feed only knows the date; scrape.py stamps it at 12:00.
@@ -69,11 +109,20 @@ def read_rss(src):
 
 
 def read_wp(src):
-    url = src["url"].rstrip("/") + "/wp-json/wp/v2/posts"
-    r = requests.get(url, headers=HEADERS, timeout=30,
-                     params={"per_page": 30, "_fields": "date_gmt,link,title,excerpt"})
-    r.raise_for_status()
-    for p in r.json():
+    """WordPress REST API, falling back to the site's /feed/ if the API fails."""
+    root = src["url"].rstrip("/")
+    try:
+        posts = parse_json_list(fetch(root + "/wp-json/wp/v2/posts",
+                                      {"per_page": 30, "_fields": "date_gmt,link,title,excerpt"}))
+    except Exception as api_error:
+        print(f"     {src['name']}: REST API failed ({api_error}), trying /feed/", file=sys.stderr)
+        try:
+            items = list(read_rss(src, root + "/feed/"))
+        except Exception as feed_error:
+            raise ValueError(f"REST API: {api_error} | /feed/: {feed_error}") from None
+        yield from items
+        return
+    for p in posts:
         yield {
             "title": clean(p["title"]["rendered"]),
             "link": p["link"],
