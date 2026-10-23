@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
+   "link": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
+   "published": "2026-10-23T21:00:10Z",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-23T21:01:32Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch. more…"
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin drops new beta update 24.13 for Fenix 8/8 Pro, Tactix 8, and Enduro 3 models",
