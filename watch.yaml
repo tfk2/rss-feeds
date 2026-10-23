@@ -19,7 +19,7 @@ sources:
   # Specialist sites
   - {name: Wareable, home: https://www.wareable.com/, type: local, url: docs/wareable.xml}
   - {name: DC Rainmaker, home: https://www.dcrainmaker.com/, type: rss, url: https://www.dcrainmaker.com/feed/}
-  - {name: Garmin Rumors, home: https://garminrumors.com/, type: rss, url: https://garminrumors.com/feed/}
+  - {name: Garmin Rumors, home: https://garminrumors.com/, type: wp, url: https://garminrumors.com}
   - {name: Gadgets & Wearables, home: https://gadgetsandwearables.com/, type: rss, url: https://gadgetsandwearables.com/feed/}
   - {name: Zwift Insider, home: https://zwiftinsider.com/, type: rss, url: https://zwiftinsider.com/feed/}
 
