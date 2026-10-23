@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin drops new beta update 24.13 for Fenix 8/8 Pro, Tactix 8, and Enduro 3 models",
+   "link": "https://www.garminnews.com/garmin-drops-new-beta-update-24-13-for-fenix-8-8-pro-tactix-8-and-enduro-3-models/",
+   "published": "2026-10-23T20:35:55Z",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-23T20:40:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started rolling out a new beta software update, version 24.13, for several of its top-tier smartwatches. This release comes just one week after the rollout of the previous beta update 24.12, which brought massive improvements to users. The new 24.13 update is available for the Fenix 8, Fenix 8 Pro, Fenix E, Tactix […] The post Garmin drops new beta update 24.13 for Fenix 8/8 Pro, Tactix"
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
