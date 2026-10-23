@@ -24,6 +24,7 @@ ROOT = Path(__file__).parent
 OUT_JSON = ROOT / "docs" / "watch.json"
 OUT_XML = ROOT / "docs" / "watch.xml"
 OUT_STATUS = ROOT / "docs" / "watch-status.json"  # per-source result of the last run
+GRACE_HOURS = 3  # a source counts as failing only after this long without a good read
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/128.0 Safari/537.36",
@@ -158,6 +159,11 @@ def main():
         previous = {s["link"]: s for s in json.loads(OUT_JSON.read_text())["stories"]}
     except (OSError, ValueError, KeyError):
         previous = {}
+    try:
+        old_status = json.loads(OUT_STATUS.read_text())
+    except (OSError, ValueError):
+        old_status = {}
+    hour = now.strftime("%Y-%m-%dT%H:00Z")  # hour precision, so the file doesn't change every run
 
     stories, failures, status = {}, 0, {}
     for src in cfg["sources"]:
@@ -194,11 +200,18 @@ def main():
                 }
                 kept += 1
             print(f"OK   {src['name']}: kept {kept} of {total}")
-            status[src["name"]] = {"ok": True, "items": total, "kept": kept}
+            status[src["name"]] = {"ok": True, "items": total, "kept": kept, "last_ok": hour}
         except Exception as e:  # one broken source shouldn't stop the rest
             failures += 1
             print(f"FAIL {src['name']}: {e}", file=sys.stderr)
-            status[src["name"]] = {"ok": False, "error": str(e)[:200]}
+            # Sites behind a bot check (Garmin Rumors' SiteGround captcha) block some GitHub
+            # runners and not others, so a single failure loses nothing while the source was
+            # read recently. Only report it as failing after GRACE_HOURS without a good read.
+            last_ok = old_status.get(src["name"], {}).get("last_ok")
+            recent = last_ok and now - datetime.fromisoformat(last_ok.replace("Z", "+00:00")) \
+                < timedelta(hours=GRACE_HOURS)
+            status[src["name"]] = {"ok": bool(recent), "last_ok": last_ok,
+                                   "error": str(e)[:200]}
 
     # Keep stories that have rolled off a busy feed (or whose source failed this run)
     # until they age out, so the hourly task never misses one between runs.
