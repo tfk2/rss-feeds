@@ -10,8 +10,9 @@
   "kept": 1
  },
  "Garmin Rumors": {
-  "ok": false,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "ok": true,
+  "items": 30,
+  "kept": 19
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -49,8 +50,9 @@
   "kept": 2
  },
  "road.cc": {
-  "ok": false,
-  "error": "500 Server Error: Internal Server Error for url: https://road.cc/feed"
+  "ok": true,
+  "items": 25,
+  "kept": 3
  },
  "Cycling Weekly": {
   "ok": true,
