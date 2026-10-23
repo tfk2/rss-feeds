@@ -7,14 +7,17 @@
 #
 # Precise mode (use if simple mode picks up the wrong text):
 #   item:         CSS selector for each story block
-#   item_title:   selector inside the block for the headline link
+#   item_title:   selector inside the block for the headline
+#   item_link:    selector for the story link, if it sits apart from the headline (optional)
 #   excerpt:      selector inside the block for the summary
-#   date:         selector inside the block for the date (optional)
+#   date:         selector inside the block for the date (optional; if missing,
+#                 the date is taken from the article page)
 #
 # Optional extras for any site:
 #   fetch_articles: false   don't open articles (no featured image or first paragraph)
 #   article_body:   CSS selector for the article text, if the first paragraph comes out wrong
 #   max_items:      stories kept in the feed (default 50)
+#   strip_query:    true to drop ?tracking=codes from story links
 
 # One page per feed: use   url: https://...
 # Several pages merged into one feed: use   urls:   with a list (see wareable below).
@@ -39,6 +42,15 @@ sites:
     excerpt: p.text                               # the one-line summary
     date: time
     date_format: "%B %d, %Y"                      # October 12, 2026
+
+  - slug: ccs-insight
+    title: CCS Insight blog
+    url: https://www.ccsinsight.com/blog/
+    item: .fusion-column-wrapper.fusion-column-has-shadow   # each story card
+    item_title: h2                                          # the headline
+    item_link: a[href*="/blog/"]                            # the "Read more" link
+    excerpt: p                                              # the teaser
+    strip_query: true                                       # drop tracking codes from links
 
   # Example of a second site. Remove the # marks and edit to switch it on.
   # - slug: another-site

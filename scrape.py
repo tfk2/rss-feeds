@@ -52,6 +52,11 @@ def parse_date(raw, fmt):
     raw = clean(raw)
     if not raw:
         return None
+    try:  # ISO dates from article metadata, e.g. 2026-10-21T09:00:00+00:00
+        d = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+    except ValueError:
+        pass
     raw = re.sub(r"(\d)(st|nd|rd|th)", r"\1", raw)
     for f in [fmt, "%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y", "%Y-%m-%d"]:
         if not f:
@@ -94,15 +99,22 @@ def simple_mode(soup, site):
 def precise_mode(soup, site):
     items = []
     for block in soup.select(site["item"]):
-        a = block.select_one(site["item_title"])
-        if a and a.name != "a":
-            a = a.find("a", href=True) or a.find_parent("a", href=True) or a
+        head = block.select_one(site["item_title"])
+        if not head:
+            continue
+        if site.get("item_link"):  # link kept apart from the headline, e.g. "Read more"
+            a = block.select_one(site["item_link"])
+        else:
+            a = head if head.name == "a" else (head.find("a", href=True) or head.find_parent("a", href=True))
         if not a or not a.get("href"):
             continue
         ex = block.select_one(site["excerpt"]) if site.get("excerpt") else None
         dt = block.select_one(site["date"]) if site.get("date") else None
         date_raw = (dt.get("datetime") or dt.get_text()) if dt else None
-        items.append((clean(a.get_text()), urljoin(site["url"], a["href"]),
+        link = urljoin(site["url"], a["href"])
+        if site.get("strip_query"):  # drop tracking codes so each story has one address
+            link = link.split("?")[0].split("#")[0]
+        items.append((clean(head.get_text()), link,
                       clean(ex.get_text()) if ex else "", date_raw))
     return items
 
@@ -128,7 +140,10 @@ def article_details(url, site, excerpt):
         if len(text) >= 80 and text != excerpt:  # skip captions, bylines and the standfirst
             para = text
             break
-    return {"image": urljoin(url, image) if image else "", "para": para}
+    published = meta(soup, "article:published_time") or meta(soup, "og:updated_time")
+    if not published and (t := soup.find("time", attrs={"datetime": True})):
+        published = t["datetime"]
+    return {"image": urljoin(url, image) if image else "", "para": para, "published": published}
 
 
 def attr(text):
@@ -220,7 +235,11 @@ def main():
                         print(f"WARN article {it['link']}: {e}", file=sys.stderr)
                     time.sleep(1)  # be polite to the site
                 it.update(cache.get(it["link"], {}))
+                if not it["date"] and it.get("published"):  # listing shows no date
+                    it["date"] = it["published"]
                 in_use.add(it["link"])
+            unique.sort(key=lambda it: parse_date(it["date"], site.get("date_format")) or epoch,
+                        reverse=True)
             (OUT / f"{site['slug']}.xml").write_text(build_feed(site, unique), encoding="utf-8")
             print(f"OK   {site['slug']}: {len(unique)} stories")
         except Exception as e:  # keep going so one broken site doesn't stop the rest
