@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
+   "link": "https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
+   "published": "2026-10-23T18:36:47Z",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-23T18:40:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app. more…"
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "Smart ring battle: Oura and Ultrahuman are in court again over a 'patent infringement'",
@@ -1645,19 +1658,6 @@
     "watches"
    ],
    "excerpt": "Two days ago, we shared an exclusive first look at some leaked pictures of an unreleased Suunto device—the HR264. Since dropping that initial leak, I’ve been digging deeper into global regulatory databases to see where else it’s been showing up. It turns out Suunto is quietly pushing this device through approval processes all over the […] The post Suunto Screenless Band HR264 Hits Regulatory Datab"
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Apple Watch pairing on Android is real but far from ready",
-   "link": "https://gadgetsandwearables.com/2026/10/16/apple-watch-android-pairing-without-iphone/",
-   "published": "2026-10-16T18:34:51Z",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-16T18:40:40Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Someone has finally managed to get an Apple Watch properly paired and activated from an Android phone, with no iPhone The post Apple Watch pairing on Android is real but far from ready appeared first on Gadgets & Wearables ."
   }
  ]
 }
