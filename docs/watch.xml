@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Releases Fenix 9 and 9 Pro Series Stable Version 6.73</title>
+<link>https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-73/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-73/</guid>
+<description>Garmin’s stable software update 6.73 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update.</description>
+<category>watches</category>
+<pubDate>Sat, 24 Oct 2026 00:13:07 +0000</pubDate>
+</item>
+<item>
 <title>9to5Google: Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp; more</title>
 <link>https://9to5google.com/2026/10/23/google-health-5-11-release-notes/</link>
 <guid isPermaLink="true">https://9to5google.com/2026/10/23/google-health-5-11-release-notes/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin is pushing software version 4.20 to one of its newer wearables. This stable release brings new heart rate and running-related features to users of the CIRQA Smart Band, alongside bug fixes and improvements.</description>
 <category>watches, other_wearables</category>
 <pubDate>Mon, 19 Oct 2026 17:01:00 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Amazfit smartwatch gets two new updates in quick succession</title>
-<link>https://www.notebookcheck.net/Amazfit-smartwatch-gets-two-new-updates-in-quick-succession.1427866.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Amazfit-smartwatch-gets-two-new-updates-in-quick-succession.1427866.0.html</guid>
-<description>Two firmware updates were recently released for one of Amazfit’s older smartwatches. Versions 6.4.14.1 and 6.4.15.1 bring several new features and improvements to the Balance 2.</description>
-<category>watches</category>
-<pubDate>Mon, 19 Oct 2026 16:57:00 +0000</pubDate>
 </item>
 </channel></rss>

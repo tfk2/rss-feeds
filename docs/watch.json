@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 and 9 Pro Series Stable Version 6.73",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-73/",
+   "published": "2026-10-24T00:13:07Z",
+   "date": "2026-10-24",
+   "first_seen": "2026-10-24T00:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 6.73 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
