@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin fixes map-related bug in update for new smartwatches",
+   "link": "https://www.notebookcheck.net/Garmin-fixes-map-related-bug-in-update-for-new-smartwatches.1433043.0.html",
+   "published": "2026-10-24T20:05:00Z",
+   "date": "2026-10-24",
+   "first_seen": "2026-10-24T20:10:41Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin has announced a new stable update for the recently released Fenix 9 smartwatch. With system software version 6.73, the company has tackled a range of bugs with the wearable’s maps, alarms and a music app."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Releases Stable Update Version 6.73 for Fenix 9/9 Pro Smartwatches",
