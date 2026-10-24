@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases Stable Update Version 6.73 for Fenix 9/9 Pro Smartwatches",
+   "link": "https://www.garminnews.com/garmin-releases-stable-update-version-6-73-for-fenix-9-9-pro-smartwatches/",
+   "published": "2026-10-24T12:27:07Z",
+   "date": "2026-10-24",
+   "first_seen": "2026-10-24T13:01:11Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started sending out a new stable software update for its Fenix 9 and Fenix 9 Pro smartwatches. The new version, labeled 6.73, focuses on fixing several technical glitches that were causing frustration for users during daily use and workouts. Music and Spotify Improvements Music playback receives important stability fixes in this release. Users […] The post Garmin Releases Stable Update "
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Google rolls out big Fitbit update as Pixel Watch Ultra rumours surface",
@@ -1618,19 +1631,6 @@
     "sports_earphones"
    ],
    "excerpt": "Your AirPods will run into trouble sooner or later - that is, unless you take mitigating measures."
-  },
-  {
-   "source": "The Verge",
-   "source_home": "https://www.theverge.com/",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "published": "2026-10-17T13:00:00Z",
-   "date": "2026-10-17",
-   "first_seen": "2026-10-17T13:10:37Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]"
   }
  ]
 }
