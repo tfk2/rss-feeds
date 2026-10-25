@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "Are people relying too heavily on AI to evaluate their fitness, and could wearables be promoting unhealthy eating habits? I spoke to a leading sports dietitian to find out",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/are-people-relying-too-heavily-on-ai-to-evaluate-their-fitness-and-could-wearables-be-promoting-unhealthy-eating-habits-i-spoke-to-a-leading-sports-dietitian-to-find-out",
+   "published": "2026-10-25T10:30:00Z",
+   "date": "2026-10-25",
+   "first_seen": "2026-10-25T10:40:41Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Wearables are a part of our everyday lives, but should we be taking everything they tell us as gospel? This is what a sports nutritionist had to say."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin delivers more than a dozen changes to high-end smartwatches with new update",
