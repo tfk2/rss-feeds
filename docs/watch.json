@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "macOS 27.2: Siri AI learns five new languages, but German is still missing",
+   "link": "https://www.notebookcheck.net/macOS-27-2-Siri-AI-learns-five-new-languages-but-German-is-still-missing.1434410.0.html",
+   "published": "2026-10-26T20:12:00Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T20:20:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple has released macOS 27.2 and watchOS 27.2. Siri AI now also understands French, Japanese, Korean, Portuguese and Spanish. German is missing, and in the EU the new Siri remains limited to Mac and Vision Pro. iOS 27.2 has yet to arrive."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Approach S72 Stable Version 23.45",
