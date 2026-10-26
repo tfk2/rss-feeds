@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Approach S72 Receives First Stable Firmware Update (Version 23.45): What’s New?",
+   "link": "https://www.garminnews.com/garmin-approach-s72-receives-first-stable-firmware-update-version-23-45-whats-new/",
+   "published": "2026-10-26T20:14:14Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T21:20:40Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin has started rolling out firmware version 23.45 for the Approach S72 smartwatch. This release marks the very first stable software update delivered to the brand’s golf-focused wearable since its launch. What is Fixed in Version 23.45 The update brings key bug fixes designed to improve basic tracking stability and system reliability. Most notably, Garmin […] The post Garmin Approach S72 Recei"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "macOS 27.2: Siri AI learns five new languages, but German is still missing",
