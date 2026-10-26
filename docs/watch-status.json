@@ -25,8 +25,9 @@
  },
  "Zwift Insider": {
   "ok": true,
-  "last_ok": "2026-10-26T18:00Z",
-  "error": "HTTPSConnectionPool(host='zwiftinsider.com', port=443): Read timed out. (read timeout=20)"
+  "items": 10,
+  "kept": 6,
+  "last_ok": "2026-10-26T19:00Z"
  },
  "Garmin News": {
   "ok": true,
