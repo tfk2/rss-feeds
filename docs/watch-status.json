@@ -97,8 +97,9 @@
  },
  "Tom's Guide": {
   "ok": true,
-  "last_ok": "2026-10-26T14:00Z",
-  "error": "HTTPSConnectionPool(host='www.tomsguide.com', port=443): Read timed out. (read timeout=20)"
+  "items": 50,
+  "kept": 1,
+  "last_ok": "2026-10-26T14:00Z"
  },
  "9to5Google": {
   "ok": true,
