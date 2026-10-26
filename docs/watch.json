@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Xiaomi releases new budget smartwatch in Europe with optional NFC and 21 days battery life",
+   "link": "https://www.notebookcheck.net/Xiaomi-releases-new-budget-smartwatch-in-Europe-with-optional-NFC-and-21-days-battery-life.1434054.0.html",
+   "published": "2026-10-26T16:37:00Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T16:50:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Xiaomi has released one of its latest smartwatches in more markets. Now available in Europe, the Smart Band 11 can be purchased with optional NFC connectivity. Both the Smart Band 11 and Smart Band 11 NFC leverage a 2,000-nit AMOLED display, up to 21 days of battery life and are available in multiple colours."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "All About Zwift’s “Wild Isles” Watopia Expansion",
