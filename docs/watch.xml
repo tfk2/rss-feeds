@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Releases Approach S72 Stable Version 23.45</title>
+<link>https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-45/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-45/</guid>
+<description>Garmin’s stable software update 23.45 is rolling out to the Approach S72. See the full changelog and how to update.</description>
+<category>watches</category>
+<pubDate>Mon, 26 Oct 2026 18:52:32 +0000</pubDate>
+</item>
+<item>
 <title>9to5Google: Google’s new Metal Mesh Fitbit Air band is more versatile than you think</title>
 <link>https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/</link>
 <guid isPermaLink="true">https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/</guid>
@@ -589,19 +597,19 @@
 <pubDate>Wed, 21 Oct 2026 14:33:00 +0000</pubDate>
 </item>
 <item>
-<title>Zwift Insider: Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)</title>
-<link>https://zwiftinsider.com/zrl-r20-w6/</link>
-<guid isPermaLink="true">https://zwiftinsider.com/zrl-r20-w6/</guid>
-<description>Our first race ever on this route created for ZRL!</description>
-<category>sports_software</category>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Notebookcheck: Honor Watch Fit 6 launches as brazen copy of the Apple Watch Ultra 4</title>
 <link>https://www.notebookcheck.net/Honor-Watch-Fit-6-launches-as-brazen-copy-of-the-Apple-Watch-Ultra-4.1430202.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/Honor-Watch-Fit-6-launches-as-brazen-copy-of-the-Apple-Watch-Ultra-4.1430202.0.html</guid>
 <description>The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life.</description>
 <category>watches</category>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Zwift Insider: Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)</title>
+<link>https://zwiftinsider.com/zrl-r20-w6/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/zrl-r20-w6/</guid>
+<description>Our first race ever on this route created for ZRL!</description>
+<category>sports_software</category>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
@@ -795,13 +803,5 @@
 <description>Priced at £859.99, the Nēra removes the need for an expensive extra adapter to connect over WiFi - but the additional movement while you pedal is now not optional as it was on the Tacx Neo 3M</description>
 <category>watches, cycling_computers</category>
 <pubDate>Tue, 20 Oct 2026 12:48:16 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: New high-end Garmin cycling computer launches globally with GPS and voice controls</title>
-<link>https://www.notebookcheck.net/New-high-end-Garmin-cycling-computer-launches-globally-with-GPS-and-voice-controls.1429151.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/New-high-end-Garmin-cycling-computer-launches-globally-with-GPS-and-voice-controls.1429151.0.html</guid>
-<description>Garmin has released a new flagship bike computer. Replacing the two-year-old Edge 1050, the new Garmin Edge 1060 surpasses its predecessor with voice command support and Garmin Messenger integration, among other improvements.</description>
-<category>watches</category>
-<pubDate>Tue, 20 Oct 2026 12:17:00 +0000</pubDate>
 </item>
 </channel></rss>

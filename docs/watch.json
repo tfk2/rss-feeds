@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Approach S72 Stable Version 23.45",
+   "link": "https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-45/",
+   "published": "2026-10-26T18:52:32Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T19:01:16Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 23.45 is rolling out to the Approach S72. See the full changelog and how to update."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Google’s new Metal Mesh Fitbit Air band is more versatile than you think",
@@ -964,19 +977,6 @@
    "excerpt": "Garmin has released a major update revision to its cheapest Forerunner smartwatch. Available globally as a free download, Public Beta Version 19.15 introduces over a dozen changes to the Forerunner 70, including a handful of new features."
   },
   {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)",
-   "link": "https://zwiftinsider.com/zrl-r20-w6/",
-   "published": "2026-10-21T12:00:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T12:31:09Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Our first race ever on this route created for ZRL!"
-  },
-  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Honor Watch Fit 6 launches as brazen copy of the Apple Watch Ultra 4",
@@ -988,6 +988,19 @@
     "watches"
    ],
    "excerpt": "The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life."
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)",
+   "link": "https://zwiftinsider.com/zrl-r20-w6/",
+   "published": "2026-10-21T12:00:00Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T12:31:09Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Our first race ever on this route created for ZRL!"
   },
   {
    "source": "Cycling Weekly",
