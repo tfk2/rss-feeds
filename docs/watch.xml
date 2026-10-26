@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Zwift Insider: All About Zwift’s “Wild Isles” Watopia Expansion</title>
+<link>https://zwiftinsider.com/wild-isles/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/wild-isles/</guid>
+<description>Sweeping ocean views and unexpected wildlife encounters inspired by California’s West Coast.</description>
+<category>sports_software</category>
+<pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Notebookcheck: Garmin CIRQA competitor turns into smart ring: Alloop unveils Trio</title>
 <link>https://www.notebookcheck.net/Garmin-CIRQA-competitor-turns-into-smart-ring-Alloop-unveils-Trio.1434177.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/Garmin-CIRQA-competitor-turns-into-smart-ring-Alloop-unveils-Trio.1434177.0.html</guid>
@@ -795,13 +803,5 @@
 <description>Garmin launched the Tacx Nēra, a $999.99 direct-drive smart trainer with built-in movement, sold with a cassette or with Zwift Cog and Click. Orders open October 23.</description>
 <category>watches, cycling_computers, sports_software</category>
 <pubDate>Tue, 20 Oct 2026 11:43:10 +0000</pubDate>
-</item>
-<item>
-<title>Garmin Rumors: Garmin Launches the Edge 1060 With Voice Control</title>
-<link>https://garminrumors.com/garmin-launches-the-edge-1060/</link>
-<guid isPermaLink="true">https://garminrumors.com/garmin-launches-the-edge-1060/</guid>
-<description>Garmin launched the Edge 1060, a $799.99 cycling computer with a microphone for voice commands and voice messages, plus new route options. Orders open October 23.</description>
-<category>watches</category>
-<pubDate>Tue, 20 Oct 2026 11:42:29 +0000</pubDate>
 </item>
 </channel></rss>

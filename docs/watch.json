@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "All About Zwift’s “Wild Isles” Watopia Expansion",
+   "link": "https://zwiftinsider.com/wild-isles/",
+   "published": "2026-10-26T15:00:00Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T15:01:18Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Sweeping ocean views and unexpected wildlife encounters inspired by California’s West Coast."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin CIRQA competitor turns into smart ring: Alloop unveils Trio",
