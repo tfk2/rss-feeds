@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin CIRQA competitor turns into smart ring: Alloop unveils Trio",
+   "link": "https://www.notebookcheck.net/Garmin-CIRQA-competitor-turns-into-smart-ring-Alloop-unveils-Trio.1434177.0.html",
+   "published": "2026-10-26T13:22:00Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T13:31:02Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Anyone who can't decide between Oura and Whoop or between the Amazfit Helio Ring and Strap soon won't have to, as Alloop Trio can be worn on either the finger or the wrist and can be converted from a ring into a wristband in just a few simple steps."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin’s CIRQA Can Now Vibrate for Calls and Notifications",
@@ -1502,32 +1516,6 @@
     "watches"
    ],
    "excerpt": "Acclaimed Japanese marathon champion Suguru Osako’s special edition COROS Pace 4 lasts a whopping 19 days on a single charge, including over 41 hours of real-time GPS tracking. more…"
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases CIRQA Smart Band Stable Version 4.20",
-   "link": "https://garminrumors.com/garmin-releases-cirqa-smart-band-stable-version-4-20/",
-   "published": "2026-10-19T13:25:30Z",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-19T14:10:42Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin’s stable software update 4.20 is rolling out to the CIRQA Smart Band. See the full changelog and how to update."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Tag Heuer looks set to quit smartwatches after ten years",
-   "link": "https://www.wareable.com/smartwatches/tag-heuer-exits-connected-smartwatch-production-report",
-   "published": null,
-   "date": "2026-10-19",
-   "first_seen": "2026-10-19T13:20:45Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Tag Heuer has reportedly ended its decade-long smartwatch experiment, quietly ending production of its Connected smartwatch lineup over the summer. New rumors follow an August report from the French publication La Lettre suggesting the remaining device inventory—like last year's Tag Heuer Connected Caliber E5—will be sold off through 2027. No future generations are being planned, it's said, with l"
   }
  ]
 }

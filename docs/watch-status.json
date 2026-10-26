@@ -14,7 +14,7 @@
  "Garmin Rumors": {
   "ok": true,
   "items": 30,
-  "kept": 20,
+  "kept": 19,
   "last_ok": "2026-10-26T13:00Z"
  },
  "Gadgets & Wearables": {
@@ -80,7 +80,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 26,
+  "kept": 27,
   "last_ok": "2026-10-26T13:00Z"
  },
  "Pocket-lint": {
