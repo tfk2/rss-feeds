@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Google’s new Metal Mesh Fitbit Air band is more versatile than you think",
+   "link": "https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/",
+   "published": "2026-10-26T17:59:20Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T18:01:18Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "A metal mesh band might not be right for every watch or wearable, but I can’t say I don’t love using it on the Fitbit Air. more…"
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "Fitbit Air finally gets 'Health Guardian' in a huge Google Health update in October",
@@ -1488,19 +1502,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released beta version 28.02 for the Fenix 7 and 7 Pro Series. See the full changelog and how to install it."
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Top 5 Zwift Videos: Racing Tips, Zwift RIDE, and Zwift Challenges",
-   "link": "https://zwiftinsider.com/top-videos-302/",
-   "published": "2026-10-19T18:00:00Z",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-19T18:20:44Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "See our favorite Zwifty vids for the week!"
   }
  ]
 }
