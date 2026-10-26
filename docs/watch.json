@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Everything old is new again with the Fitbit Edge",
+   "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+   "published": "2026-10-26T17:00:00Z",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-26T17:10:42Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Xiaomi releases new budget smartwatch in Europe with optional NFC and 21 days battery life",
@@ -1475,20 +1488,6 @@
     "sports_software"
    ],
    "excerpt": "See our favorite Zwifty vids for the week!"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Amazfit smartwatch users get new navigation feature in update",
-   "link": "https://www.notebookcheck.net/Amazfit-smartwatch-users-get-new-navigation-feature-in-update.1428322.0.html",
-   "published": "2026-10-19T17:06:00Z",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-19T17:20:41Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Amazfit is rolling out firmware version 3.25.0.1 for one of its smartwatches. Also known as the October 2026 update, it brings a new navigation tool, alongside improvements linked to the Helio Strap Pro, for users of the Active Max wearable."
   }
  ]
 }
