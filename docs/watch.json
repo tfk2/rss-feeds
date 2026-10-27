@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases New Beta Update 31.68 to Edge 1040, 840, and 540 Bike Computers",
+   "link": "https://www.garminnews.com/garmin-releases-new-beta-update-31-68-to-edge-1040-840-and-540-bike-computers/",
+   "published": "2026-10-27T20:34:46Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T21:20:49Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is rolling out another beta software update, version 31.68, for its previous-generation flagship bike computers, including the Edge 1040, 840, and 540. This release arrives just six days after beta update 31.67 hit devices. That earlier update was a major one, bringing two features originally introduced on the newer Edge 1060 down to the […] The post Garmin Releases New Beta Update 31.68 to"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Pushes New Beta Update 33.15 to Edge 1050, 850, and 550 Bike Computers",
+   "link": "https://www.garminnews.com/garmin-pushes-new-beta-update-33-15-to-edge-1050-850-and-550-bike-computers/",
+   "published": "2026-10-27T20:27:57Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T21:20:49Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is rolling out a brand-new beta software update, version 33.15, for its popular bike computer lineup, including the Edge 1050, 850, and 550. This fresh release comes hot on the heels of beta update 33.13, which landed just six days ago and brought select features from the newer Edge 1060 over to these devices. […] The post Garmin Pushes New Beta Update 33.15 to Edge 1050, 850, and 550 Bike "
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Meet the TechRadar Product of the Year 2026 winners",
@@ -1175,19 +1201,6 @@
     "cycling_computers"
    ],
    "excerpt": "Indoor cycling just got a major upgrade. Garmin has officially announced the brand-new Tacx Nēra, a direct-drive smart trainer designed to give cyclists a much more realistic ride experience right from their living rooms or pain caves. Unlike previous models where you had to buy separate parts to get natural movement, the Nēra comes with […] The post Garmin Tacx Nēra: The $1,000 Smart Trainer That"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Drops Fresh Beta Update 19.15 for Forerunner 170 & 70, and Vivoactive 6: What’s New?",
-   "link": "https://www.garminnews.com/garmin-drops-fresh-beta-update-19-15-for-forerunner-170-70-and-vivoactive-6-whats-new/",
-   "published": "2026-10-20T21:15:55Z",
-   "date": "2026-10-20",
-   "first_seen": "2026-10-20T22:01:04Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has started releasing a new beta software update, version 19.15, for several of its popular smartwatches. The new patch is currently available for users running beta software on the Forerunner 170, Forerunner 70, and Vivoactive 6 models. This update focuses heavily on fixing system bugs, improving overall performance, and refining daily health and fitness […] The post Garmin Drops Fresh Bet"
   }
  ]
 }
