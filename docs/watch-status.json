@@ -31,9 +31,8 @@
  },
  "Garmin News": {
   "ok": true,
-  "items": 12,
-  "kept": 11,
-  "last_ok": "2026-10-27T07:00Z"
+  "last_ok": "2026-10-27T07:00Z",
+  "error": "HTTPSConnectionPool(host='www.garminnews.com', port=443): Read timed out. (read timeout=20)"
  },
  "Wearable Fans": {
   "ok": true,
