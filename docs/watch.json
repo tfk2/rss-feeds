@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Messenger raises privacy concerns over recycled phone numbers",
+   "link": "https://gadgetsandwearables.com/2026/10/27/garmin-messenger-recycled-phone-numbers/",
+   "published": "2026-10-27T22:42:17Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T22:51:06Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "This is one of those things that sounds harmless at first. A Garmin Messenger user says they installed the app The post Garmin Messenger raises privacy concerns over recycled phone numbers appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Releases New Beta Update 31.68 to Edge 1040, 840, and 540 Bike Computers",
