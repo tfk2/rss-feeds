@@ -42,6 +42,19 @@
   {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Climb Portal Schedule",
+   "link": "https://zwiftinsider.com/climb-portal-schedule/",
+   "published": "2026-10-27T18:00:00Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T22:01:08Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Which climbs are featured today?"
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
    "title": "Zwift Course Calendar – Current Guest World Schedule",
    "link": "https://zwiftinsider.com/schedule/",
    "published": "2026-10-27T17:00:00Z",
@@ -1148,19 +1161,6 @@
    "excerpt": "Garmin has released a major update revision to its cheapest Forerunner smartwatch. Available globally as a free download, Public Beta Version 19.15 introduces over a dozen changes to the Forerunner 70, including a handful of new features."
   },
   {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)",
-   "link": "https://zwiftinsider.com/zrl-r20-w6/",
-   "published": "2026-10-21T12:00:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T12:31:09Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Our first race ever on this route created for ZRL!"
-  },
-  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Honor Watch Fit 6 launches as brazen copy of the Apple Watch Ultra 4",
@@ -1172,6 +1172,19 @@
     "watches"
    ],
    "excerpt": "The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life."
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)",
+   "link": "https://zwiftinsider.com/zrl-r20-w6/",
+   "published": "2026-10-21T12:00:00Z",
+   "date": "2026-10-21",
+   "first_seen": "2026-10-21T12:31:09Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Our first race ever on this route created for ZRL!"
   },
   {
    "source": "Cycling Weekly",
