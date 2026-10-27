@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Valkey and the Hidden Foundations of the Digital Enterprise</title>
+<link>https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider the databases, caches and other software components working behind the scenes. Yet when those foundations struggle, the consequences become very visible indeed.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" medium="image"/>
+<pubDate>Tue, 27 Oct 2026 17:01:34 +0000</pubDate>
+</item>
+<item>
 <title>Apple’s iPhone Duo Marks a New Chapter in Foldable Smartphones</title>
 <link>https://www.ccsinsight.com/blog/apples-iphone-duo-marks-a-new-chapter-in-foldable-smartphones/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/apples-iphone-duo-marks-a-new-chapter-in-foldable-smartphones/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/07/AI_uplink_speeds.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MWC Shanghai in June 2026 highlighted optimism for the future. This year's event centred on the path to 6G, including the role of 5G-Advanced as a stepping stone, and AI ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;MWC Shanghai in June 2026 highlighted optimism for the future. This year’s event centred on the path to 6G, including the role of 5G-Advanced as a stepping stone, and AI everywhere. As at many recent events, there were numerous robots at the show, including predominantly humanoid models.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/07/AI_uplink_speeds.png" medium="image"/>
 <pubDate>Tue, 21 Jul 2026 08:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Why the 6 GHz Band Needs to Be Deployed for Mobile Services Now</title>
-<link>https://www.ccsinsight.com/blog/why-the-6-ghz-band-needs-to-be-deployed-for-mobile-services-now/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/why-the-6-ghz-band-needs-to-be-deployed-for-mobile-services-now/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/07/Spectrum_6-GHz_mobile.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Having access to large quantities of wireless spectrum capacity is essential to support large numbers of mobile users. Without sufficient capacity, networks become congested, speeds and error rates worsen, and ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Having access to large quantities of wireless spectrum capacity is essential to support large numbers of mobile users. Without sufficient capacity, networks become congested, speeds and error rates worsen, and users complain. But finding new spectrum that’s available globally is becoming increasingly difficult.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/07/Spectrum_6-GHz_mobile.png" medium="image"/>
-<pubDate>Mon, 20 Jul 2026 09:50:51 +0000</pubDate>
 </item>
 </channel></rss>
