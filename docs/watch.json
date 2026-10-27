@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Meet the TechRadar Product of the Year 2026 winners",
+   "link": "https://www.techradar.com/tech/techradar-product-of-the-year-awards-2026-winners",
+   "published": "2026-10-27T20:05:44Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T20:10:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The top tech of 2026, chosen by our experts — ranging from phones to cameras, to TVs, to speakers, to robo vacs, to smartwatches"
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Zwift Course Calendar – Current Guest World Schedule",
@@ -1201,19 +1214,6 @@
     "watches"
    ],
    "excerpt": "Garmin has officially started rolling out its latest beta software build, version 19.15, for its flagship rectangular smartwatch, the Venu X1. The new patch arrives packed with an extensive list of system-wide refinements, bug fixes, and usability updates designed to enhance daily health tracking, sport performance, and interface stability. Smarter Workout Enhancements and Audio Tweaks […] The pos"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Venu 4 Receives Fresh Beta Update 19.15: What’s New?",
-   "link": "https://www.garminnews.com/garmin-venu-4-receives-fresh-beta-update-19-15-for-venu-4-whats-new/",
-   "published": "2026-10-20T20:06:37Z",
-   "date": "2026-10-20",
-   "first_seen": "2026-10-20T20:50:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has officially started rolling out its latest beta software update, version 19.15, for the Venu 4 smartwatch. The fresh patch packs a wide range of system fixes, interface tweaks, and performance upgrades aimed at making day-to-day health tracking and daily workouts run much smoother. Smarter Workout Enhancements and Audio Fixes This release introduces several […] The post Garmin Venu 4 Rec"
   }
  ]
 }
