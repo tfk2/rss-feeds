@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Strava improves its mapping, route planning and strength training features",
+   "link": "https://www.techradar.com/health-fitness/fitness-apps/stravas-latest-update-adds-improved-route-discovery-and-planning-to-help-you-get-going-in-the-great-outdoors",
+   "published": "2026-10-27T00:00:00Z",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-27T00:01:10Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Strava’s newest update has improved its mapping, route planning and strength training features."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Approach S72 Receives First Stable Firmware Update (Version 23.45): What’s New?",

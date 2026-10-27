@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>TechRadar: Strava improves its mapping, route planning and strength training features</title>
+<link>https://www.techradar.com/health-fitness/fitness-apps/stravas-latest-update-adds-improved-route-discovery-and-planning-to-help-you-get-going-in-the-great-outdoors</link>
+<guid isPermaLink="true">https://www.techradar.com/health-fitness/fitness-apps/stravas-latest-update-adds-improved-route-discovery-and-planning-to-help-you-get-going-in-the-great-outdoors</guid>
+<description>Strava’s newest update has improved its mapping, route planning and strength training features.</description>
+<category>sports_software</category>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin News: Garmin Approach S72 Receives First Stable Firmware Update (Version 23.45): What’s New?</title>
 <link>https://www.garminnews.com/garmin-approach-s72-receives-first-stable-firmware-update-version-23-45-whats-new/</link>
 <guid isPermaLink="true">https://www.garminnews.com/garmin-approach-s72-receives-first-stable-firmware-update-version-23-45-whats-new/</guid>
@@ -795,13 +803,5 @@
 <description>Amazon's new Bee AI wearables and their shopping integrations may be more alienating than appealing</description>
 <category>other_wearables</category>
 <pubDate>Tue, 20 Oct 2026 13:15:00 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Antigravity A1: The 360° drone gets a controller, smartwatch control and LTE</title>
-<link>https://www.notebookcheck.net/Antigravity-A1-The-360-drone-gets-a-controller-smartwatch-control-and-LTE.1427909.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Antigravity-A1-The-360-drone-gets-a-controller-smartwatch-control-and-LTE.1427909.0.html</guid>
-<description>The Antigravity A1 is getting powerful new control options. These additions make the intriguing 360° drone significantly more versatile, enabling solo sports filming without needing a spotter.</description>
-<category>watches</category>
-<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 </channel></rss>
