@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Inside Amazon’s Echo hardware event",
+   "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+   "published": "2026-10-28T12:46:42Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T12:50:42Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it […]"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Oura confirms Ring 4 sync bug after firmware update",
