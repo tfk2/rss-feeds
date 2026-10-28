@@ -56,7 +56,7 @@
  "Bikerumor": {
   "ok": true,
   "items": 10,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-10-28T21:00Z"
  },
  "road.cc": {
