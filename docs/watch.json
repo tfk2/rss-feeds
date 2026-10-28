@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Garmin’s Fitness Revenue Jumps 25% After Screenless Wearable Launch",
+   "link": "https://athletechnews.com/garmin-fitness-revenue-jumps-25-percent-after-screenless-wearable-cirqa-launch/",
+   "published": "2026-10-28T16:31:24Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T16:40:43Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "The wearable giant's fitness business continues to outperform, as its new $200 Cirqa band and recent acquisitions signal bigger ambitions in the segment"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin hints at higher watch prices heading into 2027",
