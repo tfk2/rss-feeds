@@ -26,7 +26,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 5,
+  "kept": 4,
   "last_ok": "2026-10-28T16:00Z"
  },
  "Garmin News": {
@@ -80,7 +80,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 20,
+  "kept": 19,
   "last_ok": "2026-10-28T16:00Z"
  },
  "Pocket-lint": {

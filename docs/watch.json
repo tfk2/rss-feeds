@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin admits in latest earnings call CIRQA demand caught it by surprise",
+   "link": "https://gadgetsandwearables.com/2026/10/28/garmin-cirqa-fenix-9-demand/",
+   "published": "2026-10-28T16:05:45Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T16:10:44Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin has a rather nice problem on its hands. Demand for its new CIRQA Smart Band has been stronger than The post Garmin admits in latest earnings call CIRQA demand caught it by surprise appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Oura's latest clinical trial uses smart rings to track GLP-1 outcomes",
@@ -1200,32 +1214,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released beta version 16.07 for the Instinct 3 Series. See the full changelog and how to install it."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "New affordable smartwatch promises offline maps, an LED flashlight and 100+ sports modes",
-   "link": "https://www.notebookcheck.net/New-affordable-smartwatch-promises-offline-maps-an-LED-flashlight-and-100-sports-modes.1430036.0.html",
-   "published": "2026-10-21T16:05:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T21:20:43Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Rollme has launched the Hero K1, a $59.99 rugged smartwatch with a 1.46-inch HD display, a 1,200mAh battery, 5ATM water resistance, and an aerospace-grade aluminum alloy bezel. It supports imported offline maps with turn-by-turn navigation and return guidance, carries a compass, and tracks more than 100 sports modes alongside heart rate, blood oxygen and sleep stages."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "New rugged smartwatch promises offline maps, an LED flashlight and 100+ sports modes",
-   "link": "https://www.notebookcheck.net/New-rugged-smartwatch-promises-offline-maps-an-LED-flashlight-and-100-sports-modes.1430036.0.html",
-   "published": "2026-10-21T16:05:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T16:20:45Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Rollme has launched the Hero K1, a $59.99 rugged smartwatch with a 1.46-inch HD display, a 1,200mAh battery, 5ATM water resistance, and an aerospace-grade aluminum alloy bezel. It supports imported offline maps with turn-by-turn navigation and return guidance, carries a compass, and tracks more than 100 sports modes alongside heart rate, blood oxygen and sleep stages."
   }
  ]
 }
