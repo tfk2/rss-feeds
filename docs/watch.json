@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin wearables power another record quarter as 2026 guidance rises",
+   "link": "https://gadgetsandwearables.com/2026/10/28/garmin-q3-2026-earnings-wearables-growth/",
+   "published": "2026-10-28T11:56:17Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T12:01:11Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin is still having a very good year. Its latest quarterly numbers are in, and once again watches and wearables The post Garmin wearables power another record quarter as 2026 guidance rises appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I wore the Apple Watch Ultra 4 and the Garmin Fenix 9 Pro for a marathon, and this watch won by miles",
@@ -1199,32 +1213,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released a major update revision to its cheapest Forerunner smartwatch. Available globally as a free download, Public Beta Version 19.15 introduces over a dozen changes to the Forerunner 70, including a handful of new features."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Honor Watch Fit 6 launches as brazen copy of the Apple Watch Ultra 4",
-   "link": "https://www.notebookcheck.net/Honor-Watch-Fit-6-launches-as-brazen-copy-of-the-Apple-Watch-Ultra-4.1430202.0.html",
-   "published": "2026-10-21T12:00:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T12:10:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life."
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Zwift Racing League Week 6 Guide: Spiral Summit (Points Race)",
-   "link": "https://zwiftinsider.com/zrl-r20-w6/",
-   "published": "2026-10-21T12:00:00Z",
-   "date": "2026-10-21",
-   "first_seen": "2026-10-21T12:31:09Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Our first race ever on this route created for ZRL!"
   }
  ]
 }
