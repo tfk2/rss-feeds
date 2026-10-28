@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Samsung's open-ear Galaxy Buds On hit the US soon for $229",
+   "link": "https://www.androidcentral.com/accessories/earbuds/samsungs-open-ear-galaxy-buds-on-hit-the-us-soon-for-usd229",
+   "published": "2026-10-28T13:48:58Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T13:50:45Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "The Galaxy Buds On are Samsung's first open-ear buds, and they launch next week."
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "Inside Amazon’s Echo hardware event",
