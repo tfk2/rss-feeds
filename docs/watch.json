@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new updates with multiple improvements for over half a dozen devices",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-updates-with-multiple-improvements-for-over-half-a-dozen-devices.1436385.0.html",
+   "published": "2026-10-28T17:09:00Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T17:20:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released new updates to multiple devices. Rolling out globally, the new updates are currently in beta and promise to improve over half a dozen devices in various ways. The Edge MTB and Edge 1050 are included, as are older bike computers like the Edge 540 and Edge 840."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Garmin’s fitness and outdoor wearables drive record Q3 revenue",
@@ -13,6 +26,20 @@
     "other_wearables"
    ],
    "excerpt": "Garmin has capped off a stellar third quarter with record consolidated revenue of $1.99 billion, representing a 12% year-over-year increase driven heavily by booming demand across its fitness, outdoor, and marine divisions. Garmin has capped off a stellar third quarter with record consolidated revenue of $1.99 billion—a 12% year-over-year increase—driven largely by booming demand across its fitnes"
+  },
+  {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Garmin Fitness Revenue Climbs 16% After Screenless Wearable Launch",
+   "link": "https://athletechnews.com/garmin-fitness-revenue-jumps-16-percent-after-screenless-wearable-cirqa-launch/",
+   "published": "2026-10-28T16:31:24Z",
+   "date": "2026-10-28",
+   "first_seen": "2026-10-28T17:20:44Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "The wearable technology giant posted another strong quarter for its fitness business, with its new screenless smart band positioning it to compete more directly with Whoop"
   },
   {
    "source": "Athletech News",
