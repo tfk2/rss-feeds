@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Samsung’s advanced sleep apnea detection is coming to these Galaxy wearables",
+   "link": "https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/",
+   "published": "2026-10-29T15:46:23Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T15:50:42Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November. more…"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Soundpeats CC3 Pro brings dual-driver audio to $70 clip-on earbuds",
