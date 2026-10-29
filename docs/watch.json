@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Zwift Plus premium tier arrives with adaptive coaching and real-world video routes",
+   "link": "https://www.wareable.com/cycling/zwift-plus-premium-subscription-tier-adaptive-coaching-video-routes",
+   "published": null,
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T14:20:50Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Zwift has unveiled Zwift Plus, a new premium subscription tier that introduces adaptive coaching and high-definition video routes to the indoor cycling platform. Priced at $29.99 / £26.99 per month (or $299.99 / £269.99), the upgraded membership sits above the standard Zwift tier ($19.99/£17.99 monthly), targeting indoor cyclists seeking more tailored training structure and visual variety."
+  },
+  {
    "source": "road.cc",
    "source_home": "https://road.cc/",
    "title": "Zwift introduces premium Zwift Plus subscription option with personalised coaching and real-world video routes",
@@ -1189,19 +1202,6 @@
     "other_wearables"
    ],
    "excerpt": "If you buy a brand-new flagship watch, you naturally expect it to work with all the major apps right out of the box. Unfortunately, that is rarely how things go in the wearable world. When Garmin launched the Fenix 9 and Fenix 9 Pro, buyers quickly noticed a frustrating omission: Google’s YouTube Music app was […] The post Garmin Fenix 9 Owners Finally Get YouTube Music After a Long Wait appeared "
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Samsung’s new Fitbit competitor just leaked [Video]",
-   "link": "https://9to5google.com/2026/10/22/samsungs-new-fitbit-competitor-just-leaked-video/",
-   "published": "2026-10-22T14:20:00Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T14:40:40Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Samsung has a new Galaxy Fit 4 fitness tracker in the works, and it looks just a bit more like an Apple Watch this time around. more…"
   }
  ]
 }
