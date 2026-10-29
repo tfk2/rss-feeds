@@ -1229,19 +1229,6 @@
     "watches"
    ],
    "excerpt": "Garmin split its Connect Developer Program into Personal access for your own data and Business access with Starter and Enterprise tiers. Here is what each includes."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Connect IQ SDK 9.3 Opens the Microphone, Speaker, and LTE to Garmin Apps",
-   "link": "https://garminrumors.com/connect-iq-sdk-9-3-microphone-speaker-lte/",
-   "published": "2026-10-22T00:56:32Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T01:01:05Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin’s Connect IQ SDK 9.3 lets apps record from the microphone, play audio, and turn on LTE on the Fenix 8 Pro, Fenix 9, and MARQ Gen 3. Here is what the docs say."
   }
  ]
 }
