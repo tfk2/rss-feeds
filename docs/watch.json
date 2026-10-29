@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Amazon Echo Time wants to wake you up at just the right moment",
+   "link": "https://www.notebookcheck.net/Amazon-Echo-Time-wants-to-wake-you-up-at-just-the-right-moment.1437164.0.html",
+   "published": "2026-10-29T15:55:00Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T16:01:09Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Amazon's latest smart alarm clock doesn't just tell you when to wake up. The $199.99 Echo Time uses contactless sleep sensing to estimate when you're sleeping lightly, potentially making mornings a little less painful, without requiring a smartwatch or fitness tracker."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Samsung’s advanced sleep apnea detection is coming to these Galaxy wearables",
@@ -1200,19 +1213,6 @@
     "other_wearables"
    ],
    "excerpt": "Samsung clearly isn’t in the mood to mess with the Galaxy Fit formula. The first proper renders of the Galaxy The post Samsung Galaxy Fit 4 leaks in first proper renders appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin Fenix 9 (Pro) gets fourth music app",
-   "link": "https://www.notebookcheck.net/Garmin-Fenix-9-Pro-gets-fourth-music-app.1431382.0.html",
-   "published": "2026-10-22T15:51:00Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T16:01:14Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "The Garmin Fenix 9 and the Fenix 9 Pro have been compatible with Spotify, Deezer and Amazon Music since their launch in August, and offer 64 GB of storage space to download up to 7,000 tracks and store them directly on the smartwatch. Now users are getting a fourth streaming app to choose from."
   }
  ]
 }
