@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Globetrotter Challenge Announced: Explore New Zwift Video Routes",
+   "link": "https://zwiftinsider.com/globetrotter-challenge/",
+   "published": "2026-10-29T18:35:10Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T19:01:10Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Ride 10 Zwift Video routes, get XP and other rewards."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Galaxy Fit 4 features revealed via companion app; Samsung's answer to Google's Fitbit Edge",
