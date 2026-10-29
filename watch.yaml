@@ -32,6 +32,20 @@ sources:
   # Blocks GitHub and Claude (403); read it in Inoreader instead.
   #   - {name: Endurance.biz, home: https://endurance.biz/, type: wp, url: https://endurance.biz}   # often a few days behind
 
+  - {name: Endurance Sportswire, home: https://www.endurancesportswire.com/, type: rss, url: https://www.endurancesportswire.com/feed/}
+
+  # Company newsrooms (primary sources)
+  - {name: Garmin Newsroom, home: https://www.garmin.com/en-US/newsroom/, type: rss, url: https://www.garmin.com/en-US/newsroom/feed/}
+  - {name: Apple Newsroom, home: https://www.apple.com/uk/newsroom/, type: rss, url: https://www.apple.com/uk/newsroom/rss-feed.rss, topics: [watches]}
+  - {name: Samsung Newsroom, home: https://news.samsung.com/global/, type: rss, url: https://news.samsung.com/global/feed, topics: [watches, other_wearables]}
+  - {name: Zwift press releases, home: https://news.zwift.com/, type: rss, url: https://news.zwift.com/en-WW/press_releases.atom}
+
+  # Software updates and leaks
+  - {name: Android Authority, home: https://www.androidauthority.com/, type: rss, url: https://www.androidauthority.com/feed/, topics: [watches, sports_software]}
+  - {name: MacRumors, home: https://www.macrumors.com/, type: rss, url: https://feeds.macrumors.com/MacRumors-All, topics: [watches]}
+  - {name: 9to5Mac Apple Watch, home: https://9to5mac.com/, type: rss, url: https://9to5mac.com/guides/apple-watch/feed/, filter: false}
+  - {name: Gizmochina, home: https://www.gizmochina.com/, type: rss, url: https://www.gizmochina.com/feed/, topics: [watches]}
+
   # Cycling
   - {name: Bikerumor, home: https://bikerumor.com/, type: rss, url: https://bikerumor.com/feed/}
   - {name: road.cc, home: https://road.cc/, type: rss, url: https://road.cc/rss}
@@ -46,6 +60,7 @@ sources:
   - {name: 9to5Google, home: https://9to5google.com/, type: rss, url: https://9to5google.com/feed/}
   - {name: WinFuture, home: https://winfuture.de/, type: rss, url: https://static.winfuture.de/feeds/WinFuture-News-rss2.0.xml}   # German
   - {name: The Verge, home: https://www.theverge.com/, type: rss, url: https://www.theverge.com/rss/index.xml}
+  - {name: Engadget, home: https://www.engadget.com/, type: rss, url: https://www.engadget.com/rss.xml, topics: [watches, other_wearables]}
 
 # A story is kept when its title or excerpt matches any topic pattern (case-insensitive
 # regular expressions, whole words) and matches none of the exclude patterns.
