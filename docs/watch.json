@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Venu X2 Wishlist: Release Date and What We Want to See Next",
+   "link": "https://www.garminnews.com/garmin-venu-x2-wishlist-release-date-and-what-we-want-to-see-next/",
+   "published": "2026-10-29T20:46:41Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T21:10:57Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "When Garmin announced and launched the Venu X1 in June 2025, it represented a massive departure from traditional lifestyle wearables. Moving past the mid-range positioning of the older Venu Sq series, the X1 established a new high-end, ultrathin, square form factor, pairing a large 2.0-inch AMOLED display and titanium/sapphire materials with high-end features like built-in […] The post Garmin Venu"
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Globetrotter Challenge Announced: Explore New Zwift Video Routes",
@@ -1328,19 +1342,6 @@
     "other_wearables"
    ],
    "excerpt": "Oura is adding two new fitness features to its smart ring: Cardio Effort, a weekly score for how hard your heart has been working, and a new VO2 Max estimate that no longer needs a walking test. Oura announced both on October 20. Two days later, the Wall Street Journal reported that Oura has passed […]"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Fenix E40R: High-power 5,000-lumens flashlight with USB-C",
-   "link": "https://www.notebookcheck.net/Fenix-E40R-High-power-5-000-lumens-flashlight-with-USB-C.1431455.0.html",
-   "published": "2026-10-22T21:05:00Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T21:10:47Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Fenix has announced a new flashlight with a high-lumen output. According to the manufacturer, the flashlight temporarily produces 5,000 lumens to illuminate a broad area with a range of 242 meters."
   }
  ]
 }
