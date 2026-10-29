@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "Zwift introduces premium Zwift Plus subscription option with personalised coaching and real-world video routes",
+   "link": "https://road.cc/tech-news/zwift-introduces-zwift-plus-subscription-with-personalised-coaching-and-real-world-video-routes",
+   "published": "2026-10-29T14:00:08Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T14:01:12Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Zwift Plus adds adaptive training plans and high-definition video routes to the indoor cycling platform for £26.99/€29.99/$29.99 per month - that's £9/€10/$10 more than the standard subscription price"
+  },
+  {
+   "source": "Bikerumor",
+   "source_home": "https://bikerumor.com/",
+   "title": "New Zwift+ Tier Goes Premium w/ Real-World Videos & Zwift Coach to Offer Personalized Training Guidance",
+   "link": "https://bikerumor.com/new-zwift-plus-tier-premium-video-coach/",
+   "published": "2026-10-29T14:00:00Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T14:01:12Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Zwift acquires Rouvy, introduces Zwift Video, Zwift Coach, and a bunch of other updates. A lot to unpack here..."
+  },
+  {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Burn Boot Camp Launches Personalized Fitness Platform With AI, Wearable Integration",
+   "link": "https://athletechnews.com/burn-boot-camp-personalized-fitness-platform-app-ai-wearable-integration/",
+   "published": "2026-10-29T13:52:40Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T14:01:12Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "The new experience folds into Burn's existing app, creating a wearable-friendly hub that lets members track workouts, nutrition and progress toward goals"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Wareable Readers’ Choice Awards 2026: You pick the winner",
@@ -1137,32 +1176,6 @@
     "watches"
    ],
    "excerpt": "Samsung has a new Galaxy Fit 4 fitness tracker in the works, and it looks just a bit more like an Apple Watch this time around. more…"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Rolls Out New Beta Software Update 16.07 for Instinct 3 Smartwatches",
-   "link": "https://www.garminnews.com/garmin-rolls-out-new-beta-software-update-16-07-for-instinct-3-smartwatches/",
-   "published": "2026-10-22T14:01:06Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T14:50:45Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin is pushing out a new beta update, version 16.07, for several smartwatches in the Instinct lineup. The update targets the Instinct 3 AMOLED, Instinct 3 Solar, Instinct E, and Crossover AMOLED models. The change log for version 16.07 is identical to the previous beta release, version 16.06, but it brings a few notable fixes […] The post Garmin Rolls Out New Beta Software Update 16.07 for Inst"
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Fitbit Edge doesn’t have Google Wallet because ‘less than 1%’ of Charge owners used it",
-   "link": "https://9to5google.com/2026/10/22/fitbit-edge-google-wallet-nfc-explanation/",
-   "published": "2026-10-22T13:55:00Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T14:10:49Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Chicken, meet egg. Google has clarified why it didn’t include NFC and, in turn, Google Wallet support on the Fitbit Edge, and it just boils down to the fact that hardly anyone was using the feature. more…"
   }
  ]
 }
