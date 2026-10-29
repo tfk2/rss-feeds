@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Ultrahuman's Ring Pro arrives in the US—consumers can get it fitted in-store, but only at Best Buy",
+   "link": "https://www.androidcentral.com/wearables/ultrahuman/ultrahumans-ring-pro-arrives-in-the-us",
+   "published": "2026-10-29T16:00:00Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T16:20:43Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Ultrahuman Ring Pro surprises with a sudden U.S. launch after its original debut left the region out."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Amazon Echo Time wants to wake you up at just the right moment",
@@ -1200,19 +1213,6 @@
     "sports_software"
    ],
    "excerpt": "Strava is continuing its packed year of feature rollouts with a major update to its map and route discovery experience, aimed at making it simpler for outdoor enthusiasts to plan, find, and follow outdoor adventures. The latest release follows Strava’s recent strength-training update, which introduced native coach-led workouts, live set-and-rep tracking, and interactive muscle maps."
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Samsung Galaxy Fit 4 leaks in first proper renders",
-   "link": "https://gadgetsandwearables.com/2026/10/22/samsung-galaxy-fit-4-renders-leak/",
-   "published": "2026-10-22T16:15:25Z",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-22T16:20:44Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Samsung clearly isn’t in the mood to mess with the Galaxy Fit formula. The first proper renders of the Galaxy The post Samsung Galaxy Fit 4 leaks in first proper renders appeared first on Gadgets & Wearables ."
   }
  ]
 }
