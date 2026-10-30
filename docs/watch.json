@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Pixelated 123: The primary value is the clock",
+   "link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
+   "published": "2026-10-30T21:00:00Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T21:01:04Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak about the future of RAM prices before turning their attention to Apple one last time to ask… good lord what is happening in there? Enjoy the s"
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "To celebrate our indoor cycling week, why not grab one of the best smart trainers with $200 off at REI",
@@ -1421,19 +1434,6 @@
     "watches"
    ],
    "excerpt": "Garmin’s stable software update 6.73 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update."
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
-   "link": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
-   "published": "2026-10-23T21:00:10Z",
-   "date": "2026-10-23",
-   "first_seen": "2026-10-23T21:01:32Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch. more…"
   }
  ]
 }
