@@ -32,7 +32,7 @@
  "Garmin News": {
   "ok": true,
   "items": 12,
-  "kept": 8,
+  "kept": 7,
   "last_ok": "2026-10-30T20:00Z"
  },
  "Wearable Fans": {
@@ -55,9 +55,8 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "items": 12,
-  "kept": 1,
-  "last_ok": "2026-10-30T20:00Z"
+  "last_ok": "2026-10-30T20:00Z",
+  "error": "HTTPSConnectionPool(host='www.endurancesportswire.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violati"
  },
  "Garmin Newsroom": {
   "ok": true,
