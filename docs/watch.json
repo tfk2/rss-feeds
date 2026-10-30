@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Google confirms Pixel Watch battery drain bug as owners wait for a fix",
+   "link": "https://gadgetsandwearables.com/2026/10/30/google-pixel-watch-battery-drain-fix/",
+   "published": "2026-10-30T10:36:16Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T10:40:41Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "If your Pixel Watch has suddenly started dying before dinner, it may not be the battery getting old. Google has The post Google confirms Pixel Watch battery drain bug as owners wait for a fix appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "How to set up zone 2 cardio training on your Coros Pace 4 (and why you should)",
+   "link": "https://www.tomsguide.com/wellness/smartwatches/how-to-set-up-zone-2-cardio-training-on-your-coros-pace-4-and-why-you-should",
+   "published": "2026-10-30T10:30:00Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T10:40:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Tap into zone 2 training by setting up your zones on your Coros Pace 4 watch."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "The best WHOOP alternative: Comparing recovery-focused fitness trackers",
