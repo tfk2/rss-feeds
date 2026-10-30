@@ -5,6 +5,22 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Central: Strava joins forces with Google Gemini—new insights are rolling out for users</title>
+<link>https://www.androidcentral.com/apps-software/strava-joins-forces-with-google-gemini-new-insights-are-rolling-out-for-users</link>
+<guid isPermaLink="true">https://www.androidcentral.com/apps-software/strava-joins-forces-with-google-gemini-new-insights-are-rolling-out-for-users</guid>
+<description>Strava subscribers bring their workout data to Gemini's Connected Apps experience for new insights that dive into their performance data.</description>
+<category>sports_software</category>
+<pubDate>Fri, 30 Oct 2026 15:42:07 +0000</pubDate>
+</item>
+<item>
+<title>Wearable Fans: Exclusive: Huawei Watch Air Spotted in Indonesian Regulatory Database</title>
+<link>https://www.wearablefans.com/2026/10/30/exclusive-huawei-watch-air-spotted-in-indonesian-regulatory-database/</link>
+<guid isPermaLink="true">https://www.wearablefans.com/2026/10/30/exclusive-huawei-watch-air-spotted-in-indonesian-regulatory-database/</guid>
+<description>While scanning international telecommunications databases today for upcoming wearable hardware, I came across an interesting new filing in Indonesia’s official certification records (SDPPI/DJID). Huawei is preparing to launch a brand-new smartwatch lineup under the marketing name Huawei Watch Air. The certification record directly confirms the official name and model number for the first time, sig</description>
+<category>watches, other_wearables</category>
+<pubDate>Fri, 30 Oct 2026 15:08:02 +0000</pubDate>
+</item>
+<item>
 <title>WinFuture: Pixel Watch: Massive Akku-Probleme betreffen gleich vier Generationen</title>
 <link>https://winfuture.de/news,162319.html</link>
 <guid isPermaLink="true">https://winfuture.de/news,162319.html</guid>
@@ -787,21 +803,5 @@
 <description>Here's my favorite new watchOS 27 feature, and why you should try it.</description>
 <category>watches</category>
 <pubDate>Sat, 24 Oct 2026 08:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Garmin Rumors: Garmin Releases Fenix 9 and 9 Pro Series Stable Version 6.73</title>
-<link>https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-73/</link>
-<guid isPermaLink="true">https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-73/</guid>
-<description>Garmin’s stable software update 6.73 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update.</description>
-<category>watches</category>
-<pubDate>Sat, 24 Oct 2026 00:13:07 +0000</pubDate>
-</item>
-<item>
-<title>9to5Google: Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp; more</title>
-<link>https://9to5google.com/2026/10/23/google-health-5-11-release-notes/</link>
-<guid isPermaLink="true">https://9to5google.com/2026/10/23/google-health-5-11-release-notes/</guid>
-<description>Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch. more…</description>
-<category>watches</category>
-<pubDate>Fri, 23 Oct 2026 21:00:10 +0000</pubDate>
 </item>
 </channel></rss>

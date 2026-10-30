@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Strava joins forces with Google Gemini—new insights are rolling out for users",
+   "link": "https://www.androidcentral.com/apps-software/strava-joins-forces-with-google-gemini-new-insights-are-rolling-out-for-users",
+   "published": "2026-10-30T15:42:07Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T15:50:46Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Strava subscribers bring their workout data to Gemini's Connected Apps experience for new insights that dive into their performance data."
+  },
+  {
+   "source": "Wearable Fans",
+   "source_home": "https://www.wearablefans.com/",
+   "title": "Exclusive: Huawei Watch Air Spotted in Indonesian Regulatory Database",
+   "link": "https://www.wearablefans.com/2026/10/30/exclusive-huawei-watch-air-spotted-in-indonesian-regulatory-database/",
+   "published": "2026-10-30T15:08:02Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T15:50:46Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "While scanning international telecommunications databases today for upcoming wearable hardware, I came across an interesting new filing in Indonesia’s official certification records (SDPPI/DJID). Huawei is preparing to launch a brand-new smartwatch lineup under the marketing name Huawei Watch Air. The certification record directly confirms the official name and model number for the first time, sig"
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "Pixel Watch: Massive Akku-Probleme betreffen gleich vier Generationen",
