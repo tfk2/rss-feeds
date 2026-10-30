@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Gemini’s latest integration can tell you if you’re getting faster, one run at a time",
+   "link": "https://www.androidauthority.com/google-gemini-strava-integration-3729811/",
+   "published": "2026-10-30T04:23:32Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T04:30:53Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "You can now connect Gemini and Strava for personalized fitness and training insights."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "AirPods Max 2 are my Headphones of the Year Award despite their few clear flaws — here's why",
