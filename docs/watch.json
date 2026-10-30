@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "DC Rainmaker",
+   "source_home": "https://www.dcrainmaker.com/",
+   "title": "Garmin Bringing Edge 1060 Features to Older Units: Full Details!",
+   "link": "https://www.dcrainmaker.com/2026/10/garmin-edge-1060-features-to-older-computers.html",
+   "published": "2026-10-30T18:39:31Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T18:40:37Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "When Garmin announced the Edge 1060, they noted the the majority of features would come to existing Edge x50 series devices (Edge 550/850/1050), as well as a handful of features going to older x40 series devices (Edge 540/840/1040/1040 Solar). Heck, … Read More Here →"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Huawei Watch Air moves closer to launch",
@@ -1394,19 +1407,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started rolling out a new beta software update, version 24.13, for several of its top-tier smartwatches. This release comes just one week after the rollout of the previous beta update 24.12, which brought massive improvements to users. The new 24.13 update is available for the Fenix 8, Fenix 8 Pro, Fenix E, Tactix […] The post Garmin drops new beta update 24.13 for Fenix 8/8 Pro, Tactix"
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
-   "link": "https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
-   "published": "2026-10-23T18:36:47Z",
-   "date": "2026-10-23",
-   "first_seen": "2026-10-23T18:40:43Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app. more…"
   }
  ]
 }

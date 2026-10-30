@@ -8,7 +8,7 @@
  "DC Rainmaker": {
   "ok": true,
   "items": 8,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-10-30T18:00Z"
  },
  "Garmin Rumors": {
@@ -158,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 5,
+  "kept": 4,
   "last_ok": "2026-10-30T18:00Z"
  },
  "WinFuture": {
