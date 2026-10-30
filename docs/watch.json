@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "As the RAM crisis bites, has Garmin just hinted at higher prices next year?",
+   "link": "https://www.techradar.com/health-fitness/smartwatches/did-garmin-just-hint-at-higher-prices-next-year-behind-the-scenes-its-ceo-says-pricing-is-one-of-the-things-we-can-look-at-as-the-ram-crisis-begins-to-bite",
+   "published": "2026-10-30T12:56:51Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T13:01:08Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin hints at the increased cost of electronic components beginning to bite — but will this mean increased prices in 2027?"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Amazfit leaves Active 2 and Bip 6 with almost no updates ahead",
