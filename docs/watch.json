@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.14",
+   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-14/",
+   "published": "2026-10-30T17:39:54Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T17:50:42Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 24.14 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
+  },
+  {
    "source": "road.cc",
    "source_home": "https://road.cc/",
    "title": "“Only a matter of time” until more cyclists crash into pedestrians on Oxford Street, planning chief warns as Mail decries “reckless peloton” of kids – but campaigners point to “urgent” need for safe bike routes",
@@ -1380,19 +1393,6 @@
     "watches"
    ],
    "excerpt": "With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app. more…"
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.13",
-   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-13/",
-   "published": "2026-10-23T17:41:52Z",
-   "date": "2026-10-23",
-   "first_seen": "2026-10-23T19:30:56Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released beta version 24.13 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
   }
  ]
 }
