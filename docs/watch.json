@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Health Summit 2026: Montefiore and HeraMED Win, Apollo’s Sangita Reddy Keynotes in Bangkok",
+   "link": "https://garminrumors.com/garmin-health-summit-2026-montefiore-and-heramed-win-apollos-sangita-reddy-keynotes-in-bangkok/",
+   "published": "2026-10-30T23:00:34Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T23:01:02Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "At the 2026 Garmin Health Summit in Bangkok, Montefiore Einstein and HeraMED won the Garmin Health Awards and Apollo Hospitals’ Sangita Reddy gave the keynote."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Apple Watch Ultra 4 falls to $699.99 in first major price cut",
@@ -25,6 +38,19 @@
     "watches"
    ],
    "excerpt": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak about the future of RAM prices before turning their attention to Apple one last time to ask… good lord what is happening in there? Enjoy the s"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 and 9 Pro Series Beta Version 7.13",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-beta-version-7-13/",
+   "published": "2026-10-30T19:42:32Z",
+   "date": "2026-10-30",
+   "first_seen": "2026-10-30T23:01:02Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 7.13 for the Fenix 9 and 9 Pro Series. See the full changelog and how to install it."
   },
   {
    "source": "Cycling Weekly",
