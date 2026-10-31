@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "The latest Apple Watch update promises better treadmill workout tracking — so I tested it",
+   "link": "https://www.techradar.com/health-fitness/smartwatches/the-latest-apple-watch-update-promises-better-than-ever-treadmill-workout-tracking-so-i-tested-it-in-my-gym-against-a-coros-pod-2",
+   "published": "2026-10-31T02:00:00Z",
+   "date": "2026-10-31",
+   "first_seen": "2026-10-31T02:10:36Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Is the Apple Watch accurate to track your treadmill runs? I tested its distance tracking against a foot-mounted Coros Pod 2"
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "The Luna Band is exactly what the fitness tracker world is missing, but I wouldn't buy one yet — here's why",
