@@ -31,9 +31,8 @@
  },
  "Garmin News": {
   "ok": true,
-  "items": 12,
-  "kept": 7,
-  "last_ok": "2026-10-31T11:00Z"
+  "last_ok": "2026-10-31T11:00Z",
+  "error": "522 Server Error: <none> for url: https://www.garminnews.com/feed/"
  },
  "Wearable Fans": {
   "ok": true,
