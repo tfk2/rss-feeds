@@ -31,8 +31,9 @@
  },
  "Garmin News": {
   "ok": true,
-  "last_ok": "2026-10-31T11:00Z",
-  "error": "522 Server Error: <none> for url: https://www.garminnews.com/feed/"
+  "items": 12,
+  "kept": 7,
+  "last_ok": "2026-10-31T11:00Z"
  },
  "Wearable Fans": {
   "ok": true,
@@ -85,7 +86,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 4,
+  "kept": 3,
   "last_ok": "2026-10-31T11:00Z"
  },
  "MacRumors": {
