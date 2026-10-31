@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Ever Wondered What Is Inside Your Garmin? Meet Garmin Rumors Teardowns",
+   "link": "https://garminrumors.com/ever-wondered-what-is-inside-your-garmin-meet-garmin-rumors-teardowns/",
+   "published": "2026-10-31T18:11:10Z",
+   "date": "2026-10-31",
+   "first_seen": "2026-10-31T18:21:00Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin Rumors now shows the inside of 203 Garmin watches and handhelds, with the processor, GPS, wireless, memory and battery chips identified from the FCC photos."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Beta Update 7.13 Adds Pack Weight Tracking and New Features to Fenix 9/9 Pro and Enduro 4",
