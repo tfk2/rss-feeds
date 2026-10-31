@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "The Luna Band is exactly what the fitness tracker world is missing, but I wouldn't buy one yet — here's why",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/the-luna-band-is-exactly-what-the-fitness-tracker-world-is-missing-but-i-wouldnt-buy-one-yet-heres-why",
+   "published": "2026-10-31T00:40:52Z",
+   "date": "2026-10-31",
+   "first_seen": "2026-10-31T00:50:40Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "The Luna Band is a screen-free, subscription-free Whoop alternative fitness tracker with a sleek appearance and functional metrics, but it’s not ready yet."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Is Bringing Edge 1060 Features to the Edge 1050, 850, 550, MTB, and Older Edge Computers",
