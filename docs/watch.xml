@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>WinFuture: iPhone 18 Pro: Nutzer klagen über Probleme bei Bluetooth-Gesprächen</title>
+<link>https://winfuture.de/news,162332.html</link>
+<guid isPermaLink="true">https://winfuture.de/news,162332.html</guid>
+<description>Teures iPhone, schlechte Verbindung? Nutzer des iPhone 18 Pro berichten von dumpfen Stimmen und roboterhaften Gesprächen über AirPods und im Auto. Auch mit iOS 27.2 sollen die Probleme weiter auftreten. ( Weiter lesen )</description>
+<category>sports_earphones</category>
+<pubDate>Sat, 31 Oct 2026 09:16:00 +0000</pubDate>
+</item>
+<item>
 <title>Tom's Guide: I walked 12,000 steps with the Fitbit Edge and the Garmin Forerunner 70, and I wasn’t expecting this result</title>
 <link>https://www.tomsguide.com/wellness/fitness-trackers/i-walked-12-000-steps-with-the-fitbit-edge-and-the-garmin-forerunner-70-and-i-wasnt-expecting-this-result</link>
 <guid isPermaLink="true">https://www.tomsguide.com/wellness/fitness-trackers/i-walked-12-000-steps-with-the-fitbit-edge-and-the-garmin-forerunner-70-and-i-wasnt-expecting-this-result</guid>
@@ -795,13 +803,5 @@
 <description>watchOS 27.2 is rolling out now for Apple Watch users alongside visionOS 27.2 and more. Here’s what’s new. more…</description>
 <category>watches</category>
 <pubDate>Mon, 26 Oct 2026 17:47:47 +0000</pubDate>
-</item>
-<item>
-<title>Android Central: Fitbit Air finally gets 'Health Guardian' in a huge Google Health update in October</title>
-<link>https://www.androidcentral.com/wearables/fitbit/fitbit-air-health-guardian-spearheads-a-huge-google-health-update-in-october</link>
-<guid isPermaLink="true">https://www.androidcentral.com/wearables/fitbit/fitbit-air-health-guardian-spearheads-a-huge-google-health-update-in-october</guid>
-<description>Fitbit Air users are finally receiving Health Guardian in a major Android update for automatic activity and sleep tracking and more.</description>
-<category>watches</category>
-<pubDate>Mon, 26 Oct 2026 17:35:59 +0000</pubDate>
 </item>
 </channel></rss>
