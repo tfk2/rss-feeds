@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>TechRadar: Top tech of the month: the best new gadgets we've tested for November 2026</title>
+<link>https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-november-2026</link>
+<guid isPermaLink="true">https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-november-2026</guid>
+<description>From wonderful wearables to top TVs (plus a foldable phone that was a long time coming), here's the tech that won us over this past month.</description>
+<category>other_wearables</category>
+<pubDate>Sat, 31 Oct 2026 11:02:00 +0000</pubDate>
+</item>
+<item>
 <title>WinFuture: iPhone 18 Pro: Nutzer klagen über Probleme bei Bluetooth-Gesprächen</title>
 <link>https://winfuture.de/news,162332.html</link>
 <guid isPermaLink="true">https://winfuture.de/news,162332.html</guid>
@@ -795,13 +803,5 @@
 <description>Garmin’s stable software update 23.45 is rolling out to the Approach S72. See the full changelog and how to update.</description>
 <category>watches</category>
 <pubDate>Mon, 26 Oct 2026 18:52:32 +0000</pubDate>
-</item>
-<item>
-<title>9to5Google: Google’s new Metal Mesh Fitbit Air band is more versatile than you think</title>
-<link>https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/</link>
-<guid isPermaLink="true">https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/</guid>
-<description>A metal mesh band might not be right for every watch or wearable, but I can’t say I don’t love using it on the Fitbit Air. more…</description>
-<category>watches, other_wearables</category>
-<pubDate>Mon, 26 Oct 2026 17:59:20 +0000</pubDate>
 </item>
 </channel></rss>
