@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Engadget: These Samsung Galaxy Watches won't be getting the new One UI update</title>
+<link>https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/</link>
+<guid isPermaLink="true">https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/</guid>
+<description>Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these.</description>
+<category>other_wearables</category>
+<pubDate>Sat, 31 Oct 2026 17:15:00 +0000</pubDate>
+</item>
+<item>
 <title>Notebookcheck: Garmin releases new update for budget smartwatch with LTE and AMOLED display</title>
 <link>https://www.notebookcheck.net/Garmin-releases-new-update-for-budget-smartwatch-with-LTE-and-AMOLED-display.1439022.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/Garmin-releases-new-update-for-budget-smartwatch-with-LTE-and-AMOLED-display.1439022.0.html</guid>
@@ -795,13 +803,5 @@
 <description>Strava’s newest update has improved its mapping, route planning and strength training features.</description>
 <category>sports_software</category>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Wearable Fans: First Signs of the Polar Vantage V4 Surface in Service and Repair Databases</title>
-<link>https://www.wearablefans.com/2026/10/26/first-signs-of-the-polar-vantage-v4-surface-in-service-and-repair-databases/</link>
-<guid isPermaLink="true">https://www.wearablefans.com/2026/10/26/first-signs-of-the-polar-vantage-v4-surface-in-service-and-repair-databases/</guid>
-<description>If you spend enough time digging through online databases, service logs, and back-end listings, you eventually start finding clues about what manufacturers are working on behind the scenes. Today, while digging through online records, I came across a fresh entry for an unannounced flagship device: the Polar Vantage V4 multisport watch with Advanced Metrics. The […] The post First Signs of the Pola</description>
-<category>watches</category>
-<pubDate>Mon, 26 Oct 2026 23:41:33 +0000</pubDate>
 </item>
 </channel></rss>

@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "These Samsung Galaxy Watches won't be getting the new One UI update",
+   "link": "https://www.engadget.com/2301961/samsung-galaxy-watches-not-getting-one-ui-update/",
+   "published": "2026-10-31T17:15:00Z",
+   "date": "2026-10-31",
+   "first_seen": "2026-10-31T17:20:38Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Samsung has released the latest version of its wearable OS, One UI 9 Watch, and most of its watch lineup will get the update - except these."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update for budget smartwatch with LTE and AMOLED display",
