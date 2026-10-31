@@ -139,9 +139,8 @@
  },
  "Pocket-lint": {
   "ok": true,
-  "items": 10,
-  "kept": 0,
-  "last_ok": "2026-10-31T13:00Z"
+  "last_ok": "2026-10-31T13:00Z",
+  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
  },
  "TechRadar": {
   "ok": true,
