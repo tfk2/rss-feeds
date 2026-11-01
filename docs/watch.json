@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "Here's what your Fitbit heart rate variability actually tells you",
+   "link": "https://www.engadget.com/2300292/what-fitbit-heart-rate-variability-tells-you/",
+   "published": "2026-11-01T16:45:00Z",
+   "date": "2026-11-01",
+   "first_seen": "2026-11-01T16:50:37Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Your Fitbit's HRV reading can offer clues about stress and recovery, but your usual numbers matter more than anyone else's."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "I tested the Google Fitbit Edge against the Garmin Fenix 9 Pro on a 5km run",
