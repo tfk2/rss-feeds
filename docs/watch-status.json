@@ -103,9 +103,8 @@
  },
  "Gizmochina": {
   "ok": true,
-  "items": 40,
-  "kept": 0,
-  "last_ok": "2026-11-01T13:00Z"
+  "last_ok": "2026-11-01T13:00Z",
+  "error": "HTTPSConnectionPool(host='www.gizmochina.com', port=443): Read timed out. (read timeout=20)"
  },
  "Bikerumor": {
   "ok": true,
@@ -176,7 +175,7 @@
  "Engadget": {
   "ok": true,
   "items": 20,
-  "kept": 1,
+  "kept": 2,
   "last_ok": "2026-11-01T13:00Z"
  }
 }
