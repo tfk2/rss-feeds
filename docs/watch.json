@@ -1,6 +1,17 @@
 {
  "stories": [
   {
+   "source": "9to5Mac Apple Watch",
+   "source_home": "https://9to5mac.com/",
+   "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix",
+   "link": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
+   "published": "2026-11-02T13:36:16Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T13:40:43Z",
+   "topics": [],
+   "excerpt": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches , and the problem has occurred again this year. Some users are finding that while the primary time has automatically updated for daylight saving, the always-on display has not … more…"
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "Bottles secured by elastic bands, a top-tube bag, and wireless blips: Gravel Burn setup of a stage winner",
