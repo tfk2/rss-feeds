@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "The Fitbit Edge lacks a useful contactless feature",
+   "link": "https://www.engadget.com/2300348/why-fitbit-edge-lacks-nfc-contactless-payment-feature/",
+   "published": "2026-11-02T15:45:00Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T15:52:35Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "It's handy, but most people likely won't miss it."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin Vivoactive 5 falls to record-low price with $130 off",
