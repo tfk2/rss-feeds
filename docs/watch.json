@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Amazfit’s forgotten smart ring just got a surprisingly big upgrade",
+   "link": "https://www.androidauthority.com/amazfit-helio-ring-hybridcharge-update-3730719/",
+   "published": "2026-11-02T16:35:11Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T16:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "HybridCharge leads the way, with more upgrades planned for other Amazfit wearables."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "This is your rare chance to get a Garmin smartwatch for under $170",
@@ -1760,19 +1773,6 @@
     "watches"
    ],
    "excerpt": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I […]"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Xiaomi releases new budget smartwatch in Europe with optional NFC and 21 days battery life",
-   "link": "https://www.notebookcheck.net/Xiaomi-releases-new-budget-smartwatch-in-Europe-with-optional-NFC-and-21-days-battery-life.1434054.0.html",
-   "published": "2026-10-26T16:37:00Z",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-26T16:50:40Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Xiaomi has released one of its latest smartwatches in more markets. Now available in Europe, the Smart Band 11 can be purchased with optional NFC connectivity. Both the Smart Band 11 and Smart Band 11 NFC leverage a 2,000-nit AMOLED display, up to 21 days of battery life and are available in multiple colours."
   }
  ]
 }
