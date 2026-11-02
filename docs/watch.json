@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wearable Fans",
+   "source_home": "https://www.wearablefans.com/",
+   "title": "Suunto Flex Band (HR264) Appears in Malaysia’s SIRIM Database, Confirming Its Official Name",
+   "link": "https://www.wearablefans.com/2026/11/02/suunto-flex-band-hr264-appears-in-malaysias-sirim-database-confirming-its-official-name/",
+   "published": "2026-11-02T21:14:40Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T21:30:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Remember when we first spotted a mysterious unreleased Suunto device floating around regulatory databases under the code HR264? Well, the puzzle pieces are officially coming together. After breaking the initial leaks and later sharing exclusive live photos of the device along with its price and release window, today another piece of the puzzle dropped. The […] The post Suunto Flex Band (HR264) App"
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Garmin explains the process behind the Fenix 9 Pro and Marq Gen 3's new titanium case",
@@ -1078,19 +1091,6 @@
    "excerpt": "The new experience folds into Burn's existing app, creating a wearable-friendly hub that lets members track workouts, nutrition and progress toward goals"
   },
   {
-   "source": "Athletech News",
-   "source_home": "https://athletechnews.com/",
-   "title": "LeBron James to Promote Whoop Wearables After Decade as User",
-   "link": "https://athletechnews.com/lebron-james-to-promote-whoop-wearables-after-decade-as-user/",
-   "published": "2026-10-29T13:00:00Z",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-29T15:40:41Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Will Ahmed, the company’s founder and chief executive officer, said the work with James will include releasing a limited-edition Whoop band with his input"
-  },
-  {
    "source": "Garmin Newsroom",
    "source_home": "https://www.garmin.com/en-US/newsroom/",
    "title": "Garmin celebrates global digital health innovation at 2026 Garmin Health Summit in Asia",
@@ -1103,6 +1103,19 @@
     "other_wearables"
    ],
    "excerpt": "OLATHE, Kan./Oct. 29, 2026/PR Newswire – Garmin (NYSE: GRMN) today announced the recipients of the 2026 Garmin Health Awards, recognizing groundbreaking digital health solutions. Presented at the conclusion of the annual Garmin Health Summit in Bangkok, the awards honor innovators who successfully utilize the Garmin Health Connected Ecosystem (GHCE), which includes Garmin wearables and the Garmin "
+  },
+  {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "LeBron James to Promote Whoop Wearables After Decade as User",
+   "link": "https://athletechnews.com/lebron-james-to-promote-whoop-wearables-after-decade-as-user/",
+   "published": "2026-10-29T13:00:00Z",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-29T15:40:41Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Will Ahmed, the company’s founder and chief executive officer, said the work with James will include releasing a limited-edition Whoop band with his input"
   },
   {
    "source": "Wareable",
