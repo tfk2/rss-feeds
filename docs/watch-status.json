@@ -13,9 +13,8 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "items": 30,
-  "kept": 7,
-  "last_ok": "2026-11-02T21:00Z"
+  "last_ok": "2026-11-02T21:00Z",
+  "error": "REST API: HTTPSConnectionPool(host='garminrumors.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=30&_fields=date_gmt%2Clink%2Ctitle%2Cexcerpt (Caused by ConnectTimeoutErr"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -55,9 +54,8 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "items": 12,
-  "kept": 0,
-  "last_ok": "2026-11-02T21:00Z"
+  "last_ok": "2026-11-02T21:00Z",
+  "error": "HTTPSConnectionPool(host='www.endurancesportswire.com', port=443): Read timed out. (read timeout=20)"
  },
  "Garmin Newsroom": {
   "ok": true,
@@ -146,7 +144,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-02T21:00Z"
  },
  "Tom's Guide": {
