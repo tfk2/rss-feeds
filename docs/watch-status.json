@@ -55,8 +55,9 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "last_ok": "2026-11-02T21:00Z",
-  "error": "HTTPSConnectionPool(host='www.endurancesportswire.com', port=443): Read timed out. (read timeout=20)"
+  "items": 12,
+  "kept": 0,
+  "last_ok": "2026-11-02T21:00Z"
  },
  "Garmin Newsroom": {
   "ok": true,
