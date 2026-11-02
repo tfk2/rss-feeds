@@ -32,7 +32,7 @@
  "Garmin News": {
   "ok": true,
   "items": 12,
-  "kept": 8,
+  "kept": 7,
   "last_ok": "2026-11-02T20:00Z"
  },
  "Wearable Fans": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 15,
+  "kept": 14,
   "last_ok": "2026-11-02T20:00Z"
  },
  "Pocket-lint": {
