@@ -13,8 +13,9 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "last_ok": "2026-11-02T07:00Z",
-  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
+  "items": 30,
+  "kept": 8,
+  "last_ok": "2026-11-02T07:00Z"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -102,9 +103,8 @@
  },
  "Gizmochina": {
   "ok": true,
-  "items": 40,
-  "kept": 0,
-  "last_ok": "2026-11-02T07:00Z"
+  "last_ok": "2026-11-02T07:00Z",
+  "error": "403 Client Error: Forbidden for url: https://www.gizmochina.com/feed/"
  },
  "Bikerumor": {
   "ok": true,
