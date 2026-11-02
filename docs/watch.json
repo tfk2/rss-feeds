@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Google's Wear OS 'status bar' experiment brings a little more Android flair to watches",
+   "link": "https://www.androidcentral.com/apps-software/wear-os/googles-wear-os-status-bar-experiment-brings-a-little-more-android-flair-to-watches",
+   "published": "2026-11-02T18:49:12Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T19:10:53Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google's next major Wear OS update looks primed to introduce an Android-like \"status bar\" to smartwatches."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Amazfit’s forgotten smart ring just got a surprisingly big upgrade",
