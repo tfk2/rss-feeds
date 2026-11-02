@@ -103,8 +103,9 @@
  },
  "Gizmochina": {
   "ok": true,
-  "last_ok": "2026-11-01T23:00Z",
-  "error": "Exceeded 30 redirects."
+  "items": 40,
+  "kept": 0,
+  "last_ok": "2026-11-02T00:00Z"
  },
  "Bikerumor": {
   "ok": true,
@@ -115,7 +116,7 @@
  "road.cc": {
   "ok": true,
   "items": 25,
-  "kept": 3,
+  "kept": 4,
   "last_ok": "2026-11-02T00:00Z"
  },
  "Cycling Weekly": {

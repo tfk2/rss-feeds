@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "Get set for the indoor season with 10% off the Wahoo KICKR CORE 2, plus a FREE Zwift Training Mat!",
+   "link": "https://road.cc/feature/get-set-indoor-season-10-per-cent-off-wahoo-kickr-core-and-free-training-mat-best-zwift-deals",
+   "published": "2026-11-02T00:01:13Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T00:10:40Z",
+   "topics": [
+    "cycling_computers",
+    "sports_software"
+   ],
+   "excerpt": "Not only can you save 10% on the excellent Wahoo KICKR CORE 2, but you'll also get Zwift's top quality training mat worth £79.99 thrown in - or for those who want a full smart bike set-up, you can still save 10% on the Zwift Ride with KICKR CORE 2"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Speediance Strap Pro gets EDA stress monitoring",
@@ -1684,20 +1698,6 @@
     "other_wearables"
    ],
    "excerpt": "A third-party Android app has added phone call and notification vibrations to the Amazfit Helio Strap, despite Zepp Health not The post Amazfit Helio Strap phone alerts are possible through a third-party app appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "road.cc",
-   "source_home": "https://road.cc/",
-   "title": "Clocks Back, Ride On: You can now save a huge 15% on the Zwift Ride with KICKR CORE 2 and 20% on the Wahoo KICKR CORE 2… but you’ll have to be quick!",
-   "link": "https://road.cc/feature/clocks-back-ride-on-exclusive-zwift-deals-save-15-per-cent-zwift-ride-20-per-cent-kickr-core-2-best-smart-trainers",
-   "published": "2026-10-26T00:01:13Z",
-   "date": "2026-10-26",
-   "first_seen": "2026-10-26T00:03:42Z",
-   "topics": [
-    "cycling_computers",
-    "sports_software"
-   ],
-   "excerpt": "The clocks might have gone back, but your fitness doesn't have to! For 48 hours only, you can take advantage of some of the biggest discounts we've ever seen on the revolutionary Zwift Ride with KICKR CORE 2 smart bike and the Wahoo KICKR CORE smart trainer"
   }
  ]
 }
