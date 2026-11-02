@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "This is your rare chance to get a Garmin smartwatch for under $170",
+   "link": "https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/",
+   "published": "2026-11-02T16:06:27Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T16:11:22Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today. more…"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin’s Newest Premium Watches Reportedly Use Old Chips and Processors",
+   "link": "https://www.garminnews.com/garmins-newest-premium-watches-reportedly-use-old-chips-and-processors/",
+   "published": "2026-11-02T15:59:59Z",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-02T16:11:22Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "When you shell out over a thousand dollars for a brand-new, top-of-the-line Garmin sports watch, you naturally expect everything ticking away inside it to be state-of-the-art. However, recent teardown findings (Via The5KRunner) reveal a surprising secret about popular fitness wearables: major brands often rely on internal components and processors that are several years old. Paying […] The post Ga"
+  },
+  {
    "source": "Engadget",
    "source_home": "https://www.engadget.com/",
    "title": "The Fitbit Edge lacks a useful contactless feature",
