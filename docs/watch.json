@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 165 Series Beta Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-165-series-beta-version-29-52/",
+   "published": "2026-11-03T17:56:25Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:01:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 29.52 for the Forerunner 165 Series. See the full changelog and how to install it."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 265 and 255 Beta Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-265-and-255-beta-version-29-52/",
+   "published": "2026-11-03T17:56:08Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:01:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 29.52 for the Forerunner 265 and 255. See the full changelog and how to install it."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 965 and 955 Beta Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-965-and-955-beta-version-29-52/",
+   "published": "2026-11-03T17:55:49Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:01:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 29.52 for the Forerunner 965 and 955. See the full changelog and how to install it."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin Dash Cam X110 gets a rare $50 discount on Amazon",
@@ -12,6 +51,19 @@
     "watches"
    ],
    "excerpt": "Garmin Dash Cam X110 drops to $149.99 on Amazon with 1080p recording, GPS, voice control, and incident capture."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.15",
+   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-15/",
+   "published": "2026-11-03T17:45:42Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:01:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 24.15 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
   },
   {
    "source": "Notebookcheck",
@@ -1861,19 +1913,6 @@
     "watches"
    ],
    "excerpt": "The top tech of 2026, chosen by our experts — ranging from phones to cameras, to TVs, to speakers, to robo vacs, to smartwatches"
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Zwift Climb Portal Schedule",
-   "link": "https://zwiftinsider.com/climb-portal-schedule/",
-   "published": "2026-10-27T18:00:00Z",
-   "date": "2026-10-27",
-   "first_seen": "2026-10-27T22:01:08Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Which climbs are featured today?"
   }
  ]
 }

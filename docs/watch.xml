@@ -5,12 +5,44 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Releases Forerunner 165 Series Beta Version 29.52</title>
+<link>https://garminrumors.com/garmin-releases-forerunner-165-series-beta-version-29-52/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-forerunner-165-series-beta-version-29-52/</guid>
+<description>Garmin has released beta version 29.52 for the Forerunner 165 Series. See the full changelog and how to install it.</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 17:56:25 +0000</pubDate>
+</item>
+<item>
+<title>Garmin Rumors: Garmin Releases Forerunner 265 and 255 Beta Version 29.52</title>
+<link>https://garminrumors.com/garmin-releases-forerunner-265-and-255-beta-version-29-52/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-forerunner-265-and-255-beta-version-29-52/</guid>
+<description>Garmin has released beta version 29.52 for the Forerunner 265 and 255. See the full changelog and how to install it.</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 17:56:08 +0000</pubDate>
+</item>
+<item>
+<title>Garmin Rumors: Garmin Releases Forerunner 965 and 955 Beta Version 29.52</title>
+<link>https://garminrumors.com/garmin-releases-forerunner-965-and-955-beta-version-29-52/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-forerunner-965-and-955-beta-version-29-52/</guid>
+<description>Garmin has released beta version 29.52 for the Forerunner 965 and 955. See the full changelog and how to install it.</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 17:55:49 +0000</pubDate>
+</item>
+<item>
 <title>Android Authority: Garmin Dash Cam X110 gets a rare $50 discount on Amazon</title>
 <link>https://www.androidauthority.com/garmin-dash-cam-x110-deal-3731325/</link>
 <guid isPermaLink="true">https://www.androidauthority.com/garmin-dash-cam-x110-deal-3731325/</guid>
 <description>Garmin Dash Cam X110 drops to $149.99 on Amazon with 1080p recording, GPS, voice control, and incident capture.</description>
 <category>watches</category>
 <pubDate>Tue, 03 Nov 2026 17:48:57 +0000</pubDate>
+</item>
+<item>
+<title>Garmin Rumors: Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.15</title>
+<link>https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-15/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-15/</guid>
+<description>Garmin has released beta version 24.15 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it.</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 17:45:42 +0000</pubDate>
 </item>
 <item>
 <title>Notebookcheck: Ultra-thin Oppo Watch 5 spotted ahead of launch</title>
@@ -771,37 +803,5 @@
 <description>Zwift has unveiled Zwift Plus, a new premium subscription tier that introduces adaptive coaching and high-definition video routes to the indoor cycling platform. Priced at $29.99 / £26.99 per month (or $299.99 / £269.99), the upgraded membership sits above the standard Zwift tier ($19.99/£17.99 monthly), targeting indoor cyclists seeking more tailored training structure and visual variety.</description>
 <category>sports_software</category>
 <pubDate>Thu, 29 Oct 2026 14:20:50 +0000</pubDate>
-</item>
-<item>
-<title>road.cc: Zwift introduces premium Zwift Plus subscription option with personalised coaching and real-world video routes</title>
-<link>https://road.cc/tech-news/zwift-introduces-zwift-plus-subscription-with-personalised-coaching-and-real-world-video-routes</link>
-<guid isPermaLink="true">https://road.cc/tech-news/zwift-introduces-zwift-plus-subscription-with-personalised-coaching-and-real-world-video-routes</guid>
-<description>Zwift Plus adds adaptive training plans and high-definition video routes to the indoor cycling platform for £26.99/€29.99/$29.99 per month - that's £9/€10/$10 more than the standard subscription price</description>
-<category>sports_software</category>
-<pubDate>Thu, 29 Oct 2026 14:00:08 +0000</pubDate>
-</item>
-<item>
-<title>Zwift press releases: ZWIFT LAUNCHES ZWIFT PLUS SUBSCRIPTION FOR ZWIFTERS WHO WANT MORE</title>
-<link>https://news.zwift.com/en-WW/273805-zwift-launches-zwift-plus-subscription-for-zwifters-who-want-more/</link>
-<guid isPermaLink="true">https://news.zwift.com/en-WW/273805-zwift-launches-zwift-plus-subscription-for-zwifters-who-want-more/</guid>
-<description>Zwift Coach delivers personalized training plans to guide and Zwifters will have more to explore with immersive high-definition Zwift Video routes</description>
-<category>sports_software</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cycling Weekly: No need to cry, but Zwift is now in tiers – new features Zwift Coach and Zwift Video launch as part of Zwift Plus membership option</title>
-<link>https://www.cyclingweekly.com/products/no-need-to-cry-but-zwift-is-now-in-tiers-new-features-zwift-coach-and-zwift-video-launch-as-part-of-zwift-plus-membership-option</link>
-<guid isPermaLink="true">https://www.cyclingweekly.com/products/no-need-to-cry-but-zwift-is-now-in-tiers-new-features-zwift-coach-and-zwift-video-launch-as-part-of-zwift-plus-membership-option</guid>
-<description>Zwift shakes things up with two new product releases as we head into indoor riding season in the Northern Hemisphere</description>
-<category>sports_software</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Bikerumor: New Zwift+ Tier Goes Premium w/ Real-World Videos &amp; Zwift Coach to Offer Personalized Training Guidance</title>
-<link>https://bikerumor.com/new-zwift-plus-tier-premium-video-coach/</link>
-<guid isPermaLink="true">https://bikerumor.com/new-zwift-plus-tier-premium-video-coach/</guid>
-<description>Zwift acquires Rouvy, introduces Zwift Video, Zwift Coach, and a bunch of other updates. A lot to unpack here...</description>
-<category>sports_software</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 </channel></rss>
