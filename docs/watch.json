@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
+   "link": "https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/",
+   "published": "2026-11-03T18:07:00Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:20:50Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Alongside new betas of iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple has released the first betas of watchOS 27.3, tvOS 27.3, and visionOS 27.3. The betas come a week after the 27.2 software updates were released. Registered developers can download the betas through the Settings app on each device. Two new Apple Intelligence features are coming to the Apple Watch Series 12 and Apple Wat"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Forerunner 165 Series Beta Version 29.52",

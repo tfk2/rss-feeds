@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>MacRumors: Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas</title>
+<link>https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/</link>
+<guid isPermaLink="true">https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/</guid>
+<description>Alongside new betas of iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple has released the first betas of watchOS 27.3, tvOS 27.3, and visionOS 27.3. The betas come a week after the 27.2 software updates were released. Registered developers can download the betas through the Settings app on each device. Two new Apple Intelligence features are coming to the Apple Watch Series 12 and Apple Wat</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 18:07:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Garmin Releases Forerunner 165 Series Beta Version 29.52</title>
 <link>https://garminrumors.com/garmin-releases-forerunner-165-series-beta-version-29-52/</link>
 <guid isPermaLink="true">https://garminrumors.com/garmin-releases-forerunner-165-series-beta-version-29-52/</guid>
@@ -795,13 +803,5 @@
 <description>Soundpeats has launched the CC3 Pro, a new pair of open-ear earbuds combining two different speaker drivers, LDAC audio and wireless charging. Priced at $69.99, they promise better sound without blocking out the world around you, although high-quality audio comes with a significant battery-life trade-off.</description>
 <category>sports_earphones</category>
 <pubDate>Thu, 29 Oct 2026 14:46:00 +0000</pubDate>
-</item>
-<item>
-<title>Wareable: Zwift Plus premium tier arrives with adaptive coaching and real-world video routes</title>
-<link>https://www.wareable.com/cycling/zwift-plus-premium-subscription-tier-adaptive-coaching-video-routes</link>
-<guid isPermaLink="true">https://www.wareable.com/cycling/zwift-plus-premium-subscription-tier-adaptive-coaching-video-routes</guid>
-<description>Zwift has unveiled Zwift Plus, a new premium subscription tier that introduces adaptive coaching and high-definition video routes to the indoor cycling platform. Priced at $29.99 / £26.99 per month (or $299.99 / £269.99), the upgraded membership sits above the standard Zwift tier ($19.99/£17.99 monthly), targeting indoor cyclists seeking more tailored training structure and visual variety.</description>
-<category>sports_software</category>
-<pubDate>Thu, 29 Oct 2026 14:20:50 +0000</pubDate>
 </item>
 </channel></rss>
