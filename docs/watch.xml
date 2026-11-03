@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Verge: Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
+<link>https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</guid>
+<description>Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses "ambient listening" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]</description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 18:31:00 +0000</pubDate>
+</item>
+<item>
 <title>MacRumors: Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas</title>
 <link>https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/</link>
 <guid isPermaLink="true">https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/</guid>
@@ -795,13 +803,5 @@
 <description>Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November. more…</description>
 <category>other_wearables</category>
 <pubDate>Thu, 29 Oct 2026 15:46:23 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Soundpeats CC3 Pro brings dual-driver audio to $70 clip-on earbuds</title>
-<link>https://www.notebookcheck.net/Soundpeats-CC3-Pro-brings-dual-driver-audio-to-70-clip-on-earbuds.1437166.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Soundpeats-CC3-Pro-brings-dual-driver-audio-to-70-clip-on-earbuds.1437166.0.html</guid>
-<description>Soundpeats has launched the CC3 Pro, a new pair of open-ear earbuds combining two different speaker drivers, LDAC audio and wireless charging. Priced at $69.99, they promise better sound without blocking out the world around you, although high-quality audio comes with a significant battery-life trade-off.</description>
-<category>sports_earphones</category>
-<pubDate>Thu, 29 Oct 2026 14:46:00 +0000</pubDate>
 </item>
 </channel></rss>

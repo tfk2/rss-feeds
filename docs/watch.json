@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "published": "2026-11-03T18:31:00Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:31:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]"
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
