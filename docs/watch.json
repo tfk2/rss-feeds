@@ -90,6 +90,17 @@
    "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]"
   },
   {
+   "source": "9to5Mac Apple Watch",
+   "source_home": "https://9to5mac.com/",
+   "title": "Apple announces Fitness+ Gym Strength program with personalized workout plans",
+   "link": "https://9to5mac.com/2026/11/03/apple-announces-fitness-gym-strength-program-with-personalized-workout-plans/",
+   "published": "2026-11-03T18:26:16Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T20:31:07Z",
+   "topics": [],
+   "excerpt": "Apple wants to help you get stronger. Apple Fitness+ is expanding to the gym with a new strength training experience. Gym Strength is now available in beta, bringing personalized workout plans, exercise demonstrations, and Apple Watch logging to your lifting routine. more…"
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Drops New Beta Update 29.52 for Forerunner 965, 955, 265, 255, and 165 Watches",
@@ -2028,19 +2039,6 @@
     "watches"
    ],
    "excerpt": "Garmin is rolling out another beta software update, version 31.68, for its previous-generation flagship bike computers, including the Edge 1040, 840, and 540. This release arrives just six days after beta update 31.67 hit devices. That earlier update was a major one, bringing two features originally introduced on the newer Edge 1060 down to the […] The post Garmin Releases New Beta Update 31.68 to"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Pushes New Beta Update 33.15 to Edge 1050, 850, and 550 Bike Computers",
-   "link": "https://www.garminnews.com/garmin-pushes-new-beta-update-33-15-to-edge-1050-850-and-550-bike-computers/",
-   "published": "2026-10-27T20:27:57Z",
-   "date": "2026-10-27",
-   "first_seen": "2026-10-27T21:20:49Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin is rolling out a brand-new beta software update, version 33.15, for its popular bike computer lineup, including the Edge 1050, 850, and 550. This fresh release comes hot on the heels of beta update 33.13, which landed just six days ago and brought select features from the newer Edge 1060 over to these devices. […] The post Garmin Pushes New Beta Update 33.15 to Edge 1050, 850, and 550 Bike "
   }
  ]
 }

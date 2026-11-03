@@ -32,7 +32,7 @@
  "Garmin News": {
   "ok": true,
   "items": 12,
-  "kept": 11,
+  "kept": 10,
   "last_ok": "2026-11-03T20:00Z"
  },
  "Wearable Fans": {
@@ -98,7 +98,7 @@
  "9to5Mac Apple Watch": {
   "ok": true,
   "items": 100,
-  "kept": 5,
+  "kept": 6,
   "last_ok": "2026-11-03T20:00Z"
  },
  "Gizmochina": {
