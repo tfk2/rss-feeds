@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Launches the Descent X10, a $349.99 Dive Computer",
+   "link": "https://garminrumors.com/garmin-launches-descent-x10-dive-computer/",
+   "published": "2026-11-03T14:06:06Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T14:20:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s Descent X10 is a $349.99 dive computer with a 2.1-inch display, scuba, apnea and gauge modes, 50 hours of dive time, and a rental mode for dive shops."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Daily VO2 max scores on Whoop could soon replace weekly estimates—here's why",
@@ -81,7 +94,7 @@
   {
    "source": "Engadget",
    "source_home": "https://www.engadget.com/",
-   "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+   "title": "Apple's upcoming watchOS 27 beta will enable Siri Recap and Live Rewind audio features",
    "link": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
    "published": "2026-11-03T09:21:36Z",
    "date": "2026-11-03",
