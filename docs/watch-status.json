@@ -13,8 +13,9 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "last_ok": "2026-11-03T09:00Z",
-  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
+  "items": 30,
+  "kept": 10,
+  "last_ok": "2026-11-03T09:00Z"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -115,7 +116,7 @@
  "road.cc": {
   "ok": true,
   "items": 25,
-  "kept": 3,
+  "kept": 4,
   "last_ok": "2026-11-03T09:00Z"
  },
  "Cycling Weekly": {
