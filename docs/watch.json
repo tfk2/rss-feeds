@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+   "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+   "published": "2026-11-03T21:21:04Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T21:30:58Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Xiaomi said to launch compact smartwatch with 3,000-nit OLED display globally soon",
