@@ -55,8 +55,9 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "last_ok": "2026-11-03T10:00Z",
-  "error": "HTTPSConnectionPool(host='www.endurancesportswire.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.endurancesportswire.com', port=443) a"
+  "items": 12,
+  "kept": 0,
+  "last_ok": "2026-11-03T10:00Z"
  },
  "Garmin Newsroom": {
   "ok": true,
