@@ -13,9 +13,8 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "items": 30,
-  "kept": 10,
-  "last_ok": "2026-11-03T13:00Z"
+  "last_ok": "2026-11-03T13:00Z",
+  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -43,8 +42,9 @@
  },
  "SammyGuru": {
   "ok": true,
-  "last_ok": "2026-11-03T12:00Z",
-  "error": "521 Server Error: <none> for url: https://sammyguru.com/feed/"
+  "items": 10,
+  "kept": 0,
+  "last_ok": "2026-11-03T13:00Z"
  },
  "Athletech News": {
   "ok": true,
@@ -120,9 +120,8 @@
  },
  "Cycling Weekly": {
   "ok": true,
-  "items": 50,
-  "kept": 5,
-  "last_ok": "2026-11-03T13:00Z"
+  "last_ok": "2026-11-03T13:00Z",
+  "error": "no items (bozo: none; starts: '<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" ')"
  },
  "Android Central": {
   "ok": true,
