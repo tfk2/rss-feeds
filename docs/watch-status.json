@@ -127,9 +127,8 @@
  },
  "Android Central": {
   "ok": true,
-  "items": 50,
-  "kept": 4,
-  "last_ok": "2026-11-03T03:00Z"
+  "last_ok": "2026-11-03T03:00Z",
+  "error": "no items (bozo: none; starts: '<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" ')"
  },
  "Notebookcheck": {
   "ok": true,
