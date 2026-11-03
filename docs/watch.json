@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+   "link": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+   "published": "2026-11-03T18:35:24Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:40:51Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound Recognition and Shazam are already on the watch, but Live Rewind and ‌Siri‌ Recap are now available in "
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",

@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>MacRumors: watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch</title>
+<link>https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/</link>
+<guid isPermaLink="true">https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/</guid>
+<description>With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition. Sound Recognition and Shazam are already on the watch, but Live Rewind and ‌Siri‌ Recap are now available in </description>
+<category>watches</category>
+<pubDate>Tue, 03 Nov 2026 18:35:24 +0000</pubDate>
+</item>
+<item>
 <title>The Verge: Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
 <link>https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</guid>
@@ -795,13 +803,5 @@
 <description>Amazon's latest smart alarm clock doesn't just tell you when to wake up. The $199.99 Echo Time uses contactless sleep sensing to estimate when you're sleeping lightly, potentially making mornings a little less painful, without requiring a smartwatch or fitness tracker.</description>
 <category>watches</category>
 <pubDate>Thu, 29 Oct 2026 15:55:00 +0000</pubDate>
-</item>
-<item>
-<title>9to5Google: Samsung’s advanced sleep apnea detection is coming to these Galaxy wearables</title>
-<link>https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/</link>
-<guid isPermaLink="true">https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/</guid>
-<description>Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November. more…</description>
-<category>other_wearables</category>
-<pubDate>Thu, 29 Oct 2026 15:46:23 +0000</pubDate>
 </item>
 </channel></rss>
