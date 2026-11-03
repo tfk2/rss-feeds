@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 and 9 Pro Series Stable Version 6.74",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-6-74/",
+   "published": "2026-11-03T22:04:58Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T22:20:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 6.74 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update."
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
