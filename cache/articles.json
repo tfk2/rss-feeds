@@ -131,10 +131,6 @@
   "image": "https://media.wareable.com/images/featured-big/2026/10/red-light-therapy-saunas-featured-image.jpg",
   "para": "We evaluated several at-home infrared saunas with built-in red light therapy (RLT) or an optional red light add-on to find the models that offer the best combination of performance, features, and value."
  },
- "https://www.wareable.com/health-tech/best-sleep-headphones": {
-  "image": "https://media.wareable.com/images/featured-big/2026/09/best-sleep-headphones.jpg",
-  "para": "Living in a city comes with its pluses and difficulties. It’s convenient for work opportunities, fun outings, and plenty of places to connect, but at night, the noise from the streets can drive you insane."
- },
  "https://www.wareable.com/health-tech/best-sleep-tech": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/best-sleep-tech.jpg",
   "para": "Many sleep devices claim to improve rest, but determining which are genuinely useful can be difficult. While no single device is a sure solution, we tested current sleep and wellness technology to separate useful tools from gimmicky ones."
@@ -257,6 +253,11 @@
  "https://www.wareable.com/wearable-tech/ultrahuman-ring-pro-air-free-afib-check-fibricheck": {
   "image": "https://media.wareable.com/images/featured-big/2026/09/ultrahuman-ring-pro-logo-stamp-close-up.jpg",
   "para": "Ultrahuman has launched Heart Scan, an on-demand heart rhythm feature for the Ultrahuman Ring Air and Ring Pro developed in partnership with health software provider FibriCheck."
+ },
+ "https://www.wareable.com/wearable-tech/whoop-daily-vo2-max-score-passive-active-data-sources-patent-explained": {
+  "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
+  "para": "Whoop is exploring a new system to estimate the wearer’s VO2 max once per day by alternating between available data sources based on data quality.",
+  "published": "2026-11-03T13:49:08+00:00"
  },
  "https://www.wareable.com/wearable-tech/whoop-patent-fit-monitoring-haptic-vibration-explained": {
   "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
