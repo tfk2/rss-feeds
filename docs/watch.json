@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Withings SleepScan and NightScan trademarks hint at new sleep tech",
+   "link": "https://gadgetsandwearables.com/2026/11/03/withings-sleepscan-nightscan-trademarks/",
+   "published": "2026-11-03T18:46:39Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Withings may be getting ready to do something with its sleep lineup. Two new EU trademark filings have surfaced for The post Withings SleepScan and NightScan trademarks hint at new sleep tech appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Beta 31.69 Finally Fixes Bosch eBike Connection Bug on Edge 1040, 840, and 540",
+   "link": "https://www.garminnews.com/garmin-beta-31-69-finally-fixes-bosch-ebike-connection-bug-on-edge-1040-840-and-540/",
+   "published": "2026-11-03T18:45:39Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has begun rolling out a new beta software update, version 31.69, for its previous-generation flagship cycling computers. This latest release is currently available for public beta testers using the Edge 1040, Edge 840, and Edge 540 series. Bosch eBike Connection Issue Finally Fixed The standout highlight of version 31.69 is a direct fix for […] The post Garmin Beta 31.69 Finally Fixes Bosch"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases Fresh Beta Update 33.17 for Edge 1050, 850, 550, and MTB: What’s New?",
+   "link": "https://www.garminnews.com/garmin-releases-fresh-beta-update-33-17-for-edge-1050-850-550-and-mtb-whats-new/",
+   "published": "2026-11-03T18:39:20Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has begun rolling out a new beta software update, version 33.17, for several of its popular cycling computers. This latest beta build is targeted at users with the Edge 1050, Edge 850, Edge 550, and Edge MTB models enrolled in Garmin’s public beta program. Restored Connectivity for Bosch eBikes A major fix in update […] The post Garmin Releases Fresh Beta Update 33.17 for Edge 1050, 850, 55"
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
@@ -25,6 +64,32 @@
     "watches"
    ],
    "excerpt": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops New Beta Update 29.52 for Forerunner 965, 955, 265, 255, and 165 Watches",
+   "link": "https://www.garminnews.com/garmin-drops-new-beta-update-29-52-for-forerunner-965-955-265-255-and-165-watches/",
+   "published": "2026-11-03T18:25:43Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has officially begun rolling out a new beta software update, version 29.52, for several models in its popular Forerunner family. The update is currently available to users enrolled in the beta testing program who own the Forerunner 965, Forerunner 955, Forerunner 265, Forerunner 255, or Forerunner 165. Smoother Performance for Widget Glances A major […] The post Garmin Drops New Beta Update"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Rolls Out New Beta Update 24.15 for Fenix 8/8 Pro, Tactix 8, and Enduro 3 Smartwatches",
+   "link": "https://www.garminnews.com/garmin-rolls-out-new-beta-update-24-15-for-fenix-8-8-pro-tactix-8-and-enduro-3-smartwatches/",
+   "published": "2026-11-03T18:14:29Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is keeping up a fast pace with its software updates. Just four days after releasing beta version 24.14, the company is already pushing out a new beta update: version 24.15. This latest release targets several of Garmin’s high-end devices, including the Fenix 8 series, Fenix 8 Pro, Fenix E, Quatix 8, Tactix 8, and […] The post Garmin Rolls Out New Beta Update 24.15 for Fenix 8/8 Pro, Tactix "
   },
   {
    "source": "MacRumors",
@@ -129,6 +194,19 @@
     "watches"
    ],
    "excerpt": "The Garmin Venu 3S is 34% off on Amazon, with health tracking, Bluetooth calling, and 30+ sports apps in a compact design."
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Update Version 1.125 (168455) Released",
+   "link": "https://zwiftinsider.com/update-1-125-168455/",
+   "published": "2026-11-03T16:30:00Z",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-03T18:50:54Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Read all about Zwift's latest game update..."
   },
   {
    "source": "TechRadar",
