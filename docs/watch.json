@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Edge 1060 Stable Software Version 8.19",
+   "link": "https://garminrumors.com/garmin-releases-edge-1060-stable-software-version-8-19/",
+   "published": "2026-11-04T21:03:02Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T21:20:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 8.19 is rolling out to the Edge 1060. See the full changelog and how to update."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Cyclists using Garmin could soon be safer with live location sharing on Waze",
@@ -1882,32 +1895,6 @@
     "watches"
    ],
    "excerpt": "An all-titanium construction and new software tweaks builds on all the Fenixes that came before it."
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Skulpt may bring back its handheld muscle and body fat scanner",
-   "link": "https://gadgetsandwearables.com/2026/10/28/skulpt-handheld-muscle-body-fat-scanner/",
-   "published": "2026-10-28T21:16:35Z",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-28T21:20:41Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "An email from Skulpt landed in my inbox this week, and it suggests the company may be thinking about getting The post Skulpt may bring back its handheld muscle and body fat scanner appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "Bikerumor",
-   "source_home": "https://bikerumor.com/",
-   "title": "Big Performance, Small Footprint: The Elite Rivo Comes for the Entry-Level Smart Trainer Crown",
-   "link": "https://bikerumor.com/elite-rivo-smart-trainer-with-zwift-comes-for-the-entry-level-crown/",
-   "published": "2026-10-28T21:16:35Z",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-28T21:20:41Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "The Elite Rivo with Zwift Cog and Click is an entry-level smart trainer with enough performance prowess to lure experienced riders to seek it out."
   }
  ]
 }
