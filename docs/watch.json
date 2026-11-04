@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I was having issues with Fitbit’s auto workout detection — until I changed this one setting",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/i-was-having-issues-with-fitbits-auto-workout-detection-until-i-changed-this-one-setting",
+   "published": "2026-11-04T06:30:00Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T06:40:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "How to make Fitbit’s auto workout detection instantly more reliable with one setting change."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Drops New Stable Update 6.74 for Fenix 9 and Fenix 9 Pro Smartwatches",
