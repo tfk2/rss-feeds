@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "The Hiking Boom Is Prompting Fitness Brands to Adapt",
+   "link": "https://athletechnews.com/hiking-boom-is-prompting-fitness-brands-to-adapt-peloton-strava/",
+   "published": "2026-11-04T14:26:17Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T14:30:56Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Hiking clubs grew 5.8 times globally on Strava in 2025, making them the fastest-growing club category on the platform."
+  },
+  {
    "source": "Endurance Sportswire",
    "source_home": "https://www.endurancesportswire.com/",
    "title": "BibRave Brings Amazfit’s HYROX Title Sponsorship to Life",
