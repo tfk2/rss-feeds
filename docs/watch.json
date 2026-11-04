@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Future Apple AirPods and smart glasses could keep private calls off-limits to nearby ears",
+   "link": "https://www.wareable.com/hearables/future-apple-airpods-and-smart-glasses-could-keep-private-calls-off-limits-to-nearby-ears",
+   "published": null,
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T09:20:47Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "Taking a call in public is awkward enough without worrying that nearby people can hear it—and Apple appears to be looking at ways to fix that A newly surfaced Apple patent describes a head-worn audio system that could automatically switch private calls to bone-conduction audio, while everyday sounds would still play through regular speakers."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin is preparing to put cyclists on Waze maps",
