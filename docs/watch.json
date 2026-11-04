@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Cyclists using Garmin could soon be safer with live location sharing on Waze",
+   "link": "https://www.androidauthority.com/garmin-waze-cyclists-integration-3731735/",
+   "published": "2026-11-04T18:55:58Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T19:01:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The feature could arrive with Garmin Connect 5.31."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Connect Code Reveals Upcoming Waze Integration for Cyclists",
