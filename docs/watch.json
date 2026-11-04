@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I tried 'polarized training' for running without a smartwatch — here’s how I paced the 80/20 rule",
+   "link": "https://www.tomsguide.com/wellness/fitness/i-tried-polarized-training-for-running-without-a-smartwatch-heres-how-i-paced-the-80-20-rule",
+   "published": "2026-11-04T10:30:00Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T10:40:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "I paced the 80/20 polarized training rule for running without a smartwatch; here's how."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Future Apple AirPods and smart glasses could keep private calls off-limits to nearby ears",
