@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new update for multiple smartwatches with improved battery life estimates",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-for-multiple-smartwatches-with-improved-battery-life-estimates.1442003.0.html",
+   "published": "2026-11-04T16:19:00Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T16:30:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a new update aimed at improving several smartwatches in multiple areas. Rolling out globally, the new update applies to smartwatches like the Forerunner 965 and Forerunner 165, as well as the older Forerunner 255."
+  },
+  {
    "source": "Athletech News",
    "source_home": "https://athletechnews.com/",
    "title": "The Hiking Boom Is Prompting Fitness Brands to Adapt",
@@ -1962,20 +1975,6 @@
     "other_wearables"
    ],
    "excerpt": "The wearable giant's fitness business continues to outperform, as its new $200 Cirqa band and recent acquisitions signal bigger ambitions in the segment"
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Garmin hints at higher watch prices heading into 2027",
-   "link": "https://gadgetsandwearables.com/2026/10/28/garmin-higher-watch-prices-2027/",
-   "published": "2026-10-28T16:25:54Z",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-28T16:31:05Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Garmin has now acknowledged something buyers probably will not love hearing. Higher prices are one of the options on the The post Garmin hints at higher watch prices heading into 2027 appeared first on Gadgets & Wearables ."
   }
  ]
 }
