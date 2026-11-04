@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Garmin's COO on when it might kill the beloved MIP watch display for good",
+   "link": "https://www.techradar.com/health-fitness/smartwatches/battery-life-on-our-oled-products-continue-to-increase-garmins-coo-on-when-it-might-kill-the-beloved-mip-watch-display-for-good",
+   "published": "2026-11-04T22:00:00Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T22:30:50Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "'That gap [between OLED and MIP] has not completely converged, and I think until it does, we definitely don't think that MIP will completely go away.'"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Edge 1060 Stable Software Version 8.19",
@@ -1868,20 +1881,6 @@
     "watches"
    ],
    "excerpt": "Garmin has announced its third quarter 2026 financial results — another record quarter, with consolidated revenue of $1.99 billion (↑ 12% YoY), record operating income of $612 million (↑ 34% YoY), and pro forma EPS of $2.76 (↑ 39% YoY). Gross margin hit a record 63.3%, and Garmin raised full-year 2026 guidance for the second […]"
-  },
-  {
-   "source": "Endurance Sportswire",
-   "source_home": "https://www.endurancesportswire.com/",
-   "title": "Garmin wearables power another record quarter as 2026 guidance rises",
-   "link": "https://www.endurancesportswire.com/garmin-wearables-power-another-record-quarter-as-2026-guidance-rises/",
-   "published": "2026-10-28T22:22:17Z",
-   "date": "2026-10-28",
-   "first_seen": "2026-10-29T19:35:10Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Garmin posted record Q3 2026 results, with revenue up 12% year over year to $1.99 billion and operating income up 34% to $612 million. Wearables were a major growth engine: Fitness revenue rose 16% to … Read more › The post Garmin wearables power another record quarter as 2026 guidance rises appeared first on Endurance Sportswire ."
   }
  ]
 }
