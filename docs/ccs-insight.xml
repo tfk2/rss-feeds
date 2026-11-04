@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Realistic Potential of Satellite Direct-to-Device Services</title>
+<link>https://www.ccsinsight.com/blog/the-realistic-potential-of-satellite-direct-to-device-services/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/the-realistic-potential-of-satellite-direct-to-device-services/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. I was recently invited by Virgin Media O2 to see where the technology is today and get a sense of where it’s going.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png" medium="image"/>
+<pubDate>Wed, 04 Nov 2026 13:45:35 +0000</pubDate>
+</item>
+<item>
 <title>Valkey and the Hidden Foundations of the Digital Enterprise</title>
 <link>https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/07/What_AI_Means_for_Telecom-1.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At two recent conferences, DTW Ignite and MWC Shanghai, the role of AI emerged as the dominant theme. But there remains tremendous debate about the business opportunity for AI among ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At two recent conferences, DTW Ignite and MWC Shanghai, the role of AI emerged as the dominant theme. But there remains tremendous debate about the business opportunity for AI among telecom operators and suppliers.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/07/What_AI_Means_for_Telecom-1.png" medium="image"/>
 <pubDate>Tue, 28 Jul 2026 08:54:54 +0000</pubDate>
-</item>
-<item>
-<title>AI Initiatives at MWC Shanghai Drive Uplink Requirements</title>
-<link>https://www.ccsinsight.com/blog/ai-initiatives-at-mwc-shanghai-drive-uplink-requirements/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/ai-initiatives-at-mwc-shanghai-drive-uplink-requirements/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/07/AI_uplink_speeds.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MWC Shanghai in June 2026 highlighted optimism for the future. This year's event centred on the path to 6G, including the role of 5G-Advanced as a stepping stone, and AI ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;MWC Shanghai in June 2026 highlighted optimism for the future. This year’s event centred on the path to 6G, including the role of 5G-Advanced as a stepping stone, and AI everywhere. As at many recent events, there were numerous robots at the show, including predominantly humanoid models.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/07/AI_uplink_speeds.png" medium="image"/>
-<pubDate>Tue, 21 Jul 2026 08:45:00 +0000</pubDate>
 </item>
 </channel></rss>

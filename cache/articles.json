@@ -1,9 +1,4 @@
 {
- "https://www.ccsinsight.com/blog/ai-initiatives-at-mwc-shanghai-drive-uplink-requirements/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/07/AI_uplink_speeds.png",
-  "para": "MWC Shanghai in June 2026 highlighted optimism for the future. This year’s event centred on the path to 6G, including the role of 5G-Advanced as a stepping stone, and AI everywhere. As at many recent events, there were numerous robots at the show, including predominantly humanoid models.",
-  "published": "2026-07-21T08:45:00+00:00"
- },
  "https://www.ccsinsight.com/blog/apples-iphone-duo-marks-a-new-chapter-in-foldable-smartphones/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Apple_iPhone_Duo.png",
   "para": "This week, I’ve been lucky enough to have some hands-on time with the new iPhone Duo. In this article, I share my first thoughts on the device and what Apple’s arrival means for this area of the smartphone market.",
@@ -33,6 +28,11 @@
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/08/App-Based-MVNOs_mobile.png",
   "para": "One of the most keenly watched trends in the telecom industry is the entry of new brands in the mobile market.",
   "published": "2026-08-12T08:00:00+00:00"
+ },
+ "https://www.ccsinsight.com/blog/the-realistic-potential-of-satellite-direct-to-device-services/": {
+  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png",
+  "para": "Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. I was recently invited by Virgin Media O2 to see where the technology is today and get a sense of where it’s going.",
+  "published": "2026-11-04T13:45:35+00:00"
  },
  "https://www.ccsinsight.com/blog/uk-operators-bet-on-priority-access-to-revive-consumer-spending/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png",
