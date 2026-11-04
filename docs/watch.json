@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 8 Pro Stable Version 23.41",
+   "link": "https://garminrumors.com/garmin-releases-fenix-8-pro-stable-version-23-41/",
+   "published": "2026-11-04T23:03:22Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T23:30:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 23.41 is rolling out to the Fenix 8 Pro. See the full changelog and how to update."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin CIRQA Smart Ring Spotted in UAE’s TDRA Database Ahead of Global Launch",
@@ -13,6 +26,19 @@
     "other_wearables"
    ],
    "excerpt": "Garmin’s unannounced smart ring project is picking up speed. Months after we first broke the exclusive news about the Garmin CIRQA Smart Ring appearing in Indonesia’s SDPPI certification database, and later tracking its ten-size lineup in Brazil’s Anatel and South Korea’s RRA registry, the upcoming wearable has surfaced once again. Today, we spotted the Garmin […] The post Garmin CIRQA Smart Ring "
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 Pro Beta Version 7.14",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-pro-beta-version-7-14/",
+   "published": "2026-11-04T22:17:54Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T23:30:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 7.14 for the Fenix 9 Pro. See the full changelog and how to install it."
   },
   {
    "source": "TechRadar",
