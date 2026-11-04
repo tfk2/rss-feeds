@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops New Stable Update 6.74 for Fenix 9 and Fenix 9 Pro Smartwatches",
+   "link": "https://www.garminnews.com/garmin-drops-new-stable-update-6-74-for-fenix-9-and-fenix-9-pro-smartwatches/",
+   "published": "2026-11-04T00:05:22Z",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-04T00:30:57Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has officially started rolling out a new software update for its flagship smartwatches. Version 6.74 is now available for users owning the standard Fenix 9 and the higher-end Fenix 9 Pro. This release comes just 10 days after Garmin launched version 6.73. The quick follow-up shows the company is actively fine-tuning performance and fixing […] The post Garmin Drops New Stable Update 6.74 for"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Fenix 9 and 9 Pro Series Stable Version 6.74",
@@ -92,7 +105,7 @@
   {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Beta 31.69 Finally Fixes Bosch eBike Connection Bug on Edge 1040, 840, and 540",
+   "title": "Garmin Rolls Out New Beta Update 31.69 for Edge 1040, 840, and 540 Bike Computers",
    "link": "https://www.garminnews.com/garmin-beta-31-69-finally-fixes-bosch-ebike-connection-bug-on-edge-1040-840-and-540/",
    "published": "2026-11-03T18:45:39Z",
    "date": "2026-11-03",
@@ -100,7 +113,7 @@
    "topics": [
     "watches"
    ],
-   "excerpt": "Garmin has begun rolling out a new beta software update, version 31.69, for its previous-generation flagship cycling computers. This latest release is currently available for public beta testers using the Edge 1040, Edge 840, and Edge 540 series. Bosch eBike Connection Issue Finally Fixed The standout highlight of version 31.69 is a direct fix for […] The post Garmin Beta 31.69 Finally Fixes Bosch"
+   "excerpt": "Garmin has begun rolling out a new beta software update, version 31.69, for its previous-generation flagship cycling computers. This latest release is currently available for public beta testers using the Edge 1040, Edge 840, and Edge 540 series. Bosch eBike Connection Issue Finally Fixed The standout highlight of version 31.69 is a direct fix for […] The post Garmin Rolls Out New Beta Update 31.6"
   },
   {
    "source": "Garmin News",
