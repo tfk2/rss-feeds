@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Samsung leaks Galaxy Fit 4 with wallet, speaker and photo watch face",
+   "link": "https://www.notebookcheck.net/Samsung-leaks-Galaxy-Fit-4-with-wallet-speaker-and-photo-watch-face.1443186.0.html",
+   "published": "2026-11-05T12:54:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T13:10:36Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Samsung could soon unveil a cheaper alternative to the Fitbit Edge, as the company has already released a smartphone app for the Samsung Galaxy Fit4. This app offers an early look at the wearable's design, watch faces, and some of its features."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin says MIP is not going away, at least not yet",
