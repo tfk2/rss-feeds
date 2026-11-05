@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Bikerumor",
+   "source_home": "https://bikerumor.com/",
+   "title": "Zwift Gets the Last Laugh with Amusing New Sprint Zone After Roadside Potty Break Surprise",
+   "link": "https://bikerumor.com/zwift-gets-the-last-laugh-with-amusing-new-sprint-zone-after-roadside-potty-break-surprise/",
+   "published": "2026-11-05T14:43:04Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T14:50:41Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Just think, someone out there had their roadside bathroom break immortalized in Zwift..."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin offers new update with multiple improvements for high-end smartwatch",
@@ -1975,19 +1988,6 @@
     "other_wearables"
    ],
    "excerpt": "Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November. more…"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Soundpeats CC3 Pro brings dual-driver audio to $70 clip-on earbuds",
-   "link": "https://www.notebookcheck.net/Soundpeats-CC3-Pro-brings-dual-driver-audio-to-70-clip-on-earbuds.1437166.0.html",
-   "published": "2026-10-29T14:46:00Z",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-29T14:51:06Z",
-   "topics": [
-    "sports_earphones"
-   ],
-   "excerpt": "Soundpeats has launched the CC3 Pro, a new pair of open-ear earbuds combining two different speaker drivers, LDAC audio and wireless charging. Priced at $69.99, they promise better sound without blocking out the world around you, although high-quality audio comes with a significant battery-life trade-off."
   },
   {
    "source": "Wareable",

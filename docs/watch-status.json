@@ -110,7 +110,7 @@
  "Bikerumor": {
   "ok": true,
   "items": 10,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-05T14:00Z"
  },
  "road.cc": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 22,
+  "kept": 21,
   "last_ok": "2026-11-05T14:00Z"
  },
  "Pocket-lint": {
