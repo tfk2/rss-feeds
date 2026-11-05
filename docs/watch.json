@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin offers new update with multiple improvements for high-end smartwatch",
+   "link": "https://www.notebookcheck.net/Garmin-offers-new-update-with-multiple-improvements-for-high-end-smartwatch.1443029.0.html",
+   "published": "2026-11-05T14:28:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T14:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is now offering a new stable update to the Fenix 8 Pro. Rolling out globally, System Software 23.41 is said to improve the company's microLED-backed smartwatch in numerous areas. The same update has not reached other smartwatches from the same family, though."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Motorola Moto Watch Fit 27 launches with Polar features",
+   "link": "https://www.notebookcheck.net/Motorola-Moto-Watch-Fit-27-launches-with-Polar-features.1443267.0.html",
+   "published": "2026-11-05T14:27:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T14:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Motorola is launching a new rectangular smartwatch, aiming to offer attractive value for money with a bright OLED display, twelve days of battery life, and fitness features from Polar. The watch is available in three colors and with a wide range of straps."
+  },
+  {
    "source": "Gizmochina",
    "source_home": "https://www.gizmochina.com/",
    "title": "Motorola launches Moto Buds Ultra 27 and Watch Fit 27 with Bose ANC, 12-day battery",
