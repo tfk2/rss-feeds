@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+   "link": "https://www.macrumors.com/2026/11/05/ios-27-3-public-beta/",
+   "published": "2026-11-05T19:06:09Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T19:10:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple today seeded the first betas of iOS 27.3, iPadOS 27.3, macOS Golden Gate 27.3, tvOS 27.3, and watchOS 27.3. The new software comes two days after Apple released the betas for developers. iOS 27.3 is a major update that adds a Vertical Tabs layout option and Adaptive Dark Mode for Safari. Siri AI can do more in and across Apple's apps, and developers are now able to create actions for ‌Siri‌ "
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin isn’t ready to abandon power-efficient MIP displays on wearables, even as AMOLED improves",
