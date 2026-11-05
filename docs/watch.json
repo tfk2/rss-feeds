@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "The Fitbit I used to figure out why I keep waking up at 3 a.m. drops to $69.95 at Amazon — why I'd buy this sleep tracker ahead of Black Friday",
+   "link": "https://www.tomsguide.com/wellness/sleep-tech/the-fitbit-i-used-to-figure-out-why-i-keep-waking-up-at-3-a-m-drops-to-usd69-95-at-amazon-why-id-buy-this-sleep-tracker-ahead-of-black-friday",
+   "published": "2026-11-05T11:53:59Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T12:01:04Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Fitbit Inspire 3 is the sleep tracker that helped decode my 3 a.m. wake ups, and it's on sale for $69.95 at Amazon today"
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin MiP smartwatches could disappear for good, according to CEO",
+   "link": "https://www.notebookcheck.net/Garmin-MiP-smartwatches-could-disappear-for-good-according-to-CEO.1443182.0.html",
+   "published": "2026-11-05T11:52:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T12:01:04Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Until a few years ago, Garmin shipped almost all its smartwatches with an energy-efficient MiP display offering perfect readability in sunlight, but most models now use OLED displays. Garmin's CEO now hints that the end of MiP smartwatches is drawing closer."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Polar patent shows how future watches could analyse your sweat",
@@ -2000,19 +2026,6 @@
     "watches"
    ],
    "excerpt": "🚫 THE VOTING IS CLOSED 🚫 Did a smartwatch, fitness tracker, smart ring, or another gadget impress you this year?... This year, we are hosting the Wareable Readers' Choice Awards to highlight standout products in different categories. Instead of leaving the final decision to our editors, we’re handing the power to you."
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "Garmin Messenger is placing too much trust in SMS verification, and this might not end well",
-   "link": "https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/",
-   "published": "2026-10-29T11:52:06Z",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-29T19:35:10Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Your old chats might not be gone when your phone number is reassigned."
   }
  ]
 }
