@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Peloton Forecast Tops Estimates in Sign of Comeback Progress",
+   "link": "https://athletechnews.com/peloton-forecast-tops-estimates-in-sign-of-comeback-progress/",
+   "published": "2026-11-05T16:50:59Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T17:01:07Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Peloton has been working to turn around its business since the pandemic, when lockdowns fueled a surge in sales of its home exercise equipment"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Moto Watch Fit 2 gets Polar tracking but loses some battery life",
