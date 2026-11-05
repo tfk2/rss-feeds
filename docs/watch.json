@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Aina unveils a chunky AI ring with its own screen, joystick and microphone",
+   "link": "https://www.notebookcheck.net/Aina-unveils-a-chunky-AI-ring-with-its-own-screen-joystick-and-microphone.1443341.0.html",
+   "published": "2026-11-05T22:16:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T22:30:53Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Aina is packing a screen, joystick, microphone and speaker into a smart ring designed to control AI agents and everyday apps. The chunky wearable lets users send voice prompts, receive notifications and take calls, with preorders priced at $399 and shipping planned for January 2027."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Drops New Beta Software Update 16.09 for Instinct 3 Series",
