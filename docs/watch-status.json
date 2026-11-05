@@ -20,7 +20,7 @@
  "Gadgets & Wearables": {
   "ok": true,
   "items": 10,
-  "kept": 6,
+  "kept": 7,
   "last_ok": "2026-11-05T16:00Z"
  },
  "Zwift Insider": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 21,
+  "kept": 20,
   "last_ok": "2026-11-05T16:00Z"
  },
  "Pocket-lint": {
