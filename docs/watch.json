@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin brings dozens of new features and improvements to flagship smartwatch with major update release",
+   "link": "https://www.notebookcheck.net/Garmin-brings-dozens-of-new-features-and-improvements-to-flagship-smartwatch-with-major-update-release.1443034.0.html",
+   "published": "2026-11-05T15:49:00Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T16:20:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has begun offering a major update to one of its new flagship smartwatches. Arriving with dozens of changes, the new update is much larger in scope than a recent stable build that also started rolling out to the Fenix 9 Pro in the last few days."
+  },
+  {
    "source": "Bikerumor",
    "source_home": "https://bikerumor.com/",
    "title": "Zwift Gets the Last Laugh with Amusing New Sprint Zone After Roadside Potty Break Surprise",
@@ -1949,32 +1962,6 @@
     "watches"
    ],
    "excerpt": "Samsung is expected to announce its next fitness tracker, the Galaxy Fit 4. This will be the successor to the now almost three-year-old product line, as the Galaxy Fit 3 came out in February 2024."
-  },
-  {
-   "source": "Android Central",
-   "source_home": "https://www.androidcentral.com/",
-   "title": "Ultrahuman's Ring Pro arrives in the US—consumers can get it fitted in-store, but only at Best Buy",
-   "link": "https://www.androidcentral.com/wearables/ultrahuman/ultrahumans-ring-pro-arrives-in-the-us",
-   "published": "2026-10-29T16:00:00Z",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-29T16:20:43Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Ultrahuman Ring Pro surprises with a sudden U.S. launch after its original debut left the region out."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Amazon Echo Time wants to wake you up at just the right moment",
-   "link": "https://www.notebookcheck.net/Amazon-Echo-Time-wants-to-wake-you-up-at-just-the-right-moment.1437164.0.html",
-   "published": "2026-10-29T15:55:00Z",
-   "date": "2026-10-29",
-   "first_seen": "2026-10-29T16:01:09Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Amazon's latest smart alarm clock doesn't just tell you when to wake up. The $199.99 Echo Time uses contactless sleep sensing to estimate when you're sleeping lightly, potentially making mornings a little less painful, without requiring a smartwatch or fitness tracker."
   },
   {
    "source": "Wareable",
