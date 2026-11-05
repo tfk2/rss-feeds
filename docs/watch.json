@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin COO on the Future of MIP Displays: ‘That Gap Has Not Completely Converged’",
+   "link": "https://garminrumors.com/garmin-coo-mip-display-future-amoled-solar/",
+   "published": "2026-11-05T03:28:42Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T03:30:50Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin COO Brad Trenkle told TechRadar that Garmin will keep making MIP watches until its AMOLED watches can match their battery life. It’s the third piece Andrew Williams has written from his conversation with Trenkle, after the ones on the MARQ (Gen 3) and the titanium case. Fenix 9 Pro (47 mm) with AMOLED (left) […]"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Changing Phone Numbers? Delete Your Garmin Messenger Account First",
+   "link": "https://garminrumors.com/changing-phone-numbers-delete-garmin-messenger-account-first/",
+   "published": "2026-11-05T03:24:36Z",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-05T03:30:50Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "A Reddit user has found that the Garmin Messenger app will hand your full conversation history to any phone that can verify your phone number by SMS, with no Garmin account password involved. That is fine while the number is yours. The concern, first raised on r/Garmin and picked up by Android Authority, is what […]"
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
