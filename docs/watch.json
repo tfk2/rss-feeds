@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "The Fitbit Edge’s onboard GPS is a battery hog — but I found an easy fix",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix",
+   "published": "2026-11-06T05:30:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T05:40:37Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The new Fitbit Edge has several hidden GPS tracking modes that vastly increase battery performance. But as always, there's a catch."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Connect Code Points to Sharing Your Rides With Waze",
