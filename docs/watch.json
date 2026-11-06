@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Xiaomi Smart Band 11 NFC real-world tests are in, and there’s a problem",
+   "link": "https://gadgetsandwearables.com/2026/11/06/xiaomi-smart-band-11-nfc-payments-range/",
+   "published": "2026-11-06T19:45:42Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T19:50:39Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "The first real-world tests of the Xiaomi Smart Band 11 NFC are starting to come in internationally, and the main The post Xiaomi Smart Band 11 NFC real-world tests are in, and there’s a problem appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Samsung's smarter, redesigned SmartTag 3 is here in the U.S. with the Galaxy Buds On",
+   "link": "https://www.androidcentral.com/accessories/earbuds/samsungs-smarter-redesigned-smarttag-3-is-here-in-the-u-s-with-the-galaxy-buds-on",
+   "published": "2026-11-06T19:40:44Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T19:50:39Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "Samsung announced U.S. availability for its redesigned, enhanced Galaxy SmartTag 3 and the open-ear Galaxy Buds On."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.16",
+   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-16/",
+   "published": "2026-11-06T19:33:02Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T19:50:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 24.16 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Zwift Racing League 2026/27 Round 2 Details: Routes, Rules, Registration + More",
@@ -2011,19 +2050,6 @@
     "watches"
    ],
    "excerpt": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak about the future of RAM prices before turning their attention to Apple one last time to ask… good lord what is happening in there? Enjoy the s"
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Fenix 9 and 9 Pro Series Beta Version 7.13",
-   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-beta-version-7-13/",
-   "published": "2026-10-30T19:42:32Z",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-30T23:01:02Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released beta version 7.13 for the Fenix 9 and 9 Pro Series. See the full changelog and how to install it."
   },
   {
    "source": "Wareable",
