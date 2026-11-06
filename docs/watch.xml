@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Notebookcheck: Garmin may soon warn Waze drivers when a cyclist is on the road ahead</title>
+<link>https://www.notebookcheck.net/Garmin-may-soon-warn-Waze-drivers-when-a-cyclist-is-on-the-road-ahead.1443782.0.html</link>
+<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-may-soon-warn-Waze-drivers-when-a-cyclist-is-on-the-road-ahead.1443782.0.html</guid>
+<description>Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as "Share your rides with Waze" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date.</description>
+<category>watches</category>
+<pubDate>Fri, 06 Nov 2026 09:08:00 +0000</pubDate>
+</item>
+<item>
 <title>Tom's Guide: The Fitbit Edge’s onboard GPS is a battery hog — but I found an easy fix</title>
 <link>https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix</link>
 <guid isPermaLink="true">https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix</guid>
@@ -795,13 +803,5 @@
 <description>Garmin Vivoactive 5 hits a record-low $169.99 on Amazon, packing AMOLED, built-in GPS, and up to 11 days of battery life.</description>
 <category>watches</category>
 <pubDate>Mon, 02 Nov 2026 15:19:00 +0000</pubDate>
-</item>
-<item>
-<title>Gizmochina: Rogbid launches Model R5 Android smartwatch with 2.4-inch display, 4G LTE and a rotating camera</title>
-<link>https://www.gizmochina.com/2026/11/02/rogbid-model-r5-smartwatch-launched-specs-price/</link>
-<guid isPermaLink="true">https://www.gizmochina.com/2026/11/02/rogbid-model-r5-smartwatch-launched-specs-price/</guid>
-<description>Rogbid has released the Model R5, a new smartwatch that functions more like a wrist-worn Android phone than a traditional companion wearable. The device is built around a 2.4-inch AMOLED display and includes a built-in SIM card slot, allowing it to operate independently from a smartphone. Rogbid Model R5 Specifications Also Read Rogbid Model S […] The post Rogbid launches Model R5 Android smartwat</description>
-<category>watches</category>
-<pubDate>Mon, 02 Nov 2026 14:17:00 +0000</pubDate>
 </item>
 </channel></rss>
