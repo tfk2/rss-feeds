@@ -29,6 +29,19 @@
   {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin's next big feature could make sharing the road much safer",
+   "link": "https://www.notebookcheck.net/Garmin-s-next-big-feature-could-make-sharing-the-road-much-safer.1443782.0.html",
+   "published": "2026-11-06T09:08:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T11:20:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as \"Share your rides with Waze\" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin may soon warn Waze drivers when a cyclist is on the road ahead",
    "link": "https://www.notebookcheck.net/Garmin-may-soon-warn-Waze-drivers-when-a-cyclist-is-on-the-road-ahead.1443782.0.html",
    "published": "2026-11-06T09:08:00Z",
