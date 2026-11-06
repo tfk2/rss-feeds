@@ -122,7 +122,7 @@
  "Cycling Weekly": {
   "ok": true,
   "items": 50,
-  "kept": 2,
+  "kept": 3,
   "last_ok": "2026-11-06T12:00Z"
  },
  "Android Central": {
@@ -146,7 +146,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-06T12:00Z"
  },
  "Tom's Guide": {
