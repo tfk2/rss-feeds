@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Zwift Racing League 2026/27 Round 2 Details: Routes, Rules, Registration + More",
+   "link": "https://zwiftinsider.com/zrl-r21/",
+   "published": "2026-11-06T19:00:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T19:01:09Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "All the details of the next ZRL round!"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin offers new update to rugged smartwatches with major release on the horizon",
@@ -38,6 +51,19 @@
     "watches"
    ],
    "excerpt": "The Garmin Fenix E and Garmin Venu 3S are for two different types of people, but both are available at a surprisingly low price thanks to these limited-time Garmin deals. more…"
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "“Watopia Islands” Zwift Racing Announced for November 2026",
+   "link": "https://zwiftinsider.com/watopia-islands-2026/",
+   "published": "2026-11-06T16:00:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T19:01:09Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Watopia’s islands are ready to race."
   },
   {
    "source": "Endurance Sportswire",
