@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops Quick Beta Update 7.15 for Fenix 9 Pro",
+   "link": "https://www.garminnews.com/garmin-drops-quick-beta-update-7-15-for-fenix-9-pro/",
+   "published": "2026-11-06T21:40:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T21:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released another beta software patch for its high-end multisport watches. The new beta update, version 7.15, is now rolling out to users with the Fenix 9 Pro smartwatch. This release follows close on the heels of the previous build, arriving just three days after Garmin launched beta version 7.14 to the same device […] The post Garmin Drops Quick Beta Update 7.15 for Fenix 9 Pro appeare"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Rolls Out Beta Software 24.16 for Fenix 8/8 Pro, Tactix 8, and Enduro 3: What’s New?",
+   "link": "https://www.garminnews.com/garmin-rolls-out-beta-software-24-16-for-fenix-8-8-pro-tactix-8-and-enduro-3-whats-new/",
+   "published": "2026-11-06T21:21:52Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T21:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released another software patch for its flagship outdoor smartwatch lineup. The new beta update, version 24.16, is now available for the Fenix 8, Fenix 8 Pro, Fenix E, Quatix 8, Tactix 8, and Enduro 3 models. The update arrives just three days after Garmin distributed beta version 24.15 to the same watch family, […] The post Garmin Rolls Out Beta Software 24.16 for Fenix 8/8 Pro, Tactix"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases New Beta Update 31.71 for Edge 1040, 840, and 540 Bike Computers",
+   "link": "https://www.garminnews.com/garmin-releases-new-beta-update-31-71-for-edge-1040-840-and-540-bike-computers/",
+   "published": "2026-11-06T21:00:20Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T21:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a quick software patch for its current-generation bike computers. The new beta software update, version 31.71, is now rolling out to users of the Edge 1040, Edge 840, and Edge 540 devices. The release comes just three days after Garmin distributed beta build 31.69 to the same device family. Critical Startup Fix […] The post Garmin Releases New Beta Update 31.71 for Edge 1040, 8"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops Fresh Beta Software Update 33.20 for Edge 1050, 850, and 550 Bike Computers",
+   "link": "https://www.garminnews.com/garmin-drops-fresh-beta-software-update-33-20-for-edge-1050-850-and-550-bike-computers/",
+   "published": "2026-11-06T20:48:02Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T21:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has just released a new software update for several of its popular cycling computers. Beta version 33.20 is now rolling out to users with the Edge 1050, 850, 550, and MTB models. The update comes as a surprise to many cyclists, arriving just three days after the company published beta version 33.17. Fixes for […] The post Garmin Drops Fresh Beta Software Update 33.20 for Edge 1050, 850, and"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Higher memory costs and what this means for your next Garmin or Apple Watch",
@@ -13,6 +65,19 @@
     "other_wearables"
    ],
    "excerpt": "There’s a new reason your next smartwatch could cost more, and it has nothing to do with better sensors or The post Higher memory costs and what this means for your next Garmin or Apple Watch appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 Pro Beta Version 7.15",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-pro-beta-version-7-15/",
+   "published": "2026-11-06T20:13:28Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T21:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 7.15 for the Fenix 9 Pro. See the full changelog and how to install it."
   },
   {
    "source": "Notebookcheck",
