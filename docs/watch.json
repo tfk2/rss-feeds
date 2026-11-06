@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin offers new update to rugged smartwatches with major release on the horizon",
+   "link": "https://www.notebookcheck.net/Garmin-offers-new-update-to-rugged-smartwatches-with-major-release-on-the-horizon.1444047.0.html",
+   "published": "2026-11-06T17:33:00Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T17:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is now offering a new update to several of its rugged smartwatches. Available globally across the Instinct E and Instinct 3 series, Beta Version 16.09 claims to improve all eligible smartwatches in new areas as a future stable update looms."
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "BMC announce long 'overdue' presence in the women’s pro peloton",
@@ -2039,19 +2052,6 @@
     "sports_software"
    ],
    "excerpt": "A 5-stage series complete with GC competition and varied formats."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.14",
-   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-14/",
-   "published": "2026-10-30T17:39:54Z",
-   "date": "2026-10-30",
-   "first_seen": "2026-10-30T17:50:42Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released beta version 24.14 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
   },
   {
    "source": "Wareable",
