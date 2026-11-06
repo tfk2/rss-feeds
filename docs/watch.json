@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Wareable Readers’ Choice Awards 2026: Your winners revealed",
+   "link": "https://www.wareable.com/news/wareable-readers-choice-awards-2026-your-winners-revealed",
+   "published": null,
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T14:01:08Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The votes are in: these are the smartwatches, rings, earbuds, and fitness platforms that won over Wareable’s readers in 2026For... For the past few years, Wareable Tech Awards have been shaped only by our editorial team’s picks."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Razer brings ANC and RGB lighting to wired USB-C gaming earbuds",
@@ -2034,7 +2047,7 @@
    "title": "Wareable Readers’ Choice Awards 2026: You pick the winner",
    "link": "https://www.wareable.com/news/wareable-readers-choice-awards-2026-you-pick-the-winner",
    "published": null,
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "first_seen": "2026-10-29T12:20:43Z",
    "topics": [
     "watches"
