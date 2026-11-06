@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Cycling Weekly",
+   "source_home": "https://www.cyclingweekly.com/",
+   "title": "BMC announce long 'overdue' presence in the women’s pro peloton",
+   "link": "https://www.cyclingweekly.com/news/bmc-announce-long-overdue-presence-in-the-womens-pro-peloton",
+   "published": "2026-11-06T17:15:28Z",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-06T17:20:46Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Swiss brand announce partnership with Laboral Kutxa-Fundación Euskadi"
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Two more Garmin smartwatches are down to record-low prices",
