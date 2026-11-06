@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Connect Code Points to Sharing Your Rides With Waze</title>
+<link>https://garminrumors.com/garmin-connect-waze-livetrack-cyclists/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-connect-waze-livetrack-cyclists/</guid>
+<description>Gadgets &amp; Wearables has found code in version 5.31 of the Garmin Connect app for a feature that would share a cyclist’s LiveTrack location with Waze, Google’s navigation app. The idea is that drivers using Waze would see riders on the road ahead. Garmin hasn’t announced the feature, and neither Garmin nor Waze has commented. […]</description>
+<category>watches, other_wearables</category>
+<pubDate>Fri, 06 Nov 2026 01:15:16 +0000</pubDate>
+</item>
+<item>
 <title>Android Authority: Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra</title>
 <link>https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/</link>
 <guid isPermaLink="true">https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/</guid>
@@ -795,13 +803,5 @@
 <description>A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches , and the problem has occurred again this year. Some users are finding that while the primary time has automatically updated for daylight saving, the always-on display has not … more…</description>
 <category></category>
 <pubDate>Mon, 02 Nov 2026 13:36:16 +0000</pubDate>
-</item>
-<item>
-<title>Cycling Weekly: Bottles secured by elastic bands, a top-tube bag, and wireless blips: Gravel Burn setup of a stage winner</title>
-<link>https://www.cyclingweekly.com/gravel/bottles-secured-by-elastic-bands-a-top-tube-bag-and-wireless-blips-gravel-burn-setup-of-a-stage-winner</link>
-<guid isPermaLink="true">https://www.cyclingweekly.com/gravel/bottles-secured-by-elastic-bands-a-top-tube-bag-and-wireless-blips-gravel-burn-setup-of-a-stage-winner</guid>
-<description>The disruptively designed, Karoo-taming Wilier Rave SLR ID2 of Mattia De Marchi</description>
-<category>cycling_computers</category>
-<pubDate>Mon, 02 Nov 2026 12:15:23 +0000</pubDate>
 </item>
 </channel></rss>
