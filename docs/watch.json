@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Connect 5.31 users report missing Training Readiness",
+   "link": "https://gadgetsandwearables.com/2026/11/07/garmin-connect-5-31-training-readiness-missing/",
+   "published": "2026-11-07T12:03:42Z",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-07T12:10:40Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin users are reporting a strange Training Readiness problem where the score appears normally on the watch but goes missing The post Garmin Connect 5.31 users report missing Training Readiness appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin COO on Skipping MicroLED and a Tenfold Jump in Component Costs",
