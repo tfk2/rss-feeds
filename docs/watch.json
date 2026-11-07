@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new update to Fenix 9 Pro with maps and display improvements",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-to-Fenix-9-Pro-with-maps-and-display-improvements.1444307.0.html",
+   "published": "2026-11-07T12:57:00Z",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-07T13:10:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has launched a new update to one of its latest flagship smartwatches. A preview of a future stable update, the new beta promises to deliver maps and display improvements, as well as an upgraded Alipay experience."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin Connect 5.31 users report missing Training Readiness",
