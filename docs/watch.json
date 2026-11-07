@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "How often should you restart your Fitbit watch?",
+   "link": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
+   "published": "2026-11-07T21:45:00Z",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-07T22:01:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The old \"turn it off and turn it on again\" trick can come in handy for certain situations."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "The Garmin Rumors Newsletter Is Back: Meet the Weekly Rundown",
