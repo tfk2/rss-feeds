@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "The pros and cons of using an Amazfit smartwatch",
+   "link": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
+   "published": "2026-11-07T23:30:00Z",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-07T23:50:38Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update to high-end smartwatches with a dozen improvements and new features",
