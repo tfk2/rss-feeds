@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Tom's Guide: I walked 4,500 steps with the Apple Watch Ultra 4 and the Fitbit Edge: can Fitbit’s $180 tracker keep up with Apple’s most expensive watch?</title>
+<link>https://www.tomsguide.com/wellness/fitness-trackers/i-walked-4-500-steps-with-the-apple-watch-ultra-4-and-the-fitbit-edge-can-fitbits-usd180-tracker-keep-up-with-apples-most-expensive-watch</link>
+<guid isPermaLink="true">https://www.tomsguide.com/wellness/fitness-trackers/i-walked-4-500-steps-with-the-apple-watch-ultra-4-and-the-fitbit-edge-can-fitbits-usd180-tracker-keep-up-with-apples-most-expensive-watch</guid>
+<description>Can Fitbit’s $180 tracker keep up with Apple’s most expensive watch?</description>
+<category>watches</category>
+<pubDate>Sun, 08 Nov 2026 05:15:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Garmin COO on AI: ‘A Very Keen Sense of Authenticity’</title>
 <link>https://garminrumors.com/garmin-coo-ai-authenticity-trainingpeaks/</link>
 <guid isPermaLink="true">https://garminrumors.com/garmin-coo-ai-authenticity-trainingpeaks/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin has begun rolling out a new beta software update, version 33.17, for several of its popular cycling computers. This latest beta build is targeted at users with the Edge 1050, Edge 850, Edge 550, and Edge MTB models enrolled in Garmin’s public beta program. Restored Connectivity for Bosch eBikes A major fix in update […] The post Garmin Releases Fresh Beta Update 33.17 for Edge 1050, 850, 55</description>
 <category>watches</category>
 <pubDate>Tue, 03 Nov 2026 18:39:20 +0000</pubDate>
-</item>
-<item>
-<title>The Verge: Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</title>
-<link>https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</guid>
-<description>Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses "ambient listening" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]</description>
-<category>watches</category>
-<pubDate>Tue, 03 Nov 2026 18:31:00 +0000</pubDate>
 </item>
 </channel></rss>

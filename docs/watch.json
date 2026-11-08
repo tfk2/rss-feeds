@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I walked 4,500 steps with the Apple Watch Ultra 4 and the Fitbit Edge: can Fitbit’s $180 tracker keep up with Apple’s most expensive watch?",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/i-walked-4-500-steps-with-the-apple-watch-ultra-4-and-the-fitbit-edge-can-fitbits-usd180-tracker-keep-up-with-apples-most-expensive-watch",
+   "published": "2026-11-08T05:15:00Z",
+   "date": "2026-11-08",
+   "first_seen": "2026-11-08T05:20:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Can Fitbit’s $180 tracker keep up with Apple’s most expensive watch?"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin COO on AI: ‘A Very Keen Sense of Authenticity’",
