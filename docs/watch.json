@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "How to reset your Vizio TV back to factory settings",
+   "link": "https://www.engadget.com/2307501/how-to-reset-vizio-tv-factory-settings/",
+   "published": "2026-11-08T14:00:00Z",
+   "date": "2026-11-08",
+   "first_seen": "2026-11-08T14:30:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "A factory reset shouldn't be your first instinct when your Vizio TV has issues, but it can sometimes be the only way to fix them. Thankfully, it's quite simple."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin Vivoactive 5 owners hit by unexplained battery drain",
