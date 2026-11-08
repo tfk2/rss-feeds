@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Vivoactive 5 owners hit by unexplained battery drain",
+   "link": "https://gadgetsandwearables.com/2026/11/08/garmin-vivoactive-5-battery-drain-mystery-update/",
+   "published": "2026-11-08T10:58:27Z",
+   "date": "2026-11-08",
+   "first_seen": "2026-11-08T11:01:06Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "If your Vivoactive 5 has suddenly decided it needs charging every day, you are not the only one. Several owners The post Garmin Vivoactive 5 owners hit by unexplained battery drain appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I walked 4,500 steps with the Apple Watch Ultra 4 and the Fitbit Edge: can Fitbit’s $180 tracker keep up with Apple’s most expensive watch?",
@@ -1971,19 +1985,6 @@
     "watches"
    ],
    "excerpt": "When purchasing a television, this first instinct is to go big. But before choosing a model, make sure it won't overpower the room."
-  },
-  {
-   "source": "Tom's Guide",
-   "source_home": "https://www.tomsguide.com/",
-   "title": "I walked another 8,000 steps with the Apple Watch 12 and Fitbit Edge: Here’s which came out on top",
-   "link": "https://www.tomsguide.com/wellness/fitness-trackers/i-walked-another-8-000-steps-with-the-apple-watch-12-and-fitbit-edge-heres-which-came-out-on-top",
-   "published": "2026-11-01T11:00:00Z",
-   "date": "2026-11-01",
-   "first_seen": "2026-11-01T11:10:41Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Can the $179 Fitbit Edge really beat the $399 Apple Watch 12?"
   },
   {
    "source": "Wareable",
