@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "The pros and cons of using OnePlus smartwatches",
+   "link": "https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/",
+   "published": "2026-11-09T15:45:00Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T15:56:50Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Thinking about a OnePlus smartwatch before the brand leaves the US? Here are the pros and cons, from battery life and build quality to size and software."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Tactix 9 or Descent Mk4? New SDPPI Filings Reveal Models A05198 & A05199",
