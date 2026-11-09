@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes",
+   "link": "https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/",
+   "published": "2026-11-09T18:08:00Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T18:31:29Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple today released new watchOS 27.2.1 and visionOS 27.2.1 updates, with the software coming two weeks after the launch of watchOS 27.2 and visionOS 27.2. According to Apple's release notes, the watchOS update includes security fixes, while the visionOS 27.2.1 update includes security updates and bug fixes. The new software can be installed using the Settings app on each device. Related Roundups:"
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "The New York Marathon winner wasn’t wearing a fancy Garmin, but something much cheaper",

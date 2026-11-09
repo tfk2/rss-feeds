@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>MacRumors: Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes</title>
+<link>https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/</link>
+<guid isPermaLink="true">https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/</guid>
+<description>Apple today released new watchOS 27.2.1 and visionOS 27.2.1 updates, with the software coming two weeks after the launch of watchOS 27.2 and visionOS 27.2. According to Apple's release notes, the watchOS update includes security fixes, while the visionOS 27.2.1 update includes security updates and bug fixes. The new software can be installed using the Settings app on each device. Related Roundups:</description>
+<category>watches</category>
+<pubDate>Mon, 09 Nov 2026 18:08:00 +0000</pubDate>
+</item>
+<item>
 <title>TechRadar: The New York Marathon winner wasn’t wearing a fancy Garmin, but something much cheaper</title>
 <link>https://www.techradar.com/health-fitness/smartwatches/the-new-york-marathon-winner-wasnt-wearing-a-fancy-garmin-or-apple-watch-ultra-but-something-much-cheaper-heres-why-this-coros-model-is-a-great-running-watch-to-look-out-for-on-black-friday</link>
 <guid isPermaLink="true">https://www.techradar.com/health-fitness/smartwatches/the-new-york-marathon-winner-wasnt-wearing-a-fancy-garmin-or-apple-watch-ultra-but-something-much-cheaper-heres-why-this-coros-model-is-a-great-running-watch-to-look-out-for-on-black-friday</guid>
@@ -795,13 +803,5 @@
 <description>As first uncovered by the tech publication Gadgets &amp; Wearables, Garmin is currently working on an exciting new feature. Hidden deep inside the Garmin Connect version 5.31 application file, new code strings directly reference “Share Location with Waze”, “Share your rides with Waze”, and “Waze Location Sharing.” These references reveal that the company plans to […] The post Garmin Connect Code Revea</description>
 <category>watches, other_wearables</category>
 <pubDate>Wed, 04 Nov 2026 17:46:23 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Garmin releases new update for multiple smartwatches with improved battery life estimates</title>
-<link>https://www.notebookcheck.net/Garmin-releases-new-update-for-multiple-smartwatches-with-improved-battery-life-estimates.1442003.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-releases-new-update-for-multiple-smartwatches-with-improved-battery-life-estimates.1442003.0.html</guid>
-<description>Garmin has released a new update aimed at improving several smartwatches in multiple areas. Rolling out globally, the new update applies to smartwatches like the Forerunner 965 and Forerunner 165, as well as the older Forerunner 255.</description>
-<category>watches</category>
-<pubDate>Wed, 04 Nov 2026 16:19:00 +0000</pubDate>
 </item>
 </channel></rss>
