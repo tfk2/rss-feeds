@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Samsung targets deep belly fat with radar-based smartwatch tracking",
+   "link": "https://www.wareable.com/samsung/samsung-targets-deep-belly-fat-with-radar-based-smartwatch-tracking",
+   "published": null,
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T14:20:46Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Visceral fat is one of the trickiest body metrics to measure—but Samsung is exploring whether its wearables could do the job A new Samsung patent describes a system that combines ultra-wideband (UWB) radar with body composition sensors to estimate subcutaneous and visceral fat without clinical scans."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Speediance Strap update targets some of its biggest early flaws",
@@ -1922,19 +1936,6 @@
     "watches"
    ],
    "excerpt": "Garmin Vivoactive 5 hits a record-low $169.99 on Amazon, packing AMOLED, built-in GPS, and up to 11 days of battery life."
-  },
-  {
-   "source": "Gizmochina",
-   "source_home": "https://www.gizmochina.com/",
-   "title": "Rogbid launches Model R5 Android smartwatch with 2.4-inch display, 4G LTE and a rotating camera",
-   "link": "https://www.gizmochina.com/2026/11/02/rogbid-model-r5-smartwatch-launched-specs-price/",
-   "published": "2026-11-02T14:17:00Z",
-   "date": "2026-11-02",
-   "first_seen": "2026-11-02T14:20:51Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Rogbid has released the Model R5, a new smartwatch that functions more like a wrist-worn Android phone than a traditional companion wearable. The device is built around a 2.4-inch AMOLED display and includes a built-in SIM card slot, allowing it to operate independently from a smartphone. Rogbid Model R5 Specifications Also Read Rogbid Model S […] The post Rogbid launches Model R5 Android smartwat"
   }
  ]
 }

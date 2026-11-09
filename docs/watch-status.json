@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 4,
+  "kept": 5,
   "last_ok": "2026-11-09T14:00Z"
  },
  "DC Rainmaker": {
@@ -55,9 +55,8 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "items": 12,
-  "kept": 1,
-  "last_ok": "2026-11-09T14:00Z"
+  "last_ok": "2026-11-09T14:00Z",
+  "error": "HTTPSConnectionPool(host='www.endurancesportswire.com', port=443): Read timed out. (read timeout=20)"
  },
  "Garmin Newsroom": {
   "ok": true,
