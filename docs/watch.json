@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Speediance Strap update targets some of its biggest early flaws",
+   "link": "https://gadgetsandwearables.com/2026/11/09/speediance-strap-firmware-1-0-7/",
+   "published": "2026-11-09T13:38:42Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T13:40:41Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Speediance has pushed out firmware 1.0.7 for the Strap and Strap Pro. The new software targets heart-rate response, workout detection, The post Speediance Strap update targets some of its biggest early flaws appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Study: Where wearable interest is booming worldwide",
@@ -1922,17 +1935,6 @@
     "watches"
    ],
    "excerpt": "Rogbid has released the Model R5, a new smartwatch that functions more like a wrist-worn Android phone than a traditional companion wearable. The device is built around a 2.4-inch AMOLED display and includes a built-in SIM card slot, allowing it to operate independently from a smartphone. Rogbid Model R5 Specifications Also Read Rogbid Model S […] The post Rogbid launches Model R5 Android smartwat"
-  },
-  {
-   "source": "9to5Mac Apple Watch",
-   "source_home": "https://9to5mac.com/",
-   "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix",
-   "link": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
-   "published": "2026-11-02T13:36:16Z",
-   "date": "2026-11-02",
-   "first_seen": "2026-11-02T13:40:43Z",
-   "topics": [],
-   "excerpt": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches , and the problem has occurred again this year. Some users are finding that while the primary time has automatically updated for daylight saving, the always-on display has not … more…"
   }
  ]
 }
