@@ -104,7 +104,7 @@
  "Gizmochina": {
   "ok": true,
   "items": 40,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-09T04:00Z"
  },
  "Bikerumor": {
@@ -146,7 +146,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-09T04:00Z"
  },
  "Tom's Guide": {
