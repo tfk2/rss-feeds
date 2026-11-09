@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Study: Where wearable interest is booming worldwide",
+   "link": "https://www.wareable.com/news/study-where-wearable-interest-is-booming-worldwide",
+   "published": null,
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T12:31:04Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Australia has the world’s biggest appetite for smartwatches and fitness trackers—narrowly ahead of Japan—according to a new analysis of 12... Australia has the world’s biggest appetite for smartwatches and fitness trackers—narrowly ahead of Japan—according to a new analysis of 12 months of Google searches across 101 countries."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I swam 1400m with the Apple Watch 12 and Fitbit Edge: Here’s which fitness tracker came out on top",
