@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Tactix 9 or Descent Mk4? New SDPPI Filings Reveal Models A05198 & A05199",
+   "link": "https://www.garminnews.com/garmin-tactix-9-or-descent-mk4-new-sdppi-filings-reveal-models-a05198-a05199/",
+   "published": "2026-11-09T15:43:55Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T15:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "While digging through regulatory certification databases today, I spotted two new unreleased Garmin outdoor devices in Indonesia’s SDPPI registry. Filed on November 9, 2026, by PT Garmin Indonesia Distribution under the “Outdoor Products” category, the certification lists two sequential model numbers: A05198 and A05199. When Garmin registers two consecutive model numbers together like this, it […]"
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "The Verge’s guide to Black Friday 2026",
@@ -335,7 +348,7 @@
   {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Drops Quick Beta Update 7.15 for Fenix 9 Pro",
+   "title": "Garmin Drops Quick Beta Update 7.15 for Fenix 9/9 Pro, and Enduro 4",
    "link": "https://www.garminnews.com/garmin-drops-quick-beta-update-7-15-for-fenix-9-pro/",
    "published": "2026-11-06T21:40:00Z",
    "date": "2026-11-06",
@@ -343,7 +356,7 @@
    "topics": [
     "watches"
    ],
-   "excerpt": "Garmin has released another beta software patch for its high-end multisport watches. The new beta update, version 7.15, is now rolling out to users with the Fenix 9 Pro smartwatch. This release follows close on the heels of the previous build, arriving just three days after Garmin launched beta version 7.14 to the same device […] The post Garmin Drops Quick Beta Update 7.15 for Fenix 9 Pro appeare"
+   "excerpt": "Garmin has released another beta software patch for its high-end multisport watches. The new beta update, version 7.15, is now rolling out to users with the Fenix 9, Fenix 9 Pro, and Enduro 4 smartwatches. This release follows close on the heels of the previous build, arriving just three days after Garmin launched beta version […] The post Garmin Drops Quick Beta Update 7.15 for Fenix 9/9 Pro, and"
   },
   {
    "source": "Garmin News",
@@ -1963,19 +1976,6 @@
     "other_wearables"
    ],
    "excerpt": "When you shell out over a thousand dollars for a brand-new, top-of-the-line Garmin sports watch, you naturally expect everything ticking away inside it to be state-of-the-art. However, recent teardown findings (Via The5KRunner) reveal a surprising secret about popular fitness wearables: major brands often rely on internal components and processors that are several years old. Paying […] The post Ga"
-  },
-  {
-   "source": "Engadget",
-   "source_home": "https://www.engadget.com/",
-   "title": "The Fitbit Edge lacks a useful contactless feature",
-   "link": "https://www.engadget.com/2300348/why-fitbit-edge-lacks-nfc-contactless-payment-feature/",
-   "published": "2026-11-02T15:45:00Z",
-   "date": "2026-11-02",
-   "first_seen": "2026-11-02T15:52:35Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "It's handy, but most people likely won't miss it."
   }
  ]
 }
