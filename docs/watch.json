@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Druski’s ‘SNL’ Wearables Skit Makes Interesting Case for Human Personal Trainers",
+   "link": "https://athletechnews.com/druski-snl-saturday-night-live-my-corner-guy-skit-fitness-wearables/",
+   "published": "2026-11-09T19:12:59Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T19:20:44Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "As wearable makers lean on AI coaching, the “My Corner Guy” skit trades algorithms for unfiltered feedback from a real person, echoing what gymgoers keep telling the industry"
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "How (and Why) To Switch Your Zwift Subscription Billing from Apple to Zwift.com",

@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Athletech News: Druski’s ‘SNL’ Wearables Skit Makes Interesting Case for Human Personal Trainers</title>
+<link>https://athletechnews.com/druski-snl-saturday-night-live-my-corner-guy-skit-fitness-wearables/</link>
+<guid isPermaLink="true">https://athletechnews.com/druski-snl-saturday-night-live-my-corner-guy-skit-fitness-wearables/</guid>
+<description>As wearable makers lean on AI coaching, the “My Corner Guy” skit trades algorithms for unfiltered feedback from a real person, echoing what gymgoers keep telling the industry</description>
+<category>other_wearables</category>
+<pubDate>Mon, 09 Nov 2026 19:12:59 +0000</pubDate>
+</item>
+<item>
 <title>Zwift Insider: How (and Why) To Switch Your Zwift Subscription Billing from Apple to Zwift.com</title>
 <link>https://zwiftinsider.com/apple-sub-switch/</link>
 <guid isPermaLink="true">https://zwiftinsider.com/apple-sub-switch/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin’s stable software update 8.19 is rolling out to the Edge 1060. See the full changelog and how to update.</description>
 <category>watches</category>
 <pubDate>Wed, 04 Nov 2026 21:03:02 +0000</pubDate>
-</item>
-<item>
-<title>Android Authority: Cyclists using Garmin could soon be safer with live location sharing on Waze</title>
-<link>https://www.androidauthority.com/garmin-waze-cyclists-integration-3731735/</link>
-<guid isPermaLink="true">https://www.androidauthority.com/garmin-waze-cyclists-integration-3731735/</guid>
-<description>The feature could arrive with Garmin Connect 5.31.</description>
-<category>watches</category>
-<pubDate>Wed, 04 Nov 2026 18:55:58 +0000</pubDate>
 </item>
 </channel></rss>
