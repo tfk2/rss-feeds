@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Fitbit Sense & Versa losing 3rd-party watch faces this month, existing downloads remain",
+   "link": "https://9to5google.com/2026/11/09/fitbit-sense-versa-clocks-apps/",
+   "published": "2026-11-09T21:21:22Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T21:30:57Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google announced today that Fitbit Sense and Versa smartwatches will soon lose the ability to “install or update third-party apps and clocks.” more…"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Pebble Round 2 MiP smartwatch gets only vague timeline after 6-month delay",
