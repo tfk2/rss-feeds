@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Verge: The Verge’s guide to Black Friday 2026</title>
+<link>https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026</link>
+<guid isPermaLink="true">https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026</guid>
+<description>Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge. From wireless earbuds and smartwatches to robot vacuums and the latest gaming gear, retailers have already begun […]</description>
+<category>watches</category>
+<pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>WinFuture: Nur noch heute: AirPods Pro 3 + 50 GB Telekom-Tarif effektiv für 2,65 Euro</title>
 <link>https://winfuture.de/news,1617052.html</link>
 <guid isPermaLink="true">https://winfuture.de/news,1617052.html</guid>
@@ -35,6 +43,14 @@
 <description>Speediance has pushed out firmware 1.0.7 for the Strap and Strap Pro. The new software targets heart-rate response, workout detection, The post Speediance Strap update targets some of its biggest early flaws appeared first on Gadgets &amp; Wearables .</description>
 <category>other_wearables</category>
 <pubDate>Mon, 09 Nov 2026 13:38:42 +0000</pubDate>
+</item>
+<item>
+<title>Zwift Insider: Free Zwift Plus For All Ends Today – Here Are Your Options</title>
+<link>https://zwiftinsider.com/zwift-plus-trial/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/zwift-plus-trial/</guid>
+<description>Learn about the Zwift Plus offers available to monthly and annual subscribers.</description>
+<category>sports_software</category>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Wareable: Study: Where wearable interest is booming worldwide</title>
@@ -787,21 +803,5 @@
 <description>I paced the 80/20 polarized training rule for running without a smartwatch; here's how.</description>
 <category>watches</category>
 <pubDate>Wed, 04 Nov 2026 10:30:00 +0000</pubDate>
-</item>
-<item>
-<title>road.cc: Police and BBC continue to misidentify e-bikes, claiming they “blight communities”; Zwift unveil new sprint segment obscuring defecating cyclist on new map; Anti-cycling candidates defeated in US midterm elections + more on the live blog</title>
-<link>https://road.cc/news/cycling-live-blog-4-november-2026</link>
-<guid isPermaLink="true">https://road.cc/news/cycling-live-blog-4-november-2026</guid>
-<description>Unable to contain his inner election geek, Callum is on the Thursday live blog, semi-fresh from a late night poring over numbers across the pond</description>
-<category>sports_software</category>
-<pubDate>Wed, 04 Nov 2026 10:23:16 +0000</pubDate>
-</item>
-<item>
-<title>Wareable: Future Apple AirPods and smart glasses could keep private calls off-limits to nearby ears</title>
-<link>https://www.wareable.com/hearables/future-apple-airpods-and-smart-glasses-could-keep-private-calls-off-limits-to-nearby-ears</link>
-<guid isPermaLink="true">https://www.wareable.com/hearables/future-apple-airpods-and-smart-glasses-could-keep-private-calls-off-limits-to-nearby-ears</guid>
-<description>Taking a call in public is awkward enough without worrying that nearby people can hear it—and Apple appears to be looking at ways to fix that A newly surfaced Apple patent describes a head-worn audio system that could automatically switch private calls to bone-conduction audio, while everyday sounds would still play through regular speakers.</description>
-<category>sports_earphones</category>
-<pubDate>Wed, 04 Nov 2026 09:20:47 +0000</pubDate>
 </item>
 </channel></rss>

@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "The Verge’s guide to Black Friday 2026",
+   "link": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026",
+   "published": "2026-11-09T15:00:00Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T15:10:42Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge. From wireless earbuds and smartwatches to robot vacuums and the latest gaming gear, retailers have already begun […]"
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "Nur noch heute: AirPods Pro 3 + 50 GB Telekom-Tarif effektiv für 2,65 Euro",
@@ -53,6 +66,19 @@
     "other_wearables"
    ],
    "excerpt": "Speediance has pushed out firmware 1.0.7 for the Strap and Strap Pro. The new software targets heart-rate response, workout detection, The post Speediance Strap update targets some of its biggest early flaws appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Free Zwift Plus For All Ends Today – Here Are Your Options",
+   "link": "https://zwiftinsider.com/zwift-plus-trial/",
+   "published": "2026-11-09T13:00:00Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T15:10:42Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Learn about the Zwift Plus offers available to monthly and annual subscribers."
   },
   {
    "source": "Wareable",
