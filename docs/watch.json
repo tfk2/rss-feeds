@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "How (and Why) To Switch Your Zwift Subscription Billing from Apple to Zwift.com",
+   "link": "https://zwiftinsider.com/apple-sub-switch/",
+   "published": "2026-11-09T19:00:00Z",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-09T19:10:40Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Stop paying more for your Zwift Plus subscription!"
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes",

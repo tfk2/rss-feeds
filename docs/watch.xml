@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Zwift Insider: How (and Why) To Switch Your Zwift Subscription Billing from Apple to Zwift.com</title>
+<link>https://zwiftinsider.com/apple-sub-switch/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/apple-sub-switch/</guid>
+<description>Stop paying more for your Zwift Plus subscription!</description>
+<category>sports_software</category>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>MacRumors: Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes</title>
 <link>https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/</link>
 <guid isPermaLink="true">https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/</guid>
@@ -795,13 +803,5 @@
 <description>The feature could arrive with Garmin Connect 5.31.</description>
 <category>watches</category>
 <pubDate>Wed, 04 Nov 2026 18:55:58 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin Connect Code Reveals Upcoming Waze Integration for Cyclists</title>
-<link>https://www.garminnews.com/garmin-connect-code-reveals-upcoming-waze-integration-for-cyclists/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-connect-code-reveals-upcoming-waze-integration-for-cyclists/</guid>
-<description>As first uncovered by the tech publication Gadgets &amp; Wearables, Garmin is currently working on an exciting new feature. Hidden deep inside the Garmin Connect version 5.31 application file, new code strings directly reference “Share Location with Waze”, “Share your rides with Waze”, and “Waze Location Sharing.” These references reveal that the company plans to […] The post Garmin Connect Code Revea</description>
-<category>watches, other_wearables</category>
-<pubDate>Wed, 04 Nov 2026 17:46:23 +0000</pubDate>
 </item>
 </channel></rss>
