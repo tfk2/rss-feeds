@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "I scanned my feet to order personalized FitX 01 running shoes",
+   "link": "https://gadgetsandwearables.com/2026/11/10/fitx-01-foot-scan-review/",
+   "published": "2026-11-10T20:12:25Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T20:20:44Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "I’ve just done something I’ve never had to do when buying running shoes before. Instead of picking a size in The post I scanned my feet to order personalized FitX 01 running shoes appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Making Zwift a Safe Place to Ride — For Everyone",
@@ -1958,17 +1971,6 @@
     "watches"
    ],
    "excerpt": "The Xiaomi Watch S5 in the smaller 41-millimeter version is expected to be available in Europe soon. A leak reveals details about the features and design of the compact smartwatch ahead of time, which is said to pack an NFC chip and a GPS module into a 9.9-millimeter-thin case."
-  },
-  {
-   "source": "9to5Mac Apple Watch",
-   "source_home": "https://9to5mac.com/",
-   "title": "Apple Watch Challenge set for Veterans Day",
-   "link": "https://9to5mac.com/2026/11/03/apple-watch-challenge-set-for-veterans-day/",
-   "published": "2026-11-03T20:12:15Z",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-03T20:20:44Z",
-   "topics": [],
-   "excerpt": "The next Apple Watch fitness challenge is set for Veterans Day on Wednesday, November 11th, 2026. Apple Watch Challenges increase awareness about fitness features and healthy habits while observing holidays and other notable occasions. more…"
   }
  ]
 }
