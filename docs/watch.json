@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin Fenix 9 Pro and others get free Waze integration",
+   "link": "https://www.notebookcheck.net/Garmin-Fenix-9-Pro-and-others-get-free-Waze-integration.1447024.0.html",
+   "published": "2026-11-10T12:42:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T12:50:42Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin smartwatches such as the Fenix 9 Pro or the Forerunner 970, as well as bike computers like the Edge 1060, can now share their location with Waze while cycling. This is intended to improve safety, as drivers can see the bike not only on the road but also on their navigation screen."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Google confirms end to third-party app support for Fitbit Sense and Versa",
@@ -2068,19 +2081,6 @@
     "watches"
    ],
    "excerpt": "With the Descent X10, Garmin introduces an affordable dive computer designed to deliver particularly long battery life thanks to a MiP display. The case is made from recycled ocean plastic, and the look can be customized with a colorful bezel protector."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Xiaomi officially releases affordable smart glasses with up to 11 days of battery life in more countries",
-   "link": "https://www.notebookcheck.net/Xiaomi-officially-releases-affordable-smart-glasses-with-up-to-11-days-of-battery-life-in-more-countries.1441094.0.html",
-   "published": "2026-11-03T12:49:00Z",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-03T13:01:07Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Xiaomi has listed the Smart Audio Glasses at its online stores in various European countries. Now officially available in this market, the wearable is cheaper than an existing model and should run for around 11 days in standby mode."
   }
  ]
 }
