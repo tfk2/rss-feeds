@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "This free iPhone sleep tracker decodes my 3 a.m. wake ups — and it’s a worthy rival to my Oura Ring 5",
+   "link": "https://www.tomsguide.com/wellness/sleep/this-free-iphone-sleep-tracker-decodes-my-3-a-m-wake-ups-and-its-a-worthy-rival-to-my-oura-ring-5",
+   "published": "2026-11-10T10:36:31Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T10:50:44Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "This subscription-free app uses contactless motion sensors to track your 3 a.m. wake ups and how long you've been asleep for — here's how it compares to my Oura Ring 5"
+  },
+  {
    "source": "Athletech News",
    "source_home": "https://athletechnews.com/",
    "title": "The Next Fitness Revolution Could Be Happening While You Sleep",
