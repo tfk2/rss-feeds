@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Making Zwift a Safe Place to Ride — For Everyone",
+   "link": "https://zwiftinsider.com/making-zwift-safe/",
+   "published": "2026-11-10T19:00:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T19:10:51Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Zwift is constantly evolving to be better, faster, more expansive, and more fun. But better also must mean safer."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Disney Imagineering has a new idea for keeping you off your phone at Disneyland",
