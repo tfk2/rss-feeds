@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin and Waze Officially Team Up: Here’s How It Works and Which Devices Are Compatible",
+   "link": "https://www.garminnews.com/garmin-and-waze-officially-team-up-heres-how-it-works-and-which-devices-are-compatible/",
+   "published": "2026-11-10T15:51:15Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T16:10:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "As we previously reported, after code hints were uncovered inside Garmin Connect, the features pointing toward a major safety bridge between Garmin devices and Waze were clear. Now, it is officially here. Garmin and Waze have rolled out a first-of-its-kind feature that lets cyclists share their active ride locations directly with drivers using the Waze […] The post Garmin and Waze Officially Team "
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Waze rolling out cyclist alerts based on real-time locations from Garmin trackers",
@@ -2136,19 +2149,6 @@
     "sports_software"
    ],
    "excerpt": "Read all about Zwift's latest game update..."
-  },
-  {
-   "source": "TechRadar",
-   "source_home": "https://www.techradar.com/",
-   "title": "The Google Pixel Watch 5 drops to its lowest-ever price on Amazon — 'it’s the best Android watch yet'",
-   "link": "https://www.techradar.com/health-fitness/smartwatches/the-google-pixel-watch-5-drops-to-its-lowest-ever-price-on-amazon-its-the-best-android-watch-yet",
-   "published": "2026-11-03T16:01:24Z",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-03T16:07:28Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "The Google Pixel Watch 5 has been discounted for only the second time since launch, with a $100 price cut at Amazon bringing the four-star wearable down to its lowest price yet."
   }
  ]
 }
