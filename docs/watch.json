@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Approach S72 Stable Version 23.47",
+   "link": "https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-47/",
+   "published": "2026-11-10T16:00:56Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T16:20:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 23.47 is rolling out to the Approach S72. See the full changelog and how to update."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin and Waze Officially Team Up: Here’s How It Works and Which Devices Are Compatible",
