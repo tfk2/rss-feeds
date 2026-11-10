@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "The Next Fitness Revolution Could Be Happening While You Sleep",
+   "link": "https://athletechnews.com/the-next-fitness-revolution-could-be-happening-while-you-sleep/",
+   "published": "2026-11-10T10:00:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T10:01:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Sleep is becoming an essential part of the fitness conversation. By turning nighttime data into actionable insights, Garmin helps consumers understand their sleep needs, recovery and how nighttime habits and daytime performance relate."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Fitbit Sense and Versa lose third-party apps later this month",
