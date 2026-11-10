@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Disney Imagineering has a new idea for keeping you off your phone at Disneyland",
+   "link": "https://www.techradar.com/computing/websites-apps/get-you-out-of-your-device-and-back-to-your-vacation-disneys-new-ai-experiment-could-change-how-you-explore-disneyland-whether-youre-using-an-iphone-ray-ban-metas-or-airpods",
+   "published": "2026-11-10T17:26:46Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T17:30:56Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "We spoke with Disney Imagineering and Meta to learn how the new AI-powered Disneyland Enchanted Guide could help guests navigate the park, check wait times, and spend less time looking at their phones, thanks to hands-free support for Meta Ray-Ban smart glasses and AirPods."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Xiaomi launches new smartwatch globally with 14 days battery and 3,000-nit AMOLED display",
@@ -2136,19 +2149,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released beta version 24.15 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Ultra-thin Oppo Watch 5 spotted ahead of launch",
-   "link": "https://www.notebookcheck.net/Ultra-thin-Oppo-Watch-5-spotted-ahead-of-launch.1441313.0.html",
-   "published": "2026-11-03T17:21:00Z",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-03T17:31:00Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "After launching only smartwatches with round displays over the past two years, Oppo is finally returning to a rectangular model with the Oppo Watch 5. The ultra-thin smartwatch with an especially bright display can already be seen in a first photo."
   }
  ]
 }

@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 23,
+  "kept": 22,
   "last_ok": "2026-11-10T17:00Z"
  },
  "Pocket-lint": {
@@ -146,7 +146,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 1,
+  "kept": 2,
   "last_ok": "2026-11-10T17:00Z"
  },
  "Tom's Guide": {
@@ -176,7 +176,7 @@
  "Engadget": {
   "ok": true,
   "items": 20,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-10T17:00Z"
  }
 }
