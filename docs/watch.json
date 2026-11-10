@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Google is closing the door on third-party Fitbit apps and clock faces this month",
+   "link": "https://www.androidauthority.com/fitbit-third-party-apps-clock-faces-end-support-3733258/",
+   "published": "2026-11-10T08:54:31Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T09:01:08Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "A factory reset could permanently erase your favorite Fitbit apps."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Fenix 9 Pro Solar Sees Its First Discount: 10% Off at Amazon",

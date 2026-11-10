@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Authority: Google is closing the door on third-party Fitbit apps and clock faces this month</title>
+<link>https://www.androidauthority.com/fitbit-third-party-apps-clock-faces-end-support-3733258/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/fitbit-third-party-apps-clock-faces-end-support-3733258/</guid>
+<description>A factory reset could permanently erase your favorite Fitbit apps.</description>
+<category>watches</category>
+<pubDate>Tue, 10 Nov 2026 08:54:31 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Fenix 9 Pro Solar Sees Its First Discount: 10% Off at Amazon</title>
 <link>https://garminrumors.com/fenix-9-pro-solar-first-discount-amazon/</link>
 <guid isPermaLink="true">https://garminrumors.com/fenix-9-pro-solar-first-discount-amazon/</guid>
@@ -795,13 +803,5 @@
 <description>Meta VR Glasses are shaping up to be the mixed-reality wearables we wanted all along, and my test drive made me a believer.</description>
 <category>other_wearables</category>
 <pubDate>Thu, 05 Nov 2026 00:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin Drops Fresh Beta Software Update 7.14 for Fenix 9 Pro: New Features &amp; Bug Fixes</title>
-<link>https://www.garminnews.com/garmin-drops-fresh-beta-software-update-7-14-for-fenix-9-pro-new-features-bug-fixes/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-drops-fresh-beta-software-update-7-14-for-fenix-9-pro-new-features-bug-fixes/</guid>
-<description>Garmin has officially started rolling out a new beta software update, version 7.14, for its flagship Fenix 9 Pro smartwatches. This release brings a wide range of new features, performance tweaks, and bug fixes to test out before a full public release. However, Garmin has also issued a warning for climbers: the company has identified […] The post Garmin Drops Fresh Beta Software Update 7.14 for Fe</description>
-<category>watches</category>
-<pubDate>Thu, 05 Nov 2026 00:44:46 +0000</pubDate>
 </item>
 </channel></rss>
