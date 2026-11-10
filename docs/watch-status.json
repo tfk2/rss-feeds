@@ -55,9 +55,8 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "items": 12,
-  "kept": 0,
-  "last_ok": "2026-11-10T05:00Z"
+  "last_ok": "2026-11-10T05:00Z",
+  "error": "no items (bozo: <unknown>:2:0: syntax error; starts: 'Under Maintenance...')"
  },
  "Garmin Newsroom": {
   "ok": true,
