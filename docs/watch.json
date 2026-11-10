@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
+   "link": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+   "published": "2026-11-10T12:00:10Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T12:01:06Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Waze and Garmin have announced the launch of real-time cycling alerts for drivers to help create a safer environment on the road. Going forward, when cyclists turn on Garmin LiveTrack on their Garmin Edge bike computer or Garmin smartwatch, they can choose to show up in Waze as a real-time moving icon. Drivers will also see a notification when a cyclist is nearby, so they can slow down, stay aware"
+  },
+  {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "Garmin users can now share their cycling location through Waze for extra safety",
+   "link": "https://www.engadget.com/2311124/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/",
+   "published": "2026-11-10T12:00:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T12:01:06Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The integration works through Garmin's optional LiveTrack feature."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "This free iPhone sleep tracker decodes my 3 a.m. wake ups — and it’s a worthy rival to my Oura Ring 5",
@@ -2016,19 +2042,6 @@
     "other_wearables"
    ],
    "excerpt": "Xiaomi has listed the Smart Audio Glasses at its online stores in various European countries. Now officially available in this market, the wearable is cheaper than an existing model and should run for around 11 days in standby mode."
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "What a 2:06 New York Marathon looks like in heart rate and cadence",
-   "link": "https://gadgetsandwearables.com/2026/11/03/crippa-new-york-marathon-heart-rate-cadence/",
-   "published": "2026-11-03T11:56:09Z",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-03T12:01:07Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "I recently looked at the running watches worn by the top two men at the New York Marathon. Winner Andreas The post What a 2:06 New York Marathon looks like in heart rate and cadence appeared first on Gadgets & Wearables ."
   }
  ]
 }
