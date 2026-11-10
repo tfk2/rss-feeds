@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Meta brings its Muse AI agent to Apple Watch and Wear OS",
+   "link": "https://gadgetsandwearables.com/2026/11/10/meta-muse-ai-agent-apple-watch-wear-os/",
+   "published": "2026-11-10T15:14:20Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T15:20:45Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Meta’s Muse AI agent is now available on Apple Watch and Wear OS. Users can give it instructions, check progress The post Meta brings its Muse AI agent to Apple Watch and Wear OS appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin’s epix Pro (Gen 2) hits an all-time low with $600 off",
@@ -188,7 +201,7 @@
   {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
-   "title": "This free iPhone sleep tracker decodes my 3 a.m. wake ups — and it’s a worthy rival to my Oura Ring 5",
+   "title": "Do you really need an Oura Ring 5 to find out why you're waking up at 3 a.m.? This free iPhone app tracked my sleep almost as accurately",
    "link": "https://www.tomsguide.com/wellness/sleep/this-free-iphone-sleep-tracker-decodes-my-3-a-m-wake-ups-and-its-a-worthy-rival-to-my-oura-ring-5",
    "published": "2026-11-10T10:36:31Z",
    "date": "2026-11-10",
