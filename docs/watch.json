@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "AMD says it will outsell Intel for the first time in its history as Epyc and Instinct sales soar on AI demand",
+   "link": "https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand",
+   "published": "2026-11-10T01:20:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T01:20:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "AMD just guided to $17 billion for Q4, even as Intel guided to $15-$16 billion."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Fitbit Sense and Versa lose third-party apps later this month",
