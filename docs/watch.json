@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "“A safer riding environment”: Garmin and Waze team up to alert drivers to nearby cyclists in real time",
+   "link": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
+   "published": "2026-11-10T13:25:47Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T13:30:59Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Waze app users can see the location of cyclists using Garmin Edge computers and smartwatches in a bid to improve awareness and road safety – but will enough drivers and cyclists use it to make a difference?"
+  },
+  {
    "source": "Endurance Sportswire",
    "source_home": "https://www.endurancesportswire.com/",
    "title": "Garmin and Waze team up to amplify the power of community-driven awareness for cyclists and drivers",
