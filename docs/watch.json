@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Bikerumor",
+   "source_home": "https://bikerumor.com/",
+   "title": "Garmin and Waze Now Warn Drivers When Cyclists Are Nearby",
+   "link": "https://bikerumor.com/garmin-waze-live-cycling-alerts/",
+   "published": "2026-11-10T14:47:19Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T14:50:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin and Waze now let compatible Edge and smartwatch users share LiveTrack positions with nearby drivers as real-time cycling alerts."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "A future Samsung Galaxy Watch could spot body tremors using existing sensors",

@@ -9,6 +9,11 @@
   "para": "Google has spent years building its laptop business on Chromebooks: relatively affordable devices designed largely around web-based apps and services. In May 2026, the company announced Googlebook, a new category of laptops that brings together Android technology, features from ChromeOS and Google’s Gemini AI. The first models, made by Acer, Asus, Dell, HP and Lenovo, went on sale in selected markets in October.",
   "published": "2026-10-14T15:58:47+00:00"
  },
+ "https://www.ccsinsight.com/blog/collaboration-customer-experience-and-convergence-front-of-mind-at-mvno-nation-europe/": {
+  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/MVNO_Nation_Europe.png",
+  "para": "I really enjoyed taking part in the MVNO Nation Europe event in Alicante last week. The conference — held over three days — brought together more than 400 people to discuss opportunities for virtual providers and the companies that support them.",
+  "published": "2026-11-10T14:45:33+00:00"
+ },
  "https://www.ccsinsight.com/blog/googles-gemini-agent-puts-workplace-delegation-to-the-test/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png",
   "para": "Google’s announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace identities, permissions and activity records.",
@@ -43,11 +48,6 @@
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png",
   "para": "Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider the databases, caches and other software components working behind the scenes. Yet when those foundations struggle, the consequences become very visible indeed.",
   "published": "2026-10-27T17:01:34+00:00"
- },
- "https://www.ccsinsight.com/blog/what-ai-means-for-telecom/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/07/What_AI_Means_for_Telecom-1.png",
-  "para": "At two recent conferences, DTW Ignite and MWC Shanghai, the role of AI emerged as the dominant theme. But there remains tremendous debate about the business opportunity for AI among telecom operators and suppliers.",
-  "published": "2026-07-28T08:54:54+00:00"
  },
  "https://www.wareable.com/apple/apple-patent-details-multi-wearable-sensor-fusion-for-improved-health-tracking": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/apple-watch-and-airpods-health-tracking.jpg",
