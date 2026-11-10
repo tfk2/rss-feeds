@@ -130,10 +130,6 @@
   "para": "Blood pressure tracking has evolved into a key modern focus areas for those building health wearables—especially since the biggest names in the industry began circling it.",
   "published": "2026-11-04T16:51:37+00:00"
  },
- "https://www.wareable.com/health-tech/best-red-light-therapy-saunas": {
-  "image": "https://media.wareable.com/images/featured-big/2026/10/red-light-therapy-saunas-featured-image.jpg",
-  "para": "We evaluated several at-home infrared saunas with built-in red light therapy (RLT) or an optional red light add-on to find the models that offer the best combination of performance, features, and value."
- },
  "https://www.wareable.com/health-tech/best-sleep-tech": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/best-sleep-tech.jpg",
   "para": "Many sleep devices claim to improve rest, but determining which are genuinely useful can be difficult. While no single device is a sure solution, we tested current sleep and wellness technology to separate useful tools from gimmicky ones."
@@ -191,6 +187,11 @@
   "image": "https://media.wareable.com/images/750w/2026/11/wrbl-winner-2026.png",
   "para": "For the past few years, Wareable Tech Awards have been shaped only by our editorial team’s picks.",
   "published": "2026-11-05T07:19:00+00:00"
+ },
+ "https://www.wareable.com/samsung/a-future-samsung-galaxy-watch-could-spot-body-tremors-using-existing-sensors": {
+  "image": "https://media.wareable.com/images/750w/2026/11/samsung.jpg",
+  "para": "A newly published Samsung patent reveals how future smartwatches might use existing optical PPG light sensors and motion trackers to detect and record body tremors.",
+  "published": "2026-11-10T13:44:08+00:00"
  },
  "https://www.wareable.com/samsung/samsung-may-use-an-optical-trick-to-combat-blurry-smart-glasses-displays": {
   "image": "https://media.wareable.com/images/750w/2026/10/Samsung-optical-trick-to-fix-blurry-smart-glasses-displays.jpg",

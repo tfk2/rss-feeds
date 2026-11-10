@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "A future Samsung Galaxy Watch could spot body tremors using existing sensors",
+   "link": "https://www.wareable.com/samsung/a-future-samsung-galaxy-watch-could-spot-body-tremors-using-existing-sensors",
+   "published": null,
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T13:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The next big Galaxy Watch health feature may be a new use of the sensors already sitting on your wrist A newly published Samsung patent reveals how future smartwatches might use existing optical PPG light sensors and motion trackers to detect and record body tremors."
+  },
+  {
    "source": "road.cc",
    "source_home": "https://road.cc/",
    "title": "“A safer riding environment”: Garmin and Waze team up to alert drivers to nearby cyclists in real time",
@@ -382,7 +395,7 @@
   {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
-   "title": "Nur heute: AirPods Pro 3 + 50 GB Telekom-Tarif effektiv für 2,65 Euro",
+   "title": "AirPods Pro 3 + 50 GB Telekom-Tarif effektiv für 2,65 Euro",
    "link": "https://winfuture.de/news,1617052.html",
    "published": "2026-11-09T14:27:04Z",
    "date": "2026-11-09",
