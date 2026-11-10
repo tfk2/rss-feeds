@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Marathon Series Completes Fifth Race in Tucson</title>
+<link>https://garminrumors.com/garmin-marathon-tucson-2026-recap-results/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-marathon-tucson-2026-recap-results/</guid>
+<description>Garmin Marathon Tucson returned Sunday, November 8, for its second year, with a marathon, half marathon, 10K, and 5K starting and finishing downtown on Cushing Street. It was the fifth race in Garmin’s own Marathon Series and the last one on the 2026 calendar. Official results from RunSignup list about 3,300 finishers across the four […]</description>
+<category>watches</category>
+<pubDate>Tue, 10 Nov 2026 02:04:58 +0000</pubDate>
+</item>
+<item>
 <title>TechRadar: AMD says it will outsell Intel for the first time in its history as Epyc and Instinct sales soar on AI demand</title>
 <link>https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand</link>
 <guid isPermaLink="true">https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand</guid>
@@ -795,13 +803,5 @@
 <description>Garmin has started sending out a new software update for its top-tier smartwatches. Version 23.41 is now available for both the Fenix 8 Pro and the Fenix 8 MicroLED models. Unlike some gradual releases, this update is live for all users immediately, reaching 100% rollout right away. What Is Included in the Change Log Miscellaneous […] The post Garmin Releases New Stable Software Update 23.41 for F</description>
 <category>watches</category>
 <pubDate>Thu, 05 Nov 2026 00:36:56 +0000</pubDate>
-</item>
-<item>
-<title>Garmin Rumors: Garmin Releases Instinct 3 Series Beta Version 16.09</title>
-<link>https://garminrumors.com/garmin-releases-instinct-3-series-beta-version-16-09/</link>
-<guid isPermaLink="true">https://garminrumors.com/garmin-releases-instinct-3-series-beta-version-16-09/</guid>
-<description>Garmin has released beta version 16.09 for the Instinct 3 Series. See the full changelog and how to install it.</description>
-<category>watches</category>
-<pubDate>Thu, 05 Nov 2026 00:36:17 +0000</pubDate>
 </item>
 </channel></rss>

@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Marathon Series Completes Fifth Race in Tucson",
+   "link": "https://garminrumors.com/garmin-marathon-tucson-2026-recap-results/",
+   "published": "2026-11-10T02:04:58Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T02:10:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin Marathon Tucson returned Sunday, November 8, for its second year, with a marathon, half marathon, 10K, and 5K starting and finishing downtown on Cushing Street. It was the fifth race in Garmin’s own Marathon Series and the last one on the 2026 calendar. Official results from RunSignup list about 3,300 finishers across the four […]"
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "AMD says it will outsell Intel for the first time in its history as Epyc and Instinct sales soar on AI demand",
