@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Garmin’s epix Pro (Gen 2) hits an all-time low with $600 off",
+   "link": "https://www.androidauthority.com/garmin-epix-pro-gen-2-deal-3733452/",
+   "published": "2026-11-10T14:56:37Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T15:01:10Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Garmin epix Pro (Gen 2) Sapphire Edition is down to $499.99 on Amazon in 51mm Black, its lowest price ever."
+  },
+  {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin cyclists can now appear live on Waze maps",
+   "link": "https://gadgetsandwearables.com/2026/11/10/garmin-waze-cyclist-sharing-live/",
+   "published": "2026-11-10T14:51:51Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T15:01:10Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Six days after we found Garmin preparing Waze location sharing inside Garmin Connect, the feature is now official and is The post Garmin cyclists can now appear live on Waze maps appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin wearables get alarm-related improvements in new update",
+   "link": "https://www.notebookcheck.net/Garmin-wearables-get-alarm-related-improvements-in-new-update.1447066.0.html",
+   "published": "2026-11-10T14:48:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T15:01:10Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin has rolled out a new software update for one of its wearables. The stable release improves one of the device’s alarm features and also tackles a range of bugs experienced by some users of the Descent X30."
+  },
+  {
    "source": "Bikerumor",
    "source_home": "https://bikerumor.com/",
    "title": "Garmin and Waze Now Warn Drivers When Cyclists Are Nearby",
