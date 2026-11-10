@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Google confirms end to third-party app support for Fitbit Sense and Versa",
+   "link": "https://www.wareable.com/fitbit/google-ends-fitbit-versa-sense-global-third-party-app-support-november-28",
+   "published": null,
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T12:20:51Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "From November 28, the Fitbit App Gallery will exclusively host own-brand software Google is pulling the plug on third-party apps and clock faces for legacy Fitbit Versa and Sense devices, marking another step in the gradual wind-down of the brand's standalone smartwatches."
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
@@ -38,6 +51,19 @@
     "watches"
    ],
    "excerpt": "The integration works through Garmin's optional LiveTrack feature."
+  },
+  {
+   "source": "Garmin Newsroom",
+   "source_home": "https://www.garmin.com/en-US/newsroom/",
+   "title": "Garmin and Waze team up to amplify the power of community-driven awareness for cyclists and drivers",
+   "link": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-and-waze-team-up-to-amplify-the-power-of-community-driven-awareness-for-cyclists-and-drivers/",
+   "published": "2026-11-10T11:55:00Z",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-10T12:20:51Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "OLATHE, Kan./Nov. 10, 2026/PR Newswire – Garmin (NYSE: GRMN) today announced a first-of-its-kind collaboration with Waze™, the community-driven navigation app used by 200 million drivers around the world. Cyclists using a compatible Garmin Edge® bike computer or Garmin smartwatch can now share their LiveTrack™ locations1 for outdoor cycling activities and it will show up as […] The post Garmin and"
   },
   {
    "source": "Tom's Guide",
