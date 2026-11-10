@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Verge: Oura is acquiring medical AI chatbot startup Counsel Health</title>
+<link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
+<guid isPermaLink="true">https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</guid>
+<description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
+<category>other_wearables</category>
+<pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
+</item>
+<item>
 <title>Athletech News: Oura to Acquire Counsel Health for $625M in Major Push Into AI-Powered Healthcare</title>
 <link>https://athletechnews.com/oura-to-acquire-counsel-health-for-625-million-ai-powered-healthcare/</link>
 <guid isPermaLink="true">https://athletechnews.com/oura-to-acquire-counsel-health-for-625-million-ai-powered-healthcare/</guid>
@@ -795,13 +803,5 @@
 <description>They pair well with the Motorola Signature 27.</description>
 <category>watches</category>
 <pubDate>Thu, 05 Nov 2026 22:42:32 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Aina unveils a chunky AI ring with its own screen, joystick and microphone</title>
-<link>https://www.notebookcheck.net/Aina-unveils-a-chunky-AI-ring-with-its-own-screen-joystick-and-microphone.1443341.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Aina-unveils-a-chunky-AI-ring-with-its-own-screen-joystick-and-microphone.1443341.0.html</guid>
-<description>Aina is packing a screen, joystick, microphone and speaker into a smart ring designed to control AI agents and everyday apps. The chunky wearable lets users send voice prompts, receive notifications and take calls, with preorders priced at $399 and shipping planned for January 2027.</description>
-<category>other_wearables</category>
-<pubDate>Thu, 05 Nov 2026 22:16:00 +0000</pubDate>
 </item>
 </channel></rss>
