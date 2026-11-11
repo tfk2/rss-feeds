@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "WinFuture",
+   "source_home": "https://winfuture.de/",
+   "title": "Samsung-Patent: Galaxy-Watch der Zukunft misst Organfett per Radar",
+   "link": "https://winfuture.de/news,162614.html",
+   "published": "2026-11-11T18:03:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T18:10:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Samsung hat eine neue Technologie patentieren lassen, mit der man eines der in den Smartwatches der Galaxy-Watch-Serie verbauten Funkmodule nutzen kann, um das sonst nur mittels MRT sichtbare Viszeralfett im Körper des Trägers zu messen. ( Weiter lesen )"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin launches 5 US Armed Forces watch faces for veterans and military families",
