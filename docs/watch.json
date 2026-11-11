@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin and Waze Launch Cyclist Alerts Through LiveTrack",
+   "link": "https://garminrumors.com/garmin-waze-cyclist-alerts-livetrack/",
+   "published": "2026-11-11T02:20:05Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T02:20:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin cyclists can now show up on Waze. Google announced the feature today: when you start LiveTrack on a Garmin Edge bike computer or Garmin smartwatch, you can choose to appear as a moving icon on Waze, and drivers nearby get a “Cyclists ahead” alert. It’s rolling out now worldwide in the Waze app on […]"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Pay Launches in South Korea With T-money, Plus Every Country It Works In",
+   "link": "https://garminrumors.com/garmin-pay-south-korea-tmoney-countries/",
+   "published": "2026-11-11T02:18:23Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T02:20:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin Pay is now available in South Korea, Financial News reports. It works with T-money, Korea’s prepaid transit card, so you can tap your Garmin watch to ride buses and subways and to pay at convenience stores, cafes, and other shops that take T-money, without your phone or a physical card. Garmin Korea’s launch image […]"
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
