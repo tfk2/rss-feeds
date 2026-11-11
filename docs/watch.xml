@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Only One Garmin on the 2026 NYC Marathon Podium as Coros and Amazfit Move In</title>
+<link>https://garminrumors.com/nyc-marathon-2026-winners-watches/</link>
+<guid isPermaLink="true">https://garminrumors.com/nyc-marathon-2026-winners-watches/</guid>
+<description>Back in April, both London Marathon winners crossed the line wearing a Garmin Forerunner 255. The New York City Marathon on November 1 looked very different. Lifehacker checked the wrists of the top finishers, and only one of the five watches it could confirm was a Garmin. The Forerunner 570, the only Garmin on the […]</description>
+<category>watches</category>
+<pubDate>Wed, 11 Nov 2026 02:20:58 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Garmin and Waze Launch Cyclist Alerts Through LiveTrack</title>
 <link>https://garminrumors.com/garmin-waze-cyclist-alerts-livetrack/</link>
 <guid isPermaLink="true">https://garminrumors.com/garmin-waze-cyclist-alerts-livetrack/</guid>
@@ -795,13 +803,5 @@
 <description>Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as "Share your rides with Waze" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date.</description>
 <category>watches</category>
 <pubDate>Fri, 06 Nov 2026 09:08:00 +0000</pubDate>
-</item>
-<item>
-<title>Tom's Guide: The Fitbit Edge’s onboard GPS is a battery hog — but I found an easy fix</title>
-<link>https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix</link>
-<guid isPermaLink="true">https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix</guid>
-<description>The new Fitbit Edge has several hidden GPS tracking modes that vastly increase battery performance. But as always, there's a catch.</description>
-<category>watches</category>
-<pubDate>Fri, 06 Nov 2026 05:30:00 +0000</pubDate>
 </item>
 </channel></rss>
