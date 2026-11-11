@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "DC Rainmaker",
+   "source_home": "https://www.dcrainmaker.com/",
+   "title": "FIT File Podcast: Time to Catch Up! So. Many. Watches…Part 1",
+   "link": "https://www.dcrainmaker.com/2026/11/the-big-watch-episode-part1.html",
+   "published": "2026-11-11T18:55:31Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T19:01:06Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "In this episode, we dig into the first part of watch season extravaganza/catch-up. From Amazfit to Google to Garmin to COROS to Suunto, the first round begins! 00:00 Intro & Hiatus Catch-Up 02:36 Amazfit Watches 08:33 Google Pixel Watch 5 … Read More Here →"
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "Samsung-Patent: Galaxy-Watch der Zukunft misst Organfett per Radar",
@@ -2152,19 +2165,6 @@
     "watches"
    ],
    "excerpt": "Garmin’s stable software update 8.19 is rolling out to the Edge 1060. See the full changelog and how to update."
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "Cyclists using Garmin could soon be safer with live location sharing on Waze",
-   "link": "https://www.androidauthority.com/garmin-waze-cyclists-integration-3731735/",
-   "published": "2026-11-04T18:55:58Z",
-   "date": "2026-11-04",
-   "first_seen": "2026-11-04T19:01:03Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "The feature could arrive with Garmin Connect 5.31."
   }
  ]
 }
