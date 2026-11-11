@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Can’t see daily vitals on your Fitbit? It’s not just you, but a fix might not come soon",
+   "link": "https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/",
+   "published": "2026-11-11T10:09:50Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T10:20:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Daily health readings are disappearing after the latest Google Health update."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I've tested the Apple Watch 12, Galaxy Watch 9 and Pixel Watch 5 — here is the smartwatch I'd buy with my own money",
