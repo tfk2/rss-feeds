@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Meta brings its Muse AI agent to Apple Watch and Android Wear OS",
+   "link": "https://www.wareable.com/smartwatches/meta-brings-its-muse-ai-agent-to-apple-watch-and-android-wear-os",
+   "published": null,
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T13:31:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "You can now call, text, or dictate to Meta’s AI agent straight from your wrist Meta’s Muse AI agent is now available on Apple Watch and Wear OS, bringing the company’s assistant to smartwatches for the first time."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Google finally switches on Pixel Watch’s proper strength training mode",
