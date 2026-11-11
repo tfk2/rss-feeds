@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "WinFuture",
+   "source_home": "https://winfuture.de/",
+   "title": "Mini-Radar macht den Unterarm zum Trackpad für Smartwatches",
+   "link": "https://winfuture.de/news,162593.html",
+   "published": "2026-11-11T08:50:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T09:01:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Die Bedienung von Smartwatches kann aufgrund der geringen Display-Größe schwierig sein. Forscher arbeiten aber an einer Lösung des Problems: Sie machen einfach den gesamten Unterarm zum Trackpad für die Uhr. ( Weiter lesen )"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Google Health’s new blood pressure tracking feature is reaching Fitbit Air users",
