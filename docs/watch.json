@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops New Stable Update 8.21 for Edge 1060 Bike Computer",
+   "link": "https://www.garminnews.com/garmin-drops-new-stable-update-8-21-for-edge-1060-bike-computer/",
+   "published": "2026-11-11T19:41:24Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T19:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a new official software update for its flagship Edge 1060 cycling computer. Rolling out just seven days after the release of stable version 8.19, software version 8.21 is now available for all global units. Unlike test software, this is a fully public stable update designed to fix specific functional bugs and refine […] The post Garmin Drops New Stable Update 8.21 for Edge 1060"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases New Beta Software 31.72 for Edge 1040, 840, and 540",
+   "link": "https://www.garminnews.com/garmin-releases-new-beta-software-31-72-for-edge-1040-840-and-540/",
+   "published": "2026-11-11T19:21:24Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T19:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin continues its rapid software testing, rolling out beta update 31.72 for its previous-generation performance cycling units. The new release arrives just five days after beta version 31.71 and covers the Edge 1040, Edge 840, and Edge 540 series. Under-the-Hood Fixes Target Overall Stability Improved device stability. Unlike feature-heavy software releases, version 31.72 is focused […] The pos"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Rolls Out New Beta Software 33.21 for Edge 1050, 850, and 550 Cycling Computers",
+   "link": "https://www.garminnews.com/garmin-rolls-out-new-beta-software-33-21-for-edge-1050-850-and-550-cycling-computers/",
+   "published": "2026-11-11T19:16:55Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T19:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started pushing a new beta software update for its latest generation of cycling computers. Just five days after releasing beta version 33.20, the company is now rolling out version 33.21 for the Edge 1050, 850, 550, and Edge MTB models. This release comes as a quick follow-up patch designed to resolve specific performance […] The post Garmin Rolls Out New Beta Software 33.21 for Edge 10"
+  },
+  {
    "source": "DC Rainmaker",
    "source_home": "https://www.dcrainmaker.com/",
    "title": "FIT File Podcast: Time to Catch Up! So. Many. Watches…Part 1",
