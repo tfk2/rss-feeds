@@ -42,7 +42,20 @@ jobs:
             exit 0
           fi
           git commit -m "Update feeds"
-          git push
+          # Another save can land while this build runs. Rebase onto it and retry,
+          # keeping this build's newer feed files. If it still will not go, skip:
+          # the next build, 10 minutes later, regenerates everything anyway.
+          for i in 1 2 3; do
+            git push && break
+            if [ "$i" = 3 ]; then
+              echo "::warning::Push still rejected after 3 tries; skipping, next build will catch up"
+              echo "changed=" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep $((i * 5))
+            git fetch -q origin main
+            git rebase -X theirs origin/main || { git rebase --abort; git reset -q --hard origin/main; echo "changed=" >> "$GITHUB_OUTPUT"; exit 0; }
+          done
           echo "changed=$(git diff --name-only HEAD~1 HEAD -- 'docs/*.xml' | xargs)" >> "$GITHUB_OUTPUT"
       - name: Tell Inoreader there are new stories
         if: steps.save.outputs.changed != ''
