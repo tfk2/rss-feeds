@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Fitbit users’ metrics are missing from Google Health — and there’s no fix",
+   "link": "https://www.techradar.com/health-fitness/fitbit-users-say-daily-health-metrics-have-vanished-from-their-devices-and-a-recent-update-could-be-to-blame",
+   "published": "2026-11-11T16:48:55Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T17:01:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Some Fitbit users’ daily health metrics have gone missing from the Google Health app."
+  },
+  {
    "source": "9to5Mac Apple Watch",
    "source_home": "https://9to5mac.com/",
    "title": "watchOS 27.3: Three new features coming soon to Apple Watch",

@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>TechRadar: Fitbit users’ metrics are missing from Google Health — and there’s no fix</title>
+<link>https://www.techradar.com/health-fitness/fitbit-users-say-daily-health-metrics-have-vanished-from-their-devices-and-a-recent-update-could-be-to-blame</link>
+<guid isPermaLink="true">https://www.techradar.com/health-fitness/fitbit-users-say-daily-health-metrics-have-vanished-from-their-devices-and-a-recent-update-could-be-to-blame</guid>
+<description>Some Fitbit users’ daily health metrics have gone missing from the Google Health app.</description>
+<category>watches</category>
+<pubDate>Wed, 11 Nov 2026 16:48:55 +0000</pubDate>
+</item>
+<item>
 <title>9to5Mac Apple Watch: watchOS 27.3: Three new features coming soon to Apple Watch</title>
 <link>https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/</link>
 <guid isPermaLink="true">https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin has released beta version 7.15 for the Fenix 9 Pro. See the full changelog and how to install it.</description>
 <category>watches</category>
 <pubDate>Fri, 06 Nov 2026 20:13:28 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Garmin releases update to wearable with a dozen changes and new features</title>
-<link>https://www.notebookcheck.net/Garmin-releases-update-to-wearable-with-a-dozen-changes-and-new-features.1444296.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-releases-update-to-wearable-with-a-dozen-changes-and-new-features.1444296.0.html</guid>
-<description>Garmin has released a new update to one of its wearables. Rolling out as a new stable update, Software Version 8.02 promises to bring a dozen changes and new features to the Descent X50i globally.</description>
-<category>watches, other_wearables</category>
-<pubDate>Fri, 06 Nov 2026 19:55:00 +0000</pubDate>
 </item>
 </channel></rss>
