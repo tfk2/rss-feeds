@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Mac Apple Watch",
+   "source_home": "https://9to5mac.com/",
+   "title": "watchOS 27.3: Three new features coming soon to Apple Watch",
+   "link": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
+   "published": "2026-11-11T16:33:39Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T16:40:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features. more…"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Round smartwatch with Bosch gas sensor and open-source software launches 2027",
