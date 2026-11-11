@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Garmin launches 5 US Armed Forces watch faces for veterans and military families",
+   "link": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/",
+   "published": "2026-11-11T17:02:45Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T17:10:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "New designs honor five US military branches."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Fitbit users’ metrics are missing from Google Health — and there’s no fix",
