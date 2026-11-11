@@ -5,6 +5,22 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Authority: Google Health’s new blood pressure tracking feature is reaching Fitbit Air users</title>
+<link>https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/</guid>
+<description>Manually record blood pressure readings right in Google Health.</description>
+<category>watches</category>
+<pubDate>Wed, 11 Nov 2026 07:36:53 +0000</pubDate>
+</item>
+<item>
+<title>WinFuture: November-Pixel-Drop: Update bringt viel Neues für Google-Smartphones</title>
+<link>https://winfuture.de/news,162591.html</link>
+<guid isPermaLink="true">https://winfuture.de/news,162591.html</guid>
+<description>Google verteilt den November-Pixel-Drop für seine Smartphones und Smartwatches. Das Feature-Update bringt bisher exklusive Gemini-KI-Funktionen auf die Pixel-10-Serie und bündelt Benachrichtigungen nun auch in deutscher Sprache. ( Weiter lesen )</description>
+<category>watches</category>
+<pubDate>Wed, 11 Nov 2026 07:30:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Fenix 9 Pro Drops NXP for a Single Ambiq Processor, Following Garmin’s Shift</title>
 <link>https://garminrumors.com/fenix-9-pro-ambiq-apollo510-processor/</link>
 <guid isPermaLink="true">https://garminrumors.com/fenix-9-pro-ambiq-apollo510-processor/</guid>
@@ -787,21 +803,5 @@
 <description>Has Apple done enough to make the Apple Watch Series 12 a great smartwatch that's worth buying?</description>
 <category>watches</category>
 <pubDate>Fri, 06 Nov 2026 10:45:41 +0000</pubDate>
-</item>
-<item>
-<title>Tom's Guide: I really wanted to love the Fitbit Edge, but after 2 weeks, here are 3 things I wish Google had done differently</title>
-<link>https://www.tomsguide.com/wellness/fitness-trackers/i-really-wanted-to-love-the-fitbit-edge-but-after-2-weeks-here-are-3-things-i-wish-google-had-done-differently</link>
-<guid isPermaLink="true">https://www.tomsguide.com/wellness/fitness-trackers/i-really-wanted-to-love-the-fitbit-edge-but-after-2-weeks-here-are-3-things-i-wish-google-had-done-differently</guid>
-<description>Here are three things I wish Google had done differently with the Fitbit Edge</description>
-<category>watches</category>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Garmin's next big feature could make sharing the road much safer</title>
-<link>https://www.notebookcheck.net/Garmin-s-next-big-feature-could-make-sharing-the-road-much-safer.1443782.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-s-next-big-feature-could-make-sharing-the-road-much-safer.1443782.0.html</guid>
-<description>Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as "Share your rides with Waze" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date.</description>
-<category>watches</category>
-<pubDate>Fri, 06 Nov 2026 09:08:00 +0000</pubDate>
 </item>
 </channel></rss>

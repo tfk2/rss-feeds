@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Google Health’s new blood pressure tracking feature is reaching Fitbit Air users",
+   "link": "https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/",
+   "published": "2026-11-11T07:36:53Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T07:40:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Manually record blood pressure readings right in Google Health."
+  },
+  {
+   "source": "WinFuture",
+   "source_home": "https://winfuture.de/",
+   "title": "November-Pixel-Drop: Update bringt viel Neues für Google-Smartphones",
+   "link": "https://winfuture.de/news,162591.html",
+   "published": "2026-11-11T07:30:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T07:40:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google verteilt den November-Pixel-Drop für seine Smartphones und Smartwatches. Das Feature-Update bringt bisher exklusive Gemini-KI-Funktionen auf die Pixel-10-Serie und bündelt Benachrichtigungen nun auch in deutscher Sprache. ( Weiter lesen )"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Fenix 9 Pro Drops NXP for a Single Ambiq Processor, Following Garmin’s Shift",
