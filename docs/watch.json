@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band",
+   "link": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
+   "published": "2026-11-11T14:00:42Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T14:10:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "It's the first third-party Fitbit Air band on the Google Store."
+  },
+  {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Fitbit health metrics are disappearing after Google Health 5.12",
+   "link": "https://gadgetsandwearables.com/2026/11/11/fitbit-missing-vitals-google-health-5-12/",
+   "published": "2026-11-11T13:55:06Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T14:10:44Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Fitbit users are reporting that several daily health metrics have stopped appearing after updating to Google Health 5.12. HRV, blood The post Fitbit health metrics are disappearing after Google Health 5.12 appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Meta brings its Muse AI agent to Apple Watch and Android Wear OS",
