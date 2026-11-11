@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I've tested the Apple Watch 12, Galaxy Watch 9 and Pixel Watch 5 — here is the smartwatch I'd buy with my own money",
+   "link": "https://www.tomsguide.com/wellness/smartwatches/ive-tested-the-apple-watch-12-galaxy-watch-9-and-pixel-watch-5-here-is-the-smartwatch-id-buy-with-my-own-money",
+   "published": "2026-11-11T09:30:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T09:40:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Here's which one I'd actually buy, based on price, design, display, fitness features, health-and-safety tech, and battery life."
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "Mini-Radar macht den Unterarm zum Trackpad für Smartwatches",
