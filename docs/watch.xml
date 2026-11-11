@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Fenix 9 Pro Drops NXP for a Single Ambiq Processor, Following Garmin’s Shift</title>
+<link>https://garminrumors.com/fenix-9-pro-ambiq-apollo510-processor/</link>
+<guid isPermaLink="true">https://garminrumors.com/fenix-9-pro-ambiq-apollo510-processor/</guid>
+<description>The Fenix 9 Pro has a new brain. Instead of the two processors in the Fenix 8 Pro, an NXP main chip plus a small Ambiq chip for the sensors, the Fenix 9 Pro runs on a single Ambiq Apollo510. The same goes for the Fenix 9 and the Enduro 4. It follows a trend […]</description>
+<category>watches</category>
+<pubDate>Wed, 11 Nov 2026 02:54:02 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Only One Garmin on the 2026 NYC Marathon Podium as Coros and Amazfit Move In</title>
 <link>https://garminrumors.com/nyc-marathon-2026-winners-watches/</link>
 <guid isPermaLink="true">https://garminrumors.com/nyc-marathon-2026-winners-watches/</guid>
@@ -792,14 +800,6 @@
 <title>Notebookcheck: Garmin's next big feature could make sharing the road much safer</title>
 <link>https://www.notebookcheck.net/Garmin-s-next-big-feature-could-make-sharing-the-road-much-safer.1443782.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/Garmin-s-next-big-feature-could-make-sharing-the-road-much-safer.1443782.0.html</guid>
-<description>Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as "Share your rides with Waze" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date.</description>
-<category>watches</category>
-<pubDate>Fri, 06 Nov 2026 09:08:00 +0000</pubDate>
-</item>
-<item>
-<title>Notebookcheck: Garmin may soon warn Waze drivers when a cyclist is on the road ahead</title>
-<link>https://www.notebookcheck.net/Garmin-may-soon-warn-Waze-drivers-when-a-cyclist-is-on-the-road-ahead.1443782.0.html</link>
-<guid isPermaLink="true">https://www.notebookcheck.net/Garmin-may-soon-warn-Waze-drivers-when-a-cyclist-is-on-the-road-ahead.1443782.0.html</guid>
 <description>Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as "Share your rides with Waze" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date.</description>
 <category>watches</category>
 <pubDate>Fri, 06 Nov 2026 09:08:00 +0000</pubDate>
