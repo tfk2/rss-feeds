@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 7,
+  "kept": 8,
   "last_ok": "2026-11-11T14:00Z"
  },
  "DC Rainmaker": {
@@ -158,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 5,
+  "kept": 6,
   "last_ok": "2026-11-11T14:00Z"
  },
  "WinFuture": {

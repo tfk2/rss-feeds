@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Google brings step-by-step workouts and smart unlock to these Pixel Watch devices",
+   "link": "https://www.wareable.com/android-wear/google-november-2026-pixel-watch-drop-new-features-compatibility",
+   "published": null,
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T14:31:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google has officially released its November Pixel Drop software update, delivering new functionality across its ecosystem and bringing key fitness and connectivity upgrades to the Pixel Watch lineup. The smartwatch portion of the release combines immediate health tools with a preview of several smart features scheduled to land on supported models over the coming weeks."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band",
@@ -12,6 +25,19 @@
     "watches"
    ],
    "excerpt": "It's the first third-party Fitbit Air band on the Google Store."
+  },
+  {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
+   "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
+   "published": "2026-11-11T14:00:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T14:31:07Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…"
   },
   {
    "source": "Gadgets & Wearables",
@@ -2088,19 +2114,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released a new update aimed at improving several smartwatches in multiple areas. Rolling out globally, the new update applies to smartwatches like the Forerunner 965 and Forerunner 165, as well as the older Forerunner 255."
-  },
-  {
-   "source": "Athletech News",
-   "source_home": "https://athletechnews.com/",
-   "title": "The Hiking Boom Is Prompting Fitness Brands to Adapt",
-   "link": "https://athletechnews.com/hiking-boom-is-prompting-fitness-brands-to-adapt-peloton-strava/",
-   "published": "2026-11-04T14:26:17Z",
-   "date": "2026-11-04",
-   "first_seen": "2026-11-04T14:30:56Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Hiking clubs grew 5.8 times globally on Strava in 2025, making them the fastest-growing club category on the platform."
   }
  ]
 }
