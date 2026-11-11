@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Cycling Weekly",
+   "source_home": "https://www.cyclingweekly.com/",
+   "title": "'Giving drivers a helpful heads-up' – Garmin collabs with Waze to alert motorists to nearby cyclists, here's what we think",
+   "link": "https://www.cyclingweekly.com/news/giving-drivers-a-helpful-heads-up-garmin-collabs-with-waze-to-alert-motorists-to-nearby-cyclists-heres-what-we-think",
+   "published": "2026-11-11T14:53:50Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T15:01:11Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "GPS giants team up in what they're calling a 'first of its kind' collab"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Google brings step-by-step workouts and smart unlock to these Pixel Watch devices",
