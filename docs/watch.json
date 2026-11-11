@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Newsroom",
+   "source_home": "https://www.garmin.com/en-US/newsroom/",
+   "title": "Garmin honors military members with U.S. Armed Forces watch faces",
+   "link": "https://www.garmin.com/en-US/newsroom/press-release/wearables/garmin-honors-military-members-with-u-s-armed-forces-watch-faces/",
+   "published": "2026-11-11T11:45:00Z",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T12:01:04Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "OLATHE, Kan./Nov. 11, 2026 – Garmin (NYSE: GRMN) is showing its appreciation for members of the military with the launch of new U.S. Armed Forces watch faces, which feature the official logos for the U.S. Army, Marine Corps, Navy, Air Force and Space Force. Garmin brings the spirit of service to the wrist with these […] The post Garmin honors military members with U.S. Armed Forces watch faces app"
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "Samsung patent suggests next Galaxy Watch could feature Visceral fat tracking",
@@ -2022,19 +2035,6 @@
     "watches"
    ],
    "excerpt": "November 3, 2026 /ENDURANCE SPORTSWIRE/ – BibRave, the leading-edge endurance and fitness marketing agency, designed and executed a creative brand experience that connected Amazfit with the HYROX community through interactive challenges, hands-on product demonstrations, and … Read more › The post BibRave Brings Amazfit’s HYROX Title Sponsorship to Life appeared first on Endurance Sportswire ."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Future Apple AirPods and smart glasses could keep private calls off-limits to nearby ears",
-   "link": "https://www.wareable.com/hearables/future-apple-airpods-and-smart-glasses-could-keep-private-calls-off-limits-to-nearby-ears",
-   "published": null,
-   "date": "2026-11-04",
-   "first_seen": "2026-11-04T09:20:47Z",
-   "topics": [
-    "sports_earphones"
-   ],
-   "excerpt": "Taking a call in public is awkward enough without worrying that nearby people can hear it—and Apple appears to be looking at ways to fix that A newly surfaced Apple patent describes a head-worn audio system that could automatically switch private calls to bone-conduction audio, while everyday sounds would still play through regular speakers."
   }
  ]
 }
