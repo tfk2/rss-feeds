@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Whoop launches Strava-like 'Humans' network for subscribers",
+   "link": "https://www.techradar.com/health-fitness/fitness-apps/whoop-rolls-out-humans-upgrade-for-subscribers-strava-like-feature-promises-to-be-most-verifiably-human-social-network",
+   "published": "2026-11-12T17:00:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T17:01:07Z",
+   "topics": [
+    "other_wearables",
+    "sports_software"
+   ],
+   "excerpt": "Whoop is going social with the introduction of Whoop Humans — here's everything you need to know."
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Inside Runna's plan changes: How sports science is reshaping the training app",
@@ -2008,19 +2022,6 @@
     "watches"
    ],
    "excerpt": "Waze and Garmin appear to be teaming up on a new integration that could allow cyclists to show up within navigation. more…"
-  },
-  {
-   "source": "Athletech News",
-   "source_home": "https://athletechnews.com/",
-   "title": "Peloton Forecast Tops Estimates in Sign of Comeback Progress",
-   "link": "https://athletechnews.com/peloton-forecast-tops-estimates-in-sign-of-comeback-progress/",
-   "published": "2026-11-05T16:50:59Z",
-   "date": "2026-11-05",
-   "first_seen": "2026-11-05T17:01:07Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Peloton has been working to turn around its business since the pandemic, when lockdowns fueled a surge in sales of its home exercise equipment"
   }
  ]
 }
