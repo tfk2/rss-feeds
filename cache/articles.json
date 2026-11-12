@@ -197,10 +197,6 @@
   "para": "A newly published Samsung patent reveals how future smartwatches might use existing optical PPG light sensors and motion trackers to detect and record body tremors.",
   "published": "2026-11-10T13:44:08+00:00"
  },
- "https://www.wareable.com/samsung/samsung-may-use-an-optical-trick-to-combat-blurry-smart-glasses-displays": {
-  "image": "https://media.wareable.com/images/750w/2026/10/Samsung-optical-trick-to-fix-blurry-smart-glasses-displays.jpg",
-  "para": "A new patent filing—“Method and electronic device for blur reduction of an occlusion mask”—reveals how Samsung plans to sharpen digital overlays on future AR glasses, solving an optical issue where bright sunlight or dark backgrounds make graphics look blurry."
- },
  "https://www.wareable.com/samsung/samsung-targets-deep-belly-fat-with-radar-based-smartwatch-tracking": {
   "image": "https://media.wareable.com/images/featured-big/2026/11/samsung-visceral-fat.jpg",
   "para": "A new Samsung patent describes a system that combines ultra-wideband (UWB) radar with body composition sensors to estimate subcutaneous and visceral fat without clinical scans.",
@@ -286,5 +282,10 @@
   "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
   "para": "Whoop is exploring a new system to estimate the wearer’s VO2 max once per day by alternating between available data sources based on data quality.",
   "published": "2026-11-03T13:49:08+00:00"
+ },
+ "https://www.wareable.com/wearable-tech/whoop-humans-social-network-feed-announcement-features-rollout": {
+  "image": "https://media.wareable.com/images/featured-big/2024/04/whoop-5-gym.jpg",
+  "para": "Whoop has announced a left-field expansion beyond individual health tracking with Whoop Humans, a new in-app social networking feed built around member health data.",
+  "published": "2026-11-12T17:03:28+00:00"
  }
 }

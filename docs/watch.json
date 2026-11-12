@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Whoop Humans brings heartbeat-verified social sharing to fitness members",
+   "link": "https://www.wareable.com/wearable-tech/whoop-humans-social-network-feed-announcement-features-rollout",
+   "published": null,
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T17:31:06Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Whoop has announced a left-field expansion beyond individual health tracking with the launch of Whoop Humans, a new in-app social networking feed built around member health data. Whoop has announced a left-field expansion beyond individual health tracking with Whoop Humans, a new in-app social networking feed built around member health data."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin’s beginner-friendly Forerunner 70 hits a record low under $200",
