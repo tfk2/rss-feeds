@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures",
+   "link": "https://9to5google.com/2026/11/12/android-xr-will-support-piel-watch-and-fitbit-air-control/",
+   "published": "2026-11-12T16:39:04Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T16:40:45Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Android XR glasses get their own control wearable, but you might already own it. Google says the Fitbit Air and Pixel Watch will be able to control Android XR glasses. more…"
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Xiaomi releases smaller Watch S5 smartwatch ahead of schedule with 3,000-nit AMOLED display",
+   "link": "https://www.notebookcheck.net/Xiaomi-releases-smaller-Watch-S5-smartwatch-ahead-of-schedule-with-3-000-nit-AMOLED-display.1448789.0.html",
+   "published": "2026-11-12T16:35:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T16:40:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Xiaomi has released one of its new smartwatches internationally a few days earlier than expected. While scheduled to arrive on November 17 alongside the Xiaomi 18 Pro series, the Watch S5 41 mm is already available to order outside of China with ceramic and aluminium finishes."
+  },
+  {
    "source": "DC Rainmaker",
    "source_home": "https://www.dcrainmaker.com/",
    "title": "Suunto Mostly Leaving Finland, Wahoo Adds Oura/COROS/Apple Sleep Integrations",
