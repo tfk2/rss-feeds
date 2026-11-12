@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 and 9 Pro Series Beta Version 7.19",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-beta-version-7-19/",
+   "published": "2026-11-12T21:59:14Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T22:01:04Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 7.19 for the Fenix 9 and 9 Pro Series. See the full changelog and how to install it."
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
