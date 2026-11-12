@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Suunto plans to cut most of its remaining workforce in Finland",
+   "link": "https://gadgetsandwearables.com/2026/11/12/suunto-finland-job-cuts-china/",
+   "published": "2026-11-12T12:27:56Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T12:30:54Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Things are changing pretty quickly at Suunto. The company is reportedly planning to cut more than 100 jobs in Finland, The post Suunto plans to cut most of its remaining workforce in Finland appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Oppo Watch 5 launches soon with FatMax mode and 10-day battery life",
+   "link": "https://www.notebookcheck.net/Oppo-Watch-5-launches-soon-with-FatMax-mode-and-10-day-battery-life.1448855.0.html",
+   "published": "2026-11-12T12:24:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T12:30:54Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Oppo is finally launching a new rectangular smartwatch after three years. The manufacturer is already showing off the Oppo Watch 5 in numerous teaser images, and confirms the first details about the features of the particularly thin smartwatch."
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "More Chinese bikes in pro cycling, another new wheel size, and voice controlled cycling computers: Tech of the Month November",
