@@ -1,6 +1,34 @@
 {
  "stories": [
   {
+   "source": "DC Rainmaker",
+   "source_home": "https://www.dcrainmaker.com/",
+   "title": "Suunto Leaving Finland, Wahoo Adds Oura/COROS/Apple Sleep Integrations",
+   "link": "https://www.dcrainmaker.com/2026/11/suunto-leaving-finland-wahoo-adds-oura-coros-apple-sleep-integrations.html",
+   "published": "2026-11-12T13:49:03Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T13:50:47Z",
+   "topics": [
+    "watches",
+    "cycling_computers",
+    "other_wearables"
+   ],
+   "excerpt": "We’ve got two sports tech news items hitting today, both with a Finnish connection. First up is news about Suunto continuing to dismantle said Finnish connection, and then after that there’s news of Wahoo joining up with Finnish brand Oura, … Read More Here →"
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Made in China: Suunto reportedly plans to lay off over 70% of Finland staff",
+   "link": "https://www.notebookcheck.net/Made-in-China-Suunto-reportedly-plans-to-lay-off-over-70-of-Finland-staff.1448923.0.html",
+   "published": "2026-11-12T13:43:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T13:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Finnish smartwatch manufacturer Suunto could relocate almost entirely to China 90 years after its founding. Following a takeover in 2022, plans are now reportedly in place to lay off more than 70 percent of its remaining employees in Finland."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Suunto plans to cut most of its remaining workforce in Finland",
