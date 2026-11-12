@@ -115,8 +115,9 @@
  },
  "road.cc": {
   "ok": true,
-  "last_ok": "2026-11-12T21:00Z",
-  "error": "HTTPSConnectionPool(host='road.cc', port=443): Read timed out. (read timeout=20)"
+  "items": 25,
+  "kept": 1,
+  "last_ok": "2026-11-12T21:00Z"
  },
  "Cycling Weekly": {
   "ok": true,
@@ -169,7 +170,7 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-12T21:00Z"
  },
  "Engadget": {
