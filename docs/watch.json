@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Four excellent Garmin watches are on deep discount ahead of Black Friday",
+   "link": "https://9to5google.com/2026/11/12/four-excellent-garmin-watches-are-on-deep-discount-ahead-of-black-friday/",
+   "published": "2026-11-12T17:35:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T17:40:52Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has a watch for every budget this year, and it’s clear the company is working on shipping more watches than ever at these prices. more…"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Whoop Humans brings heartbeat-verified social sharing to fitness members",
@@ -2035,19 +2048,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released software update version 8.19 for the Edge 1060 bike computer. This stable rollout brings several practical bug fixes and system tweaks designed to make map management and phone sync much smoother for cyclists. Key fixes and system improvements in update 8.19 Garmin focused on fixing a few annoying issues that popped up […] The post Garmin Releases Fresh Stable Update 8.19 for E"
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Waze may soon be able to show cyclists using Garmin smartwatches",
-   "link": "https://9to5google.com/2026/11/05/waze-may-soon-be-able-to-show-cyclists-using-garmin-smartwatches/",
-   "published": "2026-11-05T17:40:00Z",
-   "date": "2026-11-05",
-   "first_seen": "2026-11-05T17:40:38Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Waze and Garmin appear to be teaming up on a new integration that could allow cyclists to show up within navigation. more…"
   }
  ]
 }
