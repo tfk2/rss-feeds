@@ -26,7 +26,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 6,
+  "kept": 5,
   "last_ok": "2026-11-12T21:00Z"
  },
  "Garmin News": {
@@ -115,9 +115,8 @@
  },
  "road.cc": {
   "ok": true,
-  "items": 25,
-  "kept": 1,
-  "last_ok": "2026-11-12T21:00Z"
+  "last_ok": "2026-11-12T21:00Z",
+  "error": "HTTPSConnectionPool(host='road.cc', port=443): Read timed out. (read timeout=20)"
  },
  "Cycling Weekly": {
   "ok": true,
