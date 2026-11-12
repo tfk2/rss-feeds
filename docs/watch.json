@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Samsung explores a smart ring with a built-in display and touch sensor",
+   "link": "https://www.wareable.com/wearable-tech/samsung-explores-a-smart-ring-with-a-built-in-display-and-touch-sensor",
+   "published": null,
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T07:01:10Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "As well as tracking your biometrics, the ring could also let you control calls, music, and alerts with simple finger gestures Samsung is exploring a ring-shaped wearable with a curved, flexible display designed to read your pulse and detect finger gestures."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "From Mystery Model A05240 to Descent X10: Taiwan Regulatory Database Drops Hidden Lab Photos",
