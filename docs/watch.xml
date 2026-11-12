@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>The Verge: Whoop launched a social network where every user has a ‘verified heartbeat’</title>
+<link>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</link>
+<guid isPermaLink="true">https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</guid>
+<description>Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like "Moments" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is "entirely human," […]</description>
+<category>other_wearables</category>
+<pubDate>Thu, 12 Nov 2026 23:43:22 +0000</pubDate>
+</item>
+<item>
 <title>Android Authority: Google Fitbit Air syncing issues leave some iPhone users unable to access health data</title>
 <link>https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/</link>
 <guid isPermaLink="true">https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/</guid>
@@ -795,13 +803,5 @@
 <description>Smart ring maker Ultrahuman is working on a system to provide athletes with real-time muscle fatigue warnings—a tool that could become useful for injury prevention. Smart ring maker Ultrahuman is eyeing a system to provide athletes with real-time muscle fatigue warnings—a tool that could help prevent injuries and inform training loads.</description>
 <category>other_wearables</category>
 <pubDate>Mon, 09 Nov 2026 16:31:02 +0000</pubDate>
-</item>
-<item>
-<title>Engadget: The pros and cons of using OnePlus smartwatches</title>
-<link>https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/</link>
-<guid isPermaLink="true">https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/</guid>
-<description>Thinking about a OnePlus smartwatch before the brand leaves the US? Here are the pros and cons, from battery life and build quality to size and software.</description>
-<category>watches</category>
-<pubDate>Mon, 09 Nov 2026 15:45:00 +0000</pubDate>
 </item>
 </channel></rss>

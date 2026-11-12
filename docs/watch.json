@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+   "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+   "published": "2026-11-12T23:43:22Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T23:50:44Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Google Fitbit Air syncing issues leave some iPhone users unable to access health data",
