@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Cycling Weekly",
+   "source_home": "https://www.cyclingweekly.com/",
+   "title": "From Zwift Academy to Gravel Burn glory: Nele Laing's Canyon Grail CFR",
+   "link": "https://www.cyclingweekly.com/gravel/from-zwift-academy-to-gravel-burn-glory-nele-laings-canyon-grail-cfr",
+   "published": "2026-11-12T09:15:00Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T09:20:45Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Custom-painted gravel bike melds heavy-duty mountain bike tyres with aero-optimised road bike components"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin launches US Armed Forces watch faces with official military branch logos",
