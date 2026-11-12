@@ -187,6 +187,11 @@
   "para": "For the past few years, Wareable Tech Awards have been shaped only by our editorial team’s picks.",
   "published": "2026-11-05T07:19:00+00:00"
  },
+ "https://www.wareable.com/running/inside-runna-app-plan-changes-new-features-academic-review-loughborough-stanford-steph-kessell": {
+  "image": "https://media.wareable.com/images/featured-big/2026/11/runna-generic-image.jpg",
+  "para": "Running coaching platform Runna is rolling out a series of targeted product updates and plan refinements informed by elite sports science, following an audit of more than 800 training plans by academic experts from Loughborough University and Stanford Lifestyle Medicine.",
+  "published": "2026-11-12T16:39:48+00:00"
+ },
  "https://www.wareable.com/samsung/a-future-samsung-galaxy-watch-could-spot-body-tremors-using-existing-sensors": {
   "image": "https://media.wareable.com/images/750w/2026/11/samsung.jpg",
   "para": "A newly published Samsung patent reveals how future smartwatches might use existing optical PPG light sensors and motion trackers to detect and record body tremors.",
@@ -281,9 +286,5 @@
   "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
   "para": "Whoop is exploring a new system to estimate the wearer’s VO2 max once per day by alternating between available data sources based on data quality.",
   "published": "2026-11-03T13:49:08+00:00"
- },
- "https://www.wareable.com/wearable-tech/whoop-patent-fit-monitoring-haptic-vibration-explained": {
-  "image": "https://media.wareable.com/images/featured-big/2025/05/whoop-5-desk-.jpg",
-  "para": "In a patent filing in the United States, Whoop explains a system that would measure the tightness of the device when worn on multiple areas of the body, and report back with findings on necessary adjustments."
  }
 }

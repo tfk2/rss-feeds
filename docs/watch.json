@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Inside Runna's plan changes: How sports science is reshaping the training app",
+   "link": "https://www.wareable.com/running/inside-runna-app-plan-changes-new-features-academic-review-loughborough-stanford-steph-kessell",
+   "published": null,
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T16:50:44Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Head Coach Steph Kessell walks us through new features landing alongside a major winter redesign Running coaching platform Runna is rolling out a series of targeted product updates and plan refinements informed by elite sports science, following an audit of more than 800 training plans by academic experts from Loughborough University and Stanford Lifestyle Medicine."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures",
@@ -26,6 +39,19 @@
     "watches"
    ],
    "excerpt": "Xiaomi has released one of its new smartwatches internationally a few days earlier than expected. While scheduled to arrive on November 17 alongside the Xiaomi 18 Pro series, the Watch S5 41 mm is already available to order outside of China with ceramic and aluminium finishes."
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin launches five US Armed Forces watch faces featuring official military branch logos",
+   "link": "https://www.garminnews.com/garmin-launches-five-us-armed-forces-watch-faces-featuring-official-military-branch-logos/",
+   "published": "2026-11-12T15:56:12Z",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-12T16:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a new collection of digital watch faces to show support for military members, veterans, and their families. Launched on Veterans Day, these new designs feature the official logos of the United States Armed Forces, giving users a simple way to show pride in their branch right on their wrists. Five Unique Military […] The post Garmin launches five US Armed Forces watch faces feat"
   },
   {
    "source": "DC Rainmaker",
@@ -1995,20 +2021,6 @@
     "sports_software"
    ],
    "excerpt": "Peloton has been working to turn around its business since the pandemic, when lockdowns fueled a surge in sales of its home exercise equipment"
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Moto Watch Fit 2 gets Polar tracking but loses some battery life",
-   "link": "https://gadgetsandwearables.com/2026/11/05/moto-watch-fit-2/",
-   "published": "2026-11-05T16:45:14Z",
-   "date": "2026-11-05",
-   "first_seen": "2026-11-05T16:50:42Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Motorola has launched the Moto Watch Fit 2 Fit, and the main upgrade is not the hardware. The new model The post Moto Watch Fit 2 gets Polar tracking but loses some battery life appeared first on Gadgets & Wearables ."
   }
  ]
 }
