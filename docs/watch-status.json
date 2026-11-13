@@ -121,7 +121,7 @@
  "Cycling Weekly": {
   "ok": true,
   "items": 50,
-  "kept": 4,
+  "kept": 5,
   "last_ok": "2026-11-13T14:00Z"
  },
  "Android Central": {
@@ -157,7 +157,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 7,
+  "kept": 6,
   "last_ok": "2026-11-13T14:00Z"
  },
  "WinFuture": {
