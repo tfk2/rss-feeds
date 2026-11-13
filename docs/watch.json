@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new update for multiple smartwatches with sleep mode and shutdown improvements",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-for-multiple-smartwatches-with-sleep-mode-and-shutdown-improvements.1449856.0.html",
+   "published": "2026-11-13T19:36:00Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T19:40:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a new update to many of its older high-end smartwatches. Available globally, the new update claims to improve sleep mode functionality and inadvertent shutdowns across the Enduro 2, Fenix 7 and Fenix 7 Pro series, among other adjacent models."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Drops New Beta Update 31.73 for Edge 1040, 840, and 540 Bike Computers",
@@ -2091,19 +2104,6 @@
     "sports_earphones"
    ],
    "excerpt": "Samsung announced U.S. availability for its redesigned, enhanced Galaxy SmartTag 3 and the open-ear Galaxy Buds On."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Fenix 8 and 8 Pro Series Beta Version 24.16",
-   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-beta-version-24-16/",
-   "published": "2026-11-06T19:33:02Z",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-06T19:50:39Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released beta version 24.16 for the Fenix 8 and 8 Pro Series. See the full changelog and how to install it."
   }
  ]
 }
