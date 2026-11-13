@@ -48,9 +48,10 @@
   "last_ok": "2026-11-13T14:00Z"
  },
  "Athletech News": {
-  "ok": false,
-  "last_ok": "2026-11-13T02:00Z",
-  "error": "500 Server Error: Internal Server Error for url: https://athletechnews.com/feed/"
+  "ok": true,
+  "items": 20,
+  "kept": 1,
+  "last_ok": "2026-11-13T14:00Z"
  },
  "Endurance Sportswire": {
   "ok": true,
