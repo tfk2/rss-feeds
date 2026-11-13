@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I hate how most smartwatches look, but I'll happily wear the Withings ScanWatch Light every day and with any outfit",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/withings-scanwatch-light-review",
+   "published": "2026-11-13T12:02:08Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T12:10:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Withings ScanWatch Light offers a stripped back experience, but boy does it look good."
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "Think the Google Fitbit Air is your only option? We've tested trending screenless fitness trackers to find the 6 best",
