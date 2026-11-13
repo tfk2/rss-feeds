@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Notebookcheck: Whoop launches Humans, a social network that verifies members by their heartbeat</title>
+<link>https://www.notebookcheck.net/Whoop-launches-Humans-a-social-network-that-verifies-members-by-their-heartbeat.1449436.0.html</link>
+<guid isPermaLink="true">https://www.notebookcheck.net/Whoop-launches-Humans-a-social-network-that-verifies-members-by-their-heartbeat.1449436.0.html</guid>
+<description>Whoop has launched Humans, an in-app social network that lets members follow friends and family and share recovery, strain, sleep, HRV and workout data. Available from November 12 on all membership tiers at no extra cost, it ties every account to a heartbeat recorded by a Whoop 4.0, 5.0 or MG wearable.</description>
+<category>other_wearables</category>
+<pubDate>Fri, 13 Nov 2026 14:11:00 +0000</pubDate>
+</item>
+<item>
 <title>Notebookcheck: Garmin releases new update for flagship smartwatches with dozens of new features and improvements</title>
 <link>https://www.notebookcheck.net/Garmin-releases-new-update-for-flagship-smartwatches-with-dozens-of-new-features-and-improvements.1449501.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/Garmin-releases-new-update-for-flagship-smartwatches-with-dozens-of-new-features-and-improvements.1449501.0.html</guid>
@@ -795,13 +803,5 @@
 <description>Google will block the Fitbit Sense, Sense 2, Versa, Versa 2, Versa 3, Versa 4 and Versa Lite from installing or updating third-party apps and clock faces from November 28, 2026. Installed software keeps running, but anything deleted or wiped by a factory reset cannot be reinstalled.</description>
 <category>watches</category>
 <pubDate>Tue, 10 Nov 2026 08:58:00 +0000</pubDate>
-</item>
-<item>
-<title>Android Authority: Google is closing the door on third-party Fitbit apps and clock faces this month</title>
-<link>https://www.androidauthority.com/fitbit-third-party-apps-clock-faces-end-support-3733258/</link>
-<guid isPermaLink="true">https://www.androidauthority.com/fitbit-third-party-apps-clock-faces-end-support-3733258/</guid>
-<description>A factory reset could permanently erase your favorite Fitbit apps.</description>
-<category>watches</category>
-<pubDate>Tue, 10 Nov 2026 08:54:31 +0000</pubDate>
 </item>
 </channel></rss>
