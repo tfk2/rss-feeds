@@ -13,14 +13,13 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "items": 30,
-  "kept": 15,
-  "last_ok": "2026-11-13T11:00Z"
+  "last_ok": "2026-11-13T11:00Z",
+  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
  },
  "Gadgets & Wearables": {
   "ok": true,
   "items": 10,
-  "kept": 7,
+  "kept": 8,
   "last_ok": "2026-11-13T11:00Z"
  },
  "Zwift Insider": {
@@ -85,7 +84,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 4,
+  "kept": 3,
   "last_ok": "2026-11-13T11:00Z"
  },
  "MacRumors": {
