@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Notable Zwift Events for the Weekend of November 14-15",
+   "link": "https://zwiftinsider.com/events-20261114/",
+   "published": "2026-11-13T13:00:00Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T13:20:42Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Click to see our top event picks for this weekend on Zwift!"
+  },
+  {
    "source": "Endurance Sportswire",
    "source_home": "https://www.endurancesportswire.com/",
    "title": "hDrop Brings Hydration Data to Strava, Connecting Sweat Loss Insights with Everyday Training",
