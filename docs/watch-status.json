@@ -103,8 +103,9 @@
  },
  "Gizmochina": {
   "ok": true,
-  "last_ok": "2026-11-13T17:00Z",
-  "error": "403 Client Error: Forbidden for url: https://www.gizmochina.com/feed/"
+  "items": 40,
+  "kept": 1,
+  "last_ok": "2026-11-13T17:00Z"
  },
  "Bikerumor": {
   "ok": true,
@@ -121,7 +122,7 @@
  "Cycling Weekly": {
   "ok": true,
   "items": 50,
-  "kept": 5,
+  "kept": 4,
   "last_ok": "2026-11-13T17:00Z"
  },
  "Android Central": {
