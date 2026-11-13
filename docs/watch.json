@@ -2075,19 +2075,6 @@
     "watches"
    ],
    "excerpt": "Strings in version 5.31 of the Garmin Connect app for Android point to a Waze integration that would pass a cyclist's LiveTrack position to nearby drivers using Google's navigation app. The code includes labels such as \"Share your rides with Waze\" and a consent flow, but it does not name supported devices, a Connect+ requirement, or a launch date."
-  },
-  {
-   "source": "Tom's Guide",
-   "source_home": "https://www.tomsguide.com/",
-   "title": "The Fitbit Edge’s onboard GPS is a battery hog — but I found an easy fix",
-   "link": "https://www.tomsguide.com/wellness/fitness-trackers/the-fitbit-edges-onboard-gps-is-a-battery-hog-but-i-found-an-easy-fix",
-   "published": "2026-11-06T05:30:00Z",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-06T05:40:37Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "The new Fitbit Edge has several hidden GPS tracking modes that vastly increase battery performance. But as always, there's a catch."
   }
  ]
 }
