@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor",
+   "link": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
+   "published": "2026-11-13T11:22:39Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T11:30:53Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Data from the CGM can also be viewed directly on a HUAWEI smartwatch."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin watch prices are dropping early for Black Friday",
