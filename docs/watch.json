@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Google Health update causes Fitbit app to hide health metrics",
+   "link": "https://www.androidcentral.com/wearables/fitbit/its-a-joke-fitbit-users-are-beyond-annoyed-with-google-healths-latest-bug-but-theyre-seeking-alternative-ways-to-get-their-vitals-back",
+   "published": "2026-11-13T10:06:54Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T10:10:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Health metrics and vitals are still missing from the Fitbit app even though Google says it's looking into it."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin rolls out fresh beta update 7.19 for Fenix 9, Enduro 4, and MARQ Gen 3: Here is What is New!",
