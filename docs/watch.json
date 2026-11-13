@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Think the Google Fitbit Air is your only option? We've tested trending screenless fitness trackers to find the 6 best",
+   "link": "https://www.androidcentral.com/wearables/best-screenless-fitness-trackers",
+   "published": "2026-11-13T12:00:00Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T12:01:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Screenless fitness trackers are trending, offering a distraction-free way to passively keep on top of health, fitness, and wellness."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "The missing Zepp OS 6 launcher is finally reaching Amazfit T-Rex 3",
