@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Huawei unveils Sense G1 blood glucose sensor with smartwatch connectivity",
+   "link": "https://www.notebookcheck.net/Huawei-unveils-Sense-G1-blood-glucose-sensor-with-smartwatch-connectivity.1449843.0.html",
+   "published": "2026-11-13T17:02:00Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T17:10:53Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Huawei has announced Sense G1, its first continuous glucose monitor, which promises to offer \"professional features\". Handy: Readings can be sent directly to a compatible smartwatch and displayed on the watch's screen along with a trend graph."
+  },
+  {
    "source": "Gizmochina",
    "source_home": "https://www.gizmochina.com/",
    "title": "Huawei announces Sense G1 as company’s first continuous glucose monitor",
