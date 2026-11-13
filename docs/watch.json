@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gizmochina",
+   "source_home": "https://www.gizmochina.com/",
+   "title": "Huawei announces Sense G1 as company’s first continuous glucose monitor",
+   "link": "https://www.gizmochina.com/2026/11/13/huawei-announces-sense-g1-as-companys-first-continuous-glucose-monitor/",
+   "published": "2026-11-13T16:42:26Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T16:50:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Huawei has officially unveiled the Huawei Sense G1, its first continuous glucose monitoring (CGM) device. It is an arm-worn sensor that tracks glucose levels throughout the day and night. It can alert users when readings fall outside normal ranges, and you can check your numbers on your phone or your smartwatch. What the Huawei Sense […] The post Huawei announces Sense G1 as company’s first contin"
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "Save £121 off, our top recommendation for bike computers, the Hammerhead Karoo 3, just smashed its best price in the early Black Friday discounts",
@@ -2065,19 +2078,6 @@
     "sports_software"
    ],
    "excerpt": "Swiss brand announce partnership with Laboral Kutxa-Fundación Euskadi"
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Two more Garmin smartwatches are down to record-low prices",
-   "link": "https://9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal/",
-   "published": "2026-11-06T16:50:41Z",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-06T16:50:43Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "The Garmin Fenix E and Garmin Venu 3S are for two different types of people, but both are available at a surprisingly low price thanks to these limited-time Garmin deals. more…"
   }
  ]
 }
