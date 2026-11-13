@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Garmin’s Vivoactive 6 fitness watch is $50 off on Amazon",
+   "link": "https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/",
+   "published": "2026-11-13T17:47:12Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T17:50:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin's all-round AMOLED fitness watch, with 80+ sports modes and up to 11 days of battery, is down to $249.99."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 7 and 7 Pro Series Beta Version 28.07",
+   "link": "https://garminrumors.com/garmin-releases-fenix-7-and-7-pro-series-beta-version-28-07/",
+   "published": "2026-11-13T17:33:16Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T17:50:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 28.07 for the Fenix 7 and 7 Pro Series. See the full changelog and how to install it."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Huawei unveils Sense G1 blood glucose sensor with smartwatch connectivity",
