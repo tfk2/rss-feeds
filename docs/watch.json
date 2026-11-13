@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Whoop Gets Social, Strava-Style As Screenless Rivals Close In",
+   "link": "https://athletechnews.com/whoop-gets-social-strava-style-as-screenless-rivals-close-in/",
+   "published": "2026-11-13T21:01:21Z",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13T21:10:48Z",
+   "topics": [
+    "other_wearables",
+    "sports_software"
+   ],
+   "excerpt": "Wearable makers have mastered data but have missed out on social fitness. Can Whoop's new social media-like feed change that?"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update for multiple smartwatches with sleep mode and shutdown improvements",
