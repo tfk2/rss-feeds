@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I ran 26.2 miles and burned 2,473 calories: Here’s what my readiness score was on my Apple Watch Ultra 4, Garmin Fenix 9 Pro and Oura Ring 5 the next morning",
+   "link": "https://www.tomsguide.com/wellness/smartwatches/i-ran-26-2-miles-and-burned-2-473-calories-heres-what-my-readiness-score-was-on-my-apple-watch-ultra-4-garmin-fenix-9-pro-and-oura-ring-5-the-next-morning",
+   "published": "2026-11-14T05:45:00Z",
+   "date": "2026-11-14",
+   "first_seen": "2026-11-14T05:50:41Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Here's the difference between all the data from my last marathon."
+  },
+  {
    "source": "Athletech News",
    "source_home": "https://athletechnews.com/",
    "title": "Whoop Gets Social, Strava-Style As Screenless Rivals Close In",
