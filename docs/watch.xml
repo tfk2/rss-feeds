@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Enduro 4 Owners Report Touchscreen That Ignores Taps Unless You Touch the Bezel</title>
+<link>https://garminrumors.com/enduro-4-touchscreen-issue/</link>
+<guid isPermaLink="true">https://garminrumors.com/enduro-4-touchscreen-issue/</guid>
+<description>Some Enduro 4 owners say the touchscreen on Garmin’s newest endurance watch keeps ignoring them. Reports on Garmin’s own forums, and a video on Reddit, describe the same thing: with the watch off the wrist, taps and swipes don’t register unless a finger is also touching the bezel. Even on the wrist, some owners say […]</description>
+<category>watches</category>
+<pubDate>Sat, 14 Nov 2026 16:47:06 +0000</pubDate>
+</item>
+<item>
 <title>Gadgets &amp; Wearables: WHOOP just changed its step algorithm and it could change your WHOOP Age</title>
 <link>https://gadgetsandwearables.com/2026/11/14/whoop-step-counting-algorithm-update/</link>
 <guid isPermaLink="true">https://gadgetsandwearables.com/2026/11/14/whoop-step-counting-algorithm-update/</guid>
@@ -795,13 +803,5 @@
 <description>The Garmin epix Pro (Gen 2) Sapphire Edition is down to $499.99 on Amazon in 51mm Black, its lowest price ever.</description>
 <category>watches</category>
 <pubDate>Tue, 10 Nov 2026 14:56:37 +0000</pubDate>
-</item>
-<item>
-<title>Gadgets &amp; Wearables: Garmin cyclists can now appear live on Waze maps</title>
-<link>https://gadgetsandwearables.com/2026/11/10/garmin-waze-cyclist-sharing-live/</link>
-<guid isPermaLink="true">https://gadgetsandwearables.com/2026/11/10/garmin-waze-cyclist-sharing-live/</guid>
-<description>Six days after we found Garmin preparing Waze location sharing inside Garmin Connect, the feature is now official and is The post Garmin cyclists can now appear live on Waze maps appeared first on Gadgets &amp; Wearables .</description>
-<category>watches, other_wearables</category>
-<pubDate>Tue, 10 Nov 2026 14:51:51 +0000</pubDate>
 </item>
 </channel></rss>

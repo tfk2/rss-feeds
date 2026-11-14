@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Enduro 4 Owners Report Touchscreen That Ignores Taps Unless You Touch the Bezel",
+   "link": "https://garminrumors.com/enduro-4-touchscreen-issue/",
+   "published": "2026-11-14T16:47:06Z",
+   "date": "2026-11-14",
+   "first_seen": "2026-11-14T16:50:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Some Enduro 4 owners say the touchscreen on Garmin’s newest endurance watch keeps ignoring them. Reports on Garmin’s own forums, and a video on Reddit, describe the same thing: with the watch off the wrist, taps and swipes don’t register unless a finger is also touching the bezel. Even on the wrist, some owners say […]"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "WHOOP just changed its step algorithm and it could change your WHOOP Age",
