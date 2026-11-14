@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Engadget: Change these Fitbit Edge settings for a better experience</title>
+<link>https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/</link>
+<guid isPermaLink="true">https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/</guid>
+<description>The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.</description>
+<category>watches</category>
+<pubDate>Sat, 14 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin News: Garmin’s New Patent Details Modular Watch Bands for Satellite Messaging and Extended Battery Life</title>
 <link>https://www.garminnews.com/garmins-new-patent-details-modular-watch-bands-for-satellite-messaging-and-extended-battery-life/</link>
 <guid isPermaLink="true">https://www.garminnews.com/garmins-new-patent-details-modular-watch-bands-for-satellite-messaging-and-extended-battery-life/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin’s stable software update 23.47 is rolling out to the Approach S72. See the full changelog and how to update.</description>
 <category>watches</category>
 <pubDate>Tue, 10 Nov 2026 16:00:56 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin and Waze Officially Team Up: Here’s How It Works and Which Devices Are Compatible</title>
-<link>https://www.garminnews.com/garmin-and-waze-officially-team-up-heres-how-it-works-and-which-devices-are-compatible/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-and-waze-officially-team-up-heres-how-it-works-and-which-devices-are-compatible/</guid>
-<description>As we previously reported, after code hints were uncovered inside Garmin Connect, the features pointing toward a major safety bridge between Garmin devices and Waze were clear. Now, it is officially here. Garmin and Waze have rolled out a first-of-its-kind feature that lets cyclists share their active ride locations directly with drivers using the Waze […] The post Garmin and Waze Officially Team </description>
-<category>watches</category>
-<pubDate>Tue, 10 Nov 2026 15:51:15 +0000</pubDate>
 </item>
 </channel></rss>
