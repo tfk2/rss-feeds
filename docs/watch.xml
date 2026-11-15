@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: You Can Now Rate How Each Garmin Software Update Is Running</title>
+<link>https://garminrumors.com/rate-garmin-software-updates/</link>
+<guid isPermaLink="true">https://garminrumors.com/rate-garmin-software-updates/</guid>
+<description>When Garmin pushes a new software update for one of its devices, the first question is often: is it safe to install? Starting today, you can help answer that for other owners with one tap. Software update posts on Garmin Rumors now end with a box that asks how the update is running on your […]</description>
+<category>watches</category>
+<pubDate>Sun, 15 Nov 2026 02:28:18 +0000</pubDate>
+</item>
+<item>
 <title>Engadget: Change these Fitbit Edge settings for a better experience</title>
 <link>https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/</link>
 <guid isPermaLink="true">https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/</guid>
@@ -795,13 +803,5 @@
 <description>Xiaomi has finally launched one of its latest smartwatches globally. Featuring a 3,000-nit AMOLED display and up to 14 days of battery life, the Watch S5 41 mm comes in three colours and even supports Google Pay thanks to built-in NFC connectivity.</description>
 <category>watches</category>
 <pubDate>Tue, 10 Nov 2026 17:13:00 +0000</pubDate>
-</item>
-<item>
-<title>Garmin Rumors: Garmin Releases Approach S72 Stable Version 23.47</title>
-<link>https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-47/</link>
-<guid isPermaLink="true">https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-47/</guid>
-<description>Garmin’s stable software update 23.47 is rolling out to the Approach S72. See the full changelog and how to update.</description>
-<category>watches</category>
-<pubDate>Tue, 10 Nov 2026 16:00:56 +0000</pubDate>
 </item>
 </channel></rss>
