@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Patent Puts Solar Cells Between the Pixels of an AMOLED Screen",
+   "link": "https://garminrumors.com/garmin-patent-solar-cells-between-amoled-pixels/",
+   "published": "2026-11-16T03:37:17Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T03:40:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "A newly published Garmin patent application puts solar cells in the gaps between an AMOLED or microLED screen’s pixels, so charging doesn’t dim the display."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Soundpeats' latest AirPods Pro 3 rival brings a few key improvements over Apple's buds",

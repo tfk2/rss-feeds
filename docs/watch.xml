@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Garmin Patent Puts Solar Cells Between the Pixels of an AMOLED Screen</title>
+<link>https://garminrumors.com/garmin-patent-solar-cells-between-amoled-pixels/</link>
+<guid isPermaLink="true">https://garminrumors.com/garmin-patent-solar-cells-between-amoled-pixels/</guid>
+<description>A newly published Garmin patent application puts solar cells in the gaps between an AMOLED or microLED screen’s pixels, so charging doesn’t dim the display.</description>
+<category>watches</category>
+<pubDate>Mon, 16 Nov 2026 03:37:17 +0000</pubDate>
+</item>
+<item>
 <title>TechRadar: Soundpeats' latest AirPods Pro 3 rival brings a few key improvements over Apple's buds</title>
 <link>https://www.techradar.com/audio/earbuds-airpods/one-of-our-favorite-cheap-earbuds-brands-just-launched-airpods-pro-3-rivals-costing-half-as-much-as-apples-buds-but-with-decent-battery-life</link>
 <guid isPermaLink="true">https://www.techradar.com/audio/earbuds-airpods/one-of-our-favorite-cheap-earbuds-brands-just-launched-airpods-pro-3-rivals-costing-half-as-much-as-apples-buds-but-with-decent-battery-life</guid>
@@ -795,13 +803,5 @@
 <description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
 <category>other_wearables</category>
 <pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
-</item>
-<item>
-<title>Athletech News: Oura to Acquire Counsel Health for $625M in Major Push Into AI-Powered Healthcare</title>
-<link>https://athletechnews.com/oura-to-acquire-counsel-health-for-625-million-ai-powered-healthcare/</link>
-<guid isPermaLink="true">https://athletechnews.com/oura-to-acquire-counsel-health-for-625-million-ai-powered-healthcare/</guid>
-<description>The acquisition marks the smart ring maker's latest move beyond just wearables, bringing medical AI and physician-led care into its growing health platform</description>
-<category>other_wearables</category>
-<pubDate>Tue, 10 Nov 2026 21:04:51 +0000</pubDate>
 </item>
 </channel></rss>
