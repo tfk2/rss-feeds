@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Budget Xiaomi smartwatch receives surprise release in new countries with 21 days battery life",
+   "link": "https://www.notebookcheck.net/Budget-Xiaomi-smartwatch-receives-surprise-release-in-new-countries-with-21-days-battery-life.1451462.0.html",
+   "published": "2026-11-16T19:34:00Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T19:40:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Xiaomi has given one of its latest budget smartwatches a broader release in even more countries. Now available in countries like Germany and the UK, the Smart Band 11 retails for just €59.99 and £54.99 despite boasting up to 21 days of battery life and a 2,000-nit AMOLED display."
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "Apple Releases Second watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
