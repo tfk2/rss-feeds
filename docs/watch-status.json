@@ -86,7 +86,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 3,
+  "kept": 2,
   "last_ok": "2026-11-16T20:00Z"
  },
  "MacRumors": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 20,
+  "kept": 19,
   "last_ok": "2026-11-16T20:00Z"
  },
  "Pocket-lint": {
