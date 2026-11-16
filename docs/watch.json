@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I've tested the Fitbit Air, Fitbit Edge, and Fitbit Charge 6 — here is the fitness tracker I'd actually buy with my own money",
+   "link": "https://www.tomsguide.com/wellness/fitness-trackers/ive-tested-the-fitbit-air-fitbit-edge-and-fitbit-charge-6-here-is-the-fitness-tracker-id-actually-buy-with-my-own-money",
+   "published": "2026-11-16T05:00:00Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T05:10:42Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Fitbit Air vs. Fitbit Edge vs. Fitbit Charge 6 — I tested all three, and there's one I'm far more likely to spend my money on than the others."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Patent Puts Solar Cells Between the Pixels of an AMOLED Screen",
