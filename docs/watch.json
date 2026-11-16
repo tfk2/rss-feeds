@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Apple Watch Series 12 hits a new all-time low at $329",
+   "link": "https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/",
+   "published": "2026-11-16T17:27:40Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T17:31:02Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple's latest smartwatch is $70 off in every 42mm color, and it's never been cheaper."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Huawei Watch Air leaks in first image with ultra-thin 6.9 mm body",
@@ -1932,19 +1945,6 @@
     "watches"
    ],
    "excerpt": "Apple today released new watchOS 27.2.1 and visionOS 27.2.1 updates, with the software coming two weeks after the launch of watchOS 27.2 and visionOS 27.2. According to Apple's release notes, the watchOS update includes security fixes, while the visionOS 27.2.1 update includes security updates and bug fixes. The new software can be installed using the Settings app on each device. Related Roundups:"
-  },
-  {
-   "source": "TechRadar",
-   "source_home": "https://www.techradar.com/",
-   "title": "The New York Marathon winner doesn't wear a fancy Garmin, but something much cheaper",
-   "link": "https://www.techradar.com/health-fitness/smartwatches/the-new-york-marathon-winner-wasnt-wearing-a-fancy-garmin-or-apple-watch-ultra-but-something-much-cheaper-heres-why-this-coros-model-is-a-great-running-watch-to-look-out-for-on-black-friday",
-   "published": "2026-11-09T17:21:31Z",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-09T17:30:59Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Andreas Almgren is the latest marathon winner to rock a budget-friendly smartwatch, this time the Coros Pace 4."
   },
   {
    "source": "Wareable",

@@ -49,9 +49,8 @@
  },
  "Athletech News": {
   "ok": true,
-  "items": 20,
-  "kept": 1,
-  "last_ok": "2026-11-16T17:00Z"
+  "last_ok": "2026-11-16T17:00Z",
+  "error": "HTTPSConnectionPool(host='athletechnews.com', port=443): Read timed out. (read timeout=20)"
  },
  "Endurance Sportswire": {
   "ok": true,
@@ -86,7 +85,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 2,
+  "kept": 3,
   "last_ok": "2026-11-16T17:00Z"
  },
  "MacRumors": {
