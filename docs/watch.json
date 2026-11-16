@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "Apple Releases Second watchOS 27.3 and visionOS 27.3 Betas",
+   "link": "https://www.macrumors.com/2026/11/16/apple-releases-watchos-27-3-beta-1/",
+   "published": "2026-11-16T18:07:00Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T18:31:12Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Alongside new betas of iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple has released the second betas of watchOS 27.3 and visionOS 27.3. The software comes a week after the first software betas were released. Registered developers can download the betas through the Settings app on each device. Two new Audio Intelligence features are coming to the Apple Watch Series 12 and Apple Watch Ultra"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Galaxy Studio headphones design may have leaked, as Samsung prepares its AirPods Max rival",
