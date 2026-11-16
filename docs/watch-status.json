@@ -38,7 +38,7 @@
  "Wearable Fans": {
   "ok": true,
   "items": 10,
-  "kept": 1,
+  "kept": 3,
   "last_ok": "2026-11-16T17:00Z"
  },
  "SammyGuru": {
@@ -49,8 +49,9 @@
  },
  "Athletech News": {
   "ok": true,
-  "last_ok": "2026-11-16T17:00Z",
-  "error": "HTTPSConnectionPool(host='athletechnews.com', port=443): Read timed out. (read timeout=20)"
+  "items": 20,
+  "kept": 1,
+  "last_ok": "2026-11-16T17:00Z"
  },
  "Endurance Sportswire": {
   "ok": true,
