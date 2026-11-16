@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "OPPO Watch 5 launches with a 25g design and seven-day battery",
+   "link": "https://gadgetsandwearables.com/2026/11/16/oppo-watch-5-launch/",
+   "published": "2026-11-16T15:43:45Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T15:50:47Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "OPPO’s square watches are back, and this one weighs just 25g before you add the strap. The new Watch 5 The post OPPO Watch 5 launches with a 25g design and seven-day battery appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin patents AMOLED solar smartwatch",
@@ -1931,32 +1944,6 @@
     "other_wearables"
    ],
    "excerpt": "Smart ring maker Ultrahuman is working on a system to provide athletes with real-time muscle fatigue warnings—a tool that could become useful for injury prevention. Smart ring maker Ultrahuman is eyeing a system to provide athletes with real-time muscle fatigue warnings—a tool that could help prevent injuries and inform training loads."
-  },
-  {
-   "source": "Engadget",
-   "source_home": "https://www.engadget.com/",
-   "title": "The pros and cons of using OnePlus smartwatches",
-   "link": "https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/",
-   "published": "2026-11-09T15:45:00Z",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-09T15:56:50Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Thinking about a OnePlus smartwatch before the brand leaves the US? Here are the pros and cons, from battery life and build quality to size and software."
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Tactix 9 or Descent Mk4? New SDPPI Filings Reveal Models A05198 & A05199",
-   "link": "https://www.garminnews.com/garmin-tactix-9-or-descent-mk4-new-sdppi-filings-reveal-models-a05198-a05199/",
-   "published": "2026-11-09T15:43:55Z",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-09T15:50:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "While digging through regulatory certification databases today, I spotted two new unreleased Garmin outdoor devices in Indonesia’s SDPPI registry. Filed on November 9, 2026, by PT Garmin Indonesia Distribution under the “Outdoor Products” category, the certification lists two sequential model numbers: A05198 and A05199. When Garmin registers two consecutive model numbers together like this, it […]"
   },
   {
    "source": "Wareable",
