@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Instinct 3 Series Beta Version 16.11",
+   "link": "https://garminrumors.com/garmin-releases-instinct-3-series-beta-version-16-11/",
+   "published": "2026-11-16T20:30:04Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T20:50:58Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 16.11 for the Instinct 3 Series. See the full changelog and how to install it."
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
