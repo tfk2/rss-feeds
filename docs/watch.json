@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Pocket-lint",
+   "source_home": "https://www.pocket-lint.com/",
+   "title": "I can't believe the most expensive Apple Watch is missing this cheap sensor",
+   "link": "https://www.pocket-lint.com/apple-watch-uv-sensors/",
+   "published": "2026-11-16T13:01:17Z",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16T13:01:12Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "The Apple Watch is packed with useful features, but it doesn't have the innovative technology that a new wearable is introducing to the industry."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Oura is testing automatic VO2 Max without a walking test",
@@ -1985,19 +1998,6 @@
     "other_wearables"
    ],
    "excerpt": "Speediance has pushed out firmware 1.0.7 for the Strap and Strap Pro. The new software targets heart-rate response, workout detection, The post Speediance Strap update targets some of its biggest early flaws appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Free Zwift Plus For All Ends Today – Here Are Your Options",
-   "link": "https://zwiftinsider.com/zwift-plus-trial/",
-   "published": "2026-11-09T13:00:00Z",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-09T15:10:42Z",
-   "topics": [
-    "sports_software"
-   ],
-   "excerpt": "Learn about the Zwift Plus offers available to monthly and annual subscribers."
   },
   {
    "source": "Wareable",
