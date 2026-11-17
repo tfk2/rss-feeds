@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases Fresh Stable Update 8.23 for Edge 1060 Bike Computer: What’s New?",
+   "link": "https://www.garminnews.com/garmin-releases-fresh-stable-update-8-23-for-edge-1060-bike-computer-whats-new/",
+   "published": "2026-11-17T19:21:37Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T19:30:59Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released a fresh software update for the Edge 1060 bike computer. Version 8.23 arrives just six days after the previous 8.21 release, showing that the company is moving fast to polish the riding experience. This stable update focuses on fixing navigation glitches, battery displays, and sensor prompts rather than adding major new features. […] The post Garmin Releases Fresh Stable Update"
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit",
