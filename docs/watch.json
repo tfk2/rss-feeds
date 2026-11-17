@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Venu 3 Series Beta Version 17.51",
+   "link": "https://garminrumors.com/garmin-releases-venu-3-series-beta-version-17-51/",
+   "published": "2026-11-17T14:25:48Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:31:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has released beta version 17.51 for the Venu 3 Series. See the full changelog and how to install it."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 965 and 955 Stable Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-965-and-955-stable-version-29-52/",
+   "published": "2026-11-17T14:18:13Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:31:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 29.52 is rolling out to the Forerunner 965 and 955. See the full changelog and how to update."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 265 and 255 Stable Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-265-and-255-stable-version-29-52/",
+   "published": "2026-11-17T14:17:52Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:31:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 29.52 is rolling out to the Forerunner 265 and 255. See the full changelog and how to update."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 165 Series Stable Version 29.52",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-165-series-stable-version-29-52/",
+   "published": "2026-11-17T14:17:38Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:31:05Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 29.52 is rolling out to the Forerunner 165 Series. See the full changelog and how to update."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Natural Cycles NC Band 2 takes on the Fitbit Air with 21-day battery and a $149 bundle",
