@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Noom Launches Weight-Loss Wearable",
+   "link": "https://athletechnews.com/noom-launches-weight-loss-wearable-glp-1/",
+   "published": "2026-11-17T17:28:14Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T17:30:58Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "As employers rethink GLP-1 coverage amid rising health care costs, Noom is adding its own wearable for enterprise clients"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Edge 1060 Stable Software Version 8.23",
+   "link": "https://garminrumors.com/garmin-releases-edge-1060-stable-software-version-8-23/",
+   "published": "2026-11-17T17:17:43Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T17:30:58Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 8.23 is rolling out to the Edge 1060. See the full changelog and how to update."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update to older mid-range smartwatches",
@@ -1824,19 +1850,6 @@
     "sports_software"
    ],
    "excerpt": "Zwift is constantly evolving to be better, faster, more expansive, and more fun. But better also must mean safer."
-  },
-  {
-   "source": "TechRadar",
-   "source_home": "https://www.techradar.com/",
-   "title": "Disney Imagineering has a new idea for keeping you off your phone at Disneyland",
-   "link": "https://www.techradar.com/computing/websites-apps/get-you-out-of-your-device-and-back-to-your-vacation-disneys-new-ai-experiment-could-change-how-you-explore-disneyland-whether-youre-using-an-iphone-ray-ban-metas-or-airpods",
-   "published": "2026-11-10T17:26:46Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T17:30:56Z",
-   "topics": [
-    "sports_earphones"
-   ],
-   "excerpt": "We spoke with Disney Imagineering and Meta to learn how the new AI-powered Disneyland Enchanted Guide could help guests navigate the park, check wait times, and spend less time looking at their phones, thanks to hands-free support for Meta Ray-Ban smart glasses and AirPods."
   }
  ]
 }
