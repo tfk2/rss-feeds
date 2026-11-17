@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new update to fix boot loops and activity crashes on multiple smartwatches",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-to-fix-boot-loops-and-activity-crashes-on-multiple-smartwatches.1451749.0.html",
+   "published": "2026-11-17T12:54:00Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T13:01:19Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has introduced a new update packing multiple new improvements. Available globally, the new update promises to address boot loops and activity crashes that have been occurring on some Garmin Instinct 3 smartwatches."
+  },
+  {
    "source": "Gizmochina",
    "source_home": "https://www.gizmochina.com/",
    "title": "Huawei Watch Air leaks, 6.9mm titanium body, five-day battery",
@@ -1813,33 +1826,6 @@
     "watches"
    ],
    "excerpt": "Waze app users can see the location of cyclists using Garmin Edge computers and smartwatches in a bid to improve awareness and road safety – but will enough drivers and cyclists use it to make a difference?"
-  },
-  {
-   "source": "Zwift Insider",
-   "source_home": "https://zwiftinsider.com/",
-   "title": "Garmin Announces New Tacx Nēra Smart Trainer",
-   "link": "https://zwiftinsider.com/tacx-nera-announced/",
-   "published": "2026-11-10T13:00:00Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T15:10:49Z",
-   "topics": [
-    "watches",
-    "cycling_computers"
-   ],
-   "excerpt": "On October 20, Garmin announced their first new smart trainer since 2023, named the Tacx Nēra."
-  },
-  {
-   "source": "Endurance Sportswire",
-   "source_home": "https://www.endurancesportswire.com/",
-   "title": "Garmin and Waze team up to amplify the power of community-driven awareness for cyclists and drivers",
-   "link": "https://www.endurancesportswire.com/garmin-and-waze-team-up-to-amplify-the-power-of-community-driven-awareness-for-cyclists-and-drivers/",
-   "published": "2026-11-10T12:55:38Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T13:20:41Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "OLATHE, Kan. (November 10, 2026) /ENDURANCE SPORTSWIRE/ – Garmin (NYSE: GRMN) today announced a first-of-its-kind collaboration with Waze™, the community-driven navigation app used by 200 million drivers around the world. Cyclists using a compatible Garmin … Read more › The post Garmin and Waze team up to amplify the power of community-driven awareness for cyclists and drivers appeared first on En"
   }
  ]
 }
