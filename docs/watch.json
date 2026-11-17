@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Edge 1050, 850 and 550 Stable Software Version 33.22",
+   "link": "https://garminrumors.com/garmin-releases-edge-1050-850-and-550-stable-software-version-33-22/",
+   "published": "2026-11-17T23:19:26Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T23:31:13Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 33.22 is rolling out to the Edge 1050, 850 and 550. See the full changelog and how to update."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "The Sideload 052: Pebble’s back. Now what?",
