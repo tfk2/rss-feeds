@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Technology Outages: Have We Learnt the Lessons?</title>
+<link>https://www.ccsinsight.com/blog/technology-outages-have-we-learnt-the-lessons/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/technology-outages-have-we-learnt-the-lessons/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Microsoft_tech_outage.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The technology industry has become reasonably good at investigating major failures and explaining what went wrong. But the question is whether those lessons consistently translate into better resilience across the ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The technology industry has become reasonably good at investigating major failures and explaining what went wrong. But the question is whether those lessons consistently translate into better resilience across the organizations that depend on its systems.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Microsoft_tech_outage.png" medium="image"/>
+<pubDate>Tue, 17 Nov 2026 16:06:35 +0000</pubDate>
+</item>
+<item>
 <title>Commercial Upper 6 GHz Launches in the UAE Demonstrate Its Global Value</title>
 <link>https://www.ccsinsight.com/blog/commercial-upper-6-ghz-launches-in-the-uae-demonstrate-its-global-value/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/commercial-upper-6-ghz-launches-in-the-uae-demonstrate-its-global-value/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;UK operators EE and VodafoneThree both recently unveiled priority mobile services for consumer customers. In each case, their aim is to bolster spending and drive a better return on network ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;UK operators EE and VodafoneThree both recently unveiled priority mobile services for consumer customers. In each case, their aim is to bolster spending and drive a better return on network investment amid enduring industry struggles to find new sources of growth.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png" medium="image"/>
 <pubDate>Mon, 28 Sep 2026 15:39:05 +0000</pubDate>
-</item>
-<item>
-<title>How SpaceX Will Launch a Mobile Network</title>
-<link>https://www.ccsinsight.com/blog/how-spacex-will-launch-a-mobile-network/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/how-spacex-will-launch-a-mobile-network/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/08/How_SpaceX_Will_Launch_Mobile_Network.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;On SpaceX's earning call, CEO Elon Musk discussed the company becoming a mobile network operator in the US. To date, Starlink's satellite connectivity has provided fixed broadband services that are ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;On SpaceX’s earning call, CEO Elon Musk discussed the company becoming a mobile network operator in the US. To date, Starlink’s satellite connectivity has provided fixed broadband services that are mainly used in areas without good fibre broadband, and a messaging service for smartphones as a back-up if terrestrial connectivity is unavailable or not working.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/08/How_SpaceX_Will_Launch_Mobile_Network.png" medium="image"/>
-<pubDate>Mon, 17 Aug 2026 16:20:41 +0000</pubDate>
 </item>
 </channel></rss>
