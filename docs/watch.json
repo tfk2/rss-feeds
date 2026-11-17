@@ -1837,19 +1837,6 @@
     "watches"
    ],
    "excerpt": "As we previously reported, after code hints were uncovered inside Garmin Connect, the features pointing toward a major safety bridge between Garmin devices and Waze were clear. Now, it is officially here. Garmin and Waze have rolled out a first-of-its-kind feature that lets cyclists share their active ride locations directly with drivers using the Waze […] The post Garmin and Waze Officially Team "
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Waze rolling out cyclist alerts based on real-time locations from Garmin trackers",
-   "link": "https://9to5google.com/2026/11/10/waze-cyclist-alerts-rolling-out/",
-   "published": "2026-11-10T15:45:00Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T15:50:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Waze is officially rolling out alerts for cyclists along your route that leverages location data from Garmin trackers. more…"
   }
  ]
 }
