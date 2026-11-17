@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Natural Cycles' debut smart ring pairs temperature tracking with digital birth control",
+   "link": "https://www.wareable.com/health-and-wellbeing/natural-cycles-nc-smart-ring-features-price-availability",
+   "published": null,
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T13:11:07Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Natural Cycles has officially entered the smart ring category with the launch of the NC° Ring, a wearable designed specifically for women’s hands and built to integrate directly with its FDA-cleared and MHRA-registered contraceptive app. Available to order starting today across Europe, Canada, and Australia, the NC° Ring costs £89.99 for an annual subscription, with the ring included at no additio"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases new update to fix boot loops and activity crashes on multiple smartwatches",
