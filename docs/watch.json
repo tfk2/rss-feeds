@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit",
+   "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
+   "published": "2026-11-17T18:15:34Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T18:20:48Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Samsung’s newest and most advanced smartwatch, the Galaxy Watch 9, is currently down to $269 in the best deal we’ve seen recently. If you plan on trading an old watch in, it drops much lower. more…"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin releases new beta software update 17.51 for Venu 3 and Vivoactive 5",
+   "link": "https://www.garminnews.com/garmin-releases-new-beta-software-update-17-51-for-venu-3-and-vivoactive-5/",
+   "published": "2026-11-17T18:09:18Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T18:20:48Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is pushing out a fresh software update for two of its popular smartwatches. Owners of the Venu 3 and Vivoactive 5 can now test out beta version 17.51. What is in the New Update? Various bug fixes and stability improvements The company is keeping the details brief for this release. According to the official […] The post Garmin releases new beta software update 17.51 for Venu 3 and Vivoactive"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin CIRQA and Oura Ring 5 get ultralight competitors with up to 21 days of battery life",
