@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "The Sideload 052: Pebble’s back. Now what?",
+   "link": "https://9to5google.com/2026/11/17/the-sideload-052-pebbles-back-now-what/",
+   "published": "2026-11-17T21:30:00Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T21:40:57Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Welcome to episode 52 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Eric Migicovsky, who sold Pebble to Fitbit back in 2016 only to bring its watches back from the grave a decade later. Together, the crews get into everything from the story behind Pebble’s open-sourcing, how Eric’s needs have shaped the core experience, and why he has no interest in an OLED Pebble"
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Releases Fresh Stable Update 8.23 for Edge 1060 Bike Computer: What’s New?",
@@ -1877,19 +1890,6 @@
     "watches"
    ],
    "excerpt": "Garmin Pay is now available in South Korea, Financial News reports. It works with T-money, Korea’s prepaid transit card, so you can tap your Garmin watch to ride buses and subways and to pay at convenience stores, cafes, and other shops that take T-money, without your phone or a physical card. Garmin Korea’s launch image […]"
-  },
-  {
-   "source": "The Verge",
-   "source_home": "https://www.theverge.com/",
-   "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-   "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-   "published": "2026-11-10T21:40:31Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T21:40:41Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]"
   }
  ]
 }
