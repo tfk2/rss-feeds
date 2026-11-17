@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin releases fresh stable update 29.52 for Forerunner 965, 955, 265, 255, and 165: What’s new?",
+   "link": "https://www.garminnews.com/garmin-releases-fresh-stable-update-29-52-for-forerunner-965-955-265-255-and-165-whats-new/",
+   "published": "2026-11-17T15:15:51Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T16:01:27Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started pushing out a fresh software update for several of its popular running watches. If you wear a Forerunner 965, 955, 265, 255, or 165, your smartwatch is in line to receive stable firmware version 29.52. Instead of bringing flashy new features, this release focuses on making the watch run smoother and fixing […] The post Garmin releases fresh stable update 29.52 for Forerunner 965"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Xiaomi Smart Band 11 launches globally alongside compact Watch S5 41mm",
@@ -1811,32 +1824,6 @@
     "watches"
    ],
    "excerpt": "Xiaomi has finally launched one of its latest smartwatches globally. Featuring a 3,000-nit AMOLED display and up to 14 days of battery life, the Watch S5 41 mm comes in three colours and even supports Google Pay thanks to built-in NFC connectivity."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Approach S72 Stable Version 23.47",
-   "link": "https://garminrumors.com/garmin-releases-approach-s72-stable-version-23-47/",
-   "published": "2026-11-10T16:00:56Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T16:20:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin’s stable software update 23.47 is rolling out to the Approach S72. See the full changelog and how to update."
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin and Waze Officially Team Up: Here’s How It Works and Which Devices Are Compatible",
-   "link": "https://www.garminnews.com/garmin-and-waze-officially-team-up-heres-how-it-works-and-which-devices-are-compatible/",
-   "published": "2026-11-10T15:51:15Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T16:10:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "As we previously reported, after code hints were uncovered inside Garmin Connect, the features pointing toward a major safety bridge between Garmin devices and Waze were clear. Now, it is officially here. Garmin and Waze have rolled out a first-of-its-kind feature that lets cyclists share their active ride locations directly with drivers using the Waze […] The post Garmin and Waze Officially Team "
   }
  ]
 }
