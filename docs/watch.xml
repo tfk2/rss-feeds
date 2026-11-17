@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Notebookcheck: Xiaomi's unusual open-ear earbuds make their way to Europe</title>
+<link>https://www.notebookcheck.net/Xiaomi-s-unusual-open-ear-earbuds-make-their-way-to-Europe.1452346.0.html</link>
+<guid isPermaLink="true">https://www.notebookcheck.net/Xiaomi-s-unusual-open-ear-earbuds-make-their-way-to-Europe.1452346.0.html</guid>
+<description>Xiaomi's official specifications reveal that the Clip earbuds' advertised 38-hour battery life drops to just 25 hours when LHDC 5.0 high-resolution audio is enabled. The open-ear earbuds also feature Apple Find My support, 11 mm dynamic drivers, and a European starting price of €149.99.</description>
+<category>sports_earphones</category>
+<pubDate>Tue, 17 Nov 2026 14:30:00 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Garmin Releases Venu 3 Series Beta Version 17.51</title>
 <link>https://garminrumors.com/garmin-releases-venu-3-series-beta-version-17-51/</link>
 <guid isPermaLink="true">https://garminrumors.com/garmin-releases-venu-3-series-beta-version-17-51/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin has released a new official software update for its flagship Edge 1060 cycling computer. Rolling out just seven days after the release of stable version 8.19, software version 8.21 is now available for all global units. Unlike test software, this is a fully public stable update designed to fix specific functional bugs and refine […] The post Garmin Drops New Stable Update 8.21 for Edge 1060</description>
 <category>watches</category>
 <pubDate>Wed, 11 Nov 2026 19:41:24 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin Releases New Beta Software 31.72 for Edge 1040, 840, and 540</title>
-<link>https://www.garminnews.com/garmin-releases-new-beta-software-31-72-for-edge-1040-840-and-540/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-releases-new-beta-software-31-72-for-edge-1040-840-and-540/</guid>
-<description>Garmin continues its rapid software testing, rolling out beta update 31.72 for its previous-generation performance cycling units. The new release arrives just five days after beta version 31.71 and covers the Edge 1040, Edge 840, and Edge 540 series. Under-the-Hood Fixes Target Overall Stability Improved device stability. Unlike feature-heavy software releases, version 31.72 is focused […] The pos</description>
-<category>watches</category>
-<pubDate>Wed, 11 Nov 2026 19:21:24 +0000</pubDate>
 </item>
 </channel></rss>

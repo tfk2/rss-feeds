@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Xiaomi's unusual open-ear earbuds make their way to Europe",
+   "link": "https://www.notebookcheck.net/Xiaomi-s-unusual-open-ear-earbuds-make-their-way-to-Europe.1452346.0.html",
+   "published": "2026-11-17T14:30:00Z",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:40:45Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "Xiaomi's official specifications reveal that the Clip earbuds' advertised 38-hour battery life drops to just 25 hours when LHDC 5.0 high-resolution audio is enabled. The open-ear earbuds also feature Apple Find My support, 11 mm dynamic drivers, and a European starting price of €149.99."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Venu 3 Series Beta Version 17.51",
