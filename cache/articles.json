@@ -154,10 +154,6 @@
   "image": "https://media.wareable.com/images/750w/2026/10/Testing-Glokore-OralCare-Plus.jpg",
   "para": "Keeping your teeth and gums healthy takes more than a quick brush in the morning. It’s a daily responsibility, even if brushing and flossing aren’t the most exciting parts of your routine."
  },
- "https://www.wareable.com/health-tech/glokore-therapy-wrap-review": {
-  "image": "https://media.wareable.com/images/featured-big/2026/10/glokore-therapy-wrap-review.jpg",
-  "para": "In the last few years, I’ve tried a number of red light therapy (RLT) devices. Some became part of my daily routine, while others didn’t stand out."
- },
  "https://www.wareable.com/health-tech/jovs-6d-laser-mask-review": {
   "image": "https://media.wareable.com/images/750w/2026/11/jovs-laser-mask-featured-image.jpg",
   "para": "JOVS 6D Laser & EMS Anti-Aging Therapy Mask brings two approaches into the same wearable: advertised laser technology aimed at signs of skin aging, plus electrical muscle stimulation (EMS) claimed for facial toning. JOVS positions that combination as a way to address both skin appearance and facial contours at home.",
@@ -289,5 +285,10 @@
   "image": "https://media.wareable.com/images/featured-big/2024/04/whoop-5-gym.jpg",
   "para": "Whoop has announced a left-field expansion beyond individual health tracking with Whoop Humans, a new in-app social networking feed built around member health data.",
   "published": "2026-11-12T17:03:28+00:00"
+ },
+ "https://www.wareable.com/xiaomi/xiaomi-smart-band-11-watch-s5-41mm-international-uk-europe-launch-announcement": {
+  "image": "https://media.wareable.com/images/featured-big/2026/11/xiaomi-smart-band-11.jpg",
+  "para": "After launching in China back in September, the Smart Band 11 is now expanding its global footprint to the UK and parts of Europe. However, like previous generations, an official US retail release of the fitness tracker remains unlikely.",
+  "published": "2026-11-17T14:30:50+00:00"
  }
 }

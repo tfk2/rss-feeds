@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Xiaomi Smart Band 11 launches globally alongside compact Watch S5 41mm",
+   "link": "https://www.wareable.com/xiaomi/xiaomi-smart-band-11-watch-s5-41mm-international-uk-europe-launch-announcement",
+   "published": null,
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17T14:50:48Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Xiaomi has officially launched its latest wearable lineup for the global market, headlined by the international rollout of the Xiaomi Smart Band 11 and the new Xiaomi Watch S5 41mm. After launching in China back in September, the Smart Band 11 is now expanding its global footprint to the UK and parts of Europe. However, like previous generations, an official US retail release of the fitness tracke"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Xiaomi's unusual open-ear earbuds make their way to Europe",
@@ -1877,33 +1890,6 @@
     "other_wearables"
    ],
    "excerpt": "Six days after we found Garmin preparing Waze location sharing inside Garmin Connect, the feature is now official and is The post Garmin cyclists can now appear live on Waze maps appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin wearables get alarm-related improvements in new update",
-   "link": "https://www.notebookcheck.net/Garmin-wearables-get-alarm-related-improvements-in-new-update.1447066.0.html",
-   "published": "2026-11-10T14:48:00Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T15:01:10Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Garmin has rolled out a new software update for one of its wearables. The stable release improves one of the device’s alarm features and also tackles a range of bugs experienced by some users of the Descent X30."
-  },
-  {
-   "source": "Bikerumor",
-   "source_home": "https://bikerumor.com/",
-   "title": "Garmin and Waze Now Warn Drivers When Cyclists Are Nearby",
-   "link": "https://bikerumor.com/garmin-waze-live-cycling-alerts/",
-   "published": "2026-11-10T14:47:19Z",
-   "date": "2026-11-10",
-   "first_seen": "2026-11-10T14:50:45Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin and Waze now let compatible Edge and smartwatch users share LiveTrack positions with nearby drivers as real-time cycling alerts."
   }
  ]
 }

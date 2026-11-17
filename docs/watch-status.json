@@ -2,7 +2,7 @@
  "Wareable": {
   "ok": true,
   "items": 50,
-  "kept": 6,
+  "kept": 7,
   "last_ok": "2026-11-17T14:00Z"
  },
  "DC Rainmaker": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 19,
+  "kept": 18,
   "last_ok": "2026-11-17T14:00Z"
  },
  "Pocket-lint": {
