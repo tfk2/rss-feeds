@@ -19,6 +19,11 @@
   "para": "With rising mobile data traffic, the upper 6 GHz spectrum band is proving to be a valuable asset to meet users’ expectations in markets where it has been deployed, such as the United Arab Emirates (UAE). At a recent panel at the Telecom Review Leaders’ Summit, speakers from du and Etisalat UAE were joined by Ericsson, GSMA, Huawei, SPD and TDRA to mark the commercial launch of upper 6 GHz, highlighting the UAE’s progress in moving from spectrum planning to commercial deployment.",
   "published": "2026-11-17T09:00:00+00:00"
  },
+ "https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/": {
+  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Durga-Malladi.png",
+  "para": "For FDM CCS Insight’s Predictions for 2027 and Beyond event, I spoke with Dr Durga Malladi, Executive Vice President and General Manager of Technology Planning, Edge Solutions and Data Center at Qualcomm, about the arrival of 6G and how it’ll evolve. The timing was good because of clear industry momentum to move quickly: at MWC Barcelona in March 2026, 58 companies from across the industry committed to commercial 6G by 2029.",
+  "published": "2026-11-18T08:30:19+00:00"
+ },
  "https://www.ccsinsight.com/blog/googles-gemini-agent-puts-workplace-delegation-to-the-test/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png",
   "para": "Google’s announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace identities, permissions and activity records.",
@@ -38,11 +43,6 @@
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png",
   "para": "Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. I was recently invited by Virgin Media O2 to see where the technology is today and get a sense of where it’s going.",
   "published": "2026-11-04T13:45:35+00:00"
- },
- "https://www.ccsinsight.com/blog/uk-operators-bet-on-priority-access-to-revive-consumer-spending/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png",
-  "para": "UK operators EE and VodafoneThree both recently unveiled priority mobile services for consumer customers. In each case, their aim is to bolster spending and drive a better return on network investment amid enduring industry struggles to find new sources of growth.",
-  "published": "2026-09-28T15:39:05+00:00"
  },
  "https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png",

@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Evolving 6G Beyond Speed: Interview with Qualcomm’s Dr Durga Malladi</title>
+<link>https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Durga-Malladi.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;For FDM CCS Insight's Predictions for 2027 and Beyond event, I spoke with Dr Durga Malladi, Executive Vice President and General Manager of Technology Planning, Edge Solutions and Data Center ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For FDM CCS Insight’s Predictions for 2027 and Beyond event, I spoke with Dr Durga Malladi, Executive Vice President and General Manager of Technology Planning, Edge Solutions and Data Center at Qualcomm, about the arrival of 6G and how it’ll evolve. The timing was good because of clear industry momentum to move quickly: at MWC Barcelona in March 2026, 58 companies from across the industry committed to commercial 6G by 2029.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Durga-Malladi.png" medium="image"/>
+<pubDate>Wed, 18 Nov 2026 08:30:19 +0000</pubDate>
+</item>
+<item>
 <title>Technology Outages: Have We Learnt the Lessons?</title>
 <link>https://www.ccsinsight.com/blog/technology-outages-have-we-learnt-the-lessons/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/technology-outages-have-we-learnt-the-lessons/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Google's announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Google’s announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace identities, permissions and activity records.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png" medium="image"/>
 <pubDate>Thu, 08 Oct 2026 16:16:06 +0000</pubDate>
-</item>
-<item>
-<title>UK Operators Bet on Priority Access to Revive Consumer Spending</title>
-<link>https://www.ccsinsight.com/blog/uk-operators-bet-on-priority-access-to-revive-consumer-spending/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/uk-operators-bet-on-priority-access-to-revive-consumer-spending/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;UK operators EE and VodafoneThree both recently unveiled priority mobile services for consumer customers. In each case, their aim is to bolster spending and drive a better return on network ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;UK operators EE and VodafoneThree both recently unveiled priority mobile services for consumer customers. In each case, their aim is to bolster spending and drive a better return on network investment amid enduring industry struggles to find new sources of growth.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/09/Priority_access.png" medium="image"/>
-<pubDate>Mon, 28 Sep 2026 15:39:05 +0000</pubDate>
 </item>
 </channel></rss>
