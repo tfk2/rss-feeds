@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Fenix 9 Pro inReach 47 mm Drops to $1,115.65 at Amazon",
+   "link": "https://garminrumors.com/fenix-9-pro-inreach-47mm-graphite-amazon-deal/",
+   "published": "2026-11-18T10:51:45Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T11:11:27Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Amazon has the Fenix 9 Pro inReach 47 mm in titanium with a Graphite/Black band for $1,115.65, down from $1,199.99."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Drops Fresh Stable Update 33.22 for Edge 1050, 850, and 550: New Features & Bug Fixes",
