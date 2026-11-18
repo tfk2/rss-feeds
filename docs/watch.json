@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "These are the 12 best Android accessories I've tested and couldn't live without",
+   "link": "https://www.androidcentral.com/collection/accessories/these-are-the-12-best-android-accessories-ive-tested-and-couldnt-live-without",
+   "published": "2026-11-18T18:00:00Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T18:10:45Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "What's an Android phone without accessories to use along with it? These accessories, ranging from chargers to mounts, wearables to lights, are great gifts."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Zwift Racing League Week 2 Guide: Elevation Evaluation (C/D Scratch Race)",
@@ -1825,19 +1838,6 @@
     "watches"
    ],
    "excerpt": "In this episode, we dig into the first part of watch season extravaganza/catch-up. From Amazfit to Google to Garmin to COROS to Suunto, the first round begins! 00:00 Intro & Hiatus Catch-Up 02:36 Amazfit Watches 08:33 Google Pixel Watch 5 … Read More Here →"
-  },
-  {
-   "source": "WinFuture",
-   "source_home": "https://winfuture.de/",
-   "title": "Samsung-Patent: Galaxy-Watch der Zukunft misst Organfett per Radar",
-   "link": "https://winfuture.de/news,162614.html",
-   "published": "2026-11-11T18:03:00Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T18:10:43Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Samsung hat eine neue Technologie patentieren lassen, mit der man eines der in den Smartwatches der Galaxy-Watch-Serie verbauten Funkmodule nutzen kann, um das sonst nur mittels MRT sichtbare Viszeralfett im Körper des Trägers zu messen. ( Weiter lesen )"
   }
  ]
 }

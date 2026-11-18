@@ -128,7 +128,7 @@
  "Android Central": {
   "ok": true,
   "items": 50,
-  "kept": 2,
+  "kept": 3,
   "last_ok": "2026-11-18T18:00Z"
  },
  "Notebookcheck": {
@@ -146,7 +146,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-18T18:00Z"
  },
  "Tom's Guide": {
