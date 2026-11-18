@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Zwift Insider: All About the New Cervélo Baracchi Halo Bike on Zwift</title>
+<link>https://zwiftinsider.com/cervelo-baracchi/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/cervelo-baracchi/</guid>
+<description>Zwift's first new Halo Bike since March of 2025!</description>
+<category>sports_software</category>
+<pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Android Central: These are the 12 best Android accessories I've tested and couldn't live without</title>
 <link>https://www.androidcentral.com/collection/accessories/these-are-the-12-best-android-accessories-ive-tested-and-couldnt-live-without</link>
 <guid isPermaLink="true">https://www.androidcentral.com/collection/accessories/these-are-the-12-best-android-accessories-ive-tested-and-couldnt-live-without</guid>
@@ -795,13 +803,5 @@
 <description>The Withings ScanWatch Light offers a stripped back experience, but boy does it look good.</description>
 <category>watches</category>
 <pubDate>Fri, 13 Nov 2026 12:02:08 +0000</pubDate>
-</item>
-<item>
-<title>Android Central: Think the Google Fitbit Air is your only option? We've tested trending screenless fitness trackers to find the 6 best</title>
-<link>https://www.androidcentral.com/wearables/best-screenless-fitness-trackers</link>
-<guid isPermaLink="true">https://www.androidcentral.com/wearables/best-screenless-fitness-trackers</guid>
-<description>Screenless fitness trackers are trending, offering a distraction-free way to passively keep on top of health, fitness, and wellness.</description>
-<category>watches</category>
-<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
