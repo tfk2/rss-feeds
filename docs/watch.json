@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "There’s a glaring accessibility gap in Google’s Fitbit ambitions, and it’s time to fix it",
+   "link": "https://www.androidauthority.com/google-fitbit-accessibility-gap-3729741/",
+   "published": "2026-11-18T10:00:23Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T10:10:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "If any company can build a great wearable for disabled people, it's Google."
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "Beat your PBs with total health and activity tracking, with up to 57% off Garmin watches for Black Friday",
@@ -1825,19 +1838,6 @@
     "watches"
    ],
    "excerpt": "I love my Google Fitbit Air but it's not always the most intuitive device."
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "Fitbit owners report missing daily vitals, but a fix might not come soon (Update: Fixed)",
-   "link": "https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/",
-   "published": "2026-11-11T10:09:50Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T10:20:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Daily health readings are disappearing after the latest Google Health update."
   }
  ]
 }
