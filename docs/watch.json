@@ -3,6 +3,20 @@
   {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Fenix 9 Pro pairing failures point to a Garmin backend problem",
+   "link": "https://gadgetsandwearables.com/2026/11/18/garmin-fenix-9-pro-pairing-problem/",
+   "published": "2026-11-18T13:54:52Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T14:01:26Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Buying a new Garmin Fenix 9 Pro and then discovering you cannot actually connect it to Garmin Connect is not The post Garmin Fenix 9 Pro pairing failures point to a Garmin backend problem appeared first on Gadgets & Wearables ."
+  },
+  {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
    "title": "Oura wants to take the guesswork out of jet lag",
    "link": "https://gadgetsandwearables.com/2026/11/18/oura-jet-lag-plan/",
    "published": "2026-11-18T13:36:32Z",
@@ -1785,46 +1799,6 @@
     "watches"
    ],
    "excerpt": "Google has officially released its November Pixel Drop software update, delivering new functionality across its ecosystem and bringing key fitness and connectivity upgrades to the Pixel Watch lineup. The smartwatch portion of the release combines immediate health tools with a preview of several smart features scheduled to land on supported models over the coming weeks."
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band",
-   "link": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
-   "published": "2026-11-11T14:00:42Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T14:10:44Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "It's the first third-party Fitbit Air band on the Google Store."
-  },
-  {
-   "source": "9to5Google",
-   "source_home": "https://9to5google.com/",
-   "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
-   "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
-   "published": "2026-11-11T14:00:00Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T14:31:07Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born. more…"
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Fitbit health metrics are disappearing after Google Health 5.12",
-   "link": "https://gadgetsandwearables.com/2026/11/11/fitbit-missing-vitals-google-health-5-12/",
-   "published": "2026-11-11T13:55:06Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T14:10:44Z",
-   "topics": [
-    "watches",
-    "other_wearables"
-   ],
-   "excerpt": "Update November 14, 2026: Google has released Google Health 5.12.2 to fix missing vitals and daily totals for steps, distance The post Fitbit health metrics are disappearing after Google Health 5.12 appeared first on Gadgets & Wearables ."
   }
  ]
 }
