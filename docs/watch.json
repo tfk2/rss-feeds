@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Drops Fresh Stable Update 33.22 for Edge 1050, 850, and 550: New Features & Bug Fixes",
+   "link": "https://www.garminnews.com/garmin-drops-fresh-stable-update-33-22-for-edge-1050-850-and-550-new-features-bug-fixes/",
+   "published": "2026-11-18T10:21:19Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T11:01:09Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin is rolling out a major new software update for several of its popular cycling computers. Firmware version 33.22 is now arriving as a stable release for the Edge 1050, Edge 850, Edge 550, and Edge MTB models. New Tools Borrowed from the Edge 1060 The highlight of this release is the arrival of four […] The post Garmin Drops Fresh Stable Update 33.22 for Edge 1050, 850, and 550: New Features "
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "There’s a glaring accessibility gap in Google’s Fitbit ambitions, and it’s time to fix it",
@@ -1825,19 +1838,6 @@
     "other_wearables"
    ],
    "excerpt": "Samsung could be one of the first companies to introduce this clinical tech feature for wearables."
-  },
-  {
-   "source": "Pocket-lint",
-   "source_home": "https://www.pocket-lint.com/",
-   "title": "4 things I wish I knew before getting a Fitbit Air",
-   "link": "https://www.pocket-lint.com/things-i-wish-i-knew-before-getting-a-fitbit-air/",
-   "published": "2026-11-11T11:00:18Z",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-11T11:01:12Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "I love my Google Fitbit Air but it's not always the most intuitive device."
   }
  ]
 }
