@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Some New Fenix 9 Pro Watches Wouldn’t Pair or Register, but Owners Say It’s Working Again",
+   "link": "https://garminrumors.com/fenix-9-pro-pairing-registration-problem/",
+   "published": "2026-11-18T15:19:29Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T15:20:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "New Fenix 9 Pro owners couldn’t pair or register their watches because Garmin’s server rejected the part number. As of Wednesday, owners say it works again."
+  },
+  {
    "source": "Athletech News",
    "source_home": "https://athletechnews.com/",
    "title": "Therabody Acquires Embr Labs’ Tech, Expanding Push Into Women’s Health",

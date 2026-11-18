@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Garmin Rumors: Some New Fenix 9 Pro Watches Wouldn’t Pair or Register, but Owners Say It’s Working Again</title>
+<link>https://garminrumors.com/fenix-9-pro-pairing-registration-problem/</link>
+<guid isPermaLink="true">https://garminrumors.com/fenix-9-pro-pairing-registration-problem/</guid>
+<description>New Fenix 9 Pro owners couldn’t pair or register their watches because Garmin’s server rejected the part number. As of Wednesday, owners say it works again.</description>
+<category>watches</category>
+<pubDate>Wed, 18 Nov 2026 15:19:29 +0000</pubDate>
+</item>
+<item>
 <title>Athletech News: Therabody Acquires Embr Labs’ Tech, Expanding Push Into Women’s Health</title>
 <link>https://athletechnews.com/therabody-acquires-embr-labs-tech-expanding-push-into-womens-health/</link>
 <guid isPermaLink="true">https://athletechnews.com/therabody-acquires-embr-labs-tech-expanding-push-into-womens-health/</guid>
@@ -795,13 +803,5 @@
 <description>Google reportedly knows about the issue.</description>
 <category>watches</category>
 <pubDate>Thu, 12 Nov 2026 22:58:31 +0000</pubDate>
-</item>
-<item>
-<title>Garmin Rumors: Garmin Releases Fenix 9 and 9 Pro Series Beta Version 7.19</title>
-<link>https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-beta-version-7-19/</link>
-<guid isPermaLink="true">https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-beta-version-7-19/</guid>
-<description>Garmin has released beta version 7.19 for the Fenix 9 and 9 Pro Series. See the full changelog and how to install it.</description>
-<category>watches</category>
-<pubDate>Thu, 12 Nov 2026 21:59:14 +0000</pubDate>
 </item>
 </channel></rss>
