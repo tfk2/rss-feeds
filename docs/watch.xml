@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Authority: Google’s Pixel Watch 5 gets a $100 price cut on Amazon</title>
+<link>https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/</guid>
+<description>The 41mm Wi-Fi Pixel Watch 5 is 25% off, a nice saving on Google's newest smartwatch.</description>
+<category>watches</category>
+<pubDate>Wed, 18 Nov 2026 16:01:45 +0000</pubDate>
+</item>
+<item>
 <title>Wareable: Whoop plots yet another new data point to bolster sleep and recovery data</title>
 <link>https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</link>
 <guid isPermaLink="true">https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</guid>
@@ -795,13 +803,5 @@
 <description>Whoop, a company that makes screenless fitness trackers, has launched its own social network.</description>
 <category>other_wearables</category>
 <pubDate>Fri, 13 Nov 2026 10:39:44 +0000</pubDate>
-</item>
-<item>
-<title>Android Central: Google Health update causes Fitbit app to hide health metrics</title>
-<link>https://www.androidcentral.com/wearables/fitbit/its-a-joke-fitbit-users-are-beyond-annoyed-with-google-healths-latest-bug-but-theyre-seeking-alternative-ways-to-get-their-vitals-back</link>
-<guid isPermaLink="true">https://www.androidcentral.com/wearables/fitbit/its-a-joke-fitbit-users-are-beyond-annoyed-with-google-healths-latest-bug-but-theyre-seeking-alternative-ways-to-get-their-vitals-back</guid>
-<description>Health metrics and vitals are still missing from the Fitbit app even though Google says it's looking into it.</description>
-<category>watches</category>
-<pubDate>Fri, 13 Nov 2026 10:06:54 +0000</pubDate>
 </item>
 </channel></rss>
