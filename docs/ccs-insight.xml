@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Digital Sovereignty: Control without Isolation</title>
+<link>https://www.ccsinsight.com/blog/digital-sovereignty-control-without-isolation/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/digital-sovereignty-control-without-isolation/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Broadcom_digital-sovereignty.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nearly every major cloud and infrastructure supplier now has a sovereignty proposition. Some reflect investment in local infrastructure and operating safeguards; others lean heavily on data location. For buyers, the ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nearly every major cloud and infrastructure supplier now has a sovereignty proposition. Some reflect investment in local infrastructure and operating safeguards; others lean heavily on data location. For buyers, the hard part is distinguishing meaningful control from another appealing label.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Broadcom_digital-sovereignty.png" medium="image"/>
+<pubDate>Wed, 18 Nov 2026 11:28:00 +0000</pubDate>
+</item>
+<item>
 <title>Evolving 6G Beyond Speed: Interview with Qualcomm’s Dr Durga Malladi</title>
 <link>https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/IMC-2026.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;From 7 to 10 October, India hosted the 10th edition of India Mobile Congress (IMC) in New Delhi. As in previous years, the event reflected a gradual shift away from ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;From 7 to 10 October, India hosted the 10th edition of India Mobile Congress (IMC) in New Delhi. As in previous years, the event reflected a gradual shift away from smartphones to a broader set of technology products. At the 2025 event, Samsung was the only major smartphone-maker to maintain a dedicated booth. This year, even Samsung was absent.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/IMC-2026.png" medium="image"/>
 <pubDate>Tue, 13 Oct 2026 17:09:20 +0000</pubDate>
-</item>
-<item>
-<title>Google’s Gemini Agent Puts Workplace Delegation to the Test</title>
-<link>https://www.ccsinsight.com/blog/googles-gemini-agent-puts-workplace-delegation-to-the-test/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/googles-gemini-agent-puts-workplace-delegation-to-the-test/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Google's announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Google’s announcement of a new Gemini agent in Gemini Enterprise combines conversational assistance with autonomous task execution. Alongside it, Google is introducing AI coworkers, persistent agents with their own workplace identities, permissions and activity records.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Google_AI_Coworker.png" medium="image"/>
-<pubDate>Thu, 08 Oct 2026 16:16:06 +0000</pubDate>
 </item>
 </channel></rss>
