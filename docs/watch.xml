@@ -5,6 +5,22 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Wareable: Whoop plots yet another new data point to bolster sleep and recovery data</title>
+<link>https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</link>
+<guid isPermaLink="true">https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</guid>
+<description>Whoop is working on introducing a new respiratory rate variability (RRV) metric that could help users gain deeper insight into their sleep and recovery. The company has patented a system in which the pulse sensor and accelerometer on the screenless fitness tracker work together to detect the onset of respiratory cycles and determine the respiratory cycle length (RCL), or—to you and me—the time bet</description>
+<category>other_wearables</category>
+<pubDate>Wed, 18 Nov 2026 16:01:40 +0000</pubDate>
+</item>
+<item>
+<title>Android Authority: Garmin Instinct 3 Solar drops $160 to its lowest Amazon price</title>
+<link>https://www.androidauthority.com/garmin-instinct-3-solar-deal-3736735/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/garmin-instinct-3-solar-deal-3736735/</guid>
+<description>Garmin's rugged 50mm Instinct 3 Solar is 36% off, with up to 40 days of battery and unlimited smartwatch life in enough sun.</description>
+<category>watches</category>
+<pubDate>Wed, 18 Nov 2026 15:52:18 +0000</pubDate>
+</item>
+<item>
 <title>Notebookcheck: New lightweight outdoor smartwatch promises offline maps, Bluetooth calling and 20-day battery life</title>
 <link>https://www.notebookcheck.net/New-lightweight-outdoor-smartwatch-promises-offline-maps-Bluetooth-calling-and-20-day-battery-life.1453261.0.html</link>
 <guid isPermaLink="true">https://www.notebookcheck.net/New-lightweight-outdoor-smartwatch-promises-offline-maps-Bluetooth-calling-and-20-day-battery-life.1453261.0.html</guid>
@@ -787,21 +803,5 @@
 <description>Health metrics and vitals are still missing from the Fitbit app even though Google says it's looking into it.</description>
 <category>watches</category>
 <pubDate>Fri, 13 Nov 2026 10:06:54 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin rolls out fresh beta update 7.19 for Fenix 9, Enduro 4, and MARQ Gen 3: Here is What is New!</title>
-<link>https://www.garminnews.com/garmin-rolls-out-fresh-beta-update-7-19-for-fenix-9-enduro-4-and-marq-gen-2-here-is-what-is-new/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-rolls-out-fresh-beta-update-7-19-for-fenix-9-enduro-4-and-marq-gen-2-here-is-what-is-new/</guid>
-<description>Garmin has started rolling out a new beta software update, version 7.19, for several of its high-end smartwatches. Owners of the Fenix 9, Fenix 9 Pro, Enduro 4, and MARQ Gen 3 models can now test out a fresh batch of features and dozens of bug fixes. The update focuses heavily on improving day-to-day stability, […] The post Garmin rolls out fresh beta update 7.19 for Fenix 9, Enduro 4, and MARQ Ge</description>
-<category>watches</category>
-<pubDate>Fri, 13 Nov 2026 09:12:36 +0000</pubDate>
-</item>
-<item>
-<title>The Verge: Whoop launched a social network where every user has a ‘verified heartbeat’</title>
-<link>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</link>
-<guid isPermaLink="true">https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</guid>
-<description>Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like "Moments" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is "entirely human," […]</description>
-<category>other_wearables</category>
-<pubDate>Thu, 12 Nov 2026 23:43:22 +0000</pubDate>
 </item>
 </channel></rss>

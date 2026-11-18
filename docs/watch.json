@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Whoop plots yet another new data point to bolster sleep and recovery data",
+   "link": "https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive",
+   "published": null,
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T16:01:40Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Whoop is working on introducing a new respiratory rate variability (RRV) metric that could help users gain deeper insight into their sleep and recovery. The company has patented a system in which the pulse sensor and accelerometer on the screenless fitness tracker work together to detect the onset of respiratory cycles and determine the respiratory cycle length (RCL), or—to you and me—the time bet"
+  },
+  {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Garmin Instinct 3 Solar drops $160 to its lowest Amazon price",
+   "link": "https://www.androidauthority.com/garmin-instinct-3-solar-deal-3736735/",
+   "published": "2026-11-18T15:52:18Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18T16:01:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin's rugged 50mm Instinct 3 Solar is 36% off, with up to 40 days of battery and unlimited smartwatch life in enough sun."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "New lightweight outdoor smartwatch promises offline maps, Bluetooth calling and 20-day battery life",
