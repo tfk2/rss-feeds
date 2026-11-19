@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Forerunner 70 Stable Version 19.24",
+   "link": "https://garminrumors.com/garmin-releases-forerunner-70-stable-version-19-24/",
+   "published": "2026-11-19T17:28:24Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T17:31:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 19.24 is rolling out to the Forerunner 70. See the full changelog and how to update."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Fitbit Edge owners are complaining about the lack of hourly movement reminders",
