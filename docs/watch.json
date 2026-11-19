@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Update 7.22 Now Rolling Out to Fenix 9, Enduro 4, and MARQ Gen 3: New Features & Bug Fixes",
+   "link": "https://www.garminnews.com/garmin-update-7-22-now-rolling-out-to-fenix-9-enduro-4-and-marq-gen-3-new-features-bug-fixes/",
+   "published": "2026-11-19T22:14:45Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T22:50:45Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has officially released stable software version 7.22 for its top-tier outdoor smartwatches. The update is rolling out now to the Fenix 9, Fenix 9 Pro, Enduro 4, and MARQ Gen 3 series, following an extensive testing period that included five beta builds between versions 7.13 and 7.21. New Features and Activity Tools The 7.22 […] The post Garmin Update 7.22 Now Rolling Out to Fenix 9, Enduro "
+  },
+  {
    "source": "MacRumors",
    "source_home": "https://www.macrumors.com/",
    "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
