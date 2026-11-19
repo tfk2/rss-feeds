@@ -8,7 +8,7 @@
  "DC Rainmaker": {
   "ok": true,
   "items": 8,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-19T13:00Z"
  },
  "Garmin Rumors": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 21,
+  "kept": 20,
   "last_ok": "2026-11-19T13:00Z"
  },
  "Pocket-lint": {
