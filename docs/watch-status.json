@@ -13,9 +13,8 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "items": 30,
-  "kept": 23,
-  "last_ok": "2026-11-19T12:00Z"
+  "last_ok": "2026-11-19T12:00Z",
+  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -115,9 +114,8 @@
  },
  "road.cc": {
   "ok": true,
-  "items": 25,
-  "kept": 0,
-  "last_ok": "2026-11-19T12:00Z"
+  "last_ok": "2026-11-19T12:00Z",
+  "error": "HTTPSConnectionPool(host='road.cc', port=443): Read timed out. (read timeout=20)"
  },
  "Cycling Weekly": {
   "ok": true,
