@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "MacRumors",
+   "source_home": "https://www.macrumors.com/",
+   "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+   "link": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+   "published": "2026-11-19T21:43:47Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T21:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple today seeded the second betas of iOS 27.3, iPadOS 27.3, macOS Golden Gate 27.3, tvOS 27.3, and watchOS 27.3. Apple also has revised betas of of iOS 27.3 and iPadOS 27.3 available for developers. iOS 27.3 is a major update that adds a Vertical Tabs layout option and Adaptive Dark Mode for Safari. Siri AI can do more in and across Apple's apps, and developers are now able to create actions for"
+  },
+  {
+   "source": "Wearable Fans",
+   "source_home": "https://www.wearablefans.com/",
+   "title": "COROS VERTIX 4 Leaks in Full: 1.47-Inch AMOLED Display, Built-in Flashlight, and €799 Price Revealed",
+   "link": "https://www.wearablefans.com/2026/11/19/coros-vertix-4-leaks-in-full-1-47-inch-amoled-display-built-in-flashlight-and-e799-price-revealed/",
+   "published": "2026-11-19T21:24:09Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T21:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Back in September, we were the first to spot the COROS VERTIX 4 alongside a mysterious smartwatch called the COROS Orizon in a Eurasian Economic Union (EAEU) regulatory database filing. That document confirmed that COROS was preparing to skip the VERTIX 3 name completely to match its newer Pace 4 and Apex 4 lineup, though […] The post COROS VERTIX 4 Leaks in Full: 1.47-Inch AMOLED Display, Built-i"
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Fenix 9 and 9 Pro Series Stable Version 7.22",
