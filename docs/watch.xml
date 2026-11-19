@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Zwift Insider: Top 5 Zwift Videos: Zwift Tips, Tacx Nēra, Race Wins</title>
+<link>https://zwiftinsider.com/top-videos-306/</link>
+<guid isPermaLink="true">https://zwiftinsider.com/top-videos-306/</guid>
+<description>See our favorite Zwifty vids for the week!</description>
+<category>cycling_computers, sports_software</category>
+<pubDate>Thu, 19 Nov 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
 <title>The Verge: I let Apple’s always-listening AI summarize my life for two weeks</title>
 <link>https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on</guid>
@@ -795,13 +803,5 @@
 <description>The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.</description>
 <category>watches</category>
 <pubDate>Sat, 14 Nov 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin’s New Patent Details Modular Watch Bands for Satellite Messaging and Extended Battery Life</title>
-<link>https://www.garminnews.com/garmins-new-patent-details-modular-watch-bands-for-satellite-messaging-and-extended-battery-life/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmins-new-patent-details-modular-watch-bands-for-satellite-messaging-and-extended-battery-life/</guid>
-<description>When you are deep in the backcountry miles away from cellular service, having satellite communication on your wrist can be a game-changer. However, packing heavy radios, bulky batteries, and complex antenna arrays into a standard sports watch usually makes the device way too heavy and thick for everyday wear. After digging into a newly published […] The post Garmin’s New Patent Details Modular Wat</description>
-<category>watches</category>
-<pubDate>Sat, 14 Nov 2026 18:35:36 +0000</pubDate>
 </item>
 </channel></rss>

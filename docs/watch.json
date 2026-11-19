@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Top 5 Zwift Videos: Zwift Tips, Tacx Nēra, Race Wins",
+   "link": "https://zwiftinsider.com/top-videos-306/",
+   "published": "2026-11-19T13:00:00Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T13:20:47Z",
+   "topics": [
+    "cycling_computers",
+    "sports_software"
+   ],
+   "excerpt": "See our favorite Zwifty vids for the week!"
+  },
+  {
    "source": "The Verge",
    "source_home": "https://www.theverge.com/",
    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
