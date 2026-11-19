@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Android Central",
+   "source_home": "https://www.androidcentral.com/",
+   "title": "Honor's new smartwatch has the brightest display I've ever seen on a wearable — beating the Samsung Galaxy Watch Ultra 2 at a fraction of the price",
+   "link": "https://www.androidcentral.com/wearables/honors-new-smartwatch-has-the-brightest-display-ive-ever-seen-on-a-wearable-beating-the-samsung-galaxy-watch-ultra-2-at-a-fraction-of-the-price",
+   "published": "2026-11-19T11:56:35Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T12:01:49Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Honor just launched a new smartwatch with an incredibly bright screen."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Rolls Out Major Update 19.23 for Forerunner 970 and 570: What’s New?",
@@ -1942,19 +1956,6 @@
     "watches"
    ],
    "excerpt": "Oppo is finally launching a new rectangular smartwatch after three years. The manufacturer is already showing off the Oppo Watch 5 in numerous teaser images, and confirms the first details about the features of the particularly thin smartwatch."
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Samsung explores a smart ring with a built-in display and touch sensor",
-   "link": "https://www.wareable.com/wearable-tech/samsung-explores-a-smart-ring-with-a-built-in-display-and-touch-sensor",
-   "published": null,
-   "date": "2026-11-12",
-   "first_seen": "2026-11-12T07:01:10Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "As well as tracking your biometrics, the ring could also let you control calls, music, and alerts with simple finger gestures Samsung is exploring a ring-shaped wearable with a curved, flexible display designed to read your pulse and detect finger gestures."
   }
  ]
 }
