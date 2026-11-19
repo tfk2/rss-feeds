@@ -1,6 +1,58 @@
 {
  "stories": [
   {
+   "source": "9to5Mac Apple Watch",
+   "source_home": "https://9to5mac.com/",
+   "title": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
+   "link": "https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/",
+   "published": "2026-11-19T00:49:22Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Siri Modular, the new Apple Watch face in watchOS 27, is gaining new style options. watchOS 27.3, currently in beta, adds two more style options to the existing set. This gives users five options for adjusting what type of information appears on Siri Modular. more…"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin releases stable update 24.20 for Fenix 8/8 Pro, Tactix 8, and Enduro 3: New features & Bug fixes",
+   "link": "https://www.garminnews.com/garmin-releases-stable-update-24-20-for-fenix-8-8-pro-tactix-8-and-enduro-3-new-features-bug-fixes/",
+   "published": "2026-11-19T00:44:47Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has officially started sending out a major new software update, version 24.20, to several of its top smartwatches. This public release arrives after the company spent weeks testing more than five beta versions, moving from version 24.12 through 24.16. The update is now available for the Fenix 8, Fenix 8 Pro, Fenix E, Quatix […] The post Garmin releases stable update 24.20 for Fenix 8/8 Pro,"
+  },
+  {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin rolls out major update 31.74 for Edge 1040, 840, and 540: New features & bug fixes",
+   "link": "https://www.garminnews.com/garmin-rolls-out-major-update-31-74-for-edge-1040-840-and-540-new-features-bug-fixes/",
+   "published": "2026-11-19T00:09:44Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started pushing out a major new software update for some of its most popular cycling computers. The new stable firmware, version 31.74, is now available for the Edge 1040, Edge 840, and Edge 540 models. This release brings fresh features from Garmin’s newer hardware alongside a long list of important bug fixes to […] The post Garmin rolls out major update 31.74 for Edge 1040, 840, and 5"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 8 and 8 Pro Series Stable Version 24.20",
+   "link": "https://garminrumors.com/garmin-releases-fenix-8-and-8-pro-series-stable-version-24-20/",
+   "published": "2026-11-18T23:59:17Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 24.20 is rolling out to the Fenix 8 and 8 Pro Series. See the full changelog and how to update."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin releases new beta update 7.21 for Fenix 9/9 Pro, Enduro 4, and MARQ Gen 3",
@@ -25,6 +77,45 @@
     "sports_software"
    ],
    "excerpt": "Zwift's first new Halo Bike since March of 2025!"
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Vivoactive 6 Stable Version 19.23",
+   "link": "https://garminrumors.com/garmin-releases-vivoactive-6-stable-version-19-23/",
+   "published": "2026-11-18T18:27:41Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 19.23 is rolling out to the Vivoactive 6. See the full changelog and how to update."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Venu X1 Stable Version 19.23",
+   "link": "https://garminrumors.com/garmin-releases-venu-x1-stable-version-19-23/",
+   "published": "2026-11-18T18:25:01Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 19.23 is rolling out to the Venu X1. See the full changelog and how to update."
+  },
+  {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Edge 1040, 840 and 540 Series Stable Software Version 31.74",
+   "link": "https://garminrumors.com/garmin-releases-edge-1040-840-and-540-series-stable-software-version-31-74/",
+   "published": "2026-11-18T18:01:22Z",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19T00:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 31.74 is rolling out to the Edge 1040, 840 and 540 Series. See the full changelog and how to update."
   },
   {
    "source": "Android Central",

@@ -14,7 +14,7 @@
  "Garmin Rumors": {
   "ok": true,
   "items": 30,
-  "kept": 14,
+  "kept": 18,
   "last_ok": "2026-11-19T00:00Z"
  },
  "Gadgets & Wearables": {
@@ -98,7 +98,7 @@
  "9to5Mac Apple Watch": {
   "ok": true,
   "items": 100,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-19T00:00Z"
  },
  "Gizmochina": {
