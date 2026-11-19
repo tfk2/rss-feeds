@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Fenix 9 and 9 Pro Series Stable Version 7.22",
+   "link": "https://garminrumors.com/garmin-releases-fenix-9-and-9-pro-series-stable-version-7-22/",
+   "published": "2026-11-19T20:39:39Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T20:50:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 7.22 is rolling out to the Fenix 9 and 9 Pro Series. See the full changelog and how to update."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Honor just supercharged its smartwatch lineup with a new Pro model",
