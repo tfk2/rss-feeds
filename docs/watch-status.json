@@ -134,14 +134,13 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 19,
+  "kept": 18,
   "last_ok": "2026-11-19T20:00Z"
  },
  "Pocket-lint": {
   "ok": true,
-  "items": 10,
-  "kept": 0,
-  "last_ok": "2026-11-19T20:00Z"
+  "last_ok": "2026-11-19T20:00Z",
+  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
  },
  "TechRadar": {
   "ok": true,
