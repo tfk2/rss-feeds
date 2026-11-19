@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases new update to flagship smartwatches with multiple display improvements",
+   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-to-flagship-smartwatches-with-multiple-display-improvements.1453656.0.html",
+   "published": "2026-11-19T17:33:00Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T17:50:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has introduced a new update for many of its latest high-end smartwatches. Available to download globally, the new update promises to introduce multiple display improvements to the Fenix 9 Pro and other associated smartwatches like the Enduro 4."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Forerunner 70 Stable Version 19.24",
