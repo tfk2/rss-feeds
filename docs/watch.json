@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Huawei announces new smartwatch built with titanium and set to be thinnest ever",
+   "link": "https://www.notebookcheck.net/Huawei-announces-new-smartwatch-built-with-titanium-and-set-to-be-thinnest-ever.1454242.0.html",
+   "published": "2026-11-19T05:22:00Z",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19T05:40:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Huawei has now confirmed the upcoming launch of what could be its most ambitious smartwatch yet. The Huawei Watch Air will debut next week with a titanium-alloy unibody, and an incredibly thin and light physical profile."
+  },
+  {
    "source": "9to5Mac Apple Watch",
    "source_home": "https://9to5mac.com/",
    "title": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
