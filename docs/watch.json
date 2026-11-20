@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "The world’s best kids’ smartwatches are up to $64 off ahead of Black Friday",
+   "link": "https://9to5google.com/2026/11/20/the-worlds-best-kids-smartwatches-are-up-to-64-off-ahead-of-black-friday/",
+   "published": "2026-11-20T17:42:20Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T17:50:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin and Bark are competing for your money this year, and these sales make it easy to get something fun that’ll keep your kids safe and in touch. more…"
+  },
+  {
    "source": "TechRadar",
    "source_home": "https://www.techradar.com/",
    "title": "The best early Black Friday earbuds: Sony, Bose, AirPods and more",
@@ -1887,19 +1900,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started pushing out a new software test build, version 28.07, for several of its popular flagship smartwatches. The update is now rolling out to owners of the Fenix 7, Quatix 7, Enduro 2, Epix 2, and MARQ Gen 2 models who are enrolled in the company’s beta program. What is Fixed in Beta […] The post Garmin releases new beta update 28.07 for Fenix 7, Epix 2, and MARQ Gen 2 appeared first"
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "Garmin’s Vivoactive 6 fitness watch is $50 off on Amazon",
-   "link": "https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/",
-   "published": "2026-11-13T17:47:12Z",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13T17:50:43Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin's all-round AMOLED fitness watch, with 80+ sports modes and up to 11 days of battery, is down to $249.99."
   }
  ]
 }
