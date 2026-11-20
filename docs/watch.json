@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Save $150 on the Galaxy Watch 8 Classic this Black Friday",
+   "link": "https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-black-friday-3736301/",
+   "published": "2026-11-20T11:18:48Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T11:31:11Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Samsung's rotating-bezel smartwatch is 30% off, dropping to $349.99 on Amazon."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin tells Forerunner 970 owners with ghost touches to contact support",
@@ -1875,19 +1888,6 @@
     "other_wearables"
    ],
    "excerpt": "Zepp Health is rolling out the redesigned Zepp OS 6 launcher to the T-Rex 3 family after leaving it out The post The missing Zepp OS 6 launcher is finally reaching Amazfit T-Rex 3 appeared first on Gadgets & Wearables ."
-  },
-  {
-   "source": "Android Authority",
-   "source_home": "https://www.androidauthority.com/",
-   "title": "After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor",
-   "link": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
-   "published": "2026-11-13T11:22:39Z",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13T11:30:53Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Data from the CGM can also be viewed directly on a HUAWEI smartwatch."
   }
  ]
 }
