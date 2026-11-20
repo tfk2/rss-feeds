@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "The Galaxy Watch 8 is a steal at just $200 right now on Amazon",
+   "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+   "published": "2026-11-20T14:09:12Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T14:10:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Amazon has lowered the price of the Samsung Galaxy Watch 8 into the “steal” category right now, as the Wear OS smartwatch starts at just $199 as part of the extended Black Friday deals. more…"
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Multiple Garmin smartwatches get new workouts in stable update",
+   "link": "https://www.notebookcheck.net/Multiple-Garmin-smartwatches-get-new-workouts-in-stable-update.1455267.0.html",
+   "published": "2026-11-20T14:02:00Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T14:10:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin software version 19.23 has arrived for three of the brand’s smartwatches. This new stable release brings more Garmin Coach workouts to the Venu 4 and Venu X1. Plus, there are a series of improvements and bug fixes which also benefit users of the vivoactive 6."
+  },
+  {
    "source": "Zwift Insider",
    "source_home": "https://zwiftinsider.com/",
    "title": "Notable Zwift Events for the Weekend of November 21-22",
@@ -1835,19 +1861,6 @@
     "other_wearables"
    ],
    "excerpt": "Whoop has launched Humans, an in-app social network that lets members follow friends and family and share recovery, strain, sleep, HRV and workout data. Available from November 12 on all membership tiers at no extra cost, it ties every account to a heartbeat recorded by a Whoop 4.0, 5.0 or MG wearable."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin releases new update for flagship smartwatches with dozens of new features and improvements",
-   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-for-flagship-smartwatches-with-dozens-of-new-features-and-improvements.1449501.0.html",
-   "published": "2026-11-13T14:09:00Z",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13T14:10:41Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has started rolling out a new update to many of its flagship smartwatches. Available globally as a free download, the new update promises to improve the Fenix 9 and other smartwatches in dozens of areas."
   }
  ]
 }
