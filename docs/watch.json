@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin Rumors",
+   "source_home": "https://garminrumors.com/",
+   "title": "Garmin Releases Edge 1060 Stable Software Version 8.24",
+   "link": "https://garminrumors.com/garmin-releases-edge-1060-stable-software-version-8-24/",
+   "published": "2026-11-20T17:23:24Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T17:30:57Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s stable software update 8.24 is rolling out to the Edge 1060. See the full changelog and how to update."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases major update for mid-range smartwatches with new features and improvements",
