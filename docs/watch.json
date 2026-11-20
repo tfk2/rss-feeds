@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Notable Zwift Events for the Weekend of November 21-22",
+   "link": "https://zwiftinsider.com/events-20261121/",
+   "published": "2026-11-20T13:00:00Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T13:30:58Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Click to see our top event picks for this weekend on Zwift!"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin releases major update to older high-end smartwatches with over a dozen new features and changes",
