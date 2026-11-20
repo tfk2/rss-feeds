@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Agents Everywhere: Interview with Qualcomm’s Ben Timmons</title>
+<link>https://www.ccsinsight.com/blog/agents-everywhere-interview-with-qualcomms-ben-timmons/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/agents-everywhere-interview-with-qualcomms-ben-timmons/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Ben-Timmons.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At our Predictions for 2027 and Beyond event, I had the pleasure of speaking with Ben Timmons, Senior Director of Business Development at Qualcomm, about the rise of agentic AI ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At our Predictions for 2027 and Beyond event, I had the pleasure of speaking with Ben Timmons, Senior Director of Business Development at Qualcomm, about the rise of agentic AI and what it means for devices, networks and operators.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Ben-Timmons.png" medium="image"/>
+<pubDate>Fri, 20 Nov 2026 08:53:43 +0000</pubDate>
+</item>
+<item>
 <title>Lidl and Revolut Stir Fierce Competition in Ireland</title>
 <link>https://www.ccsinsight.com/blog/lidl-and-revolut-stir-fierce-competition-in-ireland/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/lidl-and-revolut-stir-fierce-competition-in-ireland/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider the databases, caches and other software components working behind the scenes. Yet when those foundations struggle, the consequences become very visible indeed.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" medium="image"/>
 <pubDate>Tue, 27 Oct 2026 17:01:34 +0000</pubDate>
-</item>
-<item>
-<title>Apple’s iPhone Duo Marks a New Chapter in Foldable Smartphones</title>
-<link>https://www.ccsinsight.com/blog/apples-iphone-duo-marks-a-new-chapter-in-foldable-smartphones/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/apples-iphone-duo-marks-a-new-chapter-in-foldable-smartphones/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Apple_iPhone_Duo.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;This week, I've been lucky enough to have some hands-on time with the new iPhone Duo. In this article, I share my first thoughts on the device and what Apple's ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This week, I’ve been lucky enough to have some hands-on time with the new iPhone Duo. In this article, I share my first thoughts on the device and what Apple’s arrival means for this area of the smartphone market.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Apple_iPhone_Duo.png" medium="image"/>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 </channel></rss>
