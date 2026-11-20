@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Your old Fitbit Aria scale still works unless you try to pair it again",
+   "link": "https://gadgetsandwearables.com/2026/11/20/fitbit-aria-support-cutoff-early/",
+   "published": "2026-11-20T21:01:52Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T21:10:41Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Some Fitbit Aria and Aria 2 owners are finding they can no longer pair their smart scales, despite Google saying The post Your old Fitbit Aria scale still works unless you try to pair it again appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "9to5Mac Apple Watch",
    "source_home": "https://9to5mac.com/",
    "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
@@ -1911,20 +1925,6 @@
     "other_wearables"
    ],
    "excerpt": "Here's the difference between all the data from my last marathon."
-  },
-  {
-   "source": "Athletech News",
-   "source_home": "https://athletechnews.com/",
-   "title": "Whoop Gets Social, Strava-Style, as Screenless Rivals Close In",
-   "link": "https://athletechnews.com/whoop-gets-social-strava-style-as-screenless-rivals-close-in/",
-   "published": "2026-11-13T21:01:21Z",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13T21:10:48Z",
-   "topics": [
-    "other_wearables",
-    "sports_software"
-   ],
-   "excerpt": "Wearable makers have mastered data but have missed out on social fitness. Can Whoop's new social media-like feed change that?"
   }
  ]
 }
