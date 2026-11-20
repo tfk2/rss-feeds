@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Google Health update fixes my biggest Fitbit Air complaint with ‘in-progress’ workout card",
+   "link": "https://9to5google.com/2026/11/20/google-health-fitbit-air-workouts-in-progress-card/",
+   "published": "2026-11-20T19:40:00Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T19:40:40Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google’s Fitbit Air is one of my favorite products of 2026 and my preferred workout companion, but not being able to see a workout while you’re in the middle of it has been a huge complaint of mine, and the latest Google Health update is fixing that. more…"
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Team Fearless 10th Annual Women’s Team Championships – December 12",
+   "link": "https://zwiftinsider.com/awtc-2026/",
+   "published": "2026-11-20T19:00:00Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T19:40:40Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "A Zwift December classic!"
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Edge 1060 Receives Fresh Stable Update 8.24: What’s New?",
@@ -1874,19 +1900,6 @@
     "sports_software"
    ],
    "excerpt": "Wearable makers have mastered data but have missed out on social fitness. Can Whoop's new social media-like feed change that?"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin releases new update for multiple smartwatches with sleep mode and shutdown improvements",
-   "link": "https://www.notebookcheck.net/Garmin-releases-new-update-for-multiple-smartwatches-with-sleep-mode-and-shutdown-improvements.1449856.0.html",
-   "published": "2026-11-13T19:36:00Z",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13T19:40:41Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released a new update to many of its older high-end smartwatches. Available globally, the new update claims to improve sleep mode functionality and inadvertent shutdowns across the Enduro 2, Fenix 7 and Fenix 7 Pro series, among other adjacent models."
   }
  ]
 }
