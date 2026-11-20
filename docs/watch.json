@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Edge 1060 Receives Fresh Stable Update 8.24: What’s New?",
+   "link": "https://www.garminnews.com/garmin-edge-1060-receives-fresh-stable-update-8-24-whats-new/",
+   "published": "2026-11-20T18:45:26Z",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20T19:31:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has wasted no time following up on its recent software release for cyclists. Only 3 days after pushing out stable build 8.23, the company is now distributing another official firmware update—version 8.24—for the Edge 1060 bike computer. New Map Capabilities and Bug Fixes While this rapid follow-up focuses mostly on behind-the-scenes improvements, it does […] The post Garmin Edge 1060 Receiv"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin smartwatch update makes dogs official workout partners with profiles and badges",
