@@ -5,6 +5,14 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Engadget: Ways you can help your Fitbit's battery last longer</title>
+<link>https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/</link>
+<guid isPermaLink="true">https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/</guid>
+<description>Fitbits don't last forever, but there's a couple easy ways you can get more years of step counts and heart-rate monitoring from your favorite wearable</description>
+<category>watches, other_wearables</category>
+<pubDate>Sat, 21 Nov 2026 15:45:00 +0000</pubDate>
+</item>
+<item>
 <title>Gadgets &amp; Wearables: Garmin, Apple and Oura lead very different accuracy tests</title>
 <link>https://gadgetsandwearables.com/2026/11/21/wearable-brands-accuracy-ranking/</link>
 <guid isPermaLink="true">https://gadgetsandwearables.com/2026/11/21/wearable-brands-accuracy-ranking/</guid>
@@ -795,13 +803,5 @@
 <description>Garmin has released a fresh software update for the Edge 1060 bike computer. Version 8.23 arrives just six days after the previous 8.21 release, showing that the company is moving fast to polish the riding experience. This stable update focuses on fixing navigation glitches, battery displays, and sensor prompts rather than adding major new features. […] The post Garmin Releases Fresh Stable Update</description>
 <category>watches</category>
 <pubDate>Tue, 17 Nov 2026 19:21:37 +0000</pubDate>
-</item>
-<item>
-<title>Zwift Insider: Making Sense of Zwift Racing Score</title>
-<link>https://zwiftinsider.com/making-sense-of-zwift-racing-score/</link>
-<guid isPermaLink="true">https://zwiftinsider.com/making-sense-of-zwift-racing-score/</guid>
-<description>Since its official rollout in October 2024, Zwift Racing Score has become fairly successful at bringing riders of similar ability together. Yet many mysteries remain about how it is calculated and how it changes over time. So here’s a full explanation to make sure both beginners and advanced riders are getting the most out of […]</description>
-<category>sports_software</category>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 </channel></rss>
