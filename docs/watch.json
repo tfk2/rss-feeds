@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "New app brings continuous glucose monitor readings to many Amazfit smartwatches",
+   "link": "https://www.notebookcheck.net/New-app-brings-continuous-glucose-monitor-readings-to-many-Amazfit-smartwatches.1456026.0.html",
+   "published": "2026-11-21T07:28:00Z",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-21T07:40:46Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Amazfit smartwatches can now display glucose readings during workouts. This may be especially useful for people with diabetes who want to adjust their training, but a continuous glucose monitor (CGM) sensor is still required."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I gave up my screenless Fitbit Air for the Fitbit Edge — 7 things I love (and hate)",
