@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "I’d recommend buying the Apple Watch Series 11 over the newer 12 on Black Friday",
+   "link": "https://www.techradar.com/health-fitness/fitness-trackers/ive-been-using-the-apple-watch-series-11-for-a-year-and-id-recommend-buying-it-over-the-series-12-on-black-friday",
+   "published": "2026-11-22T14:00:00Z",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-22T14:01:04Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "When buying wearables with incremental updates, it’s always worth looking back for incredible discounts on older models like the Series 11."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "How much is your old Garmin worth in 2026?",
