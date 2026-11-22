@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "You don’t need an expensive phone plan to get cellular smartwatch data — here are the best budget MVNOs for Apple, Galaxy, and Pixel Watch connectivity",
+   "link": "https://www.tomsguide.com/phones/network-carriers/you-dont-need-an-expensive-phone-plan-to-get-cellular-smartwatch-data-here-are-the-best-budget-mvnos-for-apple-galaxy-and-pixel-watch-connectivity",
+   "published": "2026-11-22T05:30:00Z",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-22T05:40:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Smartwatch data plans shouldn't cost a fortune, thanks to these MVNO network operators that offer affordable cell phone plans with support for connected watches."
+  },
+  {
    "source": "Engadget",
    "source_home": "https://www.engadget.com/",
    "title": "How to easily factory reset your Fitbit",
