@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Amazfit smartwatch gains new features in a free update",
+   "link": "https://www.notebookcheck.net/Amazfit-smartwatch-gains-new-features-in-a-free-update.1456722.0.html",
+   "published": "2026-11-22T07:36:00Z",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-22T07:40:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Amazfit is rolling out a new software update for one of its higher-end smartwatches. The release brings usability improvements to the Cheetah 2 Ultra and introduces safeguards against accidental taps."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "The Oura Ring 5 is helping me fix my sleep debt with 92 minutes of deep sleep — why I’d buy it again at $100 off in Black Friday sales",
