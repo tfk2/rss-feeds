@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Venu 4 update appears to be breaking the interface",
+   "link": "https://gadgetsandwearables.com/2026/11/22/garmin-venu-4-update-missing-icons/",
+   "published": "2026-11-22T10:16:48Z",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-22T10:20:41Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin Venu 4 owners are reporting a strange problem after installing the latest software update, with icons disappearing and parts The post Garmin Venu 4 update appears to be breaking the interface appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Amazfit smartwatch gains new features in a free update",
