@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "The pros and cons of wearing your Fitbit around your ankle",
+   "link": "https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/",
+   "published": "2026-11-23T16:45:00Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T16:50:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Wearing a Fitbit around your ankle can improve monitoring and accuracy. But are there any downsides? How does a Fitbit on your wrist compare to your ankle?"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Train for weeks between charges with the Amazfit Active Max at 30% off",
