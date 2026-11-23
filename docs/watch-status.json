@@ -86,7 +86,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 5,
+  "kept": 4,
   "last_ok": "2026-11-23T14:00Z"
  },
  "MacRumors": {
@@ -146,7 +146,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 3,
+  "kept": 2,
   "last_ok": "2026-11-23T14:00Z"
  },
  "Tom's Guide": {
@@ -158,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 9,
+  "kept": 10,
   "last_ok": "2026-11-23T14:00Z"
  },
  "WinFuture": {
