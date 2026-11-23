@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gizmochina",
+   "source_home": "https://www.gizmochina.com/",
+   "title": "Casio launches affordable W221HD-1AV retro watch with 10-year battery life & classic 90s design",
+   "link": "https://www.gizmochina.com/2026/11/23/casio-w221hd-1av-watch-launched-specs-price/",
+   "published": "2026-11-23T18:03:06Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T18:10:49Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Casio has just released a new digital watch in the US, and it’s leaning heavily into the 1990s aesthetic. The newly launched W221HD-1AV is now available directly from Casio’s US website for $59.95. If you are tired of charging a smartwatch every night and just want a reliable device that tells the time and looks […] The post Casio launches affordable W221HD-1AV retro watch with 10-year battery lif"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Fitbit Air gets unofficial call and notification alerts on Android and iOS",
@@ -2212,19 +2225,6 @@
     "watches"
    ],
    "excerpt": "Xiaomi has given one of its latest budget smartwatches a broader release in even more countries. Now available in countries like Germany and the UK, the Smart Band 11 retails for just €59.99 and £54.99 despite boasting up to 21 days of battery life and a 2,000-nit AMOLED display."
-  },
-  {
-   "source": "MacRumors",
-   "source_home": "https://www.macrumors.com/",
-   "title": "Apple Releases Second watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
-   "link": "https://www.macrumors.com/2026/11/16/apple-releases-watchos-27-3-beta-1/",
-   "published": "2026-11-16T18:07:00Z",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-16T18:31:12Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Alongside new betas of iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple has released the second betas of watchOS 27.3, tvOS 27.3, and visionOS 27.3. The software comes two weeks after the first software betas were released. Registered developers can download the betas through the Settings app on each device. Two new Audio Intelligence features are coming to the Apple Watch Series 12 and Ap"
   }
  ]
 }
