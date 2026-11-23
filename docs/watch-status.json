@@ -38,7 +38,7 @@
  "Wearable Fans": {
   "ok": true,
   "items": 10,
-  "kept": 4,
+  "kept": 3,
   "last_ok": "2026-11-23T17:00Z"
  },
  "SammyGuru": {
@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 26,
+  "kept": 25,
   "last_ok": "2026-11-23T17:00Z"
  },
  "Pocket-lint": {
@@ -158,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 11,
+  "kept": 10,
   "last_ok": "2026-11-23T17:00Z"
  },
  "WinFuture": {
