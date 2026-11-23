@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Releases Fresh Beta Update 28.08 for Fenix 7, Epix 2, and MARQ Gen 2: What’s New?",
+   "link": "https://www.garminnews.com/garmin-releases-fresh-beta-update-28-08-for-fenix-7-epix-2-and-marq-gen-2-whats-new/",
+   "published": "2026-11-23T19:32:39Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T19:40:57Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has started releasing a fresh beta software update, version 28.08, for several of its high-end smartwatches. The update is currently making its way to the Fenix 7, Quatix 7, Epix 2, Enduro 2, and MARQ Gen 2 models. Rather than introducing major new features, this release focuses on smoothing out everyday glitches and improving […] The post Garmin Releases Fresh Beta Update 28.08 for Fenix 7"
+  },
+  {
    "source": "DC Rainmaker",
    "source_home": "https://www.dcrainmaker.com/",
    "title": "Heads Up: All Garmin Fenix 9 Models $100 Off!",
@@ -2277,19 +2290,6 @@
     "watches"
    ],
    "excerpt": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]"
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Budget Xiaomi smartwatch receives surprise release in new countries with 21 days battery life",
-   "link": "https://www.notebookcheck.net/Budget-Xiaomi-smartwatch-receives-surprise-release-in-new-countries-with-21-days-battery-life.1451462.0.html",
-   "published": "2026-11-16T19:34:00Z",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-16T19:40:45Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Xiaomi has given one of its latest budget smartwatches a broader release in even more countries. Now available in countries like Germany and the UK, the Smart Band 11 retails for just €59.99 and £54.99 despite boasting up to 21 days of battery life and a 2,000-nit AMOLED display."
   }
  ]
 }
