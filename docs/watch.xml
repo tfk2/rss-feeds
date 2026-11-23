@@ -5,6 +5,22 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Authority: Google Health is ending pairing support for older Fitbit scales on November 28</title>
+<link>https://www.androidauthority.com/google-fitbit-aria-scales-pairing-support-3738146/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/google-fitbit-aria-scales-pairing-support-3738146/</guid>
+<description>The hardware lives on, but its second chance at syncing won't.</description>
+<category>watches</category>
+<pubDate>Mon, 23 Nov 2026 09:37:55 +0000</pubDate>
+</item>
+<item>
+<title>Garmin News: Garmin Fenix 9 and Fenix 9 Pro Drop by $100 for Black Friday: Should You Buy Now or Wait?</title>
+<link>https://www.garminnews.com/garmin-fenix-9-and-fenix-9-pro-drop-by-100-for-black-friday-should-you-buy-now-or-wait/</link>
+<guid isPermaLink="true">https://www.garminnews.com/garmin-fenix-9-and-fenix-9-pro-drop-by-100-for-black-friday-should-you-buy-now-or-wait/</guid>
+<description>Garmin has officially rolled out its Black Friday holiday pricing, and there is a surprise for outdoor athletes and smartwatch fans. Both the Garmin Fenix 9 and the Garmin Fenix 9 Pro have received a $100 discount. The price drop runs from November 23 through December 1 across Garmin’s official store and major retail partners. […] The post Garmin Fenix 9 and Fenix 9 Pro Drop by $100 for Black Frid</description>
+<category>watches</category>
+<pubDate>Mon, 23 Nov 2026 09:10:32 +0000</pubDate>
+</item>
+<item>
 <title>Garmin Rumors: Every Fenix 9 and Fenix 9 Pro Is $100 Off at Amazon</title>
 <link>https://garminrumors.com/fenix-9-fenix-9-pro-100-off-amazon/</link>
 <guid isPermaLink="true">https://garminrumors.com/fenix-9-fenix-9-pro-100-off-amazon/</guid>
@@ -787,21 +803,5 @@
 <description>A frustrating software roadblock has been stopping many Garmin Fenix 9 Pro watches from connecting to phones and computers during initial setup. Over the past few days, support threads have filled up with reports of failed connections and unexplained registration errors. Now, however, the tide appears to be turning slightly, as a growing number of […] The post Garmin Fenix 9 Pro Hit by Pairing Gli</description>
 <category>watches</category>
 <pubDate>Wed, 18 Nov 2026 16:28:34 +0000</pubDate>
-</item>
-<item>
-<title>Android Authority: Google’s Pixel Watch 5 gets a $100 price cut on Amazon</title>
-<link>https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/</link>
-<guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/</guid>
-<description>The 41mm Wi-Fi Pixel Watch 5 is 25% off, a nice saving on Google's newest smartwatch.</description>
-<category>watches</category>
-<pubDate>Wed, 18 Nov 2026 16:01:45 +0000</pubDate>
-</item>
-<item>
-<title>Wareable: Whoop plots yet another new data point to bolster sleep and recovery data</title>
-<link>https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</link>
-<guid isPermaLink="true">https://www.wareable.com/wearable-tech/whoop-respiratory-rate-variability-patent-exclusive</guid>
-<description>Whoop is working on introducing a new respiratory rate variability (RRV) metric that could help users gain deeper insight into their sleep and recovery. The company has patented a system in which the pulse sensor and accelerometer on the screenless fitness tracker work together to detect the onset of respiratory cycles and determine the respiratory cycle length (RCL), or—to you and me—the time bet</description>
-<category>other_wearables</category>
-<pubDate>Wed, 18 Nov 2026 16:01:40 +0000</pubDate>
 </item>
 </channel></rss>
