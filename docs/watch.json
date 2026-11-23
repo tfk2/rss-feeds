@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "Apple's AirPods Pro 3 just dropped to their lowest ever price for Black Friday — grab them while you can",
+   "link": "https://www.tomsguide.com/audio/airpods/apples-airpods-pro-3-just-dropped-to-their-lowest-ever-price-for-black-friday-grab-them-while-you-can",
+   "published": "2026-11-23T11:08:57Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T11:20:41Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "Apple's AirPods Pro 3 are just $149 in Amazon's Black Friday sale. Don't miss out on this."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin Forerunner 170 hits a record low for Black Friday",
@@ -2161,19 +2174,6 @@
     "sports_software"
    ],
    "excerpt": "Four weeks. Four challenges. Four ways to play."
-  },
-  {
-   "source": "Gadgets & Wearables",
-   "source_home": "https://gadgetsandwearables.com/",
-   "title": "Oura is testing automatic VO2 Max without a walking test",
-   "link": "https://gadgetsandwearables.com/2026/11/16/oura-automatic-vo2-max-testing/",
-   "published": "2026-11-16T11:18:17Z",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-16T11:20:45Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Oura is testing automatic VO2 Max estimates that remove the need for its six-minute walking test. Instead, the ring can The post Oura is testing automatic VO2 Max without a walking test appeared first on Gadgets & Wearables ."
   }
  ]
 }
