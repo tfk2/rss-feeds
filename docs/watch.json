@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Fitbit Air gets unofficial call and notification alerts on Android and iOS",
+   "link": "https://www.androidauthority.com/fitbit-air-notifications-android-ios-3738429/",
+   "published": "2026-11-23T17:55:27Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T18:01:08Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The vibration motor has more potential than Google allows."
+  },
+  {
    "source": "Engadget",
    "source_home": "https://www.engadget.com/",
    "title": "The pros and cons of wearing your Fitbit around your ankle",
@@ -12,6 +25,19 @@
     "watches"
    ],
    "excerpt": "Wearing a Fitbit around your ankle can improve monitoring and accuracy. But are there any downsides? How does a Fitbit on your wrist compare to your ankle?"
+  },
+  {
+   "source": "9to5Mac Apple Watch",
+   "source_home": "https://9to5mac.com/",
+   "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+   "link": "https://9to5mac.com/2026/11/23/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+   "published": "2026-11-23T16:00:00Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T18:01:08Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories. With iOS 27, Apple is expanding that idea beyond Apple Watch . I tested the new GymKit on iPhone and AirPods Pro 3 ($149, reg. $249) experience wi"
   },
   {
    "source": "Android Authority",

@@ -5,12 +5,28 @@
 <description>Competitor stories on watches, bike computers, sports earphones, wearables and sports software</description>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Android Authority: Fitbit Air gets unofficial call and notification alerts on Android and iOS</title>
+<link>https://www.androidauthority.com/fitbit-air-notifications-android-ios-3738429/</link>
+<guid isPermaLink="true">https://www.androidauthority.com/fitbit-air-notifications-android-ios-3738429/</guid>
+<description>The vibration motor has more potential than Google allows.</description>
+<category>watches</category>
+<pubDate>Mon, 23 Nov 2026 17:55:27 +0000</pubDate>
+</item>
+<item>
 <title>Engadget: The pros and cons of wearing your Fitbit around your ankle</title>
 <link>https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/</link>
 <guid isPermaLink="true">https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/</guid>
 <description>Wearing a Fitbit around your ankle can improve monitoring and accuracy. But are there any downsides? How does a Fitbit on your wrist compare to your ankle?</description>
 <category>watches</category>
 <pubDate>Mon, 23 Nov 2026 16:45:00 +0000</pubDate>
+</item>
+<item>
+<title>9to5Mac Apple Watch: iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym</title>
+<link>https://9to5mac.com/2026/11/23/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/</link>
+<guid isPermaLink="true">https://9to5mac.com/2026/11/23/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/</guid>
+<description>GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories. With iOS 27, Apple is expanding that idea beyond Apple Watch . I tested the new GymKit on iPhone and AirPods Pro 3 ($149, reg. $249) experience wi</description>
+<category>sports_earphones</category>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Android Authority: Train for weeks between charges with the Amazfit Active Max at 30% off</title>
@@ -787,21 +803,5 @@
 <description>Huawei has now confirmed the upcoming launch of what could be its most ambitious smartwatch yet. The Huawei Watch Air will debut next week with a titanium-alloy unibody, and an incredibly thin and light physical profile.</description>
 <category>watches</category>
 <pubDate>Thu, 19 Nov 2026 05:22:00 +0000</pubDate>
-</item>
-<item>
-<title>9to5Mac Apple Watch: Siri Modular Apple Watch face gains two new styles with watchOS 27.3</title>
-<link>https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/</link>
-<guid isPermaLink="true">https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/</guid>
-<description>Siri Modular, the new Apple Watch face in watchOS 27, is gaining new style options. watchOS 27.3, currently in beta, adds two more style options to the existing set. This gives users five options for adjusting what type of information appears on Siri Modular. more…</description>
-<category>watches</category>
-<pubDate>Thu, 19 Nov 2026 00:49:22 +0000</pubDate>
-</item>
-<item>
-<title>Garmin News: Garmin releases stable update 24.20 for Fenix 8/8 Pro, Tactix 8, and Enduro 3: New features &amp; Bug fixes</title>
-<link>https://www.garminnews.com/garmin-releases-stable-update-24-20-for-fenix-8-8-pro-tactix-8-and-enduro-3-new-features-bug-fixes/</link>
-<guid isPermaLink="true">https://www.garminnews.com/garmin-releases-stable-update-24-20-for-fenix-8-8-pro-tactix-8-and-enduro-3-new-features-bug-fixes/</guid>
-<description>Garmin has officially started sending out a major new software update, version 24.20, to several of its top smartwatches. This public release arrives after the company spent weeks testing more than five beta versions, moving from version 24.12 through 24.16. The update is now available for the Fenix 8, Fenix 8 Pro, Fenix E, Quatix […] The post Garmin releases stable update 24.20 for Fenix 8/8 Pro,</description>
-<category>watches</category>
-<pubDate>Thu, 19 Nov 2026 00:44:47 +0000</pubDate>
 </item>
 </channel></rss>
