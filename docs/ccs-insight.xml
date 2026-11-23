@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>Green Design Should Be the Foundation for Future Mobile Networks</title>
+<link>https://www.ccsinsight.com/blog/green-design-should-be-the-foundation-for-future-mobile-networks/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/green-design-should-be-the-foundation-for-future-mobile-networks/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Green_mobile_networks.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Energy efficiency is becoming even more important for mobile networks. Electricity costs are rising fast in most countries. To support increased data traffic, operators are using a greater number of ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Energy efficiency is becoming even more important for mobile networks. Electricity costs are rising fast in most countries. To support increased data traffic, operators are using a greater number of spectrum bands, which often require different radios and antennas and threaten to raise energy usage.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Green_mobile_networks.png" medium="image"/>
+<pubDate>Mon, 23 Nov 2026 15:20:09 +0000</pubDate>
+</item>
+<item>
 <title>Agents Everywhere: Interview with Qualcomm’s Ben Timmons</title>
 <link>https://www.ccsinsight.com/blog/agents-everywhere-interview-with-qualcomms-ben-timmons/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/agents-everywhere-interview-with-qualcomms-ben-timmons/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. I was recently invited by Virgin Media O2 to see where the technology is today and get a sense of where it’s going.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png" medium="image"/>
 <pubDate>Wed, 04 Nov 2026 13:45:35 +0000</pubDate>
-</item>
-<item>
-<title>Valkey and the Hidden Foundations of the Digital Enterprise</title>
-<link>https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider the databases, caches and other software components working behind the scenes. Yet when those foundations struggle, the consequences become very visible indeed.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png" medium="image"/>
-<pubDate>Tue, 27 Oct 2026 17:01:34 +0000</pubDate>
 </item>
 </channel></rss>

@@ -29,6 +29,11 @@
   "para": "For FDM CCS Insight’s Predictions for 2027 and Beyond event, I spoke with Dr Durga Malladi, Executive Vice President and General Manager of Technology Planning, Edge Solutions and Data Center at Qualcomm, about the arrival of 6G and how it’ll evolve. The timing was good because of clear industry momentum to move quickly: at MWC Barcelona in March 2026, 58 companies from across the industry committed to commercial 6G by 2029.",
   "published": "2026-11-18T08:30:19+00:00"
  },
+ "https://www.ccsinsight.com/blog/green-design-should-be-the-foundation-for-future-mobile-networks/": {
+  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Green_mobile_networks.png",
+  "para": "Energy efficiency is becoming even more important for mobile networks. Electricity costs are rising fast in most countries. To support increased data traffic, operators are using a greater number of spectrum bands, which often require different radios and antennas and threaten to raise energy usage.",
+  "published": "2026-11-23T15:20:09+00:00"
+ },
  "https://www.ccsinsight.com/blog/lidl-and-revolut-stir-fierce-competition-in-ireland/": {
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Lidl_Revolut_Ireland.jpg",
   "para": "It’s been a busy few weeks in Ireland as the launch of low-cost offers from Lidl and Revolut has shaken up an already competitive mobile market.",
@@ -43,11 +48,6 @@
   "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/O2_Satellite_direct-to-device.png",
   "para": "Satellite direct-to-device services are positioned by some in the industry as a way to fill gaps in rural mobile coverage. But others, like SpaceX, believe it can do even more. I was recently invited by Virgin Media O2 to see where the technology is today and get a sense of where it’s going.",
   "published": "2026-11-04T13:45:35+00:00"
- },
- "https://www.ccsinsight.com/blog/valkey-and-the-hidden-foundations-of-the-digital-enterprise/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/10/Valkey_foundations.png",
-  "para": "Customers rarely think about the infrastructure supporting their digital experiences. A mobile subscriber expects account information to appear promptly and a retailer needs transactions to complete without disruption. Few consider the databases, caches and other software components working behind the scenes. Yet when those foundations struggle, the consequences become very visible indeed.",
-  "published": "2026-10-27T17:01:34+00:00"
  },
  "https://www.wareable.com/android-wear/google-november-2026-pixel-watch-drop-new-features-compatibility": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/google-pixel-watch-5-fitbit-today.jpg",

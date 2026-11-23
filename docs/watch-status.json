@@ -134,7 +134,7 @@
  "Notebookcheck": {
   "ok": true,
   "items": 500,
-  "kept": 27,
+  "kept": 26,
   "last_ok": "2026-11-23T15:00Z"
  },
  "Pocket-lint": {
@@ -170,7 +170,7 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-23T15:00Z"
  },
  "Engadget": {
