@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "9to5Google",
+   "source_home": "https://9to5google.com/",
+   "title": "Grab Samsung’s Galaxy Watch 9 ahead of Black Friday and score a free $50 Amazon gift card",
+   "link": "https://9to5google.com/2026/11/23/grab-samsungs-galaxy-watch-9-ahead-of-black-friday-and-score-a-free-50-amazon-gift-card/",
+   "published": "2026-11-23T19:53:00Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T20:01:03Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Smartwatches can practically feel like a must-have these days, especially for tracking your health and fitness while on the move. Just as with most gadgets, though, prices just keep rising thanks to the ongoing RAM crunch. This Black Friday, you can pick up Samsung’s Galaxy Watch 9 in either size while getting a $50 gift card back to put towards the rest of the holiday season. more…"
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I tested this AirPods-sized 100W charger that powers my iPhone, laptop and camera — and it’s 31% off right now",
@@ -2290,19 +2303,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released beta version 16.11 for the Instinct 3 Series. See the full changelog and how to install it."
-  },
-  {
-   "source": "The Verge",
-   "source_home": "https://www.theverge.com/",
-   "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-   "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-   "published": "2026-11-16T19:50:47Z",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-16T20:01:08Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]"
   }
  ]
 }
