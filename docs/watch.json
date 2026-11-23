@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "source": "DC Rainmaker",
+   "source_home": "https://www.dcrainmaker.com/",
+   "title": "Heads Up: All Garmin Fenix 9 Models $100 Off!",
+   "link": "https://www.dcrainmaker.com/2026/11/heads-up-all-garmin-fenix-9-models-100-off.html",
+   "published": "2026-11-23T19:06:16Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T19:10:55Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "xxxFenix9Review While Black Friday sales on Garmin Fenix series units are common, its virtually unheard of for Garmin to list a sale on a brand new Fenix unit. I went back the last few years of Fenix August announcements, and … Read More Here →"
+  },
+  {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "published": "2026-11-23T19:04:52Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T19:10:55Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]"
+  },
+  {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "These underrated smart rings are more affordable than the Oura Ring 5",
+   "link": "https://www.engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5/",
+   "published": "2026-11-23T19:00:00Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T19:10:55Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Find out how affordable smart rings compare with the Oura Ring 5 on upfront price and long-term cost and know which trade-offs come with paying less."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "Garmin Releases Fenix 7 and 7 Pro Series Beta Version 28.08",
