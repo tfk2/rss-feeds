@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "source": "Bikerumor",
+   "source_home": "https://bikerumor.com/",
+   "title": "Make Your Indoor Miles Matter",
+   "link": "https://bikerumor.com/make-your-indoor-miles-matter/",
+   "published": "2026-11-23T20:20:37Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T20:30:56Z",
+   "topics": [
+    "cycling_computers"
+   ],
+   "excerpt": "Wahoo’s 2026 indoor lineup is easier to set up, better connected, and a lot more useful once the riding moves back outside."
+  },
+  {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin cuts $100 off the entire Fenix 9 range for Black Friday",
+   "link": "https://gadgetsandwearables.com/2026/11/23/garmin-black-friday-2026-deals/",
+   "published": "2026-11-23T19:57:46Z",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23T20:30:56Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin’s Black Friday week sale has just become a lot more interesting, with $100 knocked off the complete Fenix 9 The post Garmin cuts $100 off the entire Fenix 9 range for Black Friday appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "Grab Samsung’s Galaxy Watch 9 ahead of Black Friday and score a free $50 Amazon gift card",
@@ -2290,19 +2317,6 @@
     "watches"
    ],
    "excerpt": "Garmin has released a new beta software update, version 16.11, for several of its popular rugged smartwatches. The update is now rolling out to users testing beta software on the Instinct 3 AMOLED, Instinct 3 Solar, Instinct E, and Crossover AMOLED models. Fixes for AMOLED and Crossover Models For owners of the Instinct 3 AMOLED […] The post Garmin Drops Fresh Beta Update 16.11 for Instinct 3 Seri"
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Instinct 3 Series Beta Version 16.11",
-   "link": "https://garminrumors.com/garmin-releases-instinct-3-series-beta-version-16-11/",
-   "published": "2026-11-16T20:30:04Z",
-   "date": "2026-11-16",
-   "first_seen": "2026-11-16T20:50:58Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has released beta version 16.11 for the Instinct 3 Series. See the full changelog and how to install it."
   }
  ]
 }

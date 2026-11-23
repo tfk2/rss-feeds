@@ -14,7 +14,7 @@
  "Garmin Rumors": {
   "ok": true,
   "items": 30,
-  "kept": 27,
+  "kept": 26,
   "last_ok": "2026-11-23T20:00Z"
  },
  "Gadgets & Wearables": {
@@ -110,7 +110,7 @@
  "Bikerumor": {
   "ok": true,
   "items": 10,
-  "kept": 0,
+  "kept": 1,
   "last_ok": "2026-11-23T20:00Z"
  },
  "road.cc": {
@@ -158,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 11,
+  "kept": 10,
   "last_ok": "2026-11-23T20:00Z"
  },
  "WinFuture": {
