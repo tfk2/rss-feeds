@@ -26,7 +26,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 6,
+  "kept": 5,
   "last_ok": "2026-11-23T15:00Z"
  },
  "Garmin News": {
@@ -86,7 +86,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 4,
+  "kept": 5,
   "last_ok": "2026-11-23T15:00Z"
  },
  "MacRumors": {
@@ -170,7 +170,7 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-23T15:00Z"
  },
  "Engadget": {
