@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin releases major update with a dozen changes to mid-range smartwatch",
+   "link": "https://www.notebookcheck.net/Garmin-releases-major-update-with-a-dozen-changes-to-mid-range-smartwatch.1458061.0.html",
+   "published": "2026-11-24T14:49:00Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T15:01:08Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has finalised a new stable update for one of its latest mid-range smartwatches. A major release, the new firmware promises to bring a dozen improvements to the Forerunner 570, including some overdue bug fixes."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin Vivoactive 5 drops to a new low with $148 off",
@@ -2370,19 +2383,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started pushing out a fresh software update for several of its popular running watches. If you wear a Forerunner 965, 955, 265, 255, or 165, your smartwatch is in line to receive stable firmware version 29.52. Instead of bringing flashy new features, this release focuses on making the watch run smoother and fixing […] The post Garmin releases fresh stable update 29.52 for Forerunner 965"
-  },
-  {
-   "source": "Wareable",
-   "source_home": "https://www.wareable.com/",
-   "title": "Xiaomi Smart Band 11 launches globally alongside compact Watch S5 41mm",
-   "link": "https://www.wareable.com/xiaomi/xiaomi-smart-band-11-watch-s5-41mm-international-uk-europe-launch-announcement",
-   "published": null,
-   "date": "2026-11-17",
-   "first_seen": "2026-11-17T14:50:48Z",
-   "topics": [
-    "other_wearables"
-   ],
-   "excerpt": "Xiaomi has officially launched its latest wearable lineup for the global market, headlined by the international rollout of the Xiaomi Smart Band 11 and the new Xiaomi Watch S5 41mm. After launching in China back in September, the Smart Band 11 is now expanding its global footprint to the UK and parts of Europe. However, like previous generations, an official US retail release of the fitness tracke"
   }
  ]
 }
