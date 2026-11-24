@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Garmin now lets your dog earn badges and achievements during your workouts",
+   "link": "https://www.techradar.com/health-fitness/smartwatches/garmin-brings-dog-profiles-to-its-forerunner-and-fenix-series-and-runners-are-already-earning-badges-for-their-imaginary-pets",
+   "published": "2026-11-24T01:00:00Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T01:10:41Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin has added a feature that lets you add your pet dog to an activity, earning it badges in the process."
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Fenix E06R Pro Tac: New tactical flashlight launched",
