@@ -86,7 +86,7 @@
  "Android Authority": {
   "ok": true,
   "items": 80,
-  "kept": 4,
+  "kept": 3,
   "last_ok": "2026-11-24T16:00Z"
  },
  "MacRumors": {
@@ -121,13 +121,15 @@
  },
  "Cycling Weekly": {
   "ok": true,
-  "last_ok": "2026-11-24T14:00Z",
-  "error": "404 Client Error: Not Found for url: https://www.cyclingweekly.com/feeds.xml"
+  "items": 50,
+  "kept": 2,
+  "last_ok": "2026-11-24T16:00Z"
  },
  "Android Central": {
   "ok": true,
-  "last_ok": "2026-11-24T14:00Z",
-  "error": "404 Client Error: Not Found for url: https://www.androidcentral.com/feeds.xml"
+  "items": 50,
+  "kept": 2,
+  "last_ok": "2026-11-24T16:00Z"
  },
  "Notebookcheck": {
   "ok": true,
@@ -143,13 +145,15 @@
  },
  "TechRadar": {
   "ok": true,
-  "last_ok": "2026-11-24T14:00Z",
-  "error": "404 Client Error: Not Found for url: https://www.techradar.com/feeds.xml"
+  "items": 50,
+  "kept": 0,
+  "last_ok": "2026-11-24T16:00Z"
  },
  "Tom's Guide": {
   "ok": true,
-  "last_ok": "2026-11-24T14:00Z",
-  "error": "404 Client Error: Not Found for url: https://www.tomsguide.com/feeds.xml"
+  "items": 50,
+  "kept": 2,
+  "last_ok": "2026-11-24T16:00Z"
  },
  "9to5Google": {
   "ok": true,
