@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Wareable",
+   "source_home": "https://www.wareable.com/",
+   "title": "Coros launches Vertix 4 with AMOLED display and built-in flashlight",
+   "link": "https://www.wareable.com/sport/coros-vertix-4-launch-announcement-expedition-flashlight-battery-life-availability",
+   "published": null,
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T18:01:15Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Coros has officially unveiled the Vertix 4, bringing significant hardware overhauls to its flagship outdoor watch line. Priced at $799 / £669, the Vertix 4 goes on sale on November 27 in black and silver case designs."
+  },
+  {
    "source": "Wearable Fans",
    "source_home": "https://www.wearablefans.com/",
    "title": "Huawei Watch Air Launches With an Ultra-Thin 6.9 mm Titanium Body, NFC and ECG",
@@ -2357,19 +2370,6 @@
     "other_wearables"
    ],
    "excerpt": "Garmin CIRQA and the Oura Ring 5 are getting new competition, as Natural Cycles introduces the NC Band 2 and the NC Ring, two particularly lightweight wearables with long battery life and a rather unusual set of features."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin releases new stable updates to mid-range smartwatches",
-   "link": "https://www.notebookcheck.net/Garmin-releases-new-stable-updates-to-mid-range-smartwatches.1452784.0.html",
-   "published": "2026-11-17T18:00:00Z",
-   "date": "2026-11-17",
-   "first_seen": "2026-11-17T18:10:46Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has finalised a new stable update for several of its mid-range smartwatches. Rolling out globally, the new update can be downloaded on the Forerunner 965, as well as cheaper models like the Forerunner 165 and Forerunner 255."
   }
  ]
 }
