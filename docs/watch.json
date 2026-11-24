@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Athletech News",
+   "source_home": "https://athletechnews.com/",
+   "title": "Backed By Oura’s Founders, Vire Health Takes Women’s Health Tracking to the Waist",
+   "link": "https://athletechnews.com/backed-by-oura-founders-vire-health-takes-womens-health-tracking-to-the-waist/",
+   "published": "2026-11-24T20:01:55Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T20:10:43Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Early buyers of the Vire Clip will meet weekly with women’s health specialists to decide which data is worth tracking"
+  },
+  {
    "source": "Wareable",
    "source_home": "https://www.wareable.com/",
    "title": "Coros launches Vertix 4 with AMOLED display and built-in flashlight",
