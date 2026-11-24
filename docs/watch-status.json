@@ -13,8 +13,9 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "last_ok": "2026-11-24T04:00Z",
-  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
+  "items": 30,
+  "kept": 26,
+  "last_ok": "2026-11-24T04:00Z"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -30,13 +31,15 @@
  },
  "Garmin News": {
   "ok": true,
-  "last_ok": "2026-11-24T04:00Z",
-  "error": "522 Server Error: <none> for url: https://www.garminnews.com/feed/"
+  "items": 12,
+  "kept": 12,
+  "last_ok": "2026-11-24T04:00Z"
  },
  "Wearable Fans": {
   "ok": true,
-  "last_ok": "2026-11-24T04:00Z",
-  "error": "522 Server Error: <none> for url: https://www.wearablefans.com/feed/"
+  "items": 10,
+  "kept": 3,
+  "last_ok": "2026-11-24T04:00Z"
  },
  "SammyGuru": {
   "ok": true,
