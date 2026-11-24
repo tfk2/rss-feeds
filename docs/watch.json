@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Huawei Watch Air launches with ECG, NFC and GPS in 6.9 mm titanium case",
+   "link": "https://www.notebookcheck.net/Huawei-Watch-Air-launches-with-ECG-NFC-and-GPS-in-6-9-mm-titanium-case.1458803.0.html",
+   "published": "2026-11-24T11:01:00Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T11:10:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "The Huawei Watch Air may be the manufacturer's most exciting smartwatch yet, as its 6.9-millimeter titanium case makes it thinner than virtually all its rivals, yet it still offers ECG, a GPS module, and up to five days of battery life."
+  },
+  {
+   "source": "Notebookcheck",
+   "source_home": "https://www.notebookcheck.net/",
+   "title": "Garmin Fenix 8 update linked to sevenfold rise in recording failures, developer reveals",
+   "link": "https://www.notebookcheck.net/Garmin-Fenix-8-update-linked-to-sevenfold-rise-in-recording-failures-developer-reveals.1458795.0.html",
+   "published": "2026-11-24T10:59:00Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T11:10:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "A developer behind The Surfr. App has reported a sharp increase in activity recording failures following Garmin's latest Fenix 8 firmware update. Abnormal session endings rose from 1.8% to 13.2% among the same 117 users. Garmin has since acknowledged the bug report."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Huawei Watch Air is official and it’s ridiculously thin",
