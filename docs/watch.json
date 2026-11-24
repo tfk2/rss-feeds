@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "TechRadar",
+   "source_home": "https://www.techradar.com/",
+   "title": "Fitbit Air app hacks the Google tracker to add its biggest missing feature",
+   "link": "https://www.techradar.com/health-fitness/fitness-apps/new-fitbit-air-app-hacks-the-google-tracker-to-add-its-biggest-missing-feature-notifications-from-your-phone",
+   "published": "2026-11-24T16:37:42Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T16:40:46Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "If you've always wished your Fitbit Air could buzz your wrist when your phone gets an alert, it's now possible."
+  },
+  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "The Coros Vertix 4 begs to be taken on an expedition with 30-day battery life and a flashlight",
