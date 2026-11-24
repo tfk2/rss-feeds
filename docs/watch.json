@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Engadget",
+   "source_home": "https://www.engadget.com/",
+   "title": "The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think",
+   "link": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
+   "published": "2026-11-24T23:30:00Z",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24T23:40:39Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Google partnered with iFixit for a step-by-step guide to replacing the Fitbit Edge's battery."
+  },
+  {
    "source": "Garmin Rumors",
    "source_home": "https://garminrumors.com/",
    "title": "DC Rainmaker on the COROS Vertix 4: A Good Watch at the Wrong Price",
