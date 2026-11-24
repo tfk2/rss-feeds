@@ -14,7 +14,7 @@
  "Garmin Rumors": {
   "ok": true,
   "items": 30,
-  "kept": 26,
+  "kept": 23,
   "last_ok": "2026-11-24T14:00Z"
  },
  "Gadgets & Wearables": {
@@ -152,7 +152,7 @@
  "Tom's Guide": {
   "ok": true,
   "items": 50,
-  "kept": 1,
+  "kept": 2,
   "last_ok": "2026-11-24T14:00Z"
  },
  "9to5Google": {
@@ -170,7 +170,7 @@
  "The Verge": {
   "ok": true,
   "items": 10,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-24T14:00Z"
  },
  "Engadget": {
