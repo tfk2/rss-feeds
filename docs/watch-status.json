@@ -13,8 +13,9 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "last_ok": "2026-11-25T12:00Z",
-  "error": "REST API: not JSON (starts: '<html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Fwp-json%2F') | /feed/: no items (bozo: <unknown>:2:119: not w"
+  "items": 30,
+  "kept": 23,
+  "last_ok": "2026-11-25T12:00Z"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -54,8 +55,9 @@
  },
  "Endurance Sportswire": {
   "ok": true,
-  "last_ok": "2026-11-25T12:00Z",
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "items": 12,
+  "kept": 1,
+  "last_ok": "2026-11-25T12:00Z"
  },
  "Garmin Newsroom": {
   "ok": true,
@@ -156,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 10,
+  "kept": 9,
   "last_ok": "2026-11-25T12:00Z"
  },
  "WinFuture": {
