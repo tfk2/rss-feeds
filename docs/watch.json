@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "“It only takes a moment, and you’ll end up like me, making ice cream.” Riccardo Ricco responds to Tadej Pogačar’s claims about doping in the peloton + more on the live blog",
+   "link": "https://road.cc/news/cycling-live-blog-25-november-2026",
+   "published": "2026-11-25T10:21:44Z",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-25T10:31:07Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "30 days to Christmas, and still Callum hasn't heard a Christmas song in full! Fingers crossed it stays that way through another day of blogging..."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "I didn’t expect the Garmin Fenix 9 to be reduced this Black Friday, but it just dropped to its lowest price ever",
@@ -2357,19 +2370,6 @@
     "watches"
    ],
    "excerpt": "Amazon has the Fenix 9 Pro inReach 47 mm in titanium with a Graphite/Black band for $1,115.65, down from $1,199.99."
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Drops Fresh Stable Update 33.22 for Edge 1050, 850, and 550: New Features & Bug Fixes",
-   "link": "https://www.garminnews.com/garmin-drops-fresh-stable-update-33-22-for-edge-1050-850-and-550-new-features-bug-fixes/",
-   "published": "2026-11-18T10:21:19Z",
-   "date": "2026-11-18",
-   "first_seen": "2026-11-18T11:01:09Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin is rolling out a major new software update for several of its popular cycling computers. Firmware version 33.22 is now arriving as a stable release for the Edge 1050, Edge 850, Edge 550, and Edge MTB models. New Tools Borrowed from the Edge 1060 The highlight of this release is the arrival of four […] The post Garmin Drops Fresh Stable Update 33.22 for Edge 1050, 850, and 550: New Features "
   }
  ]
 }
