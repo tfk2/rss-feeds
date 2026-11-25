@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "Amazon Black Friday LIVE: I’m tracking all-time low prices on AirPods, iPads, Garmin watches, and 4K TVs",
+   "link": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-wednesday-november-25-2026",
+   "published": "2026-11-25T09:21:40Z",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-25T09:31:00Z",
+   "topics": [
+    "watches",
+    "sports_earphones"
+   ],
+   "excerpt": "Amazon's Black Friday deals are all live. We're combing through thousands of deals to bring you the best discounts on the items we've buy ourselves."
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "One of the best Oura Ring alternatives just dropped below $300 for Black Friday",
