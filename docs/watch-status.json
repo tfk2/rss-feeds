@@ -25,7 +25,7 @@
  "Zwift Insider": {
   "ok": true,
   "items": 10,
-  "kept": 4,
+  "kept": 5,
   "last_ok": "2026-11-25T18:00Z"
  },
  "Garmin News": {
@@ -145,7 +145,7 @@
  "TechRadar": {
   "ok": true,
   "items": 50,
-  "kept": 1,
+  "kept": 0,
   "last_ok": "2026-11-25T18:00Z"
  },
  "Tom's Guide": {
