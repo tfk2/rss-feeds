@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "I tested the Fitbit Air, Hatch Sleep Clock and Withings Sleep Analyzer — the Fitbit wins for accuracy, but the Withings is worth the money if you keep waking up at 3 a.m. and don’t know why",
+   "link": "https://www.tomsguide.com/wellness/sleep-tech/-fitbit-air-hatch-sleep-clock-and-withings-sleep-analyzer-sleep-trackers-and-black-friday-deals-compared",
+   "published": "2026-11-26T01:30:00Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T01:40:47Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Looking to buy a sleep tracker in the Black Friday sales? I put 3 of our favorites in a direct head to head, but do I trust the Fitbit Air, Withings Sleep Mat or Hatch Sleep Clock with my sleep?"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Amazfit’s push into premium sports watches is proving costly",
