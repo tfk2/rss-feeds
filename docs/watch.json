@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Amazfit Bip Max smartwatch drops to a record low of $89.99",
+   "link": "https://www.androidauthority.com/amazfit-bip-max-deal-3739534/",
+   "published": "2026-11-26T17:27:54Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T17:30:56Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Save $10 on Amazfit's big-screen GPS smartwatch with a 2.07-inch AMOLED display and up to 20 days of battery life."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Samsung explores a Galaxy Watch with a second screen",
@@ -2296,19 +2309,6 @@
     "watches"
    ],
    "excerpt": "Garmin has introduced a new update for many of its latest high-end smartwatches. Available to download globally, the new update promises to introduce multiple display improvements to the Fenix 9 Pro and other associated smartwatches like the Enduro 4."
-  },
-  {
-   "source": "Garmin Rumors",
-   "source_home": "https://garminrumors.com/",
-   "title": "Garmin Releases Forerunner 70 Stable Version 19.24",
-   "link": "https://garminrumors.com/garmin-releases-forerunner-70-stable-version-19-24/",
-   "published": "2026-11-19T17:28:24Z",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-19T17:31:03Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin’s stable software update 19.24 is rolling out to the Forerunner 70. See the full changelog and how to update."
   }
  ]
 }
