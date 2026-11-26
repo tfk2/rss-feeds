@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Google wants your smartwatch to measure how each foot moves",
+   "link": "https://gadgetsandwearables.com/2026/11/26/google-walking-gait-metrics-patent/",
+   "published": "2026-11-26T16:41:47Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T16:50:42Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Your watch knows how many steps you’ve taken today, but what does it actually know about the way you walk? The post Google wants your smartwatch to measure how each foot moves appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Android Central",
    "source_home": "https://www.androidcentral.com/",
    "title": "The Fitbit Charge 6 is less than $125 this Black Friday, and it’s ideal if you’re serious about getting fit in the new year",
