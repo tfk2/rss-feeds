@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "New study finds daytime HRV tracking is still a challenge for Oura",
+   "link": "https://gadgetsandwearables.com/2026/11/26/oura-ring-4-daytime-hrv-accuracy-study/",
+   "published": "2026-11-26T11:00:31Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T11:20:45Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Oura is pretty good at tracking heart rate variability (HRV) while you’re asleep. But a new study suggests things get The post New study finds daytime HRV tracking is still a challenge for Oura appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Tom's Guide",
    "source_home": "https://www.tomsguide.com/",
    "title": "Amazon Black Friday LIVE latest updates on the lowest prices for iPads, Garmin smartwatches, Bose headphones, everyday essentials and more",
@@ -2282,32 +2295,6 @@
     "watches"
    ],
    "excerpt": "Garmin has started sending out a fresh, stable software update for its Forerunner 970 running watch. Owners of both models can now install version 19.23, which brings new lifestyle features, upgraded mapping and training tools, and several key stability fixes. New Features for Pet Owners, Walkers, and Cyclists The headline addition in this update is […] The post Garmin Rolls Out Major Update 19.23"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Releases Fresh Stable Update 19.23 for Venu X1: What’s New?",
-   "link": "https://www.garminnews.com/garmin-releases-fresh-stable-update-19-23-for-venu-x1-whats-new/",
-   "published": "2026-11-19T11:16:34Z",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-19T11:40:47Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has started sending out a fresh, stable software update for its Venu X1 smartwatch. Users can now install version 19.23, which introduces a range of lifestyle additions, upgraded navigation and workout tools, and several critical stability fixes. New Lifestyle and Training Features The standout addition in this release is built for dog owners. Venu […] The post Garmin Releases Fresh Stable "
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Drops Fresh Stable Update 19.23 for Venu 4 and Vivoactive 6: What’s New?",
-   "link": "https://www.garminnews.com/garmin-drops-fresh-stable-update-19-23-for-venu-4-and-vivoactive-6-whats-new/",
-   "published": "2026-11-19T11:13:10Z",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-19T11:40:47Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has started sending out a fresh, stable software update for two of its popular smartwatches. Owners of the Venu 4 and the Vivoactive 6 can now install version 19.23, which brings a mix of fun new features, smarter workout tools, and several important bug fixes. New Features for Pet Owners and Cyclists The headline […] The post Garmin Drops Fresh Stable Update 19.23 for Venu 4 and Vivoactive"
   }
  ]
 }
