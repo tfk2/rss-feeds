@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Android Authority",
+   "source_home": "https://www.androidauthority.com/",
+   "title": "Apple Watch Ultra 4 hits a record low with $149 off",
+   "link": "https://www.androidauthority.com/apple-watch-ultra-4-record-low-deal-3740499/",
+   "published": "2026-11-26T14:03:34Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T14:10:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Apple's rugged cellular smartwatch is 19% off this Black Friday season, with satellite SOS and up to 50 hours of battery."
+  },
+  {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "We've tested the best smartwatches, and these are the 3 I recommend for iPhone and Android",
+   "link": "https://www.tomsguide.com/wellness/smartwatches/the-best-smartwatches",
+   "published": "2026-11-26T14:00:46Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T14:10:44Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "These are the best smartwatches we've tested to monitor your health, extend your phone for messages, calls and notifications and track your fitness."
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "8 holiday gifts for people who already own a smartwatch",
