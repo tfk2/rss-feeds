@@ -1,6 +1,32 @@
 {
  "stories": [
   {
+   "source": "Tom's Guide",
+   "source_home": "https://www.tomsguide.com/",
+   "title": "Apple’s AirPods Pro 3 fall to their lowest price ever for Black Friday",
+   "link": "https://www.tomsguide.com/audio/airpods/apples-airpods-pro-3-fall-to-their-lowest-price-ever-for-black-friday",
+   "published": "2026-11-26T15:03:06Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T15:08:44Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "Stop scrolling! This Black Friday deal brings AirPods Pro 3 to their best price ever."
+  },
+  {
+   "source": "road.cc",
+   "source_home": "https://road.cc/",
+   "title": "The Wahoo ELEMNT BOLT 3 sets the GPS standard for road cyclists — and with the price slashed for Black Friday, now is the perfect time to upgrade your bike computer",
+   "link": "https://road.cc/feature/the-wahoo-elemnt-bolt-3-sets-the-gps-standard-for-road-cyclists-and-with-the-price-slashed-for-black-friday-now-is-the-perfect-time-to-upgrade-your-bike-computer",
+   "published": "2026-11-26T15:02:59Z",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26T15:08:44Z",
+   "topics": [
+    "cycling_computers"
+   ],
+   "excerpt": "For a limited time, Wahoo has slashed £50 off the RRP of its flagship bike computer for road racing and riding. Find out why this nifty little unit is the gold standard in combining compactness, aerodynamics, superior mapping and connectivity"
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Apple Watch Ultra 4 hits a record low with $149 off",
