@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Garmin Q4 update brings Locate to more watches",
+   "link": "https://gadgetsandwearables.com/2026/11/27/garmin-q4-2026-feature-update/",
+   "published": "2026-11-27T18:47:23Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T18:51:12Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Garmin’s final quarterly update of 2026 is rolling out, and there’s a bit more to it than giving your dog The post Garmin Q4 update brings Locate to more watches appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Garmin News",
    "source_home": "https://www.garminnews.com/",
    "title": "Garmin Rolls Out Q4 2026 Update With Dog Profiles, Cleaner Maps, Garmin Locate & More",
@@ -2254,19 +2268,6 @@
     "sports_software"
    ],
    "excerpt": "A Zwift December classic!"
-  },
-  {
-   "source": "Garmin News",
-   "source_home": "https://www.garminnews.com/",
-   "title": "Garmin Edge 1060 Receives Fresh Stable Update 8.24: What’s New?",
-   "link": "https://www.garminnews.com/garmin-edge-1060-receives-fresh-stable-update-8-24-whats-new/",
-   "published": "2026-11-20T18:45:26Z",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-20T19:31:03Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has wasted no time following up on its recent software release for cyclists. Only 3 days after pushing out stable build 8.23, the company is now distributing another official firmware update—version 8.24—for the Edge 1060 bike computer. New Map Capabilities and Bug Fixes While this rapid follow-up focuses mostly on behind-the-scenes improvements, it does […] The post Garmin Edge 1060 Receiv"
   }
  ]
 }
