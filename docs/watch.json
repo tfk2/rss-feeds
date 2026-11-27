@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+   "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
+   "published": "2026-11-27T13:30:00Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T13:30:59Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "If you’ve been curious about smart rings but have been put off by their high price tags, Black Friday is a good time to consider giving one a try. That’s because the Oura Ring 5, which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100 off) […]"
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "One UI 9 Watch: Neue Features landen plötzlich auf alten Galaxy-Uhren",
