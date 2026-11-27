@@ -43,8 +43,9 @@
  },
  "SammyGuru": {
   "ok": true,
-  "last_ok": "2026-11-27T16:00Z",
-  "error": "521 Server Error: <none> for url: https://sammyguru.com/feed/"
+  "items": 10,
+  "kept": 0,
+  "last_ok": "2026-11-27T16:00Z"
  },
  "Athletech News": {
   "ok": true,
