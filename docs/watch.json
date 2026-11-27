@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Cycling Weekly",
+   "source_home": "https://www.cyclingweekly.com/",
+   "title": "'The peloton got annoyed and bored with our supremacy' – how Rabobank became women's cycling's original super-team",
+   "link": "https://www.cyclingweekly.com/racing/the-peloton-got-annoyed-and-bored-with-our-supremacy-how-rabobank-became-womens-cyclings-original-super-team",
+   "published": "2026-11-27T14:40:14Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T14:50:42Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "As Rabobank returns to title sponsorship in the women's peloton, we open the time capsule on one of cycling's most dominant teams"
+  },
+  {
    "source": "WinFuture",
    "source_home": "https://winfuture.de/",
    "title": "RingConn Gen 3: Smart Ring erscheint als Herr-der-Ringe-Edition",
