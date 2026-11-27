@@ -6,6 +6,14 @@
 <atom:link rel="self" href="https://tfk2.github.io/rss-feeds/ccs-insight.xml" type="application/rss+xml"/>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 <item>
+<title>AWS Quick Makes Its Case in Workplace AI</title>
+<link>https://www.ccsinsight.com/blog/aws-quick-makes-its-case-in-workplace-ai/</link>
+<guid isPermaLink="true">https://www.ccsinsight.com/blog/aws-quick-makes-its-case-in-workplace-ai/</guid>
+<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/Workplace_AI_enterprise.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Does the market need yet another AI productivity product? That question came to mind at an analyst roundtable hosted by Amazon Web Services (AWS) in London on 20 October, attended ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Does the market need yet another AI productivity product? That question came to mind at an analyst roundtable hosted by Amazon Web Services (AWS) in London on 20 October, attended by FDM CCS Insight. The product in question, formerly Amazon Quick and renamed AWS Quick on 9 November, is described by AWS as “the AI workspace built only for work”. It marks a more deliberate move by AWS into enterprise productivity, workflow automation and agentic AI, and puts it up against established assistants such as Microsoft 365 Copilot, Salesforce Agentforce and Google Gemini Enterprise.&lt;/p&gt;</description>
+<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/Workplace_AI_enterprise.png" medium="image"/>
+<pubDate>Fri, 27 Nov 2026 12:34:31 +0000</pubDate>
+</item>
+<item>
 <title>Orange Puts Trust at the Centre of Its Annual Tech Showcase</title>
 <link>https://www.ccsinsight.com/blog/orange-puts-trust-at-the-centre-of-its-annual-tech-showcase/</link>
 <guid isPermaLink="true">https://www.ccsinsight.com/blog/orange-puts-trust-at-the-centre-of-its-annual-tech-showcase/</guid>
@@ -76,13 +84,5 @@
 <description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/UAE_Upper-6-GHz_spectrum.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;With rising mobile data traffic, the upper 6 GHz spectrum band is proving to be a valuable asset to meet users' expectations in markets where it has been deployed, such ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With rising mobile data traffic, the upper 6 GHz spectrum band is proving to be a valuable asset to meet users’ expectations in markets where it has been deployed, such as the United Arab Emirates (UAE). At a recent panel at the Telecom Review Leaders’ Summit, speakers from du and Etisalat UAE were joined by Ericsson, GSMA, Huawei, SPD and TDRA to mark the commercial launch of upper 6 GHz, highlighting the UAE’s progress in moving from spectrum planning to commercial deployment.&lt;/p&gt;</description>
 <media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/UAE_Upper-6-GHz_spectrum.png" medium="image"/>
 <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Collaboration, Customer Experience and Convergence Front of Mind at MVNO Nation Europe</title>
-<link>https://www.ccsinsight.com/blog/collaboration-customer-experience-and-convergence-front-of-mind-at-mvno-nation-europe/</link>
-<guid isPermaLink="true">https://www.ccsinsight.com/blog/collaboration-customer-experience-and-convergence-front-of-mind-at-mvno-nation-europe/</guid>
-<description>&lt;p&gt;&lt;img src="https://www.ccsinsight.com/wp-content/uploads/2026/11/MVNO_Nation_Europe.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;I really enjoyed taking part in the MVNO Nation Europe event in Alicante last week. The conference — held over three days — brought together more than 400 people to ...&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I really enjoyed taking part in the MVNO Nation Europe event in Alicante last week. The conference — held over three days — brought together more than 400 people to discuss opportunities for virtual providers and the companies that support them.&lt;/p&gt;</description>
-<media:content url="https://www.ccsinsight.com/wp-content/uploads/2026/11/MVNO_Nation_Europe.png" medium="image"/>
-<pubDate>Tue, 10 Nov 2026 14:45:33 +0000</pubDate>
 </item>
 </channel></rss>
