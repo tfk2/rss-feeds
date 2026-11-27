@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "Garmin News",
+   "source_home": "https://www.garminnews.com/",
+   "title": "Garmin Rolls Out Q4 2026 Update With Dog Profiles, Cleaner Maps, Garmin Locate & More",
+   "link": "https://www.garminnews.com/garmin-rolls-out-q4-2026-update-with-dog-profiles-cleaner-maps-garmin-locate-more/",
+   "published": "2026-11-27T17:25:35Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T18:10:43Z",
+   "topics": [
+    "watches"
+   ],
+   "excerpt": "Garmin’s Q4 (November) 2026 software package brings practical tools for pet owners, walkers, runners, and cyclists to its smartwatches and bike computers. Instead of focusing only on heavy performance numbers, this release adds everyday quality-of-life features like dog profiles, cleaner walk and run maps, and Garmin Locate. Many of these additions have already appeared in […] The post Garmin Roll"
+  },
+  {
    "source": "Notebookcheck",
    "source_home": "https://www.notebookcheck.net/",
    "title": "Garmin Fenix 9, Venu 4 and others get major Q4 update with 9 new features",
@@ -38,6 +51,19 @@
     "sports_earphones"
    ],
    "excerpt": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previously seen […]"
+  },
+  {
+   "source": "Zwift Insider",
+   "source_home": "https://zwiftinsider.com/",
+   "title": "Notable Zwift Events for the Weekend of November 28-29",
+   "link": "https://zwiftinsider.com/events-20261128/",
+   "published": "2026-11-27T15:00:00Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T18:10:43Z",
+   "topics": [
+    "sports_software"
+   ],
+   "excerpt": "Click to see our top event picks for this weekend on Zwift!"
   },
   {
    "source": "Cycling Weekly",
