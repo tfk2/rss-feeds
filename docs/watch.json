@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "You might lose your Oura health data if you’re still using an old Android phone",
+   "link": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+   "published": "2026-11-27T19:44:19Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27T19:50:45Z",
+   "topics": [
+    "other_wearables"
+   ],
+   "excerpt": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using […]"
+  },
+  {
    "source": "Gadgets & Wearables",
    "source_home": "https://gadgetsandwearables.com/",
    "title": "Garmin Q4 update brings Locate to more watches",
