@@ -1,6 +1,19 @@
 {
  "stories": [
   {
+   "source": "The Verge",
+   "source_home": "https://www.theverge.com/",
+   "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+   "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+   "published": "2026-11-27T15:15:28Z",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-23T15:01:08Z",
+   "topics": [
+    "sports_earphones"
+   ],
+   "excerpt": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previously seen […]"
+  },
+  {
    "source": "Cycling Weekly",
    "source_home": "https://www.cyclingweekly.com/",
    "title": "'The peloton got annoyed and bored with our supremacy' – how Rabobank became women's cycling's original super-team",
@@ -1508,19 +1521,6 @@
    "excerpt": "Acemate has added padel support to its S10 and S10 Pro robots, letting the same machine switch between tennis and The post Acemate tennis robots now work on padel courts too appeared first on Gadgets & Wearables ."
   },
   {
-   "source": "The Verge",
-   "source_home": "https://www.theverge.com/",
-   "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
-   "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-   "published": "2026-11-23T15:00:44Z",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-23T15:01:08Z",
-   "topics": [
-    "sports_earphones"
-   ],
-   "excerpt": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what […]"
-  },
-  {
    "source": "9to5Google",
    "source_home": "https://9to5google.com/",
    "title": "This Fitbit Air app buzzes your wrist with phone notifications, finds a lost tracker, more",
@@ -2267,19 +2267,6 @@
     "watches"
    ],
    "excerpt": "Garmin’s stable software update 8.24 is rolling out to the Edge 1060. See the full changelog and how to update."
-  },
-  {
-   "source": "Notebookcheck",
-   "source_home": "https://www.notebookcheck.net/",
-   "title": "Garmin releases major update for mid-range smartwatches with new features and improvements",
-   "link": "https://www.notebookcheck.net/Garmin-releases-major-update-for-mid-range-smartwatches-with-new-features-and-improvements.1455523.0.html",
-   "published": "2026-11-20T15:17:00Z",
-   "date": "2026-11-20",
-   "first_seen": "2026-11-20T15:31:12Z",
-   "topics": [
-    "watches"
-   ],
-   "excerpt": "Garmin has launched a major update for several of its mid-range smartwatches. A stable release, the update brings new features not just to the Instinct 3 but also to the Instinct Crossover AMOLED."
   }
  ]
 }
