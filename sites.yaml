@@ -52,6 +52,15 @@ sites:
     excerpt: p                                              # the teaser
     strip_query: true                                       # drop tracking codes from links
 
+  - slug: fitt-press-releases
+    title: Fitt Insider - Press Releases
+    url: https://insider.fitt.co/press-releases/
+    item: a.press-release-block                             # each row is one link
+    item_title: .press-release-name span                    # the headline
+    date: .data-holder.desktop                              # Nov 27, 2026
+    date_format: "%b %d, %Y"
+    strip_query: true
+
   # Example of a second site. Remove the # marks and edit to switch it on.
   # - slug: another-site
   #   title: Another Site - News
