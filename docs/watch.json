@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "source": "Gadgets & Wearables",
+   "source_home": "https://gadgetsandwearables.com/",
+   "title": "Amazfit adds live workout sharing in new smartwatch update",
+   "link": "https://gadgetsandwearables.com/2026/11/28/amazfit-liveshare-workout-firmware-update/",
+   "published": "2026-11-28T11:52:36Z",
+   "date": "2026-11-28",
+   "first_seen": "2026-11-28T12:01:09Z",
+   "topics": [
+    "watches",
+    "other_wearables"
+   ],
+   "excerpt": "Zepp Health is adding a way for friends and family to follow your workouts as they happen. Firmware 6.6.23.1 has The post Amazfit adds live workout sharing in new smartwatch update appeared first on Gadgets & Wearables ."
+  },
+  {
    "source": "Android Authority",
    "source_home": "https://www.androidauthority.com/",
    "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
@@ -2162,19 +2176,6 @@
     "watches"
    ],
    "excerpt": "Some Forerunner 970 owners say swipes register as taps, and Garmin is telling them to contact support."
-  },
-  {
-   "source": "TechRadar",
-   "source_home": "https://www.techradar.com/",
-   "title": "I tested 5 top-selling earbuds to find the best option this Black Friday, and there’s one clear winner",
-   "link": "https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-bose-qc-ultra-earbuds-gen-2-technics-eah-az100-nothing-ear-a-or-shokz-openfit-pro-ive-found-the-earbuds-you-should-buy-this-black-friday",
-   "published": "2026-11-21T12:00:00Z",
-   "date": "2026-11-21",
-   "first_seen": "2026-11-21T12:01:13Z",
-   "topics": [
-    "sports_earphones"
-   ],
-   "excerpt": "Apple AirPods 5 with Wireless Charging, Bose QC Ultra Earbuds (Gen 2), Technics EAH-AZ100, Nothing Ear (a) or Shokz OpenFit Pro: I work out which you should buy on Black Friday"
   }
  ]
 }
