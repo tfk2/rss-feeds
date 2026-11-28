@@ -13,8 +13,9 @@
  },
  "Garmin Rumors": {
   "ok": true,
-  "last_ok": "2026-11-28T14:00Z",
-  "error": "REST API: HTTPSConnectionPool(host='garminrumors.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts?per_page=30&_fields=date_gmt%2Clink%2Ctitle%2Cexcerpt (Caused by ConnectTimeoutErr"
+  "items": 30,
+  "kept": 11,
+  "last_ok": "2026-11-28T14:00Z"
  },
  "Gadgets & Wearables": {
   "ok": true,
@@ -157,7 +158,7 @@
  "9to5Google": {
   "ok": true,
   "items": 100,
-  "kept": 4,
+  "kept": 3,
   "last_ok": "2026-11-28T14:00Z"
  },
  "WinFuture": {
