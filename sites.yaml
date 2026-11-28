@@ -61,6 +61,15 @@ sites:
     date_format: "%b %d, %Y"
     strip_query: true
 
+  - slug: jason-kuperberg
+    title: Jason Kuperberg newsletter
+    url: https://newsletter.jasonkuperberg.com/archive   # beehiiv, no public RSS
+    item: a[href*="/p/"]                                  # each post card is one link
+    item_title: h3                                        # the headline
+    date: p                                               # first line of the card, Nov 19, 2026
+    date_format: "%b %d, %Y"
+    strip_query: true
+
   # Example of a second site. Remove the # marks and edit to switch it on.
   # - slug: another-site
   #   title: Another Site - News
