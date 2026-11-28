@@ -134,56 +134,6 @@
   "para": "Last year Roast My Strava won an award at Strava's developer conference. This year Strava invited me to speak on a panel. Here's how it went, plus this year's five winners.",
   "published": "2026-11-19T14:00:00.000Z"
  },
- "https://www.ccsinsight.com/blog/agents-everywhere-interview-with-qualcomms-ben-timmons/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Ben-Timmons.png",
-  "para": "At our Predictions for 2027 and Beyond event, I had the pleasure of speaking with Ben Timmons, Senior Director of Business Development at Qualcomm, about the rise of agentic AI and what it means for devices, networks and operators.",
-  "published": "2026-11-20T08:53:43+00:00"
- },
- "https://www.ccsinsight.com/blog/aws-quick-makes-its-case-in-workplace-ai/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Workplace_AI_enterprise.png",
-  "para": "Does the market need yet another AI productivity product? That question came to mind at an analyst roundtable hosted by Amazon Web Services (AWS) in London on 20 October, attended by FDM CCS Insight. The product in question, formerly Amazon Quick and renamed AWS Quick on 9 November, is described by AWS as “the AI workspace built only for work”. It marks a more deliberate move by AWS into enterprise productivity, workflow automation and agentic AI, and puts it up against established assistants such as Microsoft 365 Copilot, Salesforce Agentforce and Google Gemini Enterprise.",
-  "published": "2026-11-27T12:34:31+00:00"
- },
- "https://www.ccsinsight.com/blog/building-a-network-for-differentiation-interview-with-vodafonethrees-andrea-dona/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_VodafoneThree_Andrea-Dona.png",
-  "para": "At our recent Predictions for 2027 and Beyond event, I had the pleasure of interviewing Andrea Dona, Chief Network Officer at VodafoneThree.",
-  "published": "2026-11-19T08:58:00+00:00"
- },
- "https://www.ccsinsight.com/blog/digital-sovereignty-control-without-isolation/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Broadcom_digital-sovereignty.png",
-  "para": "Nearly every major cloud and infrastructure supplier now has a sovereignty proposition. Some reflect investment in local infrastructure and operating safeguards; others lean heavily on data location. For buyers, the hard part is distinguishing meaningful control from another appealing label.",
-  "published": "2026-11-18T11:28:00+00:00"
- },
- "https://www.ccsinsight.com/blog/evolving-6g-beyond-speed-interview-with-qualcomms-dr-durga-malladi/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Predictions_Qualcomm_Durga-Malladi.png",
-  "para": "For FDM CCS Insight’s Predictions for 2027 and Beyond event, I spoke with Dr Durga Malladi, Executive Vice President and General Manager of Technology Planning, Edge Solutions and Data Center at Qualcomm, about the arrival of 6G and how it’ll evolve. The timing was good because of clear industry momentum to move quickly: at MWC Barcelona in March 2026, 58 companies from across the industry committed to commercial 6G by 2029.",
-  "published": "2026-11-18T08:30:19+00:00"
- },
- "https://www.ccsinsight.com/blog/from-bill-payments-to-benefits-jazzcashs-path-to-becoming-pakistans-major-financial-services-platform/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Pakistan_mobile_services.png",
-  "para": "This month I’ve been travelling in Africa where I’ve seen the tremendous impact of mobile technologies and mobile financial services across the continent. While I was on holiday in Kenya, I saw M-PESA extremely widely adopted, including at almost every trader in Kibera, Africa’s largest informal settlement with a population of somewhere between 500,000 and 1.2 million people (estimates vary greatly). At the Africa Tech Festival in Cape Town, where I’ve also been, the energy was enormous with a vibrant start-up pavilion complementing the large brands.",
-  "published": "2026-11-27T17:20:04+00:00"
- },
- "https://www.ccsinsight.com/blog/green-design-should-be-the-foundation-for-future-mobile-networks/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Green_mobile_networks.png",
-  "para": "Energy efficiency is becoming even more important for mobile networks. Electricity costs are rising fast in most countries. To support increased data traffic, operators are using a greater number of spectrum bands, which often require different radios and antennas and threaten to raise energy usage.",
-  "published": "2026-11-23T15:20:09+00:00"
- },
- "https://www.ccsinsight.com/blog/lidl-and-revolut-stir-fierce-competition-in-ireland/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Lidl_Revolut_Ireland.jpg",
-  "para": "It’s been a busy few weeks in Ireland as the launch of low-cost offers from Lidl and Revolut has shaken up an already competitive mobile market.",
-  "published": "2026-11-19T11:15:50+00:00"
- },
- "https://www.ccsinsight.com/blog/orange-puts-trust-at-the-centre-of-its-annual-tech-showcase/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Orange_OpenTech_2026_edit2.png",
-  "para": "Last week, I attended Orange’s annual technology showcase, OpenTech, in Paris. The event brought together hundreds of customers, partners, developers and the media to see over 50 product demonstrations and hear from senior executives. It was the fourth edition of the company’s event, and you can read my previous reviews from 2023, 2024 and 2025.",
-  "published": "2026-11-24T14:11:31+00:00"
- },
- "https://www.ccsinsight.com/blog/technology-outages-have-we-learnt-the-lessons/": {
-  "image": "https://www.ccsinsight.com/wp-content/uploads/2026/11/Microsoft_tech_outage.png",
-  "para": "The technology industry has become reasonably good at investigating major failures and explaining what went wrong. But the question is whether those lessons consistently translate into better resilience across the organizations that depend on its systems.",
-  "published": "2026-11-17T16:06:35+00:00"
- },
  "https://www.wareable.com/android-wear/google-november-2026-pixel-watch-drop-new-features-compatibility": {
   "image": "https://media.wareable.com/images/featured-big/2026/10/google-pixel-watch-5-fitbit-today.jpg",
   "para": "The smartwatch portion of the release combines immediate health tools with a preview of several smart features scheduled to land on supported models over the coming weeks.",
